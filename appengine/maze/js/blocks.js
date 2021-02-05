@@ -190,3 +190,39 @@ Blockly.JavaScript['maze_forever'] = function(block) {
   }
   return 'while (notDone()) {\n' + branch + '}\n';
 };
+
+
+Blockly.Blocks['maze_left_parallel'] = {
+  /**
+   * Block controls actions with selected pegman with left input
+   * @this {Blockly.Block}
+   */
+  init: function() {
+    this.appendValueInput("parallel_person")
+        .setCheck(null)
+        .appendField("Parallel")
+        .appendField(new Blockly.FieldDropdown([["Person 1", "person_1"], ["Person 2", "person_2"], ["Person 3", "person_3"]]), "pegman");
+    this.appendStatementInput("parallel_action")
+        .setCheck(null);
+    this.setOutput(true, null);
+    this.setColour(160);
+  }
+};
+
+Blockly.Blocks['maze_top_bot_parallel'] = {
+  /**
+   * Block controls actions with selected pegman with top and bottom input
+   * @this {Blockly.Block}
+   */
+  init: function() {
+    this.appendValueInput("parallel_person")
+        .setCheck(null)
+        .appendField("Parallel")
+        .appendField(new Blockly.FieldDropdown([["Person 1", "person_1"], ["Person 2", "person_2"], ["Person 3", "person_3"]]), "pegman");
+    this.appendStatementInput("parallel_action")
+        .setCheck(null);
+    this.setPreviousStatement(true, null);
+    this.setNextStatement(true, null);
+    this.setColour(240);
+  }
+};

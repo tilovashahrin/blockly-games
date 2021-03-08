@@ -7,6 +7,12 @@
 /**
  * @fileoverview JavaScript for Maze game.
  * @author fraser@google.com (Neil Fraser)
+ * 
+ * TO DO LIST:
+ * - Update to allow new parallel blocks to be used in the program
+ * - Update the maze to support two pegman for two independent paths
+ * - Execute/Visualize Parallel code in maze
+ * - Integrate parallel level into existing maze game as new level 10
  */
 'use strict';
 
@@ -42,6 +48,7 @@ BlocklyInterface.nextLevel = function() {
   }
 };
 
+//TO DO: If needed, adjust to infinite for level 10
 Maze.MAX_BLOCKS = [undefined, // Level 0.
     Infinity, Infinity, 2, 5, 5, 5, 5, 10, 7, 10][BlocklyGames.LEVEL];
 
@@ -50,6 +57,7 @@ Maze.CRASH_STOP = 1;
 Maze.CRASH_SPIN = 2;
 Maze.CRASH_FALL = 3;
 
+//TO DO: Add second set of sprite, marker and tiles images for second pegman
 Maze.SKINS = [
   // sprite: A 1029x51 set of 21 avatar images.
   // tiles: A 250x200 set of 20 map images.
@@ -92,6 +100,7 @@ Maze.SKINS = [
     crashType: Maze.CRASH_FALL
   }
 ];
+//default skins
 Maze.SKIN_ID = BlocklyGames.getNumberParamFromUrl('skin', 0, Maze.SKINS.length);
 Maze.SKIN = Maze.SKINS[Maze.SKIN_ID];
 
@@ -105,11 +114,15 @@ Maze.stepSpeed;
  * as a 2D array of SquareType values.
  * @enum {number}
  */
+//TO DO: Add new square states for second pegman
 Maze.SquareType = {
   WALL: 0,
   OPEN: 1,
   START: 2,
-  FINISH: 3
+  FINISH: 3, 
+  OPEN_2: 4,
+  START_2: 5,
+  FINISH_2: 6
 };
 
 // The maze square constants defined above are inlined here
@@ -204,11 +217,12 @@ Maze.map = [
   [0, 1, 0, 1, 0, 2, 1, 0],
   [0, 0, 0, 0, 0, 0, 0, 0]],
 // Level 10.
+//TO DO: Redifine level 10 for parallel
  [[0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 1, 1, 0, 3, 0, 1, 0],
-  [0, 1, 1, 0, 1, 1, 1, 0],
-  [0, 1, 0, 1, 0, 1, 0, 0],
-  [0, 1, 1, 1, 1, 1, 1, 0],
+  [0, 4, 6, 0, 3, 0, 1, 0],
+  [0, 4, 0, 0, 1, 1, 1, 0],
+  [0, 4, 0, 1, 0, 1, 0, 0],
+  [0, 5, 0, 1, 1, 1, 1, 0],
   [0, 0, 0, 1, 0, 0, 1, 0],
   [0, 2, 1, 1, 1, 0, 1, 0],
   [0, 0, 0, 0, 0, 0, 0, 0]]
@@ -271,6 +285,7 @@ Maze.pidList = [];
 // Map each possible shape to a sprite.
 // Input: Binary string representing Centre/North/West/South/East squares.
 // Output: [x, y] coordinates of each tile's sprite in tiles.png.
+//TO DO: Need to use same coordinates with tiles_pegman2.png
 Maze.tile_SHAPES = {
   '10010': [4, 0],  // Dead ends
   '10001': [3, 3],
@@ -332,9 +347,11 @@ Maze.drawMap = function() {
     }
     return (Maze.map[y][x] == Maze.SquareType.WALL) ? '0' : '1';
   };
-
+  //TO DO: Add normalize pegman function to return 0 if no pegman path, 1 for path (for pegman 1), and 2 (path for pegman 2)
+  //add function here
   // Compute and draw the tile for each square.
   var tileId = 0;
+  
   for (var y = 0; y < Maze.ROWS; y++) {
     for (var x = 0; x < Maze.COLS; x++) {
       // Compute the tile shape.
@@ -374,6 +391,7 @@ Maze.drawMap = function() {
           'x': (x - left) * Maze.SQUARE_SIZE,
           'y': (y - top) * Maze.SQUARE_SIZE
         }, svg);
+        //TO DO: Call normalize pegman function. If peg1 use tiles_pegman.png, if peg2 use new tiles. 
       tile.setAttributeNS(Blockly.utils.dom.XLINK_NS, 'xlink:href',
           Maze.SKIN.tiles);
       tileId++;
@@ -386,6 +404,8 @@ Maze.drawMap = function() {
       'height': 34,
       'width': 20
     }, svg);
+    //TO DO: Call normalize pegman function, to use either peg1 skin or peg2 skin for the finish marker. 
+    //endpoint for meeting march 8th
   finishMarker.setAttributeNS(Blockly.utils.dom.XLINK_NS, 'xlink:href',
       Maze.SKIN.marker);
 
@@ -400,6 +420,7 @@ Maze.drawMap = function() {
     }, pegmanClip);
 
   // Add Pegman.
+  //TO DO: call normalize function to deicide which pegman icon to use
   var pegmanIcon = Blockly.utils.dom.createSvgElement('image', {
       'id': 'pegman',
       'height': Maze.PEGMAN_HEIGHT,
@@ -478,7 +499,7 @@ Maze.init = function() {
   BlocklyInterface.workspace.getAudioManager().load(Maze.SKIN.winSound, 'win');
   BlocklyInterface.workspace.getAudioManager().load(Maze.SKIN.crashSound, 'fail');
   // Not really needed, there are no user-defined functions or variables.
-  Blockly.JavaScript.addReservedWords('moveForward,moveBackward,' +
+  Blockly.JavaScript.addReservedWords('moveForward,moveBackward,maze_left_parallel' +
       'turnRight,turnLeft,isPathForward,isPathRight,isPathBackward,isPathLeft');
 
   Maze.drawMap();
@@ -486,7 +507,9 @@ Maze.init = function() {
   var defaultXml =
       '<xml>' +
         '<block movable="' + (BlocklyGames.LEVEL != 1) + '" ' +
-        'type="maze_moveForward" x="70" y="70"></block>' +
+        'type="maze_moveForward" x="70" y="70">' +
+        'type="maze_left_parallel" x="70" y="70">' +
+        '</block>' +
       '</xml>';
   BlocklyInterface.loadBlocks(defaultXml, false);
 
@@ -519,6 +542,21 @@ Maze.init = function() {
                                           BlocklyGames.LEVEL)) {
       // Level 10 gets an introductory modal dialog.
       // Skip the dialog if the user has already won.
+      var content = document.getElementById('dialogHelpWallFollow');
+      var style = {
+        'width': '30%',
+        'left': '35%',
+        'top': '12em'
+      };
+      BlocklyDialogs.showDialog(content, null, false, true, style,
+          BlocklyDialogs.stopDialogKeyDown);
+      BlocklyDialogs.startDialogKeyDown();
+      setTimeout(BlocklyDialogs.abortOffer, 5 * 60 * 1000);
+    }
+  } 
+  if (BlocklyGames.LEVEL == 11) {
+    if (!BlocklyGames.loadFromLocalStorage(BlocklyGames.NAME,
+                                          BlocklyGames.LEVEL)) {
       var content = document.getElementById('dialogHelpWallFollow');
       var style = {
         'width': '30%',
@@ -592,6 +630,11 @@ Maze.levelHelp = function(opt_event) {
               '<block type="maze_moveForward" x="10" y="10">',
                 '<next>',
                   '<block type="maze_moveForward"></block>',
+                '</next>',
+              '</block>',
+              '<block type="maze_left_parallel" x ="10" y ="10">',
+                '<next>',
+                  '<block type="maze_left_parallel"></block>',
                 '</next>',
               '</block>',
             '</xml>'];

@@ -214,6 +214,17 @@
         {call BlocklyGames.soy.ok /}
       </td></tr></table>
     </div>
+    {elseif $ij.level == 11}
+    <div id="dialogHelpWallFollow" class="dialogHiddenContent">
+      <table><tr><td>
+        <img src="common/help.png">
+      </td><td>&nbsp;</td><td>
+        {msg meaning="Maze.helpWallFollow" desc="callout - This advises the user to solve a maze by keeping his/her left hand in contact with the wall while proceeding through it.  The final sentence is a warning that only advanced programmers should attempt this problem, as beginners tend to get frustrated."}
+          Can you solve this complicated maze? Try following the left-hand wall. Advanced programmers only!
+        {/msg}
+        {call BlocklyGames.soy.ok /}
+      </td></tr></table>
+    </div>
   {/if}
 {/template}
 
@@ -225,6 +236,8 @@
     <block type="maze_moveForward"></block>
     <block type="maze_turn"><field name="DIR">turnLeft</field></block>
     <block type="maze_turn"><field name="DIR">turnRight</field></block>
+    <block type="maze_left_parallel"><field name="parallel_person">person_1</field></block>
+    <block type="maze_top_bot_parallel"><field name="parallel_person">person_1</field></block>
     {if $ij.level > 2}
       <block type="maze_forever"></block>
       {if $ij.level == 6}

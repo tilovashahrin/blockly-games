@@ -1,7 +1,9 @@
+/* displays toolbox */
 #blockly {
   position: fixed;
   bottom: 10px;
 }
+
 #visualization {
   position: relative;
 }
@@ -12,10 +14,12 @@
   top: 375px;
   width: 380px;
 }
+
 html[dir="RTL"] #capacityBubble {
   left: auto;
   right: 10px;
 }
+
 #capacity {
   display: none;
   color: #fff;
@@ -24,13 +28,16 @@ html[dir="RTL"] #capacityBubble {
   background-color: rgba(64,64,64,.7);
   font-size: large;
 }
+
 .capacityNumber {
   font-weight: bold;
 }
+
 #sampleOneTopBlock {
   height: 80px;
   width: 250px;
 }
+
 #pegSpin {
   height: 50px;
   width: 49px;
@@ -38,6 +45,7 @@ html[dir="RTL"] #capacityBubble {
   margin-top: 10px;
   position: absolute;
 }
+
 html[dir="RTL"] #pegSpin {
   background-position: -441px 0;
 }
@@ -82,6 +90,7 @@ html[dir="RTL"] button.primary {
   text-align: right;
 }
 
+/* option to choose different pegman characters */
 #pegmanButton {
   padding: 0;
   position: relative;

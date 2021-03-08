@@ -198,16 +198,26 @@ Blockly.Blocks['maze_left_parallel'] = {
    * @this {Blockly.Block}
    */
   init: function() {
-    this.appendValueInput("parallel_person")
+    this.setColour(Maze.Blocks.LOOPS_HUE);
+    this.appendValueInput("pegman_person")
         .setCheck(null)
-        .appendField("Parallel")
-        .appendField(new Blockly.FieldDropdown([["Person 1", "person_1"], ["Person 2", "person_2"], ["Person 3", "person_3"]]), "pegman");
-    this.appendStatementInput("parallel_action")
+        .appendField(new Blockly.FieldDropdown([["Person 1","person_1"], ["Person 2","person_2"], ["Person 3","person_3"]]), "parallel_person");
+    this.appendStatementInput("parallel_actions")
         .setCheck(null);
     this.setOutput(true, null);
-    this.setColour(160);
   }
 };
+
+Blockly.JavaScript['maze_left_parallel'] = function(block) {
+  var dropdown_parallel_person = block.getFieldValue('parallel_person');
+  var value_pegman_person = Blockly.JavaScript.valueToCode(block, 'pegman_person', Blockly.JavaScript.ORDER_ATOMIC);
+  var statements_parallel_actions = Blockly.JavaScript.statementToCode(block, 'parallel_actions');
+  // TODO: Assemble JavaScript into code variable.
+  var code = '...';
+  // TODO: Change ORDER_NONE to the correct strength.
+  return code;
+};
+
 
 Blockly.Blocks['maze_top_bot_parallel'] = {
   /**
@@ -217,12 +227,20 @@ Blockly.Blocks['maze_top_bot_parallel'] = {
   init: function() {
     this.appendValueInput("parallel_person")
         .setCheck(null)
-        .appendField("Parallel")
         .appendField(new Blockly.FieldDropdown([["Person 1", "person_1"], ["Person 2", "person_2"], ["Person 3", "person_3"]]), "pegman");
     this.appendStatementInput("parallel_action")
         .setCheck(null);
     this.setPreviousStatement(true, null);
     this.setNextStatement(true, null);
-    this.setColour(240);
+    this.setColour(Maze.Blocks.LOOPS_HUE);
   }
+};
+
+Blockly.JavaScript['maze_top_bot_parallel'] = function(block) {
+  var dropdown_pegman = block.getFieldValue('pegman');
+  var value_parallel_person = Blockly.JavaScript.valueToCode(block, 'parallel_person', Blockly.JavaScript.ORDER_ATOMIC);
+  var statements_parallel_action = Blockly.JavaScript.statementToCode(block, 'parallel_action');
+  // TODO: Assemble JavaScript into code variable.
+  var code = '...;\n';
+  return code;
 };

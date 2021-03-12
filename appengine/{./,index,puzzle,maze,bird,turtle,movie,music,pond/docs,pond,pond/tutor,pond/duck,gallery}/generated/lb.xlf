@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="lb">
+    <body>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>Lëscht</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Pelz</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>maachen</target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>no lenks dréinen ëm</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Zrécksetzen</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>Radius</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Wëllt Dir vu vir ufänken?</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Zil</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>Text</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>All Är Léisunge läschen?</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Fir all Déier (gréng), setzt säi Bild derbäi, sicht seng Zuel vu Been eraus a maacht e Koup mat sengen Eegenschaften.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Titel:</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Hëllef</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Logik</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Genetik</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Vull</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Pedagogesch Informatiounen...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Variabelen</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Programm ausféieren</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>Breet</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 Bléck si falsch.</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labyrinth</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>d'Faarf änneren op</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>soss</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Setzt de Spiller ee Feld no vir.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Leider entsprécht '%1' kengem vun de gespäicherte Programmer.</target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Galerie kucken</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Et gouf e Problem mat der Ufro.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>Rechteck</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Äntwerten nokucken</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>drécken</target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>De Programm stoppen an den Niveau zrécksetzen.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Faarf</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Späicheren a mat de Bléck verlinken.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>eraussichen...</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>virugoen</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Funktiounen</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>Schrëftaart</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>De Programm starten deen Dir geschriwwen hutt.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>Krees</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Bléck</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Deckelsmouk</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Ophale mat Schwammen. De Spiller gëtt méi lues \nbis e stoppt. </target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>No vir schwammen. Gitt eng Richtung un (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Sidd Dir prett fir déi nächst Erausfuerderung?</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Sidd Dir prett fir den Niveau %1?</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>Iwwerschrëft</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Äre gespäicherte Fichier konnt net geluede ginn. Vläicht hutt Dir e mat enger anerer Versioun vu Blockly gemaach?</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Ofbriechen</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Dir hutt nach %1 Block.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Dir hutt nach %0 Bléck.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Dir hutt nach %2 Bléck.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>Héicht</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Film</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>no riets ofbéien</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Spiller</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Ännert d'Faarf vum Stëft.</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Hunneg</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Galerie kucken</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>no lénks ofbéien</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Schleek</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Bal! Just ee Block ass net richteg.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>Bild:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Text</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Int</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Kaz</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Bei</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normal</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>De markéierte Block ass net richteg.
+Probéiert nach eng Kéier.</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Perfekt!
+All %1 Bléck si korrekt.</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Lëschten</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Puzzle</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>Been:</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Gratulatioun!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blockly-Spiller</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Galerie</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>fett</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>widderhuele bis</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Schleefen</target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>Linn</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>Deckelsmouk verstoppen</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Dokumentatioun</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>Deckelsmouk weisen</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>Kursiv</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Start Äre Programm fir ze kucke wat geschitt.</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>huet kee Wuerm</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Mathematik</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

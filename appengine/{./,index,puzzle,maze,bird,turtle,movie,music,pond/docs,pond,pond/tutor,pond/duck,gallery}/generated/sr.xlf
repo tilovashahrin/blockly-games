@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="sr">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Слуз</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>ако постоји пут напред</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>списак</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>спусти оловку</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Бркови</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Крзно</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Црта правоугаоник на том месту и са датом ширине \nи висине. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Рибњак</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Компонујте прве четири ноте мелодије „Фратар Жак”.</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Шкољка</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>да се креће назад</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Ево новог блока који ти омогућава да промениш боју:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Нацртај жуту звезду.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Овај ниво потреба као 'else if' и 'else' блок.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>'ако' блок ће урадити нешто једино ако је услов испуњен. Покушај окрет у лево ако постоји пут са леве стране.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>хор</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>изврши</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Сте користили све блокове на овом нивоу. Да направите нови блок, потребно је да прво уклоните постојећи блок.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Окреће играча улево или удесно за 90 степени.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Кликните на икону да промените блок 'if'.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Клатно</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>величина фонта</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Поново постави</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Одређује шта ће играч урадити на основу блокова.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>У 'И' блока је Истина, само ако су оба скупа улазних података истините.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Једна нота (Це4 је 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>виолина</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>скрени десно</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Направите да ноге обрну смер на пола пута кроз филм.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Желите да почнете испочетка?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Превуците 'else' јединицу 'if' блок.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>Y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>текст</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Уклањате сва ваша решења?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Компонујте све шта желите. Имате велик број нових блокова које можете да истражите. Забавите се!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>гитара</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>За сваку животињу (зелено), приложи њену слику, изабери њен број ногу, и наслажи њене особине.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>особине:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Чека одређено време.</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Користите команду 'cannon' да бисте погодили мету. Први параметар је угао, други параметар је домет. Откријте праву комбинацију.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Пошаљите свој цртеж у галерију.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>’Функција’ вам омогућава да групишете блокове, а потом их покренете више пута.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Ова мета мора да се погоди више пута. Користите петљу 'while (true)' да бисте нешто радили бесконачно.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Овај противник је такође предалеко да би се користио топ. Али Ви сте преслаби да преживите судар. Пливајте према противнику док Вам је хоризонтална локација мања од 50. Потом користите 'stop' и употребите топ.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Испаљивање из топа. Одређивање смера (0-360) и \nдомета (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Помоћ</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Овај противник ће се удаљити када је погођен. Пливајте према њему ако је ван домета (70 метара).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Логика</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Генетика</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Враћа играчево тренутно здравље (0 је мртав, \n100 је здрав). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Птица</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Информације за едукаторе...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Променљиве</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Покрени програм</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Савршено!
+Свих %1 блокова је исправно постављено.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Нацртај три жуте звезде, и једну белу линију.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 блокова је неисправно постављено.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Исцртава текст у правцу корњаче на њеном месту.</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Лавиринт</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Пошаљи у галерију</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>подесите боју за</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Ваша решења раде, али можете и боље. Користите 'scan' да бисте видели колико далеко пуцати из топа.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Враћа X координату играча (0 је лева ивица, \n100 је десна ивица). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Враћа тренутно време у филму (0–100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>клавир</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>иначе</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Домет је тачно оно што команда 'cannon' треба да би се пуцало прецизно.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Противник се креће напред и назад, због чега га је тешко погодити. Израз 'scan' враћа тачан домет до противника у одређеном смеру.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Помера играча напред за једно место.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Овај нови блок додаје тихо кашњење.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Нажалост, „%1” не одговара ниједном сачуваном програму.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Престанак пливања. Играч ће успоравати док се не \nзаустави. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Чини корњачу (круг и стрелица) видљивом или \nневидљивом. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Погледај Галерију</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Дошло је до проблема са захтевом.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Покрените програм док се не заустави. Потом можете послати вашу музику у галерију.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>правоугаоник</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Ако постоји пут у датом правцу, \nонда изврши први блок радњи. У \nсупротном, изврши други. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Пошаљите своју музику у галерију.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Провери одговоре</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Нацртајте круг који се шири иза особе.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>напиши</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Музика</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Претрага непријатеља. Одређивање смера (0-360). \nВраћање удаљености најближе мете у том смеру. \nВраћање бесконачности ако ниједна мета није \nпронађена. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Сваки почетни блок би требало да свира мелодију „Фратар Жак” два пута.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Направите четири почетна блока где сваки свира мелодију „Фратар Жак” два пута. Додајте тачан број блокова кашњења.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Ако постоји пут у датом правцу, \nонда изврши неке радње. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Направите трећу функцију за следећи део мелодије „Фратар Жак”. Прве четири ноте су краће.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Завршите читаву мелодију „Фратар Жак”.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>флаута</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Враћа Y координату играча (0 је доња ивица, \n100 је горња ивица). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Понавља задате радње док не дође до краја.</target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Зауставите програм и ресетујте ниво.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Направите другу функцију за следећи део мелодије „Фратар Жак”. Последња нота је дужа.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Стање у ком птица није добила црва.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Пратите програм до краjа. Онда можете да пошаљете свој цртеж у галерији.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Достигни циљ употребом само пет блокова.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Боја</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Блокови „ако-иначе“ извршиће или једно или друго.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Користите дугме ’Види галерију’ да бисте видели шта су други компоновали. Ако компонујете нешто интересантно, користите дугме ’Пошаљи у галерију’ да то објавите.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Користите шта сте научили на претходном нивоу да бисте направили ноге које прелазе.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Делите своје блокове овом везом:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Ваше решење ради, али можете боље. Користите функције да бисте смањили количину поновљеног кода.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Сачувајте и повежите са блоковима.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Дођите до краја пута употребивши само два блока. Користите „понови“ да бисте извршили блок више пута.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>сакриј корњачу</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>У овом нивоу треба да наређате све блокове у бели радни простор.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>иди напред</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Овај ниво је веома тежак. Желите ли да га прескочите и идите на следећу игру? Увек можете да се вратите назад касније.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Корисник</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Користите једноставне облике да бисте нацртали ову особу.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>Извршава унутрашње блокове када се кликне на \nдугме ’Покрени програм’. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Нацртај звезду само са четири блока.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Нацртај овај облик само са три блока.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>скрените десно на</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Кљун</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Перје</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>крај y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Изаберите Свој омиљени играч из овог менија.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Нацртај малу жуту звезду, потом нацртај линију изнад ње.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Помери круг на врх свог програма. Потом ће се појавити иза особе.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Функције</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>када је %1 кликнут</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Вратите играча на почетак лавиринта.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Цртање линије од једне тачке до друге са \nодређеном ширином. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>линија</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Користите дугме „Прикажи галерију” да бисте погледали филмове које су други направили. Ако направите интересантан филм, користите дугме „Пошаљи у галерију” да бисте га објавили.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Црта круг у том месту и са одређеном радијусу.</target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Дајте особи пар руку.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>ширина</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>фонт</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Враћа тренутну брзину играча (0 је заустављен, \n100 је максимална брзина). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>скрените лево на</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Покрените програм који сте написали.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Обриши податке</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>бубањ</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Отворите галерију цртежа.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>круг</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Направите филм за шта год желите. Имате огроман број нових блокова које можете да истражујете. Забавите се!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Ваш филм није покретан. Користите блокове да направите нешто занимљиво. Потом можете свој филм објавити у галерији.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Блокови</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Корњача се окреће лево или десно на одређено \nброја степени. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>У реду</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Корњача</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Помера черепашку напред или назад на поменути број.</target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Користите овај блок у једној категорији, ако имате црв, или друге Наслов, ако немате црва.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Решили сте овај ниво једним редом JavaScript-а:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Решили сте овај ниво са %1 реда JavaScript-а:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Подиже или изоставља оловку, да се заустави или \nпочне да се скрене. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Приказује језик документације. </target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Пошаљите свој филм у галерију. </target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Пливање напред. Одређивање смера (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Јесте ли спремни за следећи изазов?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Овај ниво је филм. Желите да се рука особе помера преко екрана. Притисните дугме за репродукцију да бисте видели преглед.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Ево новог блока који ти омогућава да подигнеш оловку са папира кад се крећеш:</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Овај противник је предалеко да би се користио топ (који има домет од 70 метара). Уместо тога, користите команду 'swim' да бисте почели пливати према противнику и забили се у њега.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Наслов:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>крај x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Како се филм репродуктује, вредност блока „time” броји од 0 до 100. Пошто желите да позиција „y” руке почне на 0 и иде до 100, ово треба да буде лако.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Јесте ли спремни за ниво %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Користите дугме "Погледај Галерију" да бисте видели шта су други нацртали. Ако сте нацртали нешто занимљиво, користите дугме "Постави у Галерију" да бисте то објавили.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Откажи</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Није могуће учитати вашу сачувану датотеку. Можда је направљена другом верзијом Блоклија.</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>целих %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>правац</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Преостао ти је %1 блок.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Преостало ти је %0 блокова.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Преостало ти је %2 блокова.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Игре за будуће програмере.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>висина</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>ако постоји пут десно</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>ако постоји пут лево</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Одаберите категорију да бидите блокове.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Играч</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Мења боју оловке.</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Направите функцију да бисте покренули прве четири ноте мелодије „Фратар Жак”. Покрените ту функцију два пута. Немојте додавати нове нотне блокове.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>подесите ширину на</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://sr.wikipedia.org/wiki/Штампарство</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Мед</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Свирајте вашу мелодију виолином.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Овај нови блок вам омогућава да пређете на други инструмент.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Жаока</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Можеш ли да решиш овај сложени лавиринт? Покшај да се крећеш уз леви зид.</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>X</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>дигни оловку</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Прикажи галерију</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>окрени се лево</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>полупречник</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>иди напред</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Промените категорију под таквим углом да птица је била на црва и земљу у своје гнездо.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Отворите галерију музике.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Пуж</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Замало! Један блок је неисправно постављен.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>слика:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Текст</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Патка</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Мачка</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Пчела</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>нормалан</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>труба</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://sr.wikipedia.org/wiki/Мачка</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Уплашени</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Прикажи галерију</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>репродукуј %1 ноту %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Означени блок није исправан.
+Настави да покушаваш.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>почетак x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Наређајте два блока „иди напред“ да бисте ми помогли да дођем до циља.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Пошаљи у галерију</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Кликните на %1 'ако' блок, да промени свој статус.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://sr.wikipedia.org/wiki/Пуж</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Спискови</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Слагалица</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>постави инструмент на %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>Музика ће звучати боље ако користите други инструмент у сваком почетном блоку.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'X' - то је ваш тренутни водоравни положај. Користите овај блок у једној категорији, ако је 'X'  је мањи од броја, или други Наслов у супротном.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>ноге:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://sr.wikipedia.org/wiki/Пчела</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Отворите галерију филмова.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Честитамо!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Блокли игре</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Галерија</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Мења боју оловке.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>подебљани</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Цртај шта желиш. Имаш огроман број нових блокова које можеш да истражујеш. Забављај се!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>понављај до</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Петље</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Постави у Галерију</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Хвала вам на овом програму! Ако се нашем особљу обучених мајмуна допадне, објавиће га у галерији у року од неколико дана.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>Математичка формула за руку је компликована. Ево одговора:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Једном када почнете са уређивањем JavaScript-а, не можете се вратити на уређивање блокова. Да ли је то у реду?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Користите блок „if” да бисте нацртали малу главу за прву половину филма. Онда нацртајте велику главу за другу половину филма.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>одаберите…</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>почетак y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Блок „time” броји од 0 до 100. Али сада желите да позиција „y” друге руке почне на 100 и иде до 0. Можете ли схватити једноставну математичку формулу која обрће смер?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Водич за Рибњак</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>Цртање 360 белих линија изгледаће као пун месец.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Програм није решио лавиринт. Кликните на „Поново“ да бисте поново покушали.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>први део</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Документација</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>прикажи корњачу</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Крећу у правцу којим углом: 0 је на десној \nстрани, 90 је усправно, итд </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>банџо</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>искошени</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Покрените програм и видите шта се дешава.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Поставља фонт који користи блок за писање.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>промени боју у</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Филм</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>X и Y марка птица позиције. Када је X = 0 птица \nје од леве ивице, ако је X = 100 је у близини \nдесне ивице. Када је Y = 0 ова птица је на дну, \nкада је Y = 100 је на самом врху. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Свира једну ноту специфичне дужине и висине.</target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Твоје решење ради, али ти то можеш још боље.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Направи програм који црта квадрат.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Промени твој програм тако да црта петоугао уместо квадрата.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Уместо једне звезде, можеш ли нацртати четири звезде распоређене у углове квадрата?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>нема црва</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Нацртај звезде, потом нацртај четири беле линије.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://sr.wikipedia.org/sr-ec/Patka</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Можеш ли додати црни круг тако да ти месец постане млади месец?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Changes the width of the pen.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>Пребацује се на специфични инструмент када се \nсвирају наредне ноте. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Математика</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Чека целу ноту.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

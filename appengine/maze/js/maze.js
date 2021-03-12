@@ -50,7 +50,7 @@ BlocklyInterface.nextLevel = function() {
 
 //TO DO: If needed, adjust to infinite for level 10
 Maze.MAX_BLOCKS = [undefined, // Level 0.
-    Infinity, Infinity, 2, 5, 5, 5, 5, 10, 7, 10][BlocklyGames.LEVEL];
+    Infinity, Infinity, 2, 5, 5, 5, 5, 10, 7, Infinity][BlocklyGames.LEVEL];
 
 // Crash type constants.
 Maze.CRASH_STOP = 1;
@@ -71,6 +71,9 @@ Maze.SKINS = [
     sprite: 'maze/pegman.png',
     tiles: 'maze/tiles_pegman.png',
     marker: 'maze/marker.png',
+    sprite2: 'maze/pegman2.png',
+    tiles2: 'maze/tiles_pegman2.png',
+    marker2: 'maze/marker2.png',
     background: false,
     look: '#000',
     winSound: ['maze/win.mp3', 'maze/win.ogg'],
@@ -81,6 +84,9 @@ Maze.SKINS = [
     sprite: 'maze/astro.png',
     tiles: 'maze/tiles_astro.png',
     marker: 'maze/marker.png',
+    sprite2: 'maze/pegman2.png',
+    tiles2: 'maze/tiles_pegman2.png',
+    marker2: 'maze/marker2.png',
     background: 'maze/bg_astro.jpg',
     // Coma star cluster, photo by George Hatfield, used with permission.
     look: '#fff',
@@ -92,6 +98,9 @@ Maze.SKINS = [
     sprite: 'maze/panda.png',
     tiles: 'maze/tiles_panda.png',
     marker: 'maze/marker.png',
+    sprite2: 'maze/pegman2.png',
+    tiles2: 'maze/tiles_pegman2.png',
+    marker2: 'maze/marker2.png',
     background: 'maze/bg_panda.jpg',
     // Spring canopy, photo by Rupert Fleetingly, CC licensed for reuse.
     look: '#000',
@@ -135,7 +144,7 @@ Maze.map = [
   [0, 0, 0, 0, 0, 0, 0],
   [0, 0, 0, 0, 0, 0, 0],
   [0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 2, 1, 3, 0, 0],
+  [0, 0, 2, 1, 1, 3, 0],
   [0, 0, 0, 0, 0, 0, 0],
   [0, 0, 0, 0, 0, 0, 0]],
 // Level 2.
@@ -220,9 +229,9 @@ Maze.map = [
 //TO DO: Redifine level 10 for parallel
  [[0, 0, 0, 0, 0, 0, 0, 0],
   [0, 4, 6, 0, 3, 0, 1, 0],
-  [0, 4, 0, 0, 1, 1, 1, 0],
+  [0, 4, 0, 1, 1, 1, 1, 0],
   [0, 4, 0, 1, 0, 1, 0, 0],
-  [0, 5, 0, 1, 1, 1, 1, 0],
+  [5, 4, 0, 1, 1, 1, 1, 0],
   [0, 0, 0, 1, 0, 0, 1, 0],
   [0, 2, 1, 1, 1, 0, 1, 0],
   [0, 0, 0, 0, 0, 0, 0, 0]]
@@ -285,6 +294,8 @@ Maze.pidList = [];
 // Map each possible shape to a sprite.
 // Input: Binary string representing Centre/North/West/South/East squares.
 // Output: [x, y] coordinates of each tile's sprite in tiles.png.
+
+
 //TO DO: Need to use same coordinates with tiles_pegman2.png
 Maze.tile_SHAPES = {
   '10010': [4, 0],  // Dead ends
@@ -349,6 +360,24 @@ Maze.drawMap = function() {
   };
   //TO DO: Add normalize pegman function to return 0 if no pegman path, 1 for path (for pegman 1), and 2 (path for pegman 2)
   //add function here
+  var normalize_pegman = function(x, y){
+    //returns 0 if out of bounds
+    if (x < 0 || x >= Maze.COLS || y < 0 || y >= Maze.ROWS) {
+      return '0';
+    }
+    //return 0 if WALL
+    if(Maze.map[y][x] == Maze.SquareType.WALL){
+      return '0';
+    }
+    //if pegman 1 return 1
+    if(Maze.map[y][x] == Maze.SquareType.START || Maze.map[y][x] == Maze.SquareType.FINISH || Maze.map[y][x] == Maze.SquareType.OPEN){
+      return '1';
+    }
+    //if pegman 2 return 2
+    if(Maze.map[y][x] == Maze.SquareType.START_2 || Maze.map[y][x] == Maze.SquareType.FINISH_2 || Maze.map[y][x] == Maze.SquareType.OPEN_2){
+      return '2';
+    }
+  }
   // Compute and draw the tile for each square.
   var tileId = 0;
   
@@ -360,6 +389,10 @@ Maze.drawMap = function() {
           normalize(x + 1, y) +  // West.
           normalize(x, y + 1) +  // South.
           normalize(x - 1, y);   // East.
+
+
+          //TO DO: Call normalize pegman function. If peg1 use tiles_pegman.png, if peg2 use new tiles. 
+      var tile_pegman = normalize_pegman(x, y);
 
       // Draw the tile.
       if (!Maze.tile_SHAPES[tileShape]) {
@@ -392,8 +425,13 @@ Maze.drawMap = function() {
           'y': (y - top) * Maze.SQUARE_SIZE
         }, svg);
         //TO DO: Call normalize pegman function. If peg1 use tiles_pegman.png, if peg2 use new tiles. 
-      tile.setAttributeNS(Blockly.utils.dom.XLINK_NS, 'xlink:href',
+      if(tile_pegman == '1' || tile_pegman == '0'){
+        tile.setAttributeNS(Blockly.utils.dom.XLINK_NS, 'xlink:href',
           Maze.SKIN.tiles);
+      } else{
+        tile.setAttributeNS(Blockly.utils.dom.XLINK_NS, 'xlink:href',
+          Maze.SKIN.tiles2);
+      }
       tileId++;
     }
   }
@@ -405,7 +443,7 @@ Maze.drawMap = function() {
       'width': 20
     }, svg);
     //TO DO: Call normalize pegman function, to use either peg1 skin or peg2 skin for the finish marker. 
-    //endpoint for meeting march 8th
+    
   finishMarker.setAttributeNS(Blockly.utils.dom.XLINK_NS, 'xlink:href',
       Maze.SKIN.marker);
 
@@ -421,6 +459,7 @@ Maze.drawMap = function() {
 
   // Add Pegman.
   //TO DO: call normalize function to deicide which pegman icon to use
+  //endpoint for meeting march 8th
   var pegmanIcon = Blockly.utils.dom.createSvgElement('image', {
       'id': 'pegman',
       'height': Maze.PEGMAN_HEIGHT,

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="ast">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Baba</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>si hai camín enfrente</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>Llista</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Bigotes</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Pelame</target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Estanque</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Cascu</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Un bloque 'si' va faer daqué sólo si la condición ye verdadera. Tenta xirar a la izquierda si hai camín a la izquierda.</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>faer</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Usasti tolos bloques pa esti nivel. Pa crear un bloque nuevu tienes de desaniciar un bloque esistente.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Xira al xugador a esquierda o drecha 90 graos.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Pendilexu</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Reaniciar</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Fai que'l xugador faiga lo que dicen los bloques.</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>xirar a la drecha</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>¿Quies entamar de nueves?</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>Testu</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>¿Borrar toles tos soluciones?</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Pa cada animal (verde), axunta la so semeya, escueye la cantidá de pates y llista les sos traces.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>traces:</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Ayuda</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Lóxica</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Xenética</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Páxaru</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Información pa educadores...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Variables</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Executar el programa</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>¡Perfeutu!
+Los %1 bloques tán bien asitiaos.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 bloques tán mal asitiaos.</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Llaberintu</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Asustáu</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>sinón</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Muevi al xugador un cuadru p'alantre.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Sentímoslo, '%1' nun correspuende con nengún programa guardáu.</target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Ver galería</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Hubo un problema col pidimientu.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>rectángulu</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Si hai un camín na direición especificada, \nentós executa'l primer bloque d'aiciones. \nSinón, executa'l segundu bloque d'aiciones. </target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Comprobar les respuestes</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Música</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Si hai un camín na direición especificada, \nentós executa unes aiciones. </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Repiti les aiciones conteníes fasta algamar el \npuntu final. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Detener el programa y restablecer el nivel.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>La condición cuandu'l páxari nun consiguió'l \nvierme. </target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Pues usar más d'un bloque dientro d'un bloque 'repetir'.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Color</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Los bloques 'si-sinón' faen una cosa o la otra</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Comparti los tos bloques con esti enllaz:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Guardar y enllazar a los bloques.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Algama'l final d'esti camín usando sólo dos bloques. Usa 'repitir' pa executar un bloque mas d'una vegada.</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Nesti nivel precises xunir todos los bloques nel espaciu de trabay blancu.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>avanzar</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Esti nivel ye desaxeradamente difícil. ¿Deseyes saltealu y dir al siguiente nivel? Siempres puedes tornar más palantre.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Oxetivu</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Picu</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Plumes</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>final y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Escueye'l to xugador favoritu dende esti menú.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Funciones</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Llevar al xugador al empiezu'l llaberintu.</target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>llinia</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>anchor</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Executar el programa qu'escribisti.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Borrar datos</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>círculu</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Bloques</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>Aceutar</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Tortuga</target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Usa esti bloque para siguir una direición si tienes el guxanu, o otra direición si nun lu tienes.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Resolvisti esti nivel con 1 llinia de JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Resollvisti esti nivel con %1 llinies de JavaScript</target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>¿Tas llistu/a pal viniente nivel?</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Títulu:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>final x</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>¿Tas llistu/a pal nivel %1?</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Encaboxar</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Nun pudo cargase'l ficheru guardáu.
+¿Quiciabes foi creáu con otra versión de Blockly?</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>Cabecera</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Quédate %1 bloque.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Quédente %0 bloques.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Quédente %2 bloques.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Xuegos pa los programadores del futuru.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>altor</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>si hai camín a la drecha</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>si hai camín a la esquierda</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>radiu</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Xugador</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Miel</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Aguiyón</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>¿Pues resolver esti complicáu llaberintu? Tenta siguir la paré de la izquierda. ¡Sólo pa programadores avanzaos!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>xirar a la esquierda</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Cambia l'ángulu de direición pa facer que'l páxaru consiga'l guxanu y aterrice nel so nial.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Cascoxu</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>¡Casi! Un bloque ta mal asitiáu.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>semeya:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Testu</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Coríu</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Gatu</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Abeya</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://ast.wikipedia.org/wiki/Gatu</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>El bloque destacáu ta mal asitiáu.
+Sigui tentando.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>entamu x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Xune un par de bloques 'avanzar' p'ayudame algamar la meta.</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Pulsia %1 nel bloque «si» pa camudar la so condición.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Snail</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Llistes</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Rompecabeces</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>pates:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://ast.wikipedia.org/wiki/Abeya</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>¡Norabona!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blockly games</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>repitir fasta</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Bucles</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>¡Gracies por esti programa! Si gusta al nuesu grupu espertu de monos entrenaos, van espublizalu na galería nun par de díes.</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>En principiando la edición de JavaScript, nun vas poder volver a la edición de bloques. ¿Aceutes esto?</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>escueye...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>entamu y</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Tutor del estanque</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>El to programa nun resolvió'l llaberintu. Prima 'Reaniciar' y tenta otra vegada.</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Documentación</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Mover na dirección del ángulu especificáu: 0 ye \na la derecha, 90 ye de frente, etc. </target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Executa'l to programa pa ver qué pasa.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>Establecer color a</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Película</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x y y marquen la posición del páxaru. \nCuando x = 0 el páxaru ta pegando al \ncantu izquierdu, cuando x = 100 ta \npegando al derechu. Cuando y = 0 el \npáxaru ta na parte inferior, cuando y \n= 100 ta na parte cimera. </target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>nun tien guxanu</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://ast.wikipedia.org/wiki/Cor%C3%ADu</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matemátiques</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

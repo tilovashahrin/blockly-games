@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="olo">
+    <body>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>ollou troppaine ies</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>piirdin alah</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>loppu-x</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Usat</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Turki</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>ozuta suojušlöpöi</target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Lambi</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Työnnä gallerieh</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Suojušlöpöi</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>kursivoitu</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>N'okku</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Listat</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Palakuva</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Piirrä keldaime tiähti.</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>piirdin yläh</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>pane bumuagale</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>Azeta värikse</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>jalgua:</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Kiändäy kižuajua huruale libo oigiele 9å astehtu.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>algu-x</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Hyvittelyt!</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Väri</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Hylgiä</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blocky-kižat</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>kiänny oigiele</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Pystin</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>korgevus</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>sangei</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>tekstu</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>peitä suojušlöpöi</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>mene kohti</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Työnnä gallerieh</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Oletgo valmis tazole %1?</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>ollou troppaine oigiele</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>valliče...</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Kino</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>rua</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>loppu-y</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Kohteh</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Kižuaju</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Vaihtau piirdimen värin.</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Abu</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>azeta levevyökse</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>algu-y</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Lougiekku</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Höyhenet</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Mezi</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Lindu</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Ližätieduo...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Variantat</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>ollou troppaine huruale</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Kačo gallerii</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Pane kižuaju järilleh labirintan alguh.</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>kiänny huruale</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labirintu</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Sinun reššindy ruadau, no maltat vie parembi.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>levevys</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Edenöi</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>kuva:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Tekstu</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Sorzu</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Kaži</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Mehiläine</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>muite</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>linnul ei ole čyötöidy</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Vaihtau piirdimen levevyön.</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>tavalline</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matemuatiekku</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Čiepit</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

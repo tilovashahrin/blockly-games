@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="mg">
+    <body>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Hanaoo zavatra iray na iray hafa ny bolongana Raha-rahatsyizany</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Miala tsiny, tsy miady amin'ny fandaharana notehirizina '%1'.</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>lisitra</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>raha lalana eo aloha</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Diso ilay bolongana mangirangirana.
+Andramo fanindroany.</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Nisy olana tamin'ilay hataka.</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Lisitra</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Piozila</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Hanamarina ny valiny</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>italika</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>atao</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Averina</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Loko</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Aoka ihany</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Tsy nahasokatra ny rakitra voatahirinao. Mety namboarina tamin'ny versionan'i Blockly hafa angamba ilay izy?</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Zarao amin'ity rohy ity ny bolonganao: 
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Hitahiry ary hampirohy amin'ny bolongana.</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Bolongana %1 sisa.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>bolongana %0 sisa.</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>soratra</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Bolongana %1 sisa.</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>avereno hatramy</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>handroso</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>fidio...</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>raha lalana miankavanana</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>raha lalana miankavia</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>hihodina ankavanana</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>soramatevina</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Fanoroana</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Lôjika</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Ova</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Paika</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Handefa ny fandaharana</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Tena tsara! Marina daholo ny bolongana %1.</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>hihodina ankavia</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>Bolongana %1 no diso.</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labirainty</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Saika! Bolongana iray sisa no diso.</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Soratra</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>rahatsyizany</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>tsotra</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matematika</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Tondro mifolaka</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

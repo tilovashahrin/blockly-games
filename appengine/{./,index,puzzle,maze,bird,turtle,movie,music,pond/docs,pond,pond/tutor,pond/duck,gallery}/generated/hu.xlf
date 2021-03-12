@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="hu">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Nyálka</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>Ha szabad az út előtted</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>lista</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>Tollat le</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Bajusz</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Szőrme</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Téglalapot rajzol a megadott helyre, \na megadott szélességgel és magassággal. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Tó</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Ház</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>Menj hátra (pixel)</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Az új blokkal változtathatod a húzott vonal színét:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Rajzolj sárga csillagot!</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Ennek a szintnek a megoldásához egy 'Egyébként Ha' és egy 'Egyébként' blokk is kelleni fog.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Egy 'Ha' esetén az utasítások csak akkor kerülnek végrehajtásra, ha a feltétel igaz. Próbáld a figurát balra fordítani, ha van út balra.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>kórus</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>végrehajt</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Minden rendelkezésedre álló blokkot felhasználtál. Új blokk kirakásához egy létezőt törölnöd kell.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>A figura 90 fokot fordul balra, vagy jobbra.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Kattints az ikonra, hogy módosítsd a 'Ha' blokk típusát.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Billegő</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>Betűméret</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Visszaállítás</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>A figura végrehajtja a blokkokkal megadott \nprogramot. </target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>Az 'És' blokk értéke akkor 'igaz', ha mindkét bemenetének 'igaz' az érétke.</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>hegedű</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>Fordulj jobbra</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Használd a 'Ha' blokkot, hogy a film első felében piros és kék, a második felében zold labdákat rajzolhass.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Szeretnéd az elejéről kezdeni?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Húzz egy 'Egyébként' blokkot a 'Ha' blokkra.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>szöveg</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Biztos hogy törölni szeretnéd az összes megoldásod?</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>gitár</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Minden, állathoz (zöld), kapcsold hozzá a képét, állítsd be a lábainak számát, , és egyéb jellemvonásait.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>jellemzők:</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Használd a 'cannon' utasítást hogy eltaláld a célpontot. Az első paraméter a lövés iránya, a második a távolság. Számítsd ki a megfelelő értékeket!</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Küldje el a rajzát a galériába.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Nem elég egyszer eltalálnod a célpontot. Használj 'while (true)' ciklust hogy többször lőhess.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Ez az ellenfél is lőtávolságon kívül van. Viszont egy ütközést nem élnél túl. Ússz az ellenfél felé, míg lőtávolságba nem kerül, aztán 'stop' meg. Mondjuk ha elérted vízszintesen az 50-es osztást.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Tüzelj az ágyuval! Adj meg egy irányt (0-360) és \negy távolságot (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Súgó</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Ez az ellenfél menekülni fog, ha eltalálod. Ha hatótávolságon kívül került (70 méter), ússz közelebb hozzá!</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Logika</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Genetika</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Visszaadja a játékos életét (0: halott, \n100: teljesen egészséges). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Madár</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Információk oktatóknak...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Változók</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Program futtatása</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Tökéletes!
+Mind a %1 blokk a helyén van.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Rajzolj három sárga csillagot, és egy fehér vonalat!</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 blokk rossz helyre került.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Üzenetet ír a teknőc irányában a helyétől.</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labirintus</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>Rajzolás színe</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Sikerült megoldanod a feladatot, de tudsz te jobbat is. Használd a 'scan' blokkot, hogy pontosabban tudj lőni az ágyuval.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Visszaadja a játékos x koordinátáját (0: bal \nszél, 100: jobb szél) </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Visszaadja az eltelt időt (0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>zongora</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>egyébként</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Ezt a távolságot használd, hogy a 'cannon' parancs pontos legyen!</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Ez az ellenfél oda-vissza ingázik, ezért nem könnyű eltalálni. Használd a 'scan' funkciót, hogy pontosan meghatározd az ellenség távolságát!</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>A figura előre lép egy mezőt.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://hu.wikipedia.org/wiki/Bet%C5%B1k%C3%A9p</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Sajnos a '%1' hivatkozás nem tartozik egyetlen programhoz sem.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Állj meg!</target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>A teknőc (kör és nyíl) láthatóvá tétele, \nvagy elrejtése. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Galéria</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>A kéréssel kapcsolatban probléma merült fel.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>téglalap</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Ha szabad az út a megadott irányban, \nakkor végrehajtja az első blokkban \nmegadott utasításokat. Egyébként a \nmásodik blokkban szereplő utasításokat \nhajtja végre. </target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Válaszok ellenőrzése</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Ha a labdával végig tudsz menni a megrajzold dróton, többé nincs számodra lehetetlen feladat!</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>kiír</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Zene</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Ellenfél felderítése. Adj meg egy irányt \n(0-360), és megkapod, milyen messze van az \nadott irányban a legközelebbi ellenfél. \nHa nincs arra senki, végtelent ad vissza. </target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Ha szabad az út a megadott irányban, \nakkor végrehajtja az utasításokat. </target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>furulya</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Visszaadja a játékos x koordinátáját (0: lent, \n100: fent) </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>A beágyazott utasításokat hajtja végre a cél \neléréséig. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Program leállítása, és a szint visszaállítása.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Az állapot, amikor nincs a madárnál a kukac.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Futtasd a programot amíg le nem áll. Az eredményt megmutathatod mindenkinek a galériában!</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Több blokkot is használhatsz az Ismétlésen belül.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Színek</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>A Ha-egyébként feltétel esetén vagy az egyik, vagy a másik utasítás-csoport kerül végrehajtásra.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Használd az eddig tanultakat, hogy keresztezd a lábakat.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Ezzel a hivatkozással tudod megosztani a programodat:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Mentés és hivatkozás a blokkokra.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Juttasd el a figurát a célig mindössze 2 blokk felhasználásával. Használd az 'Ismételd a cél eléréséig' blokkot egy másik blokk ismételt végrehajtásához.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>Teknőc elrejtése</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Ezen a szinten össze kell kapcsolnod minden blokkot a munkaterületen.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>Menj előre</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Ez a szint különösen nehéz. Szeretnél a következő játékra ugrani? Bármikor megpróbálhatod újból!</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Célpont</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Rajzolj emberkét egyszerű formákból!</target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Rajzold meg a csillagot mindössze négy blokkal!</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Rajzold meg a formát három blokkal!</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>Fordulj jobbra (fok)</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Csőr</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Tollak</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>vége y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Válaszd ki kedvenc figurádat a menüből.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Rajzolj egy kis sárga csillagot, majd egy vonalat fölé!</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Eljárások</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>A labirintus kezdő pozíciójába állítja a figurát.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Megadott vastagságú vonalat húz egyik pontból a \nmásikba. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>vonal</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Használd a 'Galéria' gombot, hogy megnézd, mások milyen filmeket készítettek. Ha meg szeretnéd mutatni a munkád másoknak, te is feltölthetsz filmeket a 'Feltöltés a Galériába' gomb segítségével.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Kört rajzol a megadott helyre, a megadott sugárral.</target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Rajzolj az embernek kezeket.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>szélesség</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>Betűtípus</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Visszaadja a játékos aktuális sebességét (0: \náll, 100: maximális sebességgel halad) </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>Fordulj balra (fok)</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Futtasd a programod!</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Adatok törlése</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>dob</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Rajzok galéria megnyitása.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>kör</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Készíts olyan filmet, amilyet csak szeretnél! Közben kipróbálhatod az új blokkokat is. Engedd szabadon a fantáziád!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>A filmed nem mozog. Használd a blokkokat, hogy valami érdekeset készíts, töltsd fel az eredményt a galériába!</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Blokkok</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>A teknőcöt jobbra, vagy balra fordítja a fokban \nmegadott értékkel. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Teknőc</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>A teknőcöt mozgatja előre, vagy hátra a pixelben \nmegadott értékkel. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Ezzel a blokkal különböző irányokba irányíthatod a madarat attól függően hogy nála van-e a kukac, vagy még nincs.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Egyetlen sor JavaScript kóddal megoldottad a feladatot:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>%1 sor JavaScript kóddal oldottad meg a feladatot.</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Toll felemelése letevése, attól függően, \nhogy elkezdjük vagy befejezzük a rajzolást. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Programozási nyelv dokumentációja.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Filmjének feltöltése a galériába.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Kezdj el úszni a megadott irányba (0-360).</target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Készen állsz a következő kihívásra?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Most egy filmet fogsz készíteni. Egy ember karját kell végigmozgatnod a képernyőn. Nyomd meg a Lejátszás gombot, hogy megnézd, mit alkottál!</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Az új blok segítségével felemelheted a  ceruzád:</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Cím:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>vége x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Ahogy lejátszod a filmet, az „idő” blokk értéke 0-tól 100-ig emelkedik. Mivel azt szeretnéd, hogy a kar „y” pozíciója is 0-tól 100-ig változzon, nem lesz nehéz dolgod.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Készen állsz a(z) %1. feladatra?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Használd a "Galéria" gombot, hogy lásd, min dolgoztak a többiek. Ha saját munkád szeretnéd megosztani mindenkivel, kattints a "Galériába küldés" gombra!</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Mégse</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>A programodat nem lehet betölteni.  Elképzelhető, hogy a Blockly egy másik verziójában készült?</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>irány</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Még %1 blokkot használhatsz fel.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Nem használhatsz fel több blokkot.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Még %2 blokkot használhatsz fel.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>A jövő programozóinak játékai.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>magasság</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>Ha szabad az út jobbra</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>Ha szabad az út balra</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Válassz kategóriát, hogy megnézhesd a blokkokat!</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Játékos</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>A rajzolás színének változtatása.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>Vonalvastagság</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://hu.wikipedia.org/wiki/Nyomtat%C3%A1s_(nyomd%C3%A1szat)</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Méz</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Fullánk</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Végig tudod vezetni a figurát ezen a bonyolult labirintuson? Próbáld a bal oldali falat követni. Haladó programozóknak!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>Tollat fel</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Galéria</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>Fordulj balra</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>sugár</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>Menj előre (pixel)</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Irányítsd a madár repülésének irányát, hogy felszedje a kukacot, és leszálljon a fészkére.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Csiga</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Majdnem sikerült! Egy blokk rossz helyre került.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>kép:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Szövegkezelés</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Kacsa</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Macska</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Méhecske</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normál</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>trombita</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://hu.wikipedia.org/wiki/Macska</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Ijedős</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>A kiemelt blokk nincs a helyén.
+Próbáld újraǃ</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>eleje x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Segíts eljuttatni a figurát a célig, kapcsolj össze néhány 'Menj előre' blokkot!</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Kép elküldése a Galériába</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Kattints a(z) %1 elemre és változtass a 'ha' blokk feltételén.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>http://hu.wikipedia.org/wiki/Csig%C3%A1k</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Listakezelés</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Kirakós</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>kiválasztott hangszer: %1</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' a madár vízszintes pozíciója, azt mondja meg, milyen messze van a kép bal szélétől. Használd ezt a blokkot hogy más irányban repüljön a madár, ha a megadott távolságnál közelebb van a bal szélhez, és egy másikba, ha messzebb van.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>lábak:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>http://hu.wikipedia.org/wiki/H%C3%A1zim%C3%A9h</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Film-galéria megnyitása.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Gratulálok!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blockly játékok</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Változtatja a rajzolás színét. </target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>félkövér</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Kaptál jópár extra blokkot. Próbáld ki őket, rajzolj szabadon!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>Ismételd amíg eljutː</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Ciklusok</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Feltöltés a Galériába.</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Köszönjük a programodat! Ha a kiképzett majmokból álló csapatunknak is tetszik, akkor pár napon belül közzéteszik a galériánkban.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>A kar mozgatásához szükséges matematikai képlet bonyolult.
+Itt a válasz:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Ha elkezded a JavaScriptet szerkeszteni akkor később nem léphetsz vissza a blokkok szerkesztésébe. Ezt akarod?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Az eső labda matematikai képlete bonyolult. Íme a megoldás:</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>válassz…</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>eleje y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Az „idő” blokk értéke továbbra is 0-tól 100-ig emelkedik. Most viszont azt szeretnéd, hogy a másik kar „y” pozíciója 100-ról 0-ra csökkenjen. Meg tudod cserélni a számlálás irányát valamilyen matematikai formulával?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Tó gyakorló</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>360, a középppontból induló fehér vonal pont úgy fog kinézni, mint a telihold.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>A programmal nem sikerült a figurát a célba juttatni. Kezdd elölről.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>első rész</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Dokumentáció</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>Teknőc felfedése</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>A szöggel megadott irányba mozdul: a 0 fok \njobbra, a 90 fok fölfele, a 180 fok balra és \na 270 fok lefele irányt jelent. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>bendzsó</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>dőlt</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Futtasd a programot, nézük meg mi történik.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Beállítja az üzenet betűtípusát.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>szín</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Film</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x és y a madár koordinátái. Ha x=0, \na madár a bal szélen va. Ha x=100 \nakkor a jobb szélen. Ha y=0 akkor a \nmadár az alsó szélen van, ha y=100 \nakkor a tetején. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Egy adott magasságú és hosszúságú hangot játszik \nle. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Megoldottad a feladatot, de tudsz ennél jobbat is!</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Készíts programot, ami négyzetet rajzol!</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Készíts programot, ami egy ötszöget rajzol a négyzet helyett!</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Ha tudsz egy csillagot rajzolni, tudsz négyet is! Helyezd el őket egy négyzet csúcsaira.</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>nincs nála kukac</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Rajzold meg a csillagokat, majd négy fehér vonalat!</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>http://hu.wikipedia.org/wiki/T%C5%91k%C3%A9s_r%C3%A9ce</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Tudsz a hold elé egy fekete kört rajzolni, hogy fogyó hold legyen?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Vonalvastagság változtatása.</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matek</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Az ellenfél túl messze van ahhoz hogy innen eltaláld. Használd az 'swim' parancsot, hogy közelebb kerülj hozzá, és nekiütközz!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

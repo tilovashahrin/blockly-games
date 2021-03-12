@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="th">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>สไลม์</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>ถ้ามีทางเดินข้างหน้า</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>รายการ</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>ปากกากดลง</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>หนวด</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>ขน</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>วาดสี่เหลี่ยมมุมฉากด้วยตำแหน่ง ความสูง \nและความยาวที่ระบุ </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>สระน้ำ</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>ให้ประพันธ์โน้ตดนตรี 4 ตัวแรกของ Frere Jacques ขึ้นมา</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>หอย</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>เคลื่อนที่ไปข้างหลังด้วยระยะทาง</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>มีบล็อกใหม่ที่ให้คุณสามารถเปลี่ยนสีได้:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>วาดรูปดาวสีเหลือง</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>ในด่านนี้ต้องการให้ใช้ทั้งบล็อกของ else if และ else</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>บล็อก 'ถ้า' จะทำบางอย่างก็ต่อเมื่อเงื่อนไขเป็นจริง ลองกำหนดให้หันซ้ายเมื่อมีทางเดินด้านซ้ายดูสิ</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>คณะประสานเสียง</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>ทำ</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>คุณได้ใช้บล็อกทั้งหมดสำหรับด่านนี้แล้ว เพื่อที่จะสร้างบล็อกใหม่ คุณต้องลบบล็อกใดบล็อกหนึ่งที่มีอยู่เสียก่อน</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>หมุนตัวผู้เล่นไปทางซ้ายหรือขวา 90 องศา.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>คลิกสัญลักษณ์รูปฟันเฟืองเพื่อทำการเปลี่ยนแปลงบล็อกที่ชื่อ if</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>ลูกตุ้ม</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>ขนาดอักษร</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>เริ่มใหม่</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>ทำให้ตัวผู้เล่นทำตามที่บล็อกสั่ง.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>บล็อกของ and จะเป็นจริงก็ต่อเมื่อข้อมูลนำเข้าทั้งสองเป็นจริง</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>โน้ตดนตรี 1 ตัว (C4 คือ 7)</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>ไวโอลิน</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>หันขวา</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>ทำให้ขากลับทิศทางไปครึ่งทางผ่านภาพยนตร์</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>ต้องการเริ่มใหม่หรือไม่?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>ลากบล็อกของ else ให้เข้าไปในบล็อกของ if</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>ข้อความ</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>ลบการแก้ปัญหาทั้งหมดของคุณหรือไม่?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>จะแต่งเพลงอะไรก็ได้ที่ต้องการนอกจากนั้นคุณยังจะค้นพบว่าคุณได้รับบล็อกใหม่ๆเป็นจำนวนมากอีกด้วย ขอให้สนุกนะ!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>กีตาร์</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>ในสัตว์แต่ละตัว (บล็อกสีเขียว) ให้นำบล็อกภาพมาต่อ เลือกจำนวนขาของสัตว์แต่ละตัว และให้ใส่บล็อกลักษณะเรียงไว้อยู่ข้างใน</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>ลักษณะ:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>ให้รอตามระยะเวลาที่กำหนด</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>ใช้ปืนใหญ่ในการสั่งยิงเป้าหมาย ตัวแปรแรกเลยคือมุม ตัวแปรที่สองคือขอบเขตการยิง จากนั้นก็ให้จับสองตัวแปรนี้มาคำนวณให้ได้ค่าที่ถูกต้อง</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>ส่งภาพวาดของคุณไปที่แกลเลอรี</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>ฟังก์ชันจะช่วยให้คุณสามารถจับกลุ่มบล็อกไว้ด้วยกัน แถมยังทำการแสดงผลได้มากกว่าหนึ่งครึ่งอีกด้วย</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>สำหรับเป้าหมายนี้เราจะต้องยิงหลายๆครั้ง ดังนั้นให้ใช้ การวนรอบ'while (true)' เพื่อทำบางสิ่งที่ไม่สามารถกำหนดจำนวนครั้งได้อย่างแน่นอน</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>คู่ต่อสู้อยู่ไกลเกินกว่าที่จะใช้ปืนใหญ่ แต่คุณก็อ่อนแรงเกินกว่าที่จะรอดจากการปะทะได้ ดังนั้นให้คุณว่ายน้ำไปยังด้านหน้าของคู่ต่อสู้ขณะที่ตำแหน่งในทิศแนวนอนของคุณอยู่น้อยกว่า 50 เมตร จากนั้นให้หยุดว่ายและใช้ปืนใหญ่ในการยิงคู่ต่อสู้</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>ยิงปืนใหญ่ซะ \nอย่าลืมกำหนดทิศทาง(0-360)และขอบเขต(0-70)การยิงด้วยนะ </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>ช่วยเหลือ</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>คู่ต่อสู้เคลื่อนตัวออกไปหลังจากที่มันถูกยิง ดังนั้นเราจึงต้องว่ายน้ำมุ่งหน้าไปที่คู่ต่อสู้แต่ต้องเป็นในกรณีที่มันอยู่ห่างออกไปเกิน 70 เมตร</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>ตรรกะ</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>พันธุศาสตร์</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>ให้คืนค่ากลับมาเป็นค่าพลังชีวิตของผู้เล่น ณ \nขณะนั้น (0 คือตาย , 100 คือแข็งแรงดี) </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>นก</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>ข้อมูลเพิ่มเติม...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>ตัวแปร</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>เรียกใช้โปรแกรม</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>สมบูรณ์แบบ!
+%1 บล็อกถูกต้องทั้งหมด</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>วาดรูปดาวสีเหลืองสามดวง และวาดเส้นสีขาวอีกหนึ่งเส้น</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 บล็อกยังผิดอยู่</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>แสดงข้อความในทิศทางที่เต่าหันหน้าตรงตำแหน่งนั้น.</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>เขาวงกต</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>ส่งไปที่คลังภาพ</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>ตั้งสีเป็น</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>วิธีแก้ของคุณมันโอเคนะ แต่คุณสามารถทำได้ดีกว่านี้ ลองใช้ 'scan' เพื่อบอกระยะยิงให้กับปืนใหญ่ดูสิ</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>คืนค่ากลับมาเป็นพิกัดในแนวแกนนอนของผู้เล่น (0 \nคือขอบด้านซ้ายสุด , 100 คือขอบด้านขวาสุด) </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>คืนค่าเป็นเวลาปัจจุบันในอนิเมชั่น(0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>เปียโน</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>มิฉะนั้น</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>ขอบเขตนี้คือสิ่งที่คำสั่งปืนใหญ่ต้องการเพื่อที่จะสามารถยิงได้อย่างแม่นยำ</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>คู่ต่อสู้คนนี้จะเคลื่อนที่กลับไปกลับมา จึงทำให้ยากต่อการยิง ดังนั้นนิพจน์ 'scan' จะคืนค่าขอบเขตที่แท้จริงที่คู่ต่อสู้นั้นจะอยู่ในทิศทางยิงที่ถูกต้องและแม่นยำ</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>เคลื่อนตัวผู้เล่นไปข้างหน้าหนึ่งช่อง.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>บล็อกตัวใหม่นี้จะเพิ่มความหน่วงของเสียงเข้าไป</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>ขออภัย '%1' ไม่ตรงกับโปรแกรมใด ๆ ที่บันทึกไว้</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>จงหยุดว่ายน้ำ \nผู้เล่นจะว่ายช้าลงเพื่อที่จะสามารถหยุดได้ </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>ทำให้เต่า (วงกลมและลูกศร) มองเห็นหรือมองไม่เห็น.</target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>ดูคลังภาพยนตร์</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>มีปัญหาเกี่ยวกับการร้องขอ</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>เรียกใช้โปรแกรมของคุณจนกว่าโปรแกรมของคุณจะหยุดทำงาน จากนั้นคุณสามารถส่งภาพวาดของคุณไปที่คลังภาพได้</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>สี่เหลี่ยมมุมฉาก</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>ถ้ามีทางเดินตามทิศที่กำหนดไว้ \nก็ให้ทำตามคำสั่งในบล็อกแรก \nมิฉะนั้นก็ให้ทำตามคำสั่งในบล็อกที่สอง </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>ส่งเพลงของคุณไปที่คลังภาพ</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>ตรวจคำตอบ</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>
+วาดวงกลมขยายด้านหลังบุคคล</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>พิมพ์</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>ให้สร้างบล็อกตัวที่สองโดยที่แรกเริ่มจะมีบล็อกของความหน่วงอยู่สองตัวแล้วจากนั้นก็ให้เล่นทำนองเพลง Frere Jacques</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>เพลง</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>กวาดสายตาดูศัตรูและกำหนดทิศทาง(0-360) \nจากนั้นให้คืนค่ากลับเป็นระยะทางที่ใกล้ศัตรูที่สุดในทิศนั้นๆหรือถ้าหากตรวจดูแล้วไม่พบศัตรูก็ให้คืนค่ากลับเป็น \ninfinity </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>แต่ละบล็อกจะเริ่มต้นด้วยการเล่น Frere Jacques สองครั้ง</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>สร้างบล็อกขึ้นมา 4 บล็อกโดยที่แต่ละบล็อกจะเริ่มต้นด้วยการเล่น Frere Jacques เป็นจำนวน 2 ครั้ง จากนั้นก็ให้เพิ่มการแก้ไขจำนวนของบล็อกที่ล่าช้าด้วย</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>ถ้ามีทางเดินตามทิศที่กำหนดไว้ ก็ให้ทำตามคำสั่ง.</target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>สร้างฟังก์ชันที่สามสำหรับท่อนต่อไปของ Frere Jacques โน้ตสี่ตัวแรกจะเป็นโน้ตเสียงสั้น</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>เล่นทำนองของ Frere Jacques ให้เสร็จโดยสมบูรณ์</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>ขลุ่ย</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>คืนค่ากลับเป็นค่าพิกัดในแนวแกนตั้งของผู้เล่น (0 \nคือ ขอบด้านล่างสุด , 100 คือขอบด้านบนสุด) </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>ทำซ้ำคำสั่งที่ถูกปิดคลุมไปเรื่อย ๆ \nจนกว่าจะถึงจุดสิ้นสุด </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>หยุดโปรแกรมและเริ่มใหม่</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>สร้างฟังก์ชันที่สองสำหรับท่อนต่อไปของ Frere Jacques ซึ่งมีโน้ตตัวสุดท้ายเป็นโน้ตเสียงยาว</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>เงื่อนไขที่จะเกิดขึ้นเมื่อนกจับหนอนไม่ได้.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>เรียกใช้โปรแกรมของคุณจนกว่าโปรแกรมของคุณจะหยุดทำงาน จากนั้นคุณสามารถส่งภาพวาดของคุณไปที่คลังภาพได้</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>คุณสามารถใส่บล็อกเข้าไปข้างในบล็อก 'ทำซ้ำ' ได้มากกว่าหนึ่งบล็อก</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>สี</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>บล็อก "ถ้า-มิฉะนั้น" จะทำอย่างใดอย่างหนึ่งเท่านั้น</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>ปุ่ม ดูคลังภาพ มีไว้สำหรับดูเพลงที่คนอื่นๆได้แต่งไป ถ้าคุณแต่งอะไรก็ตามที่คิดว่าน่าสนใจ ให้ใช้ปุ่ม ส่งไปที่คลังภาพ เพื่อที่จะเผยแพร่เพลงของคุณลงไปใน Gallery นั้น</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>ใช้สิ่งที่คุณเรียนรู้ในระดับก่อนหน้าเพื่อทำให้ขาไขว้กัน</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>แบ่งปันบล็อกของคุณด้วยลิงก์นี้:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>วิธีแก้ของคุณก็ถือว่าโอเคนะ แต่คุณสามารถทำได้ดีกว่านี้ ลองใช้ฟังก์ชันเพื่อลดจำนวนของโค้ดที่ซ้ำกันดู</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>บันทึกและสร้างลิงก์ไปยังบล็อก</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>ไปให้ถึงสุดทางเดินนี้โดยใช้เพียง 2 บล็อกเท่านั้น ใช้บล็อก 'ทำซ้ำ' เพื่อเรียกใช้บล็อกเดิมซ้ำมากกว่าหนึ่งครั้ง</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>ซ่อนเต่า</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>ในด่านนี้ คุณต้องต่อทุกบล็อกเข้าด้วยกันในพื้นที่ทำงานสีขาว</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>เดินหน้า</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>ด่านนี้ยากมาก คุณต้องการข้ามด่านนี้และไปยังเกมถัดไปหรือไม่? คุณสามารถกลับมายังด่านนี้ได้ในภายหลัง</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>เป้าหมาย</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>วาดรูปคนนี้โดยใช้รูปร่างอย่างง่าย</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>ทำการรันบล็อกที่อยู่ข้างในเมื่อปุ่ม Run Program \nถูกคลิก </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>วาดรูปดาวด้วยบล็อกเพียงสี่บล็อก</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>วาดรูปด้วยบล็อกเพียงสามบล็อก</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>หันไปทางขวาด้วยองศา</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>จะงอยปาก</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>ขนนก</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>y สิ้นสุด</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>เลือกตัวผู้เล่นที่คุณชอบได้จากเมนูนี้</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>วาดรูปดาวสีเหลืองเล็ก ๆ แล้ววาดเส้นทับข้างบน</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>ย้ายวงกลมพื้นหลังไปที่ด้านบนของโปรแกรม จากนั้นจะปรากฏอยู่ข้างหลังบุคคล</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>ฟังก์ชัน</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>เมื่อ %1 คลิก</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>วางตัวผู้เล่นไว้ที่จุดเริ่มต้นเขาวงกต.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>\nวาดเส้นตรงจากจุดหนึ่งไปอีกจุดหนึ่งด้วยความกว้างที่ระบุ </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>เส้นตรง</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>สามารถใช้ปุ่ม ดูคลังภาพ เพื่อดู movie ที่คนอื่นๆสร้างได้ ถ้าหากคุณสร้าง movie ที่คิดว่ามันน่าสนใจขึ้นมาล่ะก็คุณสามารถกดปุ่ม ดูคลังภาพยนตร์ เพื่อเผยแพร่ movie ของคุณได้</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>วาดวงกลมด้วยตำแหน่งและรัศมีที่ระบุ.</target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>ให้มือสองข้างกับคน</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>ความกว้าง</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>แบบอักษร</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>ให้คืนค่ากลับมาเป็นความเร็วของผู้เล่น ณ ขณะนั้น \n(0 คือ หยุดเคลื่อนไหว , 100 \nคือเร่งความเร็วเต็มที่) </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>หันไปทางซ้ายด้วยองศา</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>เรียกใช้โปรแกรมที่คุณเขียน</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>ล้างข้อมูล</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>กลอง</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>เปิดคลังภาพวาด</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>วงกลม</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>วาดอะไรก็ได้ที่คุณต้องการ คุณได้รับบล็อกจำนวนมหาศาลมาไว้ให้คุณสำรวจ ขอให้สนุก!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>ภาพยนตร์ของคุณไม่มีการเคลื่อนไหว ใช้บล็อกเพื่อทำให้บางสิ่งบางอย่างดูน่าสนใจ แล้วส่งภาพยนตร์ของคุณไปที่คลังภาพยนตร์</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>บล็อก</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>หันเต่าไปทางซ้ายหรือขวาด้วยขนาดองศาที่กำหนด.</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>ตกลง</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>เต่า</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>\nเคลื่อนที่เต่าไปข้างหน้าหรือข้างหลังตามระยะทางที่กำหนด </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>ใช้บล็อกนี้ไปใส่ในหัวเรื่อง if ถ้ามีหนอน หรือไม่ก็เอาบล็อกไปใส่ในหัวเรื่องอื่นที่ไม่ใช่ if ถ้าสมมติว่าไม่มีหนอนอยู่</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>คุณแก้ปัญหาด่านนี้ได้ด้วยจาวาสคริปต์ 1 บรรทัด</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>คุณแก้ปัญหาด่านนี้ได้ด้วยจาวาสคริปต์ $1 บรรทัด</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>ยกหรือกดปากกา เพื่อหยุดหรือเริ่มวาดรูป.</target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>แสดงเอกสารอ้างอิงในเรื่องภาษา</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>ส่งภาพยนตร์ของคุณไปที่คลังภาพ</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>จงว่ายน้ำไปข้างหน้าและกำหนดทิศทาง(0-360)ด้วย.</target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>คุณพร้อมหรือยังกับความท้าทายถัดไป?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>ระดับนี้เป็นด่านเกี่ยวกับภาพยนตร์ และคุณต้องการให้แขนของบุคคลเคลื่อนผ่านหน้าจอไป กดปุ่ม Play เพื่อดูตัวอย่าง</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>มีบล็อกใหม่ที่ให้คุณสามารถยกปากกาของคุณขึ้นจากกระดาษได้เมื่อคุณเคลื่อนไหว:</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>คู่ต่อสู้อยู่ไกลเกินกว่าที่จะใช้ปืนใหญ่ (ซึ่งปืนใหญ่นี้มีขอบเขตจำกัดที่ 70 เมตร) ดังนั้นเราจึงใช้คำสั่งว่ายน้ำแทนเพื่อที่จะว่ายไปข้างหน้าและประทะกับคู่ต่อสู้โดยตรง</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>ชื่อเรื่อง:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>x สิ้นสุด</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>
+ในขณะที่ภาพยนตร์เล่นค่าของ 'เวลา' บล็อกนับจาก 0 ถึง 100 เนื่องจากคุณต้องการตำแหน่ง 'y' ของแขนเริ่มต้นที่ 0 และไปที่ 100 สิ่งนี้น่าจะง่าย</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>คุณพร้อมหรือยังกับด่าน %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>ปุ่ม ดูคลังภาพ มีไว้สำหรับดูสิ่งที่คนอื่นๆได้วาดไป ถ้าคุณวาดอะไรก็ตามที่คิดว่าน่าสนใจ ให้ใช้ปุ่ม ส่งไปที่คลังภาพ เพื่อที่จะเผยแพร่ภาพของคุณลงไปใน Gallery นั้น</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>ยกเลิก</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>ไม่สามารถโหลดไฟล์ที่บันทึกไว้ของคุณได้ บางทีมันอาจถูกสร้างขึ้นด้วยบล็อกลีรุ่นอื่นที่ต่างออกไป?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>พัก %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>มุ่งหน้า</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>คุณเหลืออีก %1 บล็อก</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>คุณเหลืออีก %0 บล็อก</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>คุณเหลืออีก %2 บล็อก</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>เกมสำหรับนักเขียนโปรแกรมในวันข้างหน้า</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>ความสูง</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>ถ้ามีทางเดินด้านขวา</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>ถ้ามีทางเดินด้านซ้าย</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>เลือกหมวดหมู่เพื่อดูบล็อก</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>ผู้เล่น</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>เปลี่ยนสีของปากกา</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>สร้างฟังก์ชันขึ้นมาหนึ่งฟังก์ชันเพื่อที่จะเล่นโน้ตเพลงสี่ตัวแรกของ Frere Jacques จากนั้นให้ทำการแสดงผลของฟังก์ชันนั้นสองครั้งและห้ามเพิ่มบล็อกโน้ตดนตรีใดๆเข้าไป</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>ตั้งความกว้างเป็น</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://th.wikipedia.org/wiki/การพิมพ์</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>น้ำผึ้ง</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>เล่นทำนองเพลงของคุณด้วยไวโอลิน</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>บล็อกใหม่นี้จะให้คุณสามารถเปลี่ยนไปใช้เครื่องดนตรีอื่นได้</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>เหล็กใน</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>คุณสามารถแก้ปัญหาเขาวงกตที่ซับซ้อนนี้ได้หรือเปล่า? ลองเดินเลียบกำแพงทางซ้ายดูสิ สำหรับโปรแกรมเมอร์ระดับสูงเท่านั้นนะ!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>ปากกายกขึ้น</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>ดูคลังภาพ</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>หันซ้าย</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>รัศมี</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>เคลื่อนที่ไปข้างหน้าด้วยระยะทาง</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>เปลี่ยนทิศทางมุมที่ส่วนหัวด้านบนเพื่อที่จะทำให้นกไปรับหนอนมาและร่อนลงบนรังนกของมัน</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>เปิดคลังเพลง</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>หอยทาก</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>เกือบแล้ว! เหลือแค่บล็อกเดียวที่ยังผิดอยู่</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>ภาพ:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>ข้อความ</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>เป็ด</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>แมว</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>ผึ้ง</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>ปกติ</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>แตร</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://th.wikipedia.org/wiki/แมว</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>กลัว</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>ดูคลังภาพ</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>เล่น %1 ตัวโน้ต %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>บล็อกที่เน้นสีไว้ยังผิดอยู่
+ลองอีกครั้ง</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>x เริ่มต้น</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>ต่อบล็อก 'เดินหน้า' สองอันเข้าด้วยกัน เพื่อช่วยให้ไปถึงจุดหมาย</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>ส่งไปที่คลังภาพ</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>คลิกที่ %1 ในบล็อก 'ถ้า' เพื่อเปลี่ยนเงื่อนไข</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://th.wikipedia.org/wiki/หอยทาก</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>รายการ</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>ปริศนา</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>ตั้งค่าให้กับเครื่องเล่นดนตรีเป็น %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>เพลงจะฟังดูดีขึ้นหากคุณใช้เครื่องมือที่แตกต่างกันในแต่ละบล็อกเริ่มต้น</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>x เป็นตำแหน่งปัจจุบันของคุณในทิศทางแกนนอน ให้ใช้บล็อกที่ได้มานี้นำไปใส่ในหัวเรื่องแรกถ้า x น้อยกว่าตัวเลขใด ๆ หรือไม่ก็นำไปใส่ในหัวเรื่องอื่น ๆ แทนตามแต่เงื่อนไขที่สร้าง</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>ขา:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://th.wikipedia.org/wiki/ผึ้ง</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>เปิดแกลเลอรี่ภาพยนตร์</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>ยินดีด้วย!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>บล็อกลีเกมส์</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>ระเบียงภาพ</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>เปลี่ยนสีของปากกา</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>ตัวหนา</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>วาดอะไรก็ได้ที่คุณต้องการ คุณได้รับบล็อกจำนวนมหาศาลมาไว้ให้คุณสำรวจ ขอให้สนุก!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>ทำซ้ำจนกระทั่ง</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>การวนซ้ำ</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>ส่งไปที่คลังภาพยนตร์</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>ขอบคุณสำหรับโปรแกรมนี้! หากพนักงานของเราที่ได้รับการฝึกฝนลิงชอบมันพวกเขาจะเผยแพร่ไปยังแกลเลอรี่ภายในสองสามวัน</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>สูตรทางคณิตศาสตร์สำหรับแขนนั้นซับซ้อน นี่คือคำตอบ:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>ทันทีที่คุณเริ่มการแก้ไข Javascipt คุณจะไม่สามารถกลับไปยังการแก้ไข block เหล่านั้นได้นะ คุณยังจะ OK อยู่ไหม?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>ใช้บล็อก 'if' เพื่อวาดหัวเล็กในช่วงครึ่งแรกของภาพยนตร์ จากนั้นวาดหัวโตในช่วงครึ่งหลังของภาพยนตร์</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>เลือก...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>y เริ่มต้น</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>บล็อก 'เวลา' นับจาก 0 ถึง 100 แต่ตอนนี้คุณต้องการตำแหน่ง 'y' ของแขนอีกข้างเริ่มต้นที่ 100 และไปที่ 0 คุณสามารถหาสูตรทางคณิตศาสตร์อย่างง่ายที่พลิกทิศทางได้หรือไม่</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Pond Tutor</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>การวาดเส้นสีขาว 360 เส้นจะดูเหมือนพระจันทร์เต็มดวง</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>โปรแกรมของคุณยังไม่สามารถแก้ปัญหาเขาวงกตนี้ได้ กดปุ่ม 'เริ่มใหม่' แล้วลองอีกครั้ง</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>ส่วนแรก</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>เอกสารประกอบ</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>แสดงเต่า</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>ย้ายไปในทิศที่กำหนดไว้ให้: 0 คือไปทางขวา , \n90 คือตรงไป , และอื่นๆ </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>แบนโจ</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>ตัวเอน</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>เรียกใช้โปรแกรมของคุณเพื่อดูว่าจะเกิดอะไรขึ้น</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>ตั้งค่าแบบอักษรที่ใช้ในบล็อกพิมพ์.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>ตั้งสีเป็น</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>ภาพยนตร์</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x และ y จะทำเครื่องหมายตำแหน่งของนกเอาไว้ เมื่อ \nx = 0 นกจะขยับไปใกล้บริเวณขอบด้านซ้าย เมื่อ x= \n100 นกจะขยับไปใกล้บริเวณขอบด้านขวา เมื่อ y = 0 \nนกจะไปอยู่บริเวณด้านล่าง และเมื่อ y = 100 \nนกจะไปอยู่บริเวณด้านบน </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>\nกำหนดให้เล่นโน้ตดนตรีในระดับเสียงและในระยะเวลาที่กำหนด </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>การแก้ไขของคุณใช้ได้ แต่คุณสามารถทำได้ดีกว่านี้</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>สร้างโปรแกรมที่สามารถวาดรูปสี่เหลี่ยมได้</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>เปลี่ยนคำสั่งของโปรแกรมของคุณให้วาดรูปห้าเหลี่ยมแทนรูปสี่เหลี่ยม</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>แทนที่จะวาดรูปดาวดวงเดียว คุณวาดรูปดาวสี่ดวงข้างในรูปสี่เหลี่ยมหนึ่งรูปได้หรือไม่?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>ไม่มีหนอน</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>วาดรูปดาว แล้ววาดเส้นสีขาวสี่เส้น</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://th.wikipedia.org/wiki/เป็ด</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>คุณลองวาดรูปวงกลมสีดำอีกหนึ่งวงเพื่อให้พระจันทร์เต็มดวงกลายเป็นพระจันทร์ครึ่งเสี้ยวได้หรือไม่?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>เปลี่ยนความกว้างของปากกา</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>\nเปลี่ยนเครื่องเล่นไปยังเครื่องเล่นที่กำหนดไว้เมื่อจะต้องเล่นโน้ตดนตรีที่เรียงต่อกันตามลำดับ </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>คณิตศาสตร์</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>รอตัวโน้ตทั้งหมด</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

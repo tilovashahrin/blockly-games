@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="bg">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Слуз</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>ако има път напред</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>списък</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>свали писалката</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Мустаци</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Козина</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Чертае правоъгълник на указаното място с \nуказаната дължина и ширина. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Езерце</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Композирайте първите ноти от 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Черупка</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>назад с</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Това е нов блок, който позволява да се променя цвета:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Изчертай жълта звезда.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Това ниво изисква блок 'иначе ако' и блок 'иначе'.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Блок "ако" ще изпълни действието само тогава, когато условието е изпълнено. Опитайте да завиеш наляво, ако има път натам.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>хор</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>изпълни</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Ти използва всички налични блокове за това ниво. За да създадеш нов блок, първо трябва да премахнеш някой друг.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Завърта играча наляво или надясно на 90 градуса.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Щракнете върху иконата за да промените блок 'ако'.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Махало</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>Размер на шрифта</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Изчисти</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Играчът ще изпълни описаното в блока.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>Блокът 'и' е истина ако и двата параметъра са истини.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Една нота (C4 е 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>цигулка</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>надясно</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Направете така, че краката, да обърнат посоката по средата на филма.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Искате да започнете отначало?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Завлачи блок 'иначе' в блок 'ако'.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>текст</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Изтриване на всички решения?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Композирайте каквото си искате. Разполагате с огромен брой нови блокове за изучаване. Приятно прекарване!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>китара</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>За всяко животно (в зеления блок), прикачи картинка, посочи броя на краката и събери отличителните му черти.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>характеристики:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Изчаква зададеното време.</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Използвайте командата 'cannon', за да поразите целта. Първият параметър е ъгъл, вторият - разстояние. Открий правилната комбинация.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Публикувайте своята рисунка в галерията.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>Фунцията или на английски 'function', ви позволява да групирате заедно блокове, след което да ги изпълнявате многократно.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Тази цел трябва да се удари много пъти. Използвайте цикъл 'while (true)', за да правите нещо безкрайно.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Този опонент е също твърде далеч за да използвате оръдието. Но Вие сте твърде слаб за да преживеете сблъсък. Плувайте към опонента докато хоризонталната позиция стане по-малка от 50. Тогава 'stop' и използвайте оръдието.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Стреля с оръдието. Укажи посока (0-360) и \nразстояние (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Помощ</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Този опонент ще се отдалечи, ако бъде ударен. Плувайте към него, ако той е извън обсег (70 метра).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Логика</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Генетика</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Връща текущото здраве на участника (0 - мъртъв, \n100 - здрав). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Птица</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Информация за преподаватели...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Променливи</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Стартирай програмата</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Отлично!
+Всички %1 блокове са правилни.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Изчертай три жълти звезди и една бяла линия.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 блокове са неправилни.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Изчертава текст в посоката и позицията на \nкостенурката. </target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Лабиринт</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Публикувайте в галерията</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>смени цвета на</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Твоето решение работи, но може да се направи по-добре. Използвайте 'scan', за да укажете на оръдието колко далеч да стреля.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Връща координатата X на играча(0 - ляв край, \n100 - десен край). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Връща текущото време във филма (0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>пиано</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>иначе</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Това разстояние е точно колкото е нужно на командата 'cannon' за точна стрелба.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Този опонент се движи напред-назад, което го прави труден за уцелване. Изразът 'scan' връща точното разстояние до опонента в указаната посока.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Премества играча една позиция напред.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://bg.wikipedia.org/wiki/%D0%A8%D1%80%D0%B8%D1%84%D1%82</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Този нов блок добавя период на затишие.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>За съжаление, „%1“ не отговаря на записани блокове.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Спри плуването. Играчът ще се забави и ще спре. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Направи костенурката (кръг и стрелка), \nвидима или невидима. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Виж Галерия</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Възникна проблем при заявката.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Пуснете своята програма, докато тя спре. След това можете да публикувате своята музика в галерията.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>правоъгълник</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Ако има път в тази посока, тогава изпълни първия \nблок. Иначе, изпълни втория блок. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Публикувайте своята музика в галерията.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Провери отговорите</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Нарисувайте увеличаваща се окръжност зад човека.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>печат</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>Създайте втори стартов блок, който има два блока за затишие и след това изсвирва  'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Музика</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Търсене на врагове. Укажете посока (0-360). \nВръща дистанцията до най-близкия враг в тази \nпосока. Връща безкрайност, ако не е намерен \nвраг. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Всеки стартов блок трябва да изсвирва 'Frère Jacques' два пъти.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Създайте четири стартови блока, всеки от които изсвирва 'Frère Jacques' два пъти. Добавете точния брой блокове за затишие.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Ако има път в тази посока, тогава извърши тези \nдействия. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Създайте трета функция за следващата част от 'Frère Jacques'. Първите четири ноти са по-кратки.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Завършете пълната мелодия на 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>флейта</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Връща координатата Y на играча (0 е долния край, \n100 е горния). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Повтори вложените действия докато се достигне \nкрайната точка. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Спри програмата и върни в началото.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Създайте втора функция за следващата част от 'Frère Jacques'. Последната нота е по-продължителна.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Условието, когато птицата не е намерила червея.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Изпълнете Вашата програма докато тя приключи. Тогава можете да поставите Вашата рисунка в галерията.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Можете да сложите повече от един блок в блок "повтори".</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Цвят</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Ако-иначе блоковете правят едно от двете действия.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Използвайте бутон "Разгледайте галерията" за да видите какво са композирали другите. Ако композирате нещо интересно, използвайте бутон "Публикувай в галерията", за да го публикувате.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Използвайте това, което сте научили на предишното ниво, за да направите крака, които се кръстосват.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Споделете блокове в тази връзка:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Вашето решение е работещо, но бихте могли да справите и по-добре. Използвайте функции, за да намалите количеството повтарящ се код.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Запиши и покажи връзка към блоковете.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Стигни до края на пътя, като използваш само два блока. Използвай „повтори“, за да изпълниш даден блок повече от веднъж.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>Скрий костенурката</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>На това ниво трябва да сглобиш всички блокове в бялата работна област.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>напред</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Това ниво е изключително сложно. Искате ли да го пропуснете и да преминете към следващата игра? Винаги може да се върнете по-късно.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Цел</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Използвай прости фигури за да се изчертаеш този човек.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>Изпълнява включените блокове, когато бъде \nнатиснат бутон 'Run Program'. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Изчертай звездата само с четири блока.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Изчертай формата само с три блока.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>надясно с</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Клюн</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Пера</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>крайно y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Избери предпочитан играч от това меню.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Изчертай малка жълта звезда, след това изчертай линия над нея.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Преместете фоновия кръг най-отгоре в програмата си. Тогава той ще се вижда зад човека.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Функции</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>при натискане на %1</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Върни играча обратно в началото на лабиринта.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Чертае линия от една точка до друга с указаната \nдебелина. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>линия</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Използвайте бутона "Виж Галерия" за да разгледате какви филмчета са направили другите. Ако сте начертали нещо интересно, използвайте "Постави в Галерия" за да споделите филмчето.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Чертае кръг на указаната позиция и с указания \nрадиус. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Дайте на човека двойка ръце.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>ширина</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>шрифт</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Връща текущата скорост на играча (0 е спрял, \n100 е пълна скорост). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>няляво с</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Стартирай програмата, която написа.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Изчистване на данните</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>барабан</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Отворете картинната галерия.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>кръг</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Направете филмче на каквото си пожелаете. Имате голям брой нови блокове за изследване. Приятно чертане!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Вашето фимче не се помръдва. Използвайте блокове за да направите нещо интересно. Тогава можете да поставите филмчето в галерията.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Блокове</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Завърта костенурката наляво или надясно със \nсъотвения ъгъл в градуси. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>ОК</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Костенурка</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Преместване на костенурката напред или назад на \nопределено разстояние. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Използвай този блок за движение в една посока, когато е уловен червей и в друга когато не е уловен.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Ти реши това ниво с 1 ред на JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Ти реши това ниво с %1 редoве на JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Вдига или сваля писалката, за да спре или \nзапочне рисуването. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Показва документация за езика</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Публикувайте ваш филм в галерията.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Плуване напред. Укажи посока (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Готов ли си за следващото предизвикателство?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Това ниво е филмче. Вие искате ръката на човека да се придвижи през екрана. Натиснете бутон play, за да видите преглед.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Има нов блок, който позволява да се повдигне писалката от хартията при придвижване:</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Този опонент е твърде далеч за да използвате оръдието (то има ограничение от 70 метра). Вместо това използвайте команда 'swim' за да заплувате към опонента и да се блъснете в него.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Заглавие:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>крайно x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>По време на филмчето, стойността на блока 'time' се променя от 0 до 100. Понеже искате 'y' позицията на ръката да започне от 0 и да стигне до 100, това би трябвало да е лесно.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Готов ли си за ниво %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Използвайте бутона "Виж Галерия" за да разгледате какво са начертали другите. Ако сте начертали нещо интересно, използвайте "Постави в Галерия" за да споделите рисунката.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Отказ</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Вашият записан файл не може да се зареди. Възможно ли е да е създаден с различна версия на Blockly?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>затишие %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>посока</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Остава %1 блок.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Остават %0 блока.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Остават %2 блока.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Игри за бъдещите програмисти.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>височина</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>ако има път надясно</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>ако има път наляво</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Изберете категория за да видите блоковете.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Играч</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Променя цвета на писалката.</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Създайте функция, която да изсвирва първите четири ноти от 'Frère Jacques'. Изпулнете тази функция два пъти. Не добавяйте никакви нови нотни блокове.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>Задай ширина</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://bg.wikipedia.org/wiki/%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Мед</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Изсвирете своята мелодия с цигулка.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Този нов блок ви позволява да използвате друг инструмент.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Жило</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Можеш ли да намериш път в този сложен лабиринт? Опитай да следваш стената отляво. Само за напреднали прогрмисти!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>вдигни писалката</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Виж Галерия</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>наляво</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>радиус</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>напред с</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Промени ъгъла на направлението за да накараш птицата да улови червея и да се приземи в гнездото си.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Отворете музикалната галерия.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Охлюв</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Почти! Само един блок е неправилен.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>снимка:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Текст</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Патица</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Котка</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Пчела</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>нормален</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>тромпет</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D1%82%D0%BA%D0%B0</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Изплашен</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Разгледайте галерията</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>изсвири %1 нота %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Отбелязаният блок е неправилен.
+Продължавай да опитваш.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>начално x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Сглоби няколко блока „напред“, за да ми помогнеш да стигна до целта.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Постави в Галерия</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Щракнете върху %1 в блок „ако“, за да промените неговото условие.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://bg.wikipedia.org/wiki/%D0%9E%D1%85%D0%BB%D1%8E%D0%B2</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Списъци</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Пъзел</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>задайте инструмента да бъде %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>Музиката ще звучи по-добре, ако използвате различен инструмент във всеки стартов блок.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' - това е текущата хоризонтална позиция. Използвай този блок за движение в една посока ако 'x' по-малко от зададеното число, или в друга посока ако не е по-малко.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>крака:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://bg.wikipedia.org/wiki/%D0%9F%D1%87%D0%B5%D0%BB%D0%B0</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Отворете филмовата галерия.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Поздравления!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Игри Blockly</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Галерия</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Променя цвета на писалката.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>удебелен</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Начертайте каквото си пожелаете. Имате голям брой нови блокове за изследване. Приятно чертане!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>повтаряй докато</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Цикли</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Постави в Галерия</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Благодарим Ви за тази програма! В случай че персоналът ни, състоящ се от дресирани маймунки, я хареса, ще я публикуват в галерията до няколко дни.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>Математическата формула за ръката е сложна. Ето и отговора:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>След като започнете да редактирате JavaScript, не можете да се върнете към редактиране на блокове. Искате ли да продължите?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Използвайте 'if' блока, за да нарисувате малка глава за първата половина на филма. След това нарисувайте голяма глава за втората половина на филма.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>избиране...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>начално y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Блокът 'time' отброява от 0 до 100. Този път обаче, Вие искате 'y' позицията на другата ръка да започне от 100 и да намалее до 0. Можете ли да откриете проста математическа формула, която да обърне посоката?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Езерце с инструктор</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>Изчертаването на 360 бели линии ще изглежда като пълнолуние.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Програмата ти не намери път в лабиринта. Натисни „Изчисти“ и опитай отново.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>първа част</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Документация</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>Покажи костенурката</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Премести в посоката на зададения ъгъл: 0 е \nнадясно, 90 е право нагоре и т.н. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>банджо</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>курсив</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Изпълни програмата си, за да видиш какво ще се случи.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Указване на шрифта, използван от блока "печат".</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>смени цвета на</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Филм</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x и y бележат позицията на птицата. \nКогато x=0 птицата е близо до левия \nкрай, когато x=100 тя е близо до десния \nкрай. При y=0 птицата е в дъното, при \ny=100 тя е на върха. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Изсвирва една музикална нота със зададена \nпродължителност и тон. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Решението работи, но може да се направи и по-добре.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Направи програма, която чертае квадрат.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Промени програмата да чертае петоъгълник вместо квадрат.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Вместо една звезда, може ли да се нарисуват четири звезди разположени в квадрат?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>няма червей</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Изчертай звездите, после изчертай четири бели линии.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Duck</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Може ли да добавите черен кръг, така че луната да се превърне в полумесец?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Промени дебелината на писалката.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>Превключва към зададения инструмент, \nкогато изсвирва последващите музикални \nноти. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Математика</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Изчаква за една цяла нота.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

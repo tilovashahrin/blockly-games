@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="tr">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Sümüksü madde</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>eğer yol ileride ise</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>liste</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>kalemi indir</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Bıyıklar</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Kürk</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Belirtilen konuma ve belirtilen genişlik ve \nyüksekliğe sahip bir dikdörtgen çizer. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Gölet</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>'Frère Jacques'in ilk dört notunu yazın.</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Kabuk</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>şu kadar geri git</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Rengi değiştirmenize izin veren yeni bir blok var:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Sarı bir yıldız çizin.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Bu seviye hem 'else if' hem de 'else' bloğuna ihtiyaç duyar.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>'if' bloğu yalnızca koşul doğruysa bir şeyler yapar. Sola giden bir yol varsa sola dönmeyi deneyin.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>koro</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>yap</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Bu seviye için tüm blokları kullandınız. Yeni bir blok oluşturmak için önce mevcut bir bloğu silmeniz gerekir.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Oyuncuya 90 derece sola veya sağa çevirir.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>'if' bloğunu değiştirmek için simgeyi tıklayın.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>PendulumSarkaç</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>yazı tipi boyutu</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Sıfırla</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Oyuncunun blokların söylediklerini yapmasını \nsağlar. </target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>'and' bloğu yalnızca her iki girişi de doğruysa doğrudur.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Bir not (C4 7'dir).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>keman</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>sağa dön</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Bacakları filmin ortasında ters yönde hareket ettirin.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Baştan başlamak ister misiniz?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>'else' bloğunu 'if' bloğuna sürükleyin.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>metin</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Tüm çözümleriniz silinsin mi?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>İstediğiniz her şeyi oluşturun. Keşfedebileceğiniz çok sayıda yeni blok var. İyi eğlenceler!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>gitar</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Her hayvan için (yeşil) resmini ekleyin, bacak sayısını seçin ve özelliklerinin bir yığınını yapın.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>özellikleri:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Belirtilen süre kadar bekler.</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Hedefi vurmak için 'cannon' komutunu kullanın. İlk parametre açı, ikinci parametre aralıktır. Doğru kombinasyonu bul.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Çiziminizi galeriye gönderin.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>Bir 'function' blokları bir arada gruplandırmanıza ve sonra birden fazla çalıştırmanıza izin verir.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Bu hedefe birçok kez vurulması gerekiyor. Süresiz bir şey yapmak için 'while (true)' döngüsünü kullanın.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Bu rakip aynı zamanda topu kullanamayacak kadar uzakta. Ancak bir çarpışmadan kurtulmak için çok zayıfsın. Yatay konumunuz 50'den azken rakibe doğru yüzün. Sonra 'durun' ve topu kullanın.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Topu ateşle. Bir yön (0-360) ve bir aralık \n(0-70) belirleyin. </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Yardım</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Bu rakip vurulduğunda uzaklaşacak. Menzil dışındaysa (70 metre) yüzün.</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Mantık</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Genetikler</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Oyuncunun mevcut sağlığını döndürür (0 ölü, \n100 sağlıklı). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Kuş</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Eğitimciler için bilgi...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Değişkenler</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Programı Çalıştır</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Muhteşem!
+%1 bloğun hepsi de doğru.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Üç sarı yıldız ve bir beyaz çizgi çizin.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 blok yanlış.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Metni, kaplumbağa yönünde bulunduğu yere çizer.</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labirent</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Galeriye Gönderin</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>rengi ayarla</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Çözümünüz işe yarıyor, ancak daha iyisini yapabilirsiniz. Topa ne kadar uzak ateş edileceğini söylemek için 'scan'ı kullanın.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Oynatıcının X koordinatını döndürür (0 sol \nkenar, 100 sağ kenardır). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Animasyondaki geçerli saati döndürür (0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>piyano</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>değilse</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Bu menzil 'cannon' komutunun tam olarak ateş etmesi için gereken şeydir.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Bu rakip ileri geri hareket ederek vurmayı zorlaştırıyor. 'scan' ifadesi, rakibe tam olarak belirtilen yönde döndürür.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Oynatıcıyı bir boşluk ileri götürür.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://tr.wikipedia.org/wiki/Yazı_tipi</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Bu yeni blok sessiz bir gecikme ekler.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Üzgünüz, '%1' kaydedilmiş bir programla uyuşmuyor.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Yüzmeyi bırak. Oyuncu durur.</target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Kaplumbağayı (daire ve ok) görünür veya görünmez \nyapar. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Galeriye Bakın</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>İstekle ilgili bir sorun oluştu.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Programınızı durana kadar çalıştırın. Ardından müziğinizi galeriye gönderebilirsiniz.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>dikdörtgen</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Belirtilen yönde bir yol varsa, \nilk eylem bloğunu yapın. Aksi \ntakdirde, ikinci eylem bloğunu \nyapın. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Müziğinizi galeriye gönderin.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Yanıtları Kontrol Et</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Kişinin arkasına genişleyen bir daire çizin.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>yazdır</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>İki gecikme bloğuna sahip ikinci bir başlangıç bloğu oluşturun, ardından 'Frère Jacques' oynayın.</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Müzik</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Düşmanları tarayın. Bir yön belirtin (0-360). \nBu yöndeki en yakın düşmana olan mesafeyi verir. \nHiç düşman bulunmazsa Sonsuzluğu döndürür. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Her başlangıç bloğunda iki kez 'Frère Jacques' oynanmalıdır.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Her biri iki kez 'Frère Jacques' oynayan dört başlangıç bloğu oluşturun. Doğru sayıda gecikme bloğu ekleyin.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Belirtilen yönde bir yol varsa, \nbazı eylemler yapın. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>'Frère Jacques'in sonraki kısmı için üçüncü bir fonksiyon oluşturun. İlk dört not daha kısadır.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>'Frère Jacques' şarkısının tamamını tamamlayın.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>flüt</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Oynatıcının Y koordinatını döndürür (0 alt \nkenar, 100 üst kenardır). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Bitiş noktasına ulaşılana kadar ekteki işlemleri \ntekrarlayın. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Programı durdurun ve seviyeyi sıfırlayın.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>'Frère Jacques'in sonraki kısmı için ikinci bir fonksiyon oluşturun. Son not daha uzundur.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Kuş solucanı almadığı durum.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Programınızı durana kadar çalıştırın. Ardından çiziminizi galeriye gönderebilirsiniz.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>'tekrar' bloğuna birden fazla blok takabilirsiniz.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Renk</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>İf-else blokları bir şeyi yapar.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Başkalarının yazdıklarını görmek için 'Galeriye Bakın' düğmesini kullanın. İlginç bir şey oluşturursanız, yayınlamak için 'Galeriye Gönder' düğmesini kullanın.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Bacakları çapraz yapmak için önceki seviyede öğrendiklerini kullanın.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Bloklarınızı bu bağlantıyla paylaşın:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Çözümünüz işe yarıyor, ancak daha iyisini yapabilirsiniz. Tekrarlanan kod miktarını azaltmak için fonksiyonları kullanın.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Kaydedin ve bloklara bağlayın. </target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Yalnızca iki blok kullanarak bu yolun sonuna ulaşın. Bir bloğu bir kereden fazla çalıştırmak için 'tekrarla'yı kullanın.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>kaplumbağayı gizle</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Bu seviyede, beyaz çalışma alanındaki tüm blokları bir araya getirmeniz gerekir.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>ilerle</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Bu seviye son derece zordur. Atlamak ve bir sonraki oyuna geçmek ister misiniz? Daha sonra her zaman geri gelebilirsin.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Hedef</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Bu kişiyi çizmek için basit şekiller kullanın.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>'Programı Çalıştır' düğmesine tıklandığında \niçerideki blokları yürütür. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Yıldızı yalnızca dört blokla çizin.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Şekli yalnızca üç blokla çizin.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>şu kadar sağa dön</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Gaga</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Tüyler</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>bitiş y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Bu menüden favori oynatıcınızı seçin.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Küçük bir sarı yıldız çizin, ardından üzerine bir çizgi çizin.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Arka plan dairesini programınızın üstüne taşıyın. Sonra kişinin arkasında görünecektir.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>İşlevler</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>%1 simgesine tıkladığınızda</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Oynatıcıyı labirentin başlangıcına geri koyun.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Belirtilen genişlikte bir noktadan diğerine bir \nçizgi çizer. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>satır</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Diğer kişilerin çektiği filmleri görmek için 'Galeriye Bakın' düğmesini kullanın. İlginç bir film yaparsanız, yayınlamak için 'Galeriye Gönder' düğmesini kullanın.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Belirtilen yere ve belirtilen yarıçapa sahip bir \ndaire çizer. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Kişiye birkaç el verin.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>genişlik</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>yazı tipi</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Oynatıcının geçerli hızını döndürür (0 \ndurdurulur, 100 tam hızdır). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>şu kadar sola dön</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Yazdığınız programı çalıştırın.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Verileri temizle</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>davul</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Çizimler galerisini açın.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>daire</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>İstediğiniz her şeyin bir filmini yapın. Keşfedebileceğiniz çok sayıda yeni blok var. İyi eğlenceler!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Filminiz hareket etmiyor. İlginç bir şey yapmak için blokları kullanın. Ardından filminizi galeriye gönderebilirsiniz.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Bloklar</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Kaplumbağayı belirtilen derece kadar sola veya \nsağa çevirir. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>Tamam</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Kaplumbağa</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Kaplumbağayı belirtilen miktarda ileri veya geri \nhareket ettirir. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Solucanınız varsa bir başlığa veya solucanınız yoksa farklı bir başlığa gitmek için bu bloğu kullanın.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Bu seviyeyi 1 satır JavaScript ile çözdünüz:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Bu düzeyi %1 JavaScript satırı ile çözdünüz:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Çizimi durdurmak veya başlatmak için kalemi \nkaldırır veya indirir. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Dil belgelerini görüntüleyin.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Filminizi galeriye gönderin.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>İleriye doğru yüzün. Bir yön belirtin (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Bir sonraki mücadeleye hazır mısın?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Bu seviye bir film. Kişinin kolunun ekran boyunca hareket etmesini istiyorsunuz. Bir önizleme görmek için oynat düğmesine basın.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Hareket ettiğinizde kaleminizi kağıttan kaldırmanıza izin veren yeni bir blok var:</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Bu rakip topu kullanmak için çok uzak (70 metre sınırı var). Bunun yerine, rakibe doğru yüzmeye başlamak ve ona çarpmak için 'swim' komutunu kullanın.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Başlık:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>bitiş x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Film oynatılırken, 'zaman' bloğunun değeri 0'dan 100'e kadar sayar. Kolun 'y' konumunun 0'dan başlamasını ve 100'e gitmesini istediğiniz için bu kolay olmalıdır.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>%1 seviyesine hazır mısınız?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Başkalarının çizdiklerini görmek için 'Galeriye Bakın' düğmesini kullanın. İlginç bir şey çizerseniz, yayınlamak için 'Galeriye Gönder' düğmesini kullanın.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>İptal</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Kaydedilen dosya yüklenemedi. Belki de Blockly'nin farklı bir versiyonuyla oluşturuldu?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>kalan süre: %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>başlığı</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>%1 bloğunuz kaldı.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>%0 bloğunuz kaldı.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>%2 bloğunuz kaldı.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Yarının programcıları için oyunlar.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>yükseklik</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>sağa giden yol</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>sola giden yol</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Blokları görmek için bir kategori seç.Blokları görmek için bir kategori seçin.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Oyuncu</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Kalemin rengini değiştirir.</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>'Frère Jacques'in ilk dört notasını çalmak için bir işlev oluşturun. Bu işlevi iki kez çalıştırın. Yeni not blokları eklemeyin.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>genişliği ayarla</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://tr.wikipedia.org/wiki/Matbaacılık</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Bal</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Melodinizi bir keman ile çalın.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Bu yeni blok, başka bir enstrümana geçmenizi sağlar.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>İğne</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Bu karmaşık labirenti çözebilir misin? Sol duvarı takip etmeyi deneyin. Yalnızca gelişmiş programcılar!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>kalemi kaldır</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Galeriye Bakın</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>sola dön</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>yarıçap</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>şu kadar ileri git</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Kuşun solucanını ve yuvasına inmesini sağlamak için yön açısını değiştirin.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Müzik galerisini açın.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Salyangoz</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Neredeyse oluyordu! Bir blok yanlış.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>resim:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Metin</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Ördek</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Kedi</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Arı</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normal</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>trompet</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://tr.wikipedia.org/wiki/Kedi</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Korkmuş</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Galeriyi Bakın</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>%1 sürede %2 oynat</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Vurgulanan blok doğru değil.
+Denemeye devam et.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>başlangıç x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Hedefe ulaşmama yardımcı olmak için birkaç 'ileri' bloğunu bir araya getir.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Galeriye Gönder</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Durumunu değiştirmek için 'if' bloğunda %1 tıklayın.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://tr.wikipedia.org/wiki/Salyangoz</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Listeler</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Bulmaca</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>enstrümanı %1 olarak ayarla</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>Her başlangıç bloğunda farklı bir enstrüman kullanırsanız müzik daha iyi ses çıkarır.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' geçerli yatay konumunuzdur. 'x' sayıdan küçükse bir başlıkta, aksi takdirde farklı bir başlıkta gitmek için bu bloğu kullanın.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>bacaklar:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://tr.wikipedia.org/wiki/Arı</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Film galerisini açın.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Tebrikler!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blockly Oyunlar</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Galeri</target>
+      </trans-unit>
+      <trans-unit id="3616731507597101347" datatype="html">
+        <target>Tarayıcınızın konsoluna bir numara yazdırır.</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Kalemin rengini değiştirir.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>kalın</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>İstediğiniz her şeyi çizin. Keşfedebileceğiniz çok sayıda yeni blok var. İyi eğlenceler!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>kadar tekrar edin</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Döngüler</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Galeriye Gönderin</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Bu program için teşekkürler! Eğer eğitimli maymun personelimiz bunu beğendiyse, birkaç gün içinde galeriye yayınlayacaklar.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>Kol için matematiksel formül karmaşıktır. İşte cevap:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>JavaScript'i düzenlemeye başladığınızda, düzenleme bloklarına geri dönemezsiniz. Bu tamam mı?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Filmin ilk yarısına küçük bir kafa çizmek için 'if' bloğunu kullanın. Ardından filmin ikinci yarısı için büyük bir kafa çizin.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>seçim yapın...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>başlangıç y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>'Zaman' bloğu 0'dan 100'e kadar sayılır. Ama şimdi diğer kolun 'y' pozisyonunun 100'de başlamasını ve 0'a gitmesini istiyorsunuz. Yönü çeviren basit bir matematiksel formül bulabilir misiniz?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Gölet Eğitimi</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>360 beyaz çizgi çizmek dolunay gibi görünecektir.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Programınız labirenti çözmedi. 'Sıfırla'ya basın ve tekrar deneyin.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>ilk kısım</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Belgelendirme</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>kaplumbağayı göster</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Verilen açının yönünde hareket edin: 0 sağa, \n90 düz yukarı vb. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>banço</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>eğik</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Ne olduğunu görmek için programınızı çalıştırın.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Yazdırma bloğu tarafından kullanılan yazı tipini \nayarlar. </target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>rengi olarak ayarla</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Film</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x ve y, kuşun konumunu işaretler. \nX = 0 olduğunda kuş sol kenara \nyakındır, x = 100 olduğunda sağ \nkenara yakındır. Y = 0 olduğunda \nkuş en altta, y = 100 olduğunda en \nüsttedir. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Belirtilen süre ve adımda bir nota çalar.</target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Çözümünüz işe yarıyor, ancak daha iyisini yapabilirsiniz.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Kare çizen bir program oluşturun.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Kare yerine beşgen çizmek için programınızı değiştirin.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Bir yıldız yerine, bir karede düzenlenmiş dört yıldız çizebilir misiniz?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>solucanı yok</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Yıldızları çizin, ardından dört beyaz çizgi çizin.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://tr.wikipedia.org/wiki/Ördek</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Ayın hilal haline gelmesi için siyah bir daire ekleyebilir misiniz?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Kalemin genişliğini değiştirir.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>Sonraki müzik notalarını çalarken belirtilen \nenstrümana geçer. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matematik</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Bütün bir notu bekler.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

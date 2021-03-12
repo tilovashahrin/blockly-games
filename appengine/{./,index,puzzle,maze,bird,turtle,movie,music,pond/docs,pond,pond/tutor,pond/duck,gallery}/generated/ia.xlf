@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="ia">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Bava</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>si ha cammino avante</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>lista</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>poner stilo</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Mustachios</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Pellicia</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Designa un rectangulo in le position specificate \ne con le latitude e altitude specificate. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Stagno</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Compone le prime quatro notas de 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Concha</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>recular</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Il ha un nove bloco que permitte cambiar le color:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Designa un stella jalne.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Iste nivello require e un bloco 'si non si' e un bloco 'si non'.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Un bloco 'si' face qualcosa solmente si le condition es satisfacite. Essaya girar a sinistra si existe un cammino a sinistra.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>choro</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>face</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Tu ha usate tote le blocos pro iste nivello. Pro crear un nove bloco, tu debe primo deler un bloco existente.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Gira le jocator a sinistra o a dextra de 90 grados.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Clicca sur le icone pro modificar le bloco 'si'.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Pendulo</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>dimension de litteras</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Reinitialisar</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Face le jocator facer lo que le blocos dice.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>Le bloco 'e' es ver solmente si ambe su entratas es ver.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Un nota (C4 es 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>violino</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>girar a dextra</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Face inverter le direction del gambas al medietate del animation.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Vole recomenciar?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Traher un bloco 'si non' al bloco 'si'.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>texto</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Deler tote tu solutiones?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Compone lo que tu vole. Tu ha un massa de nove blocos a explorar. Diverte te!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>guitarra</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Pro cata animal (in verde), attacha su imagine, selige su numero de gambas, e face un pila de su tractos.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>tractos:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Attende le duration specificate.</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Usa le commando 'cannon' pro attinger le scopo. Le prime parametro es le angulo, le secunde parametro es le portata. Trova le combination juste.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Inviar tu designo al galeria.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>Un 'function' permitte gruppar blocos insimul, postea executar los plure vices.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Iste scopo debe esser attingite multe vices. Usa un bucla 'while (true)' pro facer qualcosa indefinitemente.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Iste opponente es etiam troppo lontan pro usar le cannon. Ma tu es troppo debile pro superviver un collision. Nata verso le opponente durante que tu position horizontal es minus de 50. Pois 'stop' e usa le cannon.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Discargar le cannon. Specifica un direction \n(0-360) e un portata (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Adjuta</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Iste opponente se allontanara quando es attingite. Nata verso illo si es foras de portata (70 metros).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Logica</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Genetica</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Retorna le sanitate actual del jocator (0 es \nmorte, 100 es in optime forma). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Ave</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Info pro educatores...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Variabiles</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Executar programma</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Perfecte!
+Tote le %1 blocos es correcte.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Designa tres stellas jalne e un linea blanc.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 blocos es incorrecte.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Designa texto in le direction del tortuca in su \nloco. </target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labyrintho</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Inviar al galeria</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>mitter color a</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Tu solution functiona, ma tu pote facer melio. Usa 'scan' pro indicar al cannon a que distantia tirar.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Retorna le coordinata X del jocator (0 es le \nbordo sinistre, 100 es le bordo dextre). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Retorna le tempore actual in le animation (0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>piano</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>si non</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Iste portata es exactemente lo que le commando 'cannon' require pro tirar con precision.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Iste opponente se move avante e retro, rendente lo difficile a toccar. Le expression 'scan' retorna le distantia exacte al opponente in le direction specificate.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Face le jocator avantiar un spatio.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://ia.wikipedia.org/wiki/Typo_de_litteras</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Iste nove bloco adde un pausa silente.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Infelicemente, '%1' non corresponde a alcun programma salveguardate.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Cessar de natar. Le jocator se arresta \nlentemente. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Rende le tortuca (circulo e flecha) visibile o \ninvisibile. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Vider galeria</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Il habeva un problema con le requesta.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Executa le programma usque al fin. Postea tu pote inviar tu musica al galeria.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>rectangulo</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Si existe un cammino in le direction \nspecificate, alora face le prime bloco \nde actiones. Si non, face le secunde \nbloco de actiones. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Inviar tu musica al galeria.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Verificar responsas</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Designa un circulo crescente detra le persona.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>scriber</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>Crear un secunde bloco de initio que ha duo blocos de pausa, postea etiam joca 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Musica</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Cercar inimicos. Specifica un direction (0-360). \nRetorna le distantia al inimico le plus proxime in \nille direction. Retorna Infinite si non trova \nalcun inimico. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Cata bloco de initio debe jocar 'Frère Jacques' duo vices.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Crea quatro blocos de initio que joca cata uno 'Frère Jacques' duo vices. Adde le numero correcte de blocos de pausa.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Si existe un cammino in le direction \nspecificate, alora face certe actiones. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Crea un tertie function pro le proxime parte de 'Frère Jacques'. Le quatro prime notas es plus curte.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Completa tote le melodia de 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>flauta</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Retorna le coordinata Y del jocator (0 es le \nbordo inferior, 100 es le bordo superior). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Repeter le actiones continite usque al puncto de \nfin. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Stoppar le programma e reinitialisar le nivello.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Crea un secunde function pro le proxime parte de 'Frère Jacques'. Le ultime nota es plus longe.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Le condition quando le ave non ha obtenite le \nverme. </target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Executa le programma usque al fin. Postea tu pote inviar tu designo al galeria.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Tu pote mitter plus de un bloco intra un bloco 'repeter'.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Color</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Un bloco "si/si non" face un cosa o le altere.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Usa le button 'Vider galeria' pro vider lo que altere personas ha componite. Si tu compone qualcosa de interesse, usa le button 'Inviar al galeria' pro publicar lo.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Usa lo que tu ha apprendite in le previe nivello pro facer gambas que se crucia.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Divide tu blocos con iste ligamine:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Isto functiona, ma tu pote facer melio. Usa functiones pro reducer le quantitate de codice repetite.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Salveguardar e ligar a blocos. </target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Attinge le fin de iste cammino con solmente duo blocos. Usa 'repeter' pro executar un bloco plus de un vice.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>celar tortuca</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>In iste nivello, tu debe impilar tote le blocos in le spatio de travalio blanc.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>avantiar</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Iste nivello es extrememente difficile. Vole tu saltar lo e passar al proxime joco? Tu pote sempre revenir plus tarde.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Scopo</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Usar formas simple pro designar iste persona.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>Executa le blocos al interior quando se clicca \nsur le button 'Executar programma'. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Designa le stella con solmente quatro blocos.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Designa le forma con solmente tres blocos.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>girar a dextra de</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Becco</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Plumas</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>fin y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Selige tu jocator favorite de iste menu.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Designa un parve stella jalne, postea designa un linea supra illo.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Displacia le circulo de fundo al parte superior de tu programma. Illo apparera alora detra le persona.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Functiones</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>quando %1 es cliccate</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Remitter le jocator al initio del labyrintho.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Designa un linea ab un puncto verso un altere \ncon le latitude specificate. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>linea</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Usa le button "Vider galeria" pro vider le animationes que altere personas ha facite. Si tu face un animation interessante, usa le button "Inviar al galeria" pro publicar lo.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Designa un circulo in le position specificate e \ncon le radio specificate. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Da al persona un par de manos.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>latitude</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>typo de litteras</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Retorna le velocitate actual del jocator (0 es \nimmobile, 100 es plen velocitate). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>girar a sinistra de</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Executar le programma que tu ha scribite.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Rader datos</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>tambur</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Aperir le galeria de designos. </target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>circulo</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Face un animation de lo que tu vole. Tu ha un massa de nove blocos a explorar. Diverte te!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Tu animation non se anima. Usa le blocos pro facer qualcosa interessante. Postea tu poterea inviar tu animation al galeria.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Blocos</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Gira le tortuca a sinistra o a dextra del numero \nde grados specificate. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Tortuca</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Displacia le tortuca in avante o a retro in le \nquantitate specificate. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Usa iste bloco pro vader in un direction si tu ha le verme, o in un altere direction si tu non ha le verme.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Tu ha solvite iste nivello con 1 linea de JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Tu ha solvite iste nivello con %1 lineas de JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Leva o pone le stilo pro cessar o comenciar a \ndesignar. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Monstrar le documentation del linguage.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Inviar tu animation al galeria.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Natar in avante. Specifica un direction (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Es tu preste pro le proxime defia?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Iste nivello es un animation. Tu vole displaciar le bracio del persona a transverso le schermo. Preme sur le button reproducer pro vider un exemplo.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Il ha un nove bloco que permitte levar le stilo quando tu lo displacia:</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Iste opponente es troppo lontan pro usar le cannon (que ha un limite de 70 metros). Usa, in vice, le commando 'swim' pro comenciar a natar verso le opponente e collider contra illo.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Titulo:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>fin x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Durante que le animation passa, le valor del bloco 'tempore' conta de 0 a 100. Post que tu vole que le position 'y' del bracio comencia a 0 e va usque a 100, isto deberea esser facile.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Es tu preste pro le nivello %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Usa le button "Vider galeria" pro vider lo que altere personas ha designate. Si tu designa qualcosa de interesse, usa le button "Inviar al galeria" pro publicar lo.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Cancellar</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Impossibile cargar le file salveguardate. Pote esser que illo ha essite create con un altere version de Blockly?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>attender %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>in direction</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Te resta %1 bloco.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Te resta %0 blocos.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Te resta %2 blocos.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Jocos pro le programmatores del futuro.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>altitude</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>si ha cammino a dextra</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>si ha cammino a sinistra</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Elige un categoria pro vider le blocos.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Jocator</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Cambia le color del stilo.</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Crea un function pro reproducer le prime quatro notas de 'Frère Jacques'. Executa le function duo vices. Non adde nove blocos de nota.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>mitter latitude a</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://ia.wikipedia.org/wiki/Impression</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Melle</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Jocar tu melodia con un violino.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Iste nove bloco te permitte cambiar a un altere instrumento.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Aculeo</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Pote tu solver iste labyrintho complexe? Essaya a sequer le muro sinistre. Programmatores experte solmente!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>levar stilo</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Vider galeria</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>girar a sinistra</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>radio</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>avantiar</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Modifica le angulo del indicator de maniera que le ave attrappa le verme e atterra in su nido.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Aperir le galeria de musica.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Coclea</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Quasi! Un bloco es incorrecte.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>imagine:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Texto</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Anate</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Catto</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Ape</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normal</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>trompetta</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://ia.wikipedia.org/wiki/Catto</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Pavorose</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Vider galeria</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>reproducer nota %2 per %1</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Le bloco marcate non es correcte.
+Face un altere essayo.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>initio x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Impila un par de blocos 'avantiar' pro adjutar me a attinger le fin.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Inviar al galeria</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Clicca sur %1 in le bloco 'si' pro cambiar su condition.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://ia.wikipedia.org/wiki/Coclea</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Listas</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Puzzle</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>mitter instrumento a %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>Le musica sonara melio si tu usa un instrumento differente in cata bloco initial.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' es tu position horizontal actual. Usa iste bloco pro vader in un direction si 'x' es minor de un numero, o alteremente in un altere direction.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>gambas:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://ia.wikipedia.org/wiki/Ape</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Aperir le galeria de animationes.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Felicitationes!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Jocos Blockly</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Galeria</target>
+      </trans-unit>
+      <trans-unit id="3616731507597101347" datatype="html">
+        <target>Scribe un numero sur le consola de tu navigator.</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Cambia le color del stilo.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>grasse</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Designa lo que tu vole. Tu ha un massa de nove blocos a explorar. Diverte te!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>repeter usque a</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Buclas</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Inviar al galeria</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Gratias pro iste programma! Si nostre equipa lo ama, illes lo publicara in le galeria intra alcun dies.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>Le formula mathematic pro le bracio es complicate. Ecce le responsa:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Un vice que tu comencia a modificar JavaScript, tu non potera revenir a modificar blocos. De accordo?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Usa le bloco 'si' pro designar un micre capite pro le prime medietate del animation. Postea designa un grande capite pro le secunde medietate del animation.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>selige...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>initio y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Le bloco 'tempore' conta de 0 a 100. Ma ora tu vole que le position 'y' del altere bracio comencia a 100 e va usque a 0. Pote tu trovar un formula mathematic simple que inverte le direction?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Intro a Stagno</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>Designar 360 lineas blanc producera un apparentia de luna plen.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Tu programma non ha solvite le labyrintho. Preme 'Reinitialisar' e proba de novo.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>prime parte</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Documentation</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>revelar tortuca</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Displaciar se in le direction del angulo date: 0 \nes a dextra, 90 es in alto, etc. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>banjo</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>italic</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Executa tu programma pro vider lo que eveni.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Selige le typo de litteras usate per le bloco \n'scriber'. </target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>mitter color a</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Film</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x e y marca le position del ave. \nQuando x = 0 le ave es proxime al \nbordo sinistre, quando x = 100 illo \nes proxime al bordo dextre. Quando \ny = 0 le ave es in basso, quando \ny = 100 illo es in alto. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Reproduce un nota musical del duration e tono \nspecificate. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Isto functiona, ma tu pote facer melio.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Crea un programma que designa un quadrato.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Modifica tu programma pro designar un pentagono in loco de un quadrato.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>In loco de un stella, pote tu designar quatro sellas arrangiate in quadrato?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>non ha verme</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Designa le stellas, postea designa quatro lineas blanc.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://ia.wikipedia.org/wiki/Anate</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Pote tu adder un circulo nigre de maniera que le luna deveni un crescente?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Cambia le latitude del stilo.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>Cambia al instrumento specificate quando se \nreproduce altere notas musical. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Mathematica</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Attende un nota integre.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

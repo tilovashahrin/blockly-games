@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="yo">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Iwọn didun</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>bi ọna ba wa niwaju</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>akojọ</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>Ohun ikowe isalẹ</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Igbekuro</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Irun</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Ya onigun mẹẹrin kan ni ipo ti a ti yan ati pẹlu \niwọn fiife ati giga. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Olukọ</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Ṣe asajọ awọn akọsilẹ mẹrin ti 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Ikarahun</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>sun seyin nipasẹ</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Bulooki tuntun kan wa ti yoo fun laaye lati yi awọ pada:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Ya irawo alawo ofeefee.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Ipele yii nilo awon mejeji 'omiiran bi' ati  'bibẹẹkọ' bulooki</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Bulọọki 'bi' kan yoo ṣe nkan kan nikan ti ipo ba jẹ otitọ. Gbiyanju apa osi bi ipa ba wa ni apa osi.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>akorin</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>ṣe</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>O ti lo gbogbo awọn bulọọki fun ipele yii tan. Lati ṣẹda bulọọki tuntun, o nilo lati kọkọ pa bulọọki to wa nilẹ tẹlẹ rẹ.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Yi olutayo naa si osi tabi si otun ni 90 digiri.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Tẹ aami lati se ayipada 'bi' naa pada.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Iwọn</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>iwon awon leta</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Atunto</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Mu ki oludije ṣe ohun ti awọn bulọọki sọ.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>Bulooki 'ati' naa jẹ otitọ nikan ti awọn mejeji igbewọle ba jẹ otitọ.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Akosile kan (C4 jẹ 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>violini</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>ya si apa ọtun</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Ṣe awọn ese naa yi ọna won pada ni agbede meji nipasẹ fiimu naa.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>O fẹ lati tun bẹrẹ?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Fa 'bibẹẹkọ' bulooki sinu 'bi'.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>ọrọ</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Pa gbogbo awọn ojutu rẹ rẹẹ?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Ṣe asajọ ohunkohun ti o fẹ. O  ni nọmba ti opọ fun awọn bulọọki tuntun ti o le ṣe awari. Gbadun ara ẹ!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>gita</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Fun ẹranko kọọkan (alawọ ewe),  aworan rẹ wa nibẹ, yan iye ẹsẹ ti o ni, ki o si ṣe akopọ awọn iwarẹ</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>awọn iwa:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Duro fun akoko kan pato.</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Lo aṣẹ 'ibon' lati ba awọn afojusun naa. Ipele akọkọ jẹ igun naa, ipele keji ni sakani. Wa ajosepo to gun rege.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Fi aworan rẹ sowo si ibi iṣafiha fọto.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>'Iṣẹ' kan faye gba ọ lati ṣe akojọpọ awọn bulooki ohun pọ, lẹhinna ṣe wọn siwaju ju ẹẹkan lọ.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Afojusun yii nilo lati lu ni ọpọlọpọ igba. Lo 'nigbati (otitọ) 'lupu lati ṣe nkan ni kiakia.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Alatako yi jina ju lati lo ibọn. Sugbọn o ko ni okun lati yẹẹ ti o ba forigbari. Wẹ lo sọdọ alatako nigbati ibi ti o wa ko to 50. Leyinna da 'duro' ki o si lo ibọn.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Yin ibon naa. Wa itona kan pato (0-360) ati \nsakani (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Ìrànwọ́</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Alatako yi yoo lọ kuro nigbati o ba lu. Wẹ lọ si ọna ti o ba wa ni ibiti a ti le ri (70 mitta).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Irogun</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Awon Jiini</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Da ilera oludije naa lọwọlọwọ pada (0 ti ku, \n100 ni ilera). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Ẹyẹ</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Fun alaye diẹ sii...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Oniruru</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Ṣe Eto</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Ope! Gbogbo ẹ %1 awọn bulọọki jẹ pipeye.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Ya irawo alawo ofeefee meta, ki o si fa ila kan soke rẹ.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 awọn bulọọki jẹ aipeye.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Fa ọrọ si ona itọna adabai ni ibudo rẹ.</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Iruju</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Firanṣẹ si ibi iṣafiha fọto</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>ṣeto awọ si</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Iṣẹ ojutu rẹ ṣiṣẹ, ṣugbọn o le ṣe dada sii. Lo 'ayẹwo' lati sọ bi ibon naa se rin jina to.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Da X naa pada se akoso oludije naa (0 je igun \napa osi, 100 je igun apa osi). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Da akoko tio wa yii pada ninu aworan (0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>duuru</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>bibẹẹkọ</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Ibi afojusun yi jẹ ohun gangan ti aṣẹ 'ibọn' nilo lati tan ni deede.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Alatako yii n lọ sẹyin ati siwaju, jẹ o ko ṣòro lati lu. Ọrọ 'ayẹwo' naa tun da ibi gangan pada si ibi ti ialatako ni ọna kan pàtó.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Mu olutayo naa lọ siwaju alafo kan.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Bulọọki tuntun yii ṣe afikun idaduro</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Ma binu, '%1' ko ṣe ibamu pẹlu eyikeyi eto ti a fipamọ.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Da iwẹ duro. Oludije yoo daa duro diẹ diẹ. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Je ki adaba (iyika ati itọka) to han tabi alaihan.</target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Wo ibi iṣafiha fọto</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Iiṣoro wa pẹlu ìbeere naa.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Ṣe eto titi ti yoo fi duro. Lẹhinna o le fi orin rẹ silẹ si ibi iṣafiha.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>onigun mẹrin</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Bi ona ba wa ni itọsọna pato, lẹhinna gbe igbese \nbulọọki akọkọ. Bibẹẹkọ, gbe igbese bulọọki keji. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Fi orin rẹ sowo si ibi iṣafiha orin.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Ṣayẹwo Awọn Idahun</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Fa ila ti o tobi sii lẹhin ẹniyan naa.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>titẹ</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>Ṣẹda keji bulọọki ti o beere ti o ni bulọọki idaduro meji, lẹhinna tun tẹ 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Orin</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Ṣayẹwo fun awọn ọta. Wa itọsọna kan pato \n(0-360). Da ijinna pada si ọta ti o sunmọ \njulọ ni ọna yii. Da Infiniti ti ko ba si \nọta kankan. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Ibẹrẹ kọọkan gbọdọ tẹ 'Frère Jacques' lẹẹmeji</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Ṣẹda awọn bulọọki ibere mẹẹrin ti ọkọọkan yoo tẹ lẹẹmeji. Ṣe afikun  awọn ojulowo nọmba ti bulọọki idaduro.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Bi ona ba wa ni itọsọna pato, lẹhinna gbe awọn \nigbese kan. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Ṣẹda iṣẹ kẹta kan fun abala tio kan  ti 'Frère Jacques'. Awọn akọsilẹ mẹrin akọkọ jẹ kukuru.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Pari ohun orin ni kikun ti 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>feere</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Da Y naa pada se akoso oludije naa (0 je igun \nisale, 100 je igun oke). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Tun ṣẹ iṣeduro lẹẹkansi titi ti ipari yoo fi de \nojuami. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Da eto naa duro ki o si tun ipele naa to pada.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Ṣẹda iṣẹ keji fun aaye ti o tẹle ti 'Frère Jacques'. Akọsilẹ ti o kẹhin jẹ gun.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Ipo naa nigbati eye ko ba ri aran gba.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Ṣe eto rẹ titi ti yoo fi duro. Lẹhinna o le fi aworan rẹ owo si  ibi iṣafiha fọto.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>O le fi bulọọki ti o ju eyọkan lọ si inu 'itunse' bulọọki</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Awọ</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Bi-bibẹẹkọ bulooki yoo ṣe iṣiṣe kan tabi omiran.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Lo bọtini "Wo ibi iṣafiha fọto " lati ri ohun ti awọn eniyan miiran ti ko. Ti o ba kọ nkan ti o dara, lo bọtini "Firanṣẹ si ibi iṣafiha fọto " lati gbejade.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Lo ohun ti o kọọ ni ipele ti o koja lati ṣe awọn ẹsẹ ti se agbelebu.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Ṣe alabapin awọn bulooku rẹ pẹlu asopọ yii:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Iṣẹ ojutu rẹ ṣiṣẹ, ṣugbọn o le ṣe dara jubẹ lọ. Lo awọn iṣe lati ṣẹ dinku iye koodu ti o tun tẹ.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Fipamọ ki o si sopọ mọ awọn bulọọki.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>De opin si ọna yi pẹlu lilo awọn bulọọki meji. Lo 'tunse' lati ṣe bulọọki ju ẹẹkan lọ</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>fi adaba pamo</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Ni ipele yii, o nilo lati ṣe asopọ gbogbo awọn bilooki ni aaye iṣẹ funfun.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>tẹsiwaju</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Ipele yii niraa gidigidi. Ṣe o fẹ foda ki o lọ si ere idaraya ti o tẹle? O le pada wa nigbamii.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Afojusun</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Lo awọn ọna ti o rọrun lati ya eniyan yii.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>Ṣẹ awọn bulọọki ninu nigba ti o ba tẹ bọtini 'Ṣe \nEto'. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Ya irawo pẹlu awọn bulọọki mẹẹrin peere.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Ya irisi naa pẹlu awọn bulọọki mẹta peere.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>yi si ọtun nipasẹ</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Ẹnu ẹyẹ</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Iyẹ</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>pari y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Yan aayo oludije rẹ lati inu akojọ aṣayan yii.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Ya irawo alawo ofeefee kekere kan, ki o si fa ila kan soke rẹ.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Sun agbetẹlẹ iyika si oke ti eto rẹ. Lẹhinna yoo farahan lẹhin eniyan naa.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Iṣe</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>nigbati %1 tẹ</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Fi oludije naa pada si ibẹrẹ ti iruniloju.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Fa ila kan lati ojuami kan si omiran pẹlu iwọn \nfiife kan. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>ila</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Lo bọtini "Wo ibi iṣafiha fọto " lati ri ohun ti awọn eniyan miiran ti ko. Ti o ba kọ nkan ti o dara, lo bọtini "Firanṣẹ si ibi iṣafiha fọto " lati gbejade.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Ya iyika kan ni ipo ti a ti yan ati pẹlu iwọn \nila arin ti o wa. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Fun eniyan ni ọwọ melo kan.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>fífẹ̀sí</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>awon leta</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Da iyara oludije naa lọwọlọwọ pada (0 o ti duro, \n100 o wa iyara kikun). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>yi si osi nipasẹ</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Ṣiṣe lori eto naa ti o kọ</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Pa data rẹ</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>ilu</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Ṣii awọn aworan ti o wa ni ibi iṣafiha fọto.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>ayika</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Ṣe fiimu lori ti ohunkohun ti o fẹ. O ni opolopo bulọọki tuntun ti o le ṣe awari Gba dun ara ẹ!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Fiimu rẹ ko lo siwaju. Lo awọn bulọọki lati ṣe nkan ti o joju. Lẹhinna o le fi fiimu rẹ sowo si ibi iṣafiha fọto.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Bulọọku</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Yi adaba si osi tabi ọtun nipasẹ awon iye nọmba \ndiigiri kan. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>O DARA</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Adaba</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Sun adaba lọ siwaju tabi sẹhin nipasẹ iye kan pato.</target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Lo bulọọki yii lati lọ si akori kan ti o ba ni aran, tabi akori miran ti o ko ba ni aran.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>O ti yanju ipele yii pẹlu 1 ila JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>O ti yanju ipele yii pẹlu %1 awon ila JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Gbe ohun ikoew tabi gbe sile, lati daa duro tabi \nbẹrẹ iyaworan. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Ṣe afihan awọn Iwe akosilẹ ede.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Fi fiimu rẹ sowo si ibi iṣafiha.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Wẹ siwaju. Wa itona kan pato (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Ṣe o ṣetan fun ipenija ti o kan?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Ipele yii jẹ fiimu. O fẹ ki apa ẹni naa gba oju iworan koja. Tẹ bọtini ere lati wo awotẹlẹ</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Bulooki tuntun niyi ti yoo fun laaye lati gbe peni rẹ kuro lori iwe nigbati o ba sun:</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Alatako yi jina ju lati lo ibọn (ti o ni odiwọn of 70 mitta). Dipo, lo asẹ 'iwe' lati beere iwe wiwe si odo alatako ki o wọ inu rẹ lọ.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Akọle:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>pari x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Bi fiimu naa ṣe n ṣiṣẹ, iye 'akoko' bulooki yoo ka lati ori 0 si 100. Niwon igbati ti o fẹ ipo 'y' ti apa lati bẹrẹ ni 0 ati lọ si 100 o yẹ ki o rọrun.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Ṣe o ṣetan fun ipele %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Lo bọtini "Wo ibi iṣafiha fọto " lati ri ohun ti awọn eniyan miiran ti ko. Ti o ba kọ nkan ti o dara, lo bọtini "Firanṣẹ si ibi iṣafiha fọto " lati gbejade.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Fagilé</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Ko le gbe faili ti o fipamọ jade. Boya o ti ṣẹda re pẹlu irufe oriṣiriṣi Blockly?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>sinmi %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>akọle</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>O ni awọn bulọọki %1 ti o kù.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>O ni awọn bulọọki %0 ti o kù.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>O ni %2 bulọọki ti o kù.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Ere fun awọn pirogirama ọla.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>gígasí</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>ti ọna ba wa si otun</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>ti ọna ba wa si osi</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Yan ẹka kan lati wo awọn bulọọki</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Oludije</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Ṣe ayipada si awọ ohun ikọwe</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Ṣẹda iṣẹ lati tẹ awọn akọsilẹ mẹrin akọkọ ti 'Frère Jacques'. Ṣe iṣẹ naa lẹmeji. Mase fi awọn bulọọki tuntun eyikeyi kun.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>ṣeto fiifẹ si</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Oyin</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Tẹ ohun orin rẹ pẹlu violini</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Bulọọki tuntun yii jẹ ki o se ayipada si ohun elo miiran.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Agbọn</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Ṣe o le yanju iṣaju idiju yii? Gbiyanju lati tẹle odi ọwọ osi. Awọn olutọpa ti won pegede nikan!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>Ohun ikowe oke</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Wo ibi iṣafiha fọto</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>ya si apa osi</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>Ila arin</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>sun siwaju nipasẹ</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Yi igun akọle pada lati jẹ ki eye gba aran ati lati ba sinu itẹ rẹ</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Ṣii awọn ibi iṣafiha orin.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Igbin</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>O ku diẹ! Bulọọki kan jẹ aipeye.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>aworan:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Ọrọ</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Pẹpẹyẹ</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Ológbò</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Oyin</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>deede</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>ipè</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://yo.wikipedia.org/wiki/Ol%C3%B3gb%C3%B2</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Olusare</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Wo ibi iṣafiha fọto</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>tẹ %1 akosile %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Bulọọki ti fihan ko peye. Gbiyanju siwaju si.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>beere x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Ṣeto opolopo ti 'te siwaju' bulọọki papọ lati ṣe iranlọwọ fun mi lati de ibi ìlepa.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Firanṣẹ si ibi iṣafiha fọto</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Tẹ i %1 ni "bi" lati yi ipo rẹ pada.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Snail</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Akojọ</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Adojuru</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>ṣeto ohun elo orin si %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>Orin yoo dun dada si ti o ba lo ohun elo orin miiran ni ibere eyikeyi bulooki.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' jẹ ipo petele ti o wa bayi. Lo bulooki yii lati lọ si akori kan ti o ba jẹ pe 'x' kere ju nọmba kan lọ, tabi akori miiran bibẹkọ.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>ese:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Bee</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Ṣii ibi aworan ti awọn sinima. </target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Ku oriire!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Ere Blocky</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Iṣafiha</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Ṣe ayipada si awọ ohun ikọwe</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>leta titobi</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Ya ohunkohun ti o fẹ. O ni opolopo bulọọki ti o le ṣe awari. Gba dun ara ẹ!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>tun ṣe titi ti</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Ilosiwaju losehin</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Firanṣẹ si ibi iṣafiha fọto</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>O ṣeun fun eto yii! Ti awọn oṣiṣe wa ba fẹran rẹ, wọn yoo gbejade si ibi iṣafiha fọto ni arin ọjọ diẹ.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>Ilana isiro fun apa jẹ ohun idiju. Eyi ni idahun naa:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Lọgan ti o bẹrẹ ṣi ṣatunkọ JavaScript, o ko le pada si  idatunkọ bulọọku mo. Ṣe eyi dara?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Lo bọtini 'bi' lati ya ori kekere kan fun idaji akọkọ ti fiimu naa. Lẹhinna ya ori nla kan fun idaji keji ti fiimu naa.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>yan...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>beere y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Aago 'akoko' naa nkaa lati 0 si 100. Ṣugbọn nisisiyi o fẹ ipo 'y' ti apa miiran bẹrẹ ni 100 ati lọ si 0. Njẹ o le ṣafọri agbekalẹ isiro kan ti o si si itọnisọna naa?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Omi ikudu</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>Fai la funfun 360 ti yoo dabi oṣupa kikun.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Eto rẹ ko yanju iruniloju naa. Tẹ 'Atunto' ki o tun gbiyanju lẹẹkansi.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>abala akọkọ</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Iwe akosilẹ</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>fi adaba han</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Lo si ipa ọna ti igun ti a fifun: 0 si apa otun, \n90 je ona oke tara, ati bẹbẹ lọ. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>banjo</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>leta wiwo</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Ṣe eto rẹ lati wo ohun ti yoo ṣẹlẹ.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Ṣeto awo omi ti a lo nipasẹ titẹ bulooku.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>ṣeto awọ si</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Fiimu</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x ati y samisi ipo eye. Nigbati x = 0 eye naa \nsunmọ igun apa osi, nigbati x = 100 o sunmọ igun \napa otun. Nigbati y = 0 eye naa wa ni isale, \nnigbati y = 100 o wa ni oke. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Tẹ orin akọsilẹ kan ni iye akoko ati iru ohun.</target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Ojutu rẹ ṣiṣẹ, ṣugbọn o le ṣe dada si.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Ṣẹda eto ti o ya onigun mẹẹrin kan</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Yi eto rẹ pada lati ya onigun marun dipo ti onigun mẹẹrin.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Dipo irawọ kan, o le ya irawọ mẹẹrin sinu onigun mẹẹrin?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>ko ni aran</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Ya irawo naa, ki o si fa ila funfun mẹẹrin.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Duck</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Njẹ o le ṣafikun iyika dudu kan ki oṣupa naa di oṣupa ti ko i ti yọ tan?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Paarọ fiife ohun ikọwe.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>Yipada si ohun elo orin kan pato nigbati o ba n \nṣilẹkọ awọn akọsilẹ orin. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Isiro</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Duro fun akọsilẹ ọkan kan.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

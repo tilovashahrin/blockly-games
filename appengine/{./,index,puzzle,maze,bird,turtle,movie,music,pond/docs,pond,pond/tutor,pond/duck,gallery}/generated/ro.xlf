@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="ro">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Slime</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>dacă o cale înainte</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>listă</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>coboară stiloul</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Mustăți</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Blană</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Desenează un dreptunghi în locația specificată \nși cu lățimea și înălțimea specificate. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Pond</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Scrieți primele patru note ale lui 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Cochilie</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>deplasează înapoi cu</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Există un nou bloc care vă permite să modificați culoarea:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Desenați o stea galbenă.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Acest nivel necesită atât un bloc 'else if', cât și un 'else'.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Un bloc 'dacă' face ceva numai dacă condiția este adevărată. Încearcă să cotești la stânga dacă există o cale la stânga.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>cor</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>execută</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Ai folosit toate blocurile pentru acest nivel. Pentru a crea un nou bloc, trebuie mai întâi să ștergi un bloc existent.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Rotește personajul la stânga sau la dreapta cu \n90 de grade. </target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Faceți clic pe pictograma pentru a modifica blocul "if".</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Pendulă</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>dimensiunea fontului</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Resetează</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Face ca personajul să execute comenzile blocurilor.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>Blocul 'and' este valabil numai dacă ambele intrări sunt adevărate.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>O notă (C4 este 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>vioară</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>întoarce la dreapta</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Faceți picioarele să meargă în direcția inversă la jumătatea filmului.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Vrei să începi?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Trageți un bloc 'else' în blocul 'if'.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>text</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Ștergeți toate soluțiile?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Compune orice vrei. Ai un număr mare de blocuri noi pe care le poți explora. Distrează-te!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>chitară</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Pentru fiecare animal (verde), atașați imaginea, alegeți numărul de picioare și faceți o serie de trăsături.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>calități:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Se așteaptă durata specificată.</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Utilizați comanda 'tun' pentru a atinge ținta. Primul parametru este unghiul, al doilea parametru este intervalul. Gasește combinația corectă.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Trimiteți desenul spre galerie.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>O 'function' care vă permite să grupați blocurile împreună, apoi să executați mai multe de o dată.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Acest obiectiv trebuie să fie lovit de mai multe ori. Utilizați o buclă 'while (true)' pentru a face ceva pe termen nelimitat.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Acest adversar este, de asemenea, prea departe pentru a folosi tunul. Dar ești prea slab pentru a supraviețui unei coliziuni. Învârtiți spre adversar în timp ce poziția dvs. orizontală este mai mică de 50. Apoi 'opriți' și utilizați tunul.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Focul de tun. Specificați o direcție (0-360) și \nun interval (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Ajutor</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Acest adversar se va îndepărta atunci când este lovit. Înotați spre el dacă este în afara razei de acțiune (70 de metri).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Logic</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Genetics</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Returnează sănătatea actuală a jucătorului (0 \neste mort, 100 este sănătos). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Păsări</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Mai multe informații</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Variabile</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Rulează programul</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Perfect!
+Toate cele %1 (de) blocuri sunt corecte.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Desenați trei stele galbene și o linie albă.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 (de) blocuri sunt incorecte.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Desenează textul pe direcția țestoasei și în \npoziția acesteia. </target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labirint</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Trimiteți la Galerie</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>setează culoarea la</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Soluția ta funcționează, dar poți face mai bine. Utilizați 'scanare' pentru a spune tunului cât de departe să tragă.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Returnează coordonatele X ale jucătorului (0 \neste marginea din stânga, 100 este marginea \ndreaptă). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Returnează ora curentă în animație (0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>pian</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>altfel</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Această gamă este exact ceea ce comanda 'tunului'  trebuie să declanșeze cu exactitate.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Acest adversar se mișcă înainte și înapoi, ceea ce face dificilă lovirea. Expresia 'scanare' returnează intervalul exact la adversar în direcția specificată.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Mută jucătorul înainte cu un singur spațiu.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://ro.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Acest nou bloc adaugă o întârziere tacită.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Scuze, „%1” nu corespunde nici unui program salvat.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Opriți înotul. Jucătorul va înceta să se \noprească. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Face țestoasa (cercul și săgeata) vizibilă sau \ninvizibilă. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Vedeți Galeria</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>A apărut o problemă la solicitare.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Rulați programul până se oprește. Apoi, puteți trimite muzica la galerie.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>dreptunghi</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Dacă există o cale în direcția specificată, \natunci execută primul bloc de acțiuni. \nÎn caz contrar, execută al doilea bloc de \nacțiuni. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Trimiteți-vă muzica la galerie.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Verifică răspunsurile</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Desenați un cerc în spatele persoanei.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>afișează</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>Creați un al doilea bloc de pornire care are două blocuri de întârziere, apoi joacă și 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Muzică</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Căutați inamici. Specificați o direcție (0-360). \nReturnează distanța până la cel mai apropiat \ndușman în acea direcție. Returnează Infinit dacă \nnu s-a găsit niciun inamic. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Fiecare bloc de pornire trebuie să joace de două ori 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Creați patru blocuri de start care fiecare joacă 'Frère Jacques' de două ori. Adăugați numărul corect de blocuri de întârziere.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Dacă există o cale liberă în direcția aleasă, \natunci execută câteva acțiuni. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Creați a treia funcție pentru următoarea parte a 'Frère Jacques'. Primele patru note sunt mai scurte.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Finalizați melodia completă a lui 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>flaut</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Returnează coordonatele Y ale playerului (0 este \nmarginea de jos, 100 este marginea de sus). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Repetă comenzile incluse până când atinge \npunctul de final. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Opriți programul și resetați nivelul.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Creați a doua funcție pentru următoarea parte a 'Frère Jacques'. Ultima notă este mai lungă.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Situația când pasărea nu a dobândit viermele.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Rulați programul până se oprește. Apoi puteți trimite desenul la galerie.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Poți include mai mult de un bloc în interiorul unui bloc „repetă până când”.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Culoare</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Blocurile „dacă-altfel” vor efectua fie o anumită acțiune, fie pe cealaltă.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Utilizați opțiunea "Vezi galerie" pentru a vedea ce alte persoane au compus. Dacă compuneți ceva interesant, utilizați butonul "Trimiteți la Galerie" pentru a publica.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Utilizați ceea ce ați învățat la nivelul anterior pentru a face picioare care se încrucișează.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Distribuie-ți blocurile folosind această legătură:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Soluția ta funcționează, dar poți face mai bine. Utilizați funcțiile pentru a reduce cantitatea de cod repetat.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Salvează și adaugă la blocuri. </target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Mergi până la sfârşitul acestui drum, utilizând doar două blocuri. Pentru a rula un bloc de mai multe ori folosește comanda "repetă".</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>ascunde țestoasa</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>La acest nivel trebuie să alipești toate blocurile în spațiul de lucru alb.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>merge înainte</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Acest nivel este extrem de dificil. Doriți să îl săriți și să mergeți la următorul joc? Vă puteți întoarce întotdeauna mai târziu.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Ţintă</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Utilizați forme simple pentru a desena această persoană.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>Execută blocurile din interior atunci când se \nface clic pe butonul 'Run Program'. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Desenați steaua cu doar patru blocuri.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Desenați forma cu doar trei blocuri.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>întoarce la dreapta cu</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Cioc</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Pene</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>sfârșit y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Alege-ți personajul favorit din acest meniu.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Desenați o mică stea galbenă, apoi trageți o linie deasupra ei.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Deplasați cercul de fond în partea de sus a programului. Apoi, va apărea în spatele persoanei.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Funcții</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>când %1 a făcut clic</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Trimite personajul la punctul de început al \nlabirintului. </target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Desenează o linie dintr-un punct în altul cu \nlățimea specificată. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>linie</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Utilizați opțiunea "Vezi galerie"  pentru a vedea filmele pe care alte persoane le-au făcut. Dacă faceți un film interesant, utilizați funcția "Trimiteți la Galerie" buton pentru a publica.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Desenează un cerc la locația specificată și cu \nraza specificată. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Dă-i o pereche de mâini.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>lățime</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>font</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Returnează viteza curentă a jucătorului (0 este \noprit, 100 este viteză maximă). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>întoarce la stânga cu</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Rulați programul pe care l-ați scris.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Ștergeți datele</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>tobă</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Deschideți galeria desenelor.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>cerc</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Faceți un film cu tot ce doriți. Ai un număr mare de blocuri noi pe care le poți explora. Distrează-te!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Filmul tău nu se mișcă. Utilizați blocuri pentru a face ceva interesant. Apoi, puteți trimite filmul în galerie.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Blocuri</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Întoarce țestoasa la stânga sau la dreapta cu \nnumărul de grade specificat. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Țestoasă</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Deplasează țestoasa înainte sau înapoi cu \nvaloarea specificată. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Utilizați acest bloc pentru a merge într-o singură poziție dacă aveți viermele sau o altă rubrică dacă nu aveți viermele.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Ai rezolvat acest nivel cu o linie de JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Ați rezolvat acest nivel cu %1 linii de JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Ridică sau coboară stiloul pentru a opri sau \nîncepe desenarea. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Afișați documentația lingvistică.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Trimiteți filmul spre galerie. </target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Înoată înainte. Specificați o direcție (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Sunteți pregătiți pentru următoarea provocare?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Acest nivel este un film. Vrei ca brațul persoanei să se deplaseze pe ecran. Apăsați butonul de redare pentru a vedea o previzualizare.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Există un nou bloc care vă permite să ridicați creionul de pe hârtie când vă mutați:</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Acest adversar este prea departe pentru a folosi tunul (care are o limită de 70 de metri). În schimb, utilizați comanda 'înotați' pentru a începe să înotați spre adversar și să se prăbușească în el.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Titlu:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>sfârșit x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Pe măsură ce filmul rulează, valoarea blocului 'time' se calculează de la 0 la 100. Deoarece doriți ca poziția 'y' a brațului să înceapă la 0 și să meargă la 100, acest lucru ar trebui să fie ușor.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Ești pregatit pentru nivelul %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Utilizați opțiunea "Vezi galerie" pentru a vedea ce au desenat alte persoane. Dacă desenați ceva interesant, utilizați funcția "Trimiteți la Galerie" buton pentru a publica.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Revocare</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Sistemul nu a putut încărca fișierul salvat. Poate că a fost creat cu o altă versiune de Blockly?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>restul %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>titlu</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Mai ai %1 bloc rămas.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Mai ai %0 blocuri rămase.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Mai ai %2 (de) blocuri rămase.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Jocuri pentru programatorii de mâine.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>înălțime</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>dacă o cale spre dreapta</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>dacă o cale spre stânga</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Alegeți o categorie pentru a vedea blocurile.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Jucător</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Schimbă culoarea stiloului.</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Creați o funcție pentru a reda primele patru note ale 'Frère Jacques'. Rulați această funcție de două ori. Nu adăugați blocuri noi.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>setează lățimea la</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://ro.wikipedia.org/wiki/Tipărire</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Miere</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Redați melodia dvs. cu o vioară.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Acest nou bloc vă permite să treceți la un alt instrument.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Ac</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Poți să rezolvi labirintul acesta complicat? Încearcă să urmărești zidul dinspre mâna stângă. Numai pentru programatori avansați!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>ridică stiloul</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Vedeți Galerie</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>întoarce la stânga</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>rază</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>deplasează înainte cu</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Modificați unghiul de înclinare pentru a face pasărea să primească viermele și ateriza în cuibul ei.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Deschideți galeria de filme.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Melc</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Aproape! Un bloc este incorect.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>imagine:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Text</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Rață</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Pisică</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Albină</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normală</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>trompetă</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Cat</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Înspăimântat</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Vedeți Galerie</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>redă %1 notă %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Blocul evidențiat nu este corect.
+Mai încearcă.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>începe x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Alipește mai multe blocuri de „merge înainte” pentru a mă ajuta să-mi ating obiectivul.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Trimiteți la Galerie</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Dă click pe %1 în blocul 'dacă' pentru a-i schimba condiția.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://ro.wikipedia.org/wiki/Melc</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Liste</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Puzzle</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>setați instrumentul la %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>Muzica va suna mai bine dacă folosiți un instrument diferit în fiecare bloc de pornire.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>"x" reprezintă poziția orizontală actuală. Utilizați acest bloc pentru a merge într-o singură poziție dacă 'x' este mai mic decât un număr sau alt titlu.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>picioare:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Bee</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Deschideți galeria de filme.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Felicitări!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blockly Games</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Galerie</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Modifică culoarea stiloului.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>aldin</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Desenați tot ce doriți. Ai un număr mare de blocuri noi pe care le poți explora. A se distra!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>repetă până când</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Bucle</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Trimiteți la Galerie</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Vă mulțumim pentru acest program! Dacă personalul nostru de maimuțe instruite îl plac, îl vor publica în galerie în câteva zile.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>Formula matematică a brațului este complicată. Iată răspunsul:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>După ce începeți să editați JavaScript, nu vă puteți întoarce la blocurile de editare. E bine așa?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Utilizați blocul 'if' pentru a desena un cap mic pentru prima jumătate a filmului. Apoi desenează un cap mare pentru a doua jumătate a filmului.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>alege...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>start y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Blocul 'time' numără de la 0 la 100. Dar acum doriți ca poziția 'y' a celuilalt braț să înceapă la 100 și să meargă la 0. Îți poți da seama de o formulă matematică simplă care învinge direcția?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Pond Tutor</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>Desenarea a 360 de linii albe vor arata ca luna plină.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Programul tău nu a rezolvat labirintul. Apasă „Resetează” și mai încearcă o dată.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>Prima parte</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Documentație</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>arată țestoasa</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Deplasați-vă în direcția unghiului dat: 0 este \nîn dreapta, 90 este în sus, etc. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>banjo</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>cursiv</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Rulează-ți programul pentru a vedea ce se întâmplă.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Setează fontul utilizat de blocul de afișare.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>setează culoarea la</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Film</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x și y marchează poziția păsării. \nCând x = 0 pasărea se află lângă \nmarginea din stânga, atunci când x \n= 100 se află lângă marginea dreaptă. \nCând y = 0 pasărea este în partea \nde jos, când y = 100 este în partea \nde sus. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Redă o notă muzicală a duratei și pasului \nspecificat. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Soluția ta funcționează, dar poți face mai bine.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Creați un program care desenează un pătrat.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Modificați programul pentru a desena un pentagon în locul unui pătrat.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>În loc de o stea, poți desena patru stele aranjate într-un pătrat?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>nu are vierme</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Desenați stelele, apoi desenați patru linii albe.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Duck</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Puteți adăuga un cerc negru astfel încât luna să devină o semilună?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Modifică lățimea stiloului.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>Comută la instrumentul specificat când redați \nnote muzicale ulterioare. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matematică</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Se așteaptă o notă întreagă.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

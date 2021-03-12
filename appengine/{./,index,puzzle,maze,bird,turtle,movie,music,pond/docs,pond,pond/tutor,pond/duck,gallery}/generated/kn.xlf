@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="kn">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>ಜಿಗುಟು ಮಣ್ಣು</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>ಮುಂದೆ ದಾರಿ ಇದ್ದರೆ</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>ಪಟ್ಟಿ</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>ಲೇಖನಿಯನ್ನು ಇಳಿಸು</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>ಮೀಸೆ</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>ತುಪ್ಪಳ</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>ನಿರ್ದಿಷ್ಟಪಡಿಸಿದ ಸ್ಥಳದಲ್ಲಿ ಮತ್ತು ನಿರ್ದಿಷ್ಟಪಡಿಸಿದ \nಅಗಲ ಮತ್ತು ಎತ್ತರದೊಂದಿಗೆ ಆಯತವನ್ನು ರಚಿಸುತ್ತದೆ. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>ಕೊಳ</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>'ಫ್ರೆರೆ ಜಾಕ್ವೆಸ್' ನ ಮೊದಲ ನಾಲ್ಕು ನೋಟ್ ಗಳನ್ನು ರಚಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>ಚಿಪ್ಪು</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>ಹಿಂದಕ್ಕೆ ಚಲಿಸಿ ಈ ಪ್ರಮಾಣದಲ್ಲಿ</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>ಬಣ್ಣವನ್ನು ಬದಲಾಯಿಸಲು ನಿಮಗೆ ಅನುಮತಿಸುವ ಹೊಸ ಬ್ಲಾಕ್ ಇದೆ:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>ಹಳದಿ ನಕ್ಷತ್ರವನ್ನು ರಚಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>ಈ ಮಟ್ಟಕ್ಕೆ 'ಆಗಿರದಿದ್ದರೆ' ಮತ್ತು 'ಇಲ್ಲದಿದ್ದರೆ' ಎರಡೂ  ಬ್ಲಾಕ್ ಗಳ ಅಗತ್ಯವಿದೆ.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>ಷರತ್ತು ನಿಜವಾಗಿದ್ದರೆ ಮಾತ್ರ 'ಆಗಿದ್ದರೆ' ಬ್ಲಾಕ್ ಏನನ್ನಾದರೂ ಮಾಡುತ್ತದೆ. ಎಡಕ್ಕೆ ಮಾರ್ಗವಿದ್ದರೆ ಎಡಕ್ಕೆ ತಿರುಗಲು ಪ್ರಯತ್ನಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>ಗಾಯಕ</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>ಮಾಡು</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>ಈ ಮಟ್ಟಕ್ಕಾಗಿ ನೀವು ಎಲ್ಲಾ ಬ್ಲಾಕ್-ಗಳನ್ನು ಬಳಸಿದ್ದೀರಿ. ಹೊಸ ಬ್ಲಾಕ್ ರಚಿಸಲು, ನೀವು ಮೊದಲು ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಬ್ಲಾಕ್ ಅನ್ನು ಅಳಿಸಬೇಕಾಗಿದೆ.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>ಆಟಗಾರನನ್ನು ಎಡ ಅಥವಾ ಬಲಕ್ಕೆ 90 ಡಿಗ್ರಿಗಳಷ್ಟು \nತಿರುಗಿಸುತ್ತದೆ. </target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>'ಆಗಿದ್ದರೆ' ಬ್ಲಾಕ್ ಅನ್ನು ಮಾರ್ಪಡಿಸಲು ಐಕಾನ್ ಕ್ಲಿಕ್ ಮಾಡಿ.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>ಲೋಲಕ</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>ಅಕ್ಷರ ಗಾತ್ರ</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>ಮರುಹೊಂದಿಸಿ</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>ಬ್ಲಾಕ್ ಗಳು ಹೇಳುವದನ್ನು ಆಟಗಾರನು ಮಾಡುವಂತೆ ಮಾಡುತ್ತದೆ.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>ಅದರ ಎರಡೂ ಒದಗಿಸುವ ಅಂಶಗಳು ನಿಜವಾಗಿದ್ದರೆ ಮಾತ್ರ 'ಮತ್ತು' ಬ್ಲಾಕ್ ನಿಜವಾಗುತ್ತದೆ.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>ಒಂದು ನೋಟ್(C4 ಎಂದರೆ 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>ಪಿಟೀಲು</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>ಬಲಕ್ಕೆ ತಿರುಗಿ</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>ಚಲನಚಿತ್ರದ ಮಧ್ಯದಲ್ಲಿ ಕಾಲುಗಳನ್ನು ಹಿಮ್ಮುಖ ದಿಕ್ಕಿಗೆ ಮಾಡಿ.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>ಪುನಃ ಪ್ರಾರಂಭಿಸಲು ಬಯಸುವಿರಾ?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>'ಇಲ್ಲದಿದ್ದರೆ' ಬ್ಲಾಕ್ ಅನ್ನು 'ಆಗಿದ್ದರೆ' ಬ್ಲಾಕ್ ನ ಒಳಕ್ಕೆ ಎಳೆಯಿರಿ.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>ಪಠ್ಯ</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>ನಿಮ್ಮ ಎಲ್ಲಾ ಪರಿಹಾರಗಳನ್ನು ಅಳಿಸುವುದೇ?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>ನಿಮಗೆ ಬೇಕಾದ್ದನ್ನು ರಚಿಸಿರಿ. ನಿಮಗೆ ಅನ್ವೇಷಿಸಲು ಹೊಸ ಬ್ಲಾಕ್ ಗಳ ದೊಡ್ಡ ಸಂಖ್ಯೆಯೇ ಇದೆ. ಆನಂದಿಸಿ!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>ಗಿಟಾರ್</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>ಪ್ರತಿ ಪ್ರಾಣಿಗೆ (ಹಸಿರು), ಅದರ ಚಿತ್ರವನ್ನು ಲಗತ್ತಿಸಿ, ಅದರ ಕಾಲುಗಳ ಸಂಖ್ಯೆಯನ್ನು ಆರಿಸಿ ಮತ್ತು ಅದರ ಗುಣಲಕ್ಷಣಗಳ ಸಂಗ್ರಹವನ್ನು ಮಾಡಿ.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>ಲಕ್ಷಣಗಳು:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>ನಿರ್ದಿಷ್ಟಪಡಿಸಿದ ಅವಧಿಯವರೆಗೆ ಕಾಯುತ್ತದೆ.</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>ಗುರಿಯನ್ನು ಹೊಡೆಯಲು 'cannon' ಆದೇಶವನ್ನು ಬಳಸಿ. ಮೊದಲ ನಿಯತಾಂಕವು ಕೋನ, ಎರಡನೆಯ ನಿಯತಾಂಕವು ವ್ಯಾಪ್ತಿ. ಸರಿಯಾದ ಸಂಯೋಜನೆಯನ್ನು ಕಂಡುಕೊಳ್ಳಿ.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>ಚಿತ್ರಶಾಲೆಗೆ ನಿಮ್ಮ ರೇಖಾಚಿತ್ರವನ್ನು ಸಲ್ಲಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>'ಕಾರ್ಯಘಟಕ' ನಿಮಗೆ ಬ್ಲಾಕ್ಗಳನ್ನು ಒಟ್ಟಿಗೆ ಗುಂಪು ಮಾಡಲು ಅನುಮತಿಸುತ್ತದೆ, ನಂತರ ಅವುಗಳನ್ನು ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಬಾರಿ ಚಲಾಯಿಸಬಹುದು.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>ಈ ಗುರಿಯನ್ನು ಹಲವು ಬಾರಿ ಹೊಡೆಯಬೇಕಾಗಿದೆ. ಏನನ್ನಾದರೂ ಅನಿರ್ದಿಷ್ಟವಾಗಿ ಮಾಡಲು 'while (true)' ಲೂಪ್ ಅನ್ನು ಬಳಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>ಈ ಎದುರಾಳಿ ಕೂಡ ಫಿರಂಗಿಯನ್ನು ಬಳಸಲು ತುಂಬಾ ದೂರದಲ್ಲಿದ್ದಾರೆ. ಆದರೆ ಘರ್ಷಣೆಯಿಂದ ಬದುಕುಳಿಯಲು ನೀವು ತುಂಬಾ ದುರ್ಬಲರಾಗಿದ್ದೀರಿ. ನಿಮ್ಮ ಸಮತಲ ಸ್ಥಾನವು 50ಕ್ಕಿಂತ ಕಡಿಮೆಯಿದ್ದರೆ ಎದುರಾಳಿಯ ಕಡೆಗೆ ಈಜಿಕೊಳ್ಳಿ. ನಂತರ 'stop' ಮತ್ತು ಫಿರಂಗಿಯನ್ನು ಬಳಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>ಫಿರಂಗಿಯನ್ನು ಹಾರಿಸಿ. ದಿಕ್ಕು(0-360) ಮತ್ತು \nವ್ಯಾಪ್ತಿ(0-70) ಯನ್ನು ನಿರ್ದಿಷ್ಟಪಡಿಸಿ. </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>ಸಹಾಯ</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>ಈ ಎದುರಾಳಿ ಹೊಡೆದಾಗ ಅದು ದೂರ ಸರಿಯುತ್ತದೆ. ಅದು ವ್ಯಾಪ್ತಿಯಿಂದ ಹೊರಗಿದ್ದರೆ (70 ಮೀಟರ್) ಅದರ ಕಡೆಗೆ ಈಜಿಕೊಳ್ಳಿ.</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>ತರ್ಕ</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>ಆನುವಂಶಿಕ</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>ಆಟಗಾರನ ಪ್ರಸ್ತುತ ಆರೋಗ್ಯ ಸ್ಥಿತಿಯನ್ನು \nಹಿಂತಿರುಗಿಸುತ್ತದೆ (0 ಸತ್ತಿದೆ, 100 \nಆರೋಗ್ಯಕರವಾಗಿದೆ). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>ಪಕ್ಷಿ</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>ಶಿಕ್ಷಣ ತಜ್ಞರಿಗಾಗಿ ಮಾಹಿತಿ...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>ಚರಾಂಶಗಳು</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>ಪ್ರೋಗ್ರಾಂ ಚಲಾಯಿಸಿ</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>ಪರಿಪೂರ್ಣ!
+ಎಲ್ಲ %1 ಬ್ಲಾಕ್ ಗಳು ಸರಿಯಾಗಿವೆ.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>ಮೂರು ಹಳದಿ ನಕ್ಷತ್ರಗಳು ಮತ್ತು ಒಂದು ಬಿಳಿ ರೇಖೆಯನ್ನು ರಚಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 ಬ್ಲಾಕ್ ಗಳು ಸರಿ ಇಲ್ಲ.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>ಆಮೆಯ ದಿಕ್ಕಿನಲ್ಲಿ ಪಠ್ಯವನ್ನು ಅದರ ಸ್ಥಳದಲ್ಲೇ \nರಚಿಸುವಂತೆ ಮಾಡುತ್ತದೆ. </target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>ಸಿಕ್ಕು ದಾರಿ</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>ಚಿತ್ರಶಾಲೆಗೆ ಸಲ್ಲಿಸು</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>ಬಣ್ಣವನ್ನು ಬದಲಿಸು</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>ನಿಮ್ಮ ಪರಿಹಾರವು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ, ಆದರೆ ನೀವು ಉತ್ತಮವಾಗಿ ಮಾಡಬಹುದು. ಫಿರಂಗಿಗೆ ಎಷ್ಟು ದೂರ ಶೂಟ್ ಮಾಡಬೇಕೆಂದು ಹೇಳಲು 'scan' ಬಳಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>ಆಟಗಾರನ X ನಿರ್ದೇಶಾಂಕವನ್ನು ಹಿಂತಿರುಗಿಸುತ್ತದೆ (0 ಎಡ \nಅಂಚು, 100 ಬಲ ಅಂಚು). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>ಅನಿಮೇಷನ್‌ನಲ್ಲಿ ಪ್ರಸ್ತುತ ಸಮಯವನ್ನು \nಹಿಂತಿರುಗಿಸುತ್ತದೆ(0-100). </target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>ಪಿಯಾನೋ</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>ಇಲ್ಲದಿದ್ದರೆ</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>'cannon' ಆದೇಶವು ಕರಾರುವಾಕ್ಕಾಗಿ ಹಾರಿಸಲು ಬೇಕಾದ ನಿಖರವಾದ ವ್ಯಾಪ್ತಿ ಇದಾಗಿದೆ.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>ಈ ಎದುರಾಳಿಯು ಹಿಂದಕ್ಕೆ ಮತ್ತು ಮುಂದಕ್ಕೆ ಚಲಿಸುವುದರಿಂದ, ಹೊಡೆಯಲು ಕಷ್ಟವಾಗುತ್ತದೆ. 'scan' ಆದೇಶವು ನಿರ್ದಿಷ್ಟಪಡಿಸಿದ ದಿಕ್ಕಿನಲ್ಲಿ ಎದುರಾಳಿಯ ನಿಖರವಾದ ವ್ಯಾಪ್ತಿಯನ್ನು ನೀಡುತ್ತದೆ.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>ಆಟಗಾರನನ್ನು ಒಂದು ಜಾಗ ಮುಂದಕ್ಕೆ ಚಲಿಸುವಂತೆ ಮಾಡುತ್ತದೆ.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>ಈ ಹೊಸ ಬ್ಲಾಕ್ ನಿಶ್ಯಬ್ಧವಾದ ವಿಳಂಬವನ್ನು ಸೇರಿಸುತ್ತದೆ.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>ಕ್ಷಮಿಸಿ,  '%1' ಸಂಗ್ರಹಿಸಲಾದ ಯಾವುದೇ ಪ್ರೋಗ್ರಾಮ್ ಗೆ ಸಂಬಂಧಿಸಿಲ್ಲ.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>ಈಜುವುದನ್ನು ನಿಲ್ಲಿಸಿ. ಆಟಗಾರನು ನಿಧಾನವಾಗಿ \nನಿಲ್ಲುತ್ತಾನೆ. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>ಆಮೆಯನ್ನು (ವೃತ್ತ ಮತ್ತು ಬಾಣ) ಗೋಚರ ಅಥವಾ ಅಗೋಚರವಾಗಿ \nಮಾಡುತ್ತದೆ. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>ಚಿತ್ರಶಾಲೆಯನ್ನು ನೋಡು</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>ಕೋರಿಕೆಯಲ್ಲಿ ಒಂದು ಸಮಸ್ಯೆ ಇದೆ.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂ ನಿಲ್ಲುವವರೆಗೂ ಅದನ್ನು ಚಲಾಯಿಸಿ. ನಂತರ ನೀವು ನಿಮ್ಮ ರೇಖಾಚಿತ್ರವನ್ನು ಚಿತ್ರಶಾಲೆಗೆ ಸಲ್ಲಿಸಬಹುದು.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>ಆಯತ</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>ನಿಗದಿತ ದಿಕ್ಕಿನಲ್ಲಿ ಮಾರ್ಗವಿದ್ದರೆ, \nಮೊದಲೆನೆಯ ವಿಭಾಗದ ಕ್ರಮಗಳನ್ನು ಕೈಗೊಳ್ಳಿ. \nಇಲ್ಲವಾದರೆ, ಎರಡನೇ ವಿಭಾಗದ ಕ್ರಮಗಳನ್ನು \nಕೈಗೊಳ್ಳಿ. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>ನಿಮ್ಮ ಸಂಗೀತವನ್ನು ಚಿತ್ರಶಾಲೆಗೆ ಸಲ್ಲಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>ಉತ್ತರಗಳನ್ನು ಪರಿಶೀಲಿಸಿ</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>ವ್ಯಕ್ತಿಯ ಹಿಂದೆ ವಿಸ್ತರಿಸುತ್ತಿರುವ ವೃತ್ತವನ್ನು ರಚಿಸಿರಿ.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>ಮುದ್ರಿಸು</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>ಎರಡು ವಿಳಂಬ ಬ್ಲಾಕ್ಗಳನ್ನು ಹೊಂದಿರುವ ಎರಡನೇ ಸ್ಟಾರ್ಟ್ ಬ್ಲಾಕ್ ಅನ್ನು ರಚಿಸಿ, ಆ ನಂತರವೂ 'ಫ್ರೆರೆ ಜಾಕ್ವೆಸ್' ಅನ್ನು ನುಡಿಸುತ್ತದೆ</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>ಸಂಗೀತ</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>ಶತ್ರುಗಳಿಗಾಗಿ ಕಣ್ಣುಹಾಯಿಸಿ. ದಿಕ್ಕನ್ನು \nನಿರ್ದಿಷ್ಟಪಡಿಸಿ (0-360). ಆ ದಿಕ್ಕಿನಲ್ಲಿರುವ \nಹತ್ತಿರದ ಶತ್ರುವಿನ ದೂರವನ್ನು ಹಿಂತಿರುಗಿಸುತ್ತದೆ. \nಯಾವುದೇ ಶತ್ರು ಕಂಡುಬಂದಿಲ್ಲದಿದ್ದರೆ \nಅನಂತವನ್ನು ಹಿಂತಿರುಗಿಸುತ್ತದೆ. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>ಪ್ರತಿ ಸ್ಟಾರ್ಟ್ ಬ್ಲಾಕ್ ಎರಡು ಬಾರಿ 'ಫ್ರೆರೆ ಜಾಕ್ವೆಸ್' ಅನ್ನು ನುಡಿಸಬೇಕು.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>ಪ್ರತಿಯೊಂದೂ ಎರಡು ಬಾರಿ 'ಫ್ರೆರೆ ಜಾಕ್ವೆಸ್' ಆಡುವ ನಾಲ್ಕು ಸ್ಟಾರ್ಟ್ ಬ್ಲಾಕ್‌ಗಳನ್ನು ರಚಿಸಿ. ಸರಿಯಾದ ಸಂಖ್ಯೆಯ ವಿಳಂಬ ಬ್ಲಾಕ್‌ಗಳನ್ನು ಸೇರಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>ನಿಗದಿತ ದಿಕ್ಕಿನಲ್ಲಿ ಮಾರ್ಗವಿದ್ದರೆ, \nಕೆಲವು ಕ್ರಮಗಳನ್ನು ಕೈಗೊಳ್ಳಿ. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>'ಫ್ರೆರೆ ಜಾಕ್ವೆಸ್' ನ ಮುಂದಿನ ಭಾಗಕ್ಕೆ ಮೂರನೇ ಕಾರ್ಯಘಟಕವನ್ನು ರಚಿಸಿ. ಮೊದಲ ನಾಲ್ಕು ನೋಟ್ ಗಳು  ಲಘುವಾಗಿರುತ್ತವೆ.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>'ಫ್ರೆರೆ ಜಾಕ್ವೆಸ್' ನ ಸಂಪೂರ್ಣ ರಾಗವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>ಕೊಳಲು</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>ಆಟಗಾರನ Y ನಿರ್ದೇಶಾಂಕವನ್ನು ಹಿಂತಿರುಗಿಸುತ್ತದೆ (0 \nಕೆಳಗಿನ ಅಂಚು, 100 ಮೇಲಿನ ಅಂಚು). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>ಮುಕ್ತಾಯದ ಹಂತವನ್ನು ತಲುಪುವವರೆಗೆ ಸುತ್ತುವರಿದ \nಕ್ರಿಯೆಗಳನ್ನು ಪುನರಾವರ್ತಿಸಿ. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>ಪ್ರೋಗ್ರಾಮ್ ನಿಲ್ಲಿಸಿ ಮತ್ತು ಪ್ರಾರಂಭದ ಹಂತಕ್ಕೆ \nಹಿಂತಿರುಗಿ. </target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>'ಫ್ರೆರೆ ಜಾಕ್ವೆಸ್' ನ ಮುಂದಿನ ಭಾಗಕ್ಕೆ ಎರಡನೇ ಕಾರ್ಯ  ಘಟಕವನ್ನು ರಚಿಸಿ. ಕೊನೆಯ ನೋಟ್  ದೀರ್ಘವಾಗಿದೆ.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>ಪಕ್ಷಿ ಹುಳುವನ್ನು ಪಡೆದಿಲ್ಲದ ಸ್ಥಿತಿ.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂ ನಿಲ್ಲುವವರೆಗೂ ಅದನ್ನು ಚಲಾಯಿಸಿ. ನಂತರ ನೀವು ನಿಮ್ಮ ರೇಖಾಚಿತ್ರವನ್ನು ಚಿತ್ರಶಾಲೆಗೆ ಸಲ್ಲಿಸಬಹುದು.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>'ಪುನರಾವರ್ತಿತ' ಬ್ಲಾಕ್ ಒಳಗೆ ನೀವು ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಬ್ಲಾಕ್ ಗಳನ್ನು ಅಳವಡಿಸಬಹುದು.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>ಬಣ್ಣ</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>'ಆಗಿದ್ದರೆ-ಇಲ್ಲದಿದ್ದರೆ' ಬ್ಲಾಕ್ ಗಳು ಒಂದು ಅಥವಾ ಇನ್ನೊಂದನ್ನು ಮಾಡುತ್ತವೆ.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>ಇತರ ಜನರು ರಚಿಸಿದ್ದನ್ನು ನೋಡಲು 'ಚಿತ್ರಶಾಲೆ ನೋಡು' ಗುಂಡಿಯನ್ನು ಬಳಸಿ. ನೀವು ಆಸಕ್ತಿದಾಯಕವಾದ  ಚಿತ್ರವನ್ನು ರಚಿಸಿದ್ದರೆ ಅದನ್ನು ಪ್ರಕಟಿಸಲು 'ಚಿತ್ರಶಾಲೆಗೆ ಸಲ್ಲಿಸು' ಗುಂಡಿಯನ್ನು ಬಳಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>ಕಾಲುಗಳನ್ನು ಅಡ್ಡ ಹಾಯಿಸಲು ಹಿಂದಿನ ಹಂತದಲ್ಲಿ ನೀವು ಕಲಿತದ್ದನ್ನು ಬಳಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>ನಿಮ್ಮ ಬ್ಲಾಕ್ ಗಳನ್ನು ಈ ಸಂಪರ್ಕ ಕೊಂಡಿಯ ಮುಖಾಂತರ ಹಂಚಿಕೊಳ್ಳಿ:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>ನಿಮ್ಮ ಪರಿಹಾರವು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ, ಆದರೆ ನೀವು ಉತ್ತಮವಾಗಿ ಮಾಡಬಹುದು.ಪುನರಾವರ್ತಿತ ಕೋಡ್ ಪ್ರಮಾಣವನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಕಾರ್ಯಘಟಕಗಳನ್ನು ಬಳಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>ಸಂಗ್ರಹಿಸಿ ಮತ್ತು ಬ್ಲಾಕ್ ಗಳಿಗೆ ಲಿಂಕ್ ಮಾಡಿ.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>ಕೇವಲ ಎರಡು ಬ್ಲಾಕ್ ಗಳನ್ನು ಬಳಸಿ ಈ ಮಾರ್ಗದ ಅಂತ್ಯವನ್ನು ತಲುಪಿ. ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಬಾರಿ ಬ್ಲಾಕ್ ಅನ್ನು ಚಲಾಯಿಸಲು 'ಪುನರಾವರ್ತಿಸಿ' ಬಳಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>ಆಮೆಯನ್ನು ಬಚ್ಚಿಡು</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>ಈ ಮಟ್ಟದಲ್ಲಿ, ನೀವು ಬಿಳಿ ಬಣ್ಣದ ಕಾರ್ಯಕ್ಷೇತ್ರದಲ್ಲಿನ ಎಲ್ಲಾ ಬ್ಲಾಕ್‌ಗಳನ್ನು ಒಟ್ಟಿಗೆ ಜೋಡಿಸಬೇಕಾಗುತ್ತದೆ.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>ಮುಂದಕ್ಕೆ ಚಲಿಸಿ</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>ಈ ಮಟ್ಟವು ಅತ್ಯಂತ ಕಷ್ಟಕರವಾಗಿದೆ. ನೀವು ಅದನ್ನು ಬಿಟ್ಟು ಮುಂದಿನ ಆಟಕ್ಕೆ ಹೋಗಲು ಬಯಸುವಿರಾ? ನಂತರ  ನೀವು ಯಾವಾಗಲಾದರೂ ಹಿಂತಿರುಗಬಹುದು.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>ಗುರಿ</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>ಈ ವ್ಯಕ್ತಿಯ ಚಿತ್ರವನ್ನು ಬಿಡಿಸಲು ಸರಳ ಆಕಾರಗಳನ್ನು ಬಳಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>'ಪ್ರೋಗ್ರಾಂ ರನ್ ಮಾಡಿ' ಗುಂಡಿಯನ್ನು ಒತ್ತಿದಾಗ ಒಳಗಿರುವ \nಬ್ಲಾಕ್ ಗಳನ್ನು ಕಾರ್ಯಗತಗೊಳಿಸುತ್ತದೆ. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>ಕೇವಲ ನಾಲ್ಕು ಬ್ಲಾಕ್ಗಳೊಂದಿಗೆ ನಕ್ಷತ್ರವನ್ನು ರಚಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>ಕೇವಲ ಮೂರು ಬ್ಲಾಕ್‌ಗಳೊಂದಿಗೆ ಆಕಾರವನ್ನು ರಚಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>ಬಲಕ್ಕೆ ತಿರುಗು ಈ ಪ್ರಮಾಣದಲ್ಲಿ</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>ಕೊಕ್ಕು</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>ಗರಿಗಳು</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>ಕೊನೆಯ y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>ಈ ಮೆನುವಿನಿಂದ ನಿಮ್ಮ ನೆಚ್ಚಿನ ಆಟಗಾರನನ್ನು ಆರಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>ಸಣ್ಣ ಹಳದಿ ನಕ್ಷತ್ರವನ್ನು ರಚಿಸಿ, ನಂತರ ಅದರ ಮೇಲೆ ಒಂದು ರೇಖೆಯನ್ನು ಎಳೆಯಿರಿ.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>ಹಿನ್ನೆಲೆಯ ವೃತ್ತವನ್ನು ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂನ ಮೇಲ್ಭಾಗಕ್ಕೆ ಸರಿಸಿ. ಆಗ ಅದು ವ್ಯಕ್ತಿಯ ಹಿಂದೆ ಕಾಣಿಸುತ್ತದೆ.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>ಕಾರ್ಯಘಟಕಗಳು</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>%1 ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿದಾಗ</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>ಆಟಗಾರನನ್ನು ವಾಪಸ್ಸು ಸಿಕ್ಕು ದಾರಿಯ ಪ್ರಾರಂಭದಲ್ಲಿ \nಇರಿಸಿ. </target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>ನಿರ್ದಿಷ್ಟಪಡಿಸಿದ ಅಗಲದೊಂದಿಗೆ ಒಂದು ಬಿಂದುವಿನಿಂದ \nಇನ್ನೊಂದಕ್ಕೆ ರೇಖೆಯನ್ನು ಎಳೆಯುತ್ತದೆ. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>ರೇಖೆ</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>ಇತರ ಜನರು ಬಿಡಿಸಿದ್ದನ್ನು ನೋಡಲು 'ಚಿತ್ರಶಾಲೆ ನೋಡು' ಗುಂಡಿಯನ್ನು ಬಳಸಿ. ನೀವು ಆಸಕ್ತಿದಾಯಕವಾದ  ಚಿತ್ರವನ್ನು ಬಿಡಿಸಿದ್ದರೆ ಅದನ್ನು ಪ್ರಕಟಿಸಲು 'ಚಿತ್ರಶಾಲೆಗೆ ಸಲ್ಲಿಸು' ಗುಂಡಿಯನ್ನು ಬಳಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>ನಿರ್ದಿಷ್ಟಪಡಿಸಿದ ಸ್ಥಳದಲ್ಲಿ ಮತ್ತು ನಿರ್ದಿಷ್ಟಪಡಿಸಿದ \nತ್ರಿಜ್ಯದೊಂದಿಗೆ ವೃತ್ತವನ್ನು ರಚಿಸುತ್ತದೆ </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>ವ್ಯಕ್ತಿಗೆ ಒಂದೆರಡು ಕೈಗಳನ್ನು ನೀಡಿ.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>ಅಗಲ</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>ಅಕ್ಷರ</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>ಆಟಗಾರನ ಪ್ರಸ್ತುತ ವೇಗವನ್ನು ಹಿಂತಿರುಗಿಸುತ್ತದೆ (0 \nನಿಲ್ಲಿಸಲಾಗಿದೆ, 100 ಪೂರ್ಣ ವೇಗವಾಗಿದೆ). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>ಎಡಕ್ಕೆ ತಿರುಗು ಈ ಪ್ರಮಾಣದಲ್ಲಿ</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>ನೀವು ಬರೆದ ಪ್ರೋಗ್ರಾಂ ಅನ್ನು ಚಲಾಯಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>ಡೇಟಾವನ್ನು ತೆರವುಗೊಳಿಸಿ</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>ಡ್ರಮ್</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>ರೇಖಾಚಿತ್ರಗಳ ಚಿತ್ರಶಾಲೆಯನ್ನು ತೆರೆಯಿರಿ.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>ವೃತ್ತ</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>ನಿಮಗೆ ಬೇಕಾದುದರ ಚಲನಚಿತ್ರ ಮಾಡಿ. ನಿಮಗೆ ಅನ್ವೇಷಿಸಲು ಹೊಸ ಬ್ಲಾಕ್ ಗಳ ದೊಡ್ಡ ಸಂಖ್ಯೆಯೇ ಇದೆ. ಆನಂದಿಸಿ!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>ನಿಮ್ಮ ಚಲನಚಿತ್ರವು ಚಲಿಸುವುದಿಲ್ಲ. ಆಸಕ್ತಿದಾಯಕವಾದದ್ದನ್ನು ಮಾಡಲು ಬ್ಲಾಕ್ಗಳನ್ನು ಬಳಸಿ. ನಂತರ ನೀವು ನಿಮ್ಮ ಚಲನಚಿತ್ರವನ್ನು ಚಿತ್ರಶಾಲೆಗೆ ಸಲ್ಲಿಸಬಹುದು.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>ಬ್ಲಾಕ್ ಗಳು</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>ನಿಗದಿತ ಸಂಖ್ಯೆಯ ಡಿಗ್ರಿಗಳಷ್ಟು, ಆಮೆ ಎಡ ಅಥವಾ ಬಲಕ್ಕೆ \nತಿರುಗುವಂತೆ ಮಾಡುತ್ತದೆ. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>ಸರಿ</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>ಆಮೆ</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>ಆಮೆಯನ್ನು ನಿಗದಿತ ಪ್ರಮಾಣದಲ್ಲಿ ಮುಂದಕ್ಕೆ ಅಥವಾ \nಹಿಂದಕ್ಕೆ ಚಲಿಸುವಂತೆ ಮಾಡುತ್ತದೆ. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>ನಿಮ್ಮ ಬಳಿ ಹುಳು ಇದ್ದರೆ ಒಂದು ದಿಕ್ಕಿನಲ್ಲಿ ಚಲಿಸಲು ಈ ಬ್ಲಾಕ್ ಅನ್ನು ಬಳಸಿ, ಅಥವಾ ನಿಮ್ಮ ಬಳಿ ಹುಳು ಇಲ್ಲದಿದ್ದರೆ ಬೇರೆ ದಿಕ್ಕಿನಲ್ಲಿ  ಚಲಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>ಜಾವಾಸ್ಕ್ರಿಪ್ಟಿ‌ನ 1 ಸಾಲಿನೊಂದಿಗೆ ನೀವು ಈ ಮಟ್ಟವನ್ನು ಪರಿಹರಿಸಿದ್ದೀರಿ:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>ನೀವು ಈ ಹಂತವನ್ನು %1 ಸಾಲುಗಳ ಜಾವಾ ಸ್ಕ್ರಿಪ್ಟ್ ನ ಮುಖಾಂತರ ಬಗೆಹರಿಸಿದ್ದೀರಿ:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>ರೇಖಾಚಿತ್ರವನ್ನು ನಿಲ್ಲಿಸಲು ಅಥವಾ ಪ್ರಾರಂಭಿಸಲು, \nಲೇಖನಿಯನ್ನು ಎತ್ತುತ್ತದೆ ಅಥವಾ ಇಳಿಸುತ್ತದೆ. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>ಭಾಷಾ ದಸ್ತಾವೇಜನ್ನು ಪ್ರದರ್ಶಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>ನಿಮ್ಮ ಚಲನಚಿತ್ರವನ್ನು ಚಿತ್ರಶಾಲೆಗೆ ಸಲ್ಲಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>ಮುಂದಕ್ಕೆ ಈಜಿ. ದಿಕ್ಕನ್ನು ನಿರ್ದಿಷ್ಟಪಡಿಸಿ (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>ನೀವು ಮುಂದಿನ ಸವಾಲಿಗೆ ಸಿದ್ಧರಿದ್ದೀರಾ?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>ಈ ಹಂತವು ಒಂದು ಚಲನಚಿತ್ರವಾಗಿದೆ. ವ್ಯಕ್ತಿಯ ತೋಳು ಪರದೆಯಾದ್ಯಂತ ಚಲಿಸಬೇಕೆಂದು ನೀವು ಬಯಸುತ್ತೀರಿ. ಮುನ್ನೋಟವನ್ನು ನೋಡಲು ಪ್ಲೇ ಗುಂಡಿಯನ್ನು ಒತ್ತಿರಿ.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>ನೀವು ಚಲಿಸಿದಾಗ ನಿಮ್ಮ ಲೇಖನಿಯನ್ನು ಕಾಗದದಿಂದ ಮೇಲೆತ್ತುವಂತೆ ಸಹಾಯಮಾಡುವ ಹೊಸ ಬ್ಲಾಕ್ ಇದೆ:</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>ಈ ಎದುರಾಳಿಯು ಫಿರಂಗಿಯನ್ನು ಬಳಸಲು ತುಂಬಾ ದೂರದಲ್ಲಿದ್ದಾರೆ(ಫಿರಂಗಿ 70 ಮೀಟರ್ ವ್ಯಾಪ್ತಿ ಹೊಂದಿದೆ). ಬದಲಾಗಿ,  'swim' ಆದೇಶವನ್ನು ಬಳಸಿ ಎದುರಾಳಿಯ ಕಡೆಗೆ ಈಜಲು ಪ್ರಾರಂಭಿಸಿ ಮತ್ತು ಎದುರಾಳಿಗೆ ಅಪ್ಪಳಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>ಶೀರ್ಷಿಕೆ:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>ಕೊನೆಯ x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>ಚಲನಚಿತ್ರ ಚಾಲನೆಯಲ್ಲಿರುವಾಗ,'time' ಬ್ಲಾಕ್ ನ ಮೌಲ್ಯವು 0 ರಿಂದ 100 ರವರೆಗೆ ಇರುತ್ತದೆ ತೋಳಿನ 'y' ಸ್ಥಾನವು 0 ರಿಂದ ಪ್ರಾರಂಭವಾಗಿ 100 ಕ್ಕೆ ಹೋಗಬೇಕೆಂದು ನೀವು ಬಯಸುವುದರಿಂದ ಇದು ಸುಲಭವಾಗಬೇಕು.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>ನೀವು %1 ನೇ ಹಂತಕ್ಕೆ ಹೋಗಲು ಸಿದ್ದರಿದ್ದೀರಾ?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>ಇತರ ಜನರು ಬಿಡಿಸಿದ್ದನ್ನು ನೋಡಲು 'ಚಿತ್ರಶಾಲೆ ನೋಡು' ಗುಂಡಿಯನ್ನು ಬಳಸಿ. ನೀವು ಆಸಕ್ತಿದಾಯಕವಾದ  ಚಿತ್ರವನ್ನು ರಚಿಸಿದ್ದರೆ ಅದನ್ನು ಪ್ರಕಟಿಸಲು 'ಚಿತ್ರಶಾಲೆಗೆ ಸಲ್ಲಿಸು' ಗುಂಡಿಯನ್ನು ಬಳಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>ರದ್ದುಮಾಡಿ</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>ನಿಮ್ಮ ಸಂಗ್ರಹಿಸಲಾದ ಕಡತವನ್ನು ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಬಹುಶಃ ಇದನ್ನು ಬ್ಲಾಕ್ಲಿಯ ವಿಭಿನ್ನ ಆವೃತ್ತಿಯೊಂದಿಗೆ ರಚಿಸಲಾಗಿದೆ?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>ವಿರಾಮ %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>ಕಡೆಗೆ</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>ನಿಮ್ಮಲ್ಲಿ %1 ಬ್ಲಾಕ್ ಉಳಿದುಕೊಂಡಿದೆ.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>ನಿಮ್ಮಲ್ಲಿ %0 ಬ್ಲಾಕ್ ಗಳು ಉಳಿದುಕೊಂಡಿವೆ.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>ನಿಮ್ಮಲ್ಲಿ %2 ಬ್ಲಾಕ್ ಗಳು ಉಳಿದುಕೊಂಡಿವೆ.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>ನಾಳಿನ ಪ್ರೋಗ್ರಾಮರ್ಗಳಿಗಾಗಿ ಇರುವ ಆಟಗಳು.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>ಎತ್ತರ</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>ಬಲಕ್ಕೆ ದಾರಿ ಇದ್ದರೆ</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>ಎಡಕ್ಕೆ ದಾರಿ ಇದ್ದರೆ</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>ಬ್ಲಾಕ್ ಗಳನ್ನು ನೋಡಲು ವರ್ಗವನ್ನು ಆರಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>ಆಟಗಾರ</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>ಲೇಖನಿಯ ಬಣ್ಣವನ್ನು ಬದಲಾಯಿಸುವುದು. </target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>'ಫ್ರೆರೆ ಜಾಕ್ವೆಸ್' ನ ಮೊದಲ ನಾಲ್ಕು ನೋಟ್ ಗಳನ್ನು ನುಡಿಸಲು ಒಂದು ಕಾರ್ಯಘಟಕವನ್ನು ರಚಿಸಿ. ಆ ಕಾರ್ಯಘಟಕವನ್ನು ಎರಡು ಬಾರಿ ಚಲಾಯಿಸಿ. ಯಾವುದೇ ಹೊಸ ನೋಟ್ ಬ್ಲಾಕ್ ಗಳನ್ನು ಸೇರಿಸಬೇಡಿ.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>ಅಗಲವನ್ನು ಗೊತ್ತುಪಡಿಸು</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>ಜೇನುತುಪ್ಪ</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>ಪಿಟೀಲಿನ ಮೂಲಕ ನಿಮ್ಮ ರಾಗವನ್ನು ನುಡಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>ಈ ಹೊಸ ಬ್ಲಾಕ್ ನಿಮಗೆ ಮತ್ತೊಂದು ವಾದ್ಯಕ್ಕೆ ಬದಲಾಯಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>ಕುಟುಕುವ</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>ಈ ಸಂಕೀರ್ಣ ಸಿಕ್ಕುದಾರಿಯನ್ನು ನೀವು ಪರಿಹರಿಸಬಹುದೇ? ಎಡಗೈ ಗೋಡೆಯನ್ನು ಅನುಸರಿಸಲು ಪ್ರಯತ್ನಿಸಿ. ನುರಿತ ಪ್ರೋಗ್ರಾಮರ್ಗಳಿಗೆ ಮಾತ್ರ!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>ಲೇಖನಿಯನ್ನು ಮೇಲೆತ್ತು</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>ಚಿತ್ರಶಾಲೆಯನ್ನು ನೋಡು</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>ಎಡಕ್ಕೆ ತಿರುಗಿ</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>ತ್ರಿಜ್ಯ</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>ಮುಂದಕ್ಕೆ ಚಲಿಸಿ ಈ ಪ್ರಮಾಣದಲ್ಲಿ</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>ದಿಕ್ಕಿನ ಕೋನವನ್ನು ಬದಲಾಯಿಸುವುದರ ಮೂಲಕ, ಹಕ್ಕಿಯು ಹುಳುವನ್ನು ಹಿಡಿದು ಮತ್ತು ತನ್ನ ಗೂಡನ್ನು ಸೇರುವಂತೆ ಮಾಡಿ.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>ಸಂಗೀತದ ಚಿತ್ರಶಾಲೆಯನ್ನು ತೆರೆಯಿರಿ.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>ಬಸವನ ಹುಳು</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>ಬಹುತೇಕ! ಒಂದು ಬ್ಲಾಕ್ ಸರಿ ಇಲ್ಲ.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>ಚಿತ್ರ:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>ಪಠ್ಯ</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>ಬಾತುಕೋಳಿ</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>ಬೆಕ್ಕು</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>ಜೇನುನೊಣ</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>ಸಾಮಾನ್ಯ</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>ತುತ್ತೂರಿ</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://kn.wikipedia.org/wiki/ಬೆಕ್ಕು</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>ಹೆದರಿದ</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>ಚಿತ್ರಶಾಲೆಯನ್ನು ನೋಡು</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>ನುಡಿಸು %1 ನೋಟ್ %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>ಪ್ರಕಾಶಮಾನವಾಗಿರುವ ಬ್ಲಾಕ್ ಸರಿಯಾಗಿಲ್ಲ.
+ಪ್ರಯತ್ನಿಸುತ್ತಲೇ ಇರಿ.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>ಪ್ರಾರಂಭದ x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>ಗುರಿಯನ್ನು ತಲುಪಲು ನನಗೆ ಸಹಾಯ ಮಾಡಲು ಒಂದೆರಡು 'ಮುಂದೆ ಸಾಗು' ಬ್ಲಾಕ್ ಗಳನ್ನು ಒಟ್ಟಿಗೆ ಜೋಡಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>ಚಿತ್ರಶಾಲೆಗೆ ಸಲ್ಲಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>ಅದರ ಷರತ್ತನ್ನು ಬದಲಾಯಿಸಲು 'ಆಗಿದ್ದರೆ' ಬ್ಲಾಕ್‌ನಲ್ಲಿ %1  ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://kn.wikipedia.org/wiki/ಬಸವನ_ಹುಳು</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>ಪಟ್ಟಿಗಳು</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>ಒಗಟು</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>ವಾದ್ಯ %1 ಗೊತ್ತುಪಡಿಸು</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>ಪ್ರತಿ ಸ್ಟಾರ್ಟ್ ಬ್ಲಾಕ್‌ನಲ್ಲಿ ನೀವು ಬೇರೆ ವಾದ್ಯವನ್ನು ಬಳಸಿದರೆ ಸಂಗೀತವು ಉತ್ತಮವಾಗಿ ಧ್ವನಿಸುತ್ತದೆ.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' ಎಂಬುದು ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಸಮತಲ ಸ್ಥಾನವಾಗಿದೆ. 'x' ಯಾವುದೇ ಒಂದು ಸಂಖ್ಯೆಗಿಂತ ಕಡಿಮೆಯಿದ್ದರೆ ಒಂದು ದಿಕ್ಕಿನಲ್ಲಿ ಚಲಿಸಿ, ಇಲ್ಲದಿದ್ದಲ್ಲಿ ಬೇರೆ ದಿಕ್ಕಿನಲ್ಲಿ ಚಲಿಸಿ</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>ಕಾಲುಗಳು:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://kn.wikipedia.org/wiki/ಜೇನು_ಹುಳು</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>ಚಲನಚಿತ್ರಗಳ ಚಿತ್ರಶಾಲೆಯನ್ನು ತೆರೆಯಿರಿ.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>ಅಭಿನಂದನೆಗಳು!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>ಬ್ಲಾಕ್ಲಿ ಆಟಗಳು</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>ಚಿತ್ರಶಾಲೆ</target>
+      </trans-unit>
+      <trans-unit id="3616731507597101347" datatype="html">
+        <target>ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನ ಕನ್ಸೋಲ್‌ಗೆ ಸಂಖ್ಯೆಯನ್ನು \nಮುದ್ರಿಸುತ್ತದೆ. </target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>ಲೇಖನಿಯ ಬಣ್ಣವನ್ನು ಬದಲಾಯಿಸುವುದು. </target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>ದಪ್ಪ</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>ನಿಮಗೆ ಬೇಕಾದ್ದನ್ನು ರಚಿಸಿರಿ. ನಿಮಗೆ ಅನ್ವೇಷಿಸಲು ಹೊಸ ಬ್ಲಾಕ್ ಗಳ ದೊಡ್ಡ ಸಂಖ್ಯೆಯೇ ಇದೆ. ಆನಂದಿಸಿ!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>ತನಕ ಪುನರಾವರ್ತಿಸಿ</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>ಸುತ್ತುಗಳು</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>ಚಿತ್ರಶಾಲೆಗೆ ಸಲ್ಲಿಸು</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>ಈ ಪ್ರೋಗ್ರಾಮ್ ಗಾಗಿ ಧನ್ಯವಾದಗಳು! ತರಬೇತಿ ಪಡೆದ ಕೋತಿಗಳ  ನಮ್ಮ ಸಿಬ್ಬಂದಿ ಇಷ್ಟಪಟ್ಟರೆ, ಅವರು ಅದನ್ನು ಒಂದೆರಡು ದಿನಗಳಲ್ಲಿ ಗ್ಯಾಲರಿಗೆ ಪ್ರಕಟಿಸುತ್ತಾರೆ.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>ತೋಳಿನ ಗಣಿತದ ಸೂತ್ರವು ಸಂಕೀರ್ಣವಾಗಿದೆ. ಉತ್ತರ ಇಲ್ಲಿದೆ:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>ನೀವು ಜಾವಾಸ್ಕ್ರಿಪ್ಟ್ ಅನ್ನು ಸಂಪಾದಿಸಲು ಪ್ರಾರಂಭಿಸಿದ ಮೇಲೆ, ನೀವು ಬ್ಲಾಕ್ ಗಳನ್ನು ಸಂಪಾದಿಸಲು ಹಿಂತಿರುಗಲು ಸಾಧ್ಯವಿಲ್ಲ. ಇದು ಸರಿಯೇ?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>ಚಲನಚಿತ್ರದ ಮೊದಲಾರ್ಧದಲ್ಲಿ ಸಣ್ಣ ತಲೆ ರಚಿಸಲು 'ಆಗಿದ್ದರೆ' ಬ್ಲಾಕ್ ಬಳಸಿ. ನಂತರ ಚಲನಚಿತ್ರದ ದ್ವಿತೀಯಾರ್ಧಕ್ಕೆ ದೊಡ್ಡ ತಲೆ ರಚಿಸಿರಿ.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>ಆರಿಸಿ...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>ಪ್ರಾರಂಭದ y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>'time' ಬ್ಲಾಕ್ 0 ರಿಂದ 100 ರವರೆಗೆ ಎಣಿಸುತ್ತದೆ. ಆದರೆ ಈಗ ನೀವು ಇನ್ನೊಂದು ತೋಳಿನ 'y' ಸ್ಥಾನವು 100 ರಿಂದ ಪ್ರಾರಂಭವಾಗಿ 0 ಕ್ಕೆ ಹೋಗಬೇಕೆಂದು ಬಯಸುತ್ತೀರಿ. ದಿಕ್ಕನ್ನು ತಿರುಗಿಸುವ ಸರಳ ಗಣಿತದ ಸೂತ್ರವನ್ನು ನೀವು ಕಂಡುಹಿಡಿಯಬಹುದೇ?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>ಕೊಳದ ಬೋಧಕ</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>360 ಬಿಳಿ ರೇಖೆಗಳನ್ನು ಎಳೆದರೆ ಚಿತ್ರವು ಹುಣ್ಣಿಮೆಯ ಚಂದ್ರನಂತೆ ಕಾಣುತ್ತದೆ.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂ ಸಿಕ್ಕುದಾರಿಯನ್ನು ಪರಿಹರಿಸಲಿಲ್ಲ. 'ಮರುಹೊಂದಿಸು' ಒತ್ತಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>ಮೊದಲ ಭಾಗ</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>ದಾಖಲೀಕರಣ</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>ಆಮೆಯನ್ನು ತೋರಿಸು</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>ಕೊಟ್ಟಿರುವ ಕೋನದ ದಿಕ್ಕಿನಲ್ಲಿ ಚಲಿಸಿ: 0 ಬಲಕ್ಕೆ \nಚಲಿಸಲು, 90 ನೇರವಾಗಿ ಮೇಲೆ ಚಲಿಸಲು, ಇತ್ಯಾದಿ. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>ಕೈ ವೀಣೆ</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>ಓರೆಯಾದ</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>ಏನಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ನೋಡಲು ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂ ಅನ್ನು ಚಲಾಯಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>'ಮುದ್ರಿಸು' ಬ್ಲಾಕ್ ಬಳಸುವ ಅಕ್ಷರ ವಿನ್ಯಾಸವನ್ನು \nಗೊತ್ತುಪಡಿಸುತ್ತದೆ. </target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>ಬಣ್ಣವನ್ನು ಬದಲಿಸು</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>ಚಲನಚಿತ್ರ</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x ಮತ್ತು y ಪಕ್ಷಿಗಳ ಸ್ಥಾನವನ್ನು ಗುರುತಿಸುತ್ತವೆ. \nX = 0 ಆಗಿದ್ದಾಗ, ಹಕ್ಕಿ ಎಡ ಅಂಚಿನ ಬಳಿ ಇರುತ್ತದೆ \n, x = 100 ಆಗಿದ್ದಾಗ, ಅದು ಬಲ ಅಂಚಿನ ಬಳಿ ಇರುತ್ತದೆ, \nY = 0 ಆಗಿದ್ದಾಗ ಹಕ್ಕಿ ಕೆಳಭಾಗದಲ್ಲಿ ಇರುತ್ತದೆ, y \n= 100 ಆಗಿದ್ದಾಗ, ಅದು ಮೇಲ್ಭಾಗದಲ್ಲಿ ಇರುತ್ತದೆ. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>ನಿಗದಿತ ಅವಧಿ ಮತ್ತು ತೀವ್ರತೆಯ ಒಂದು ಸಂಗೀತದ ನೋಟ್ \nಅನ್ನು ನುಡಿಸುತ್ತದೆ. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>ನಿಮ್ಮ ಪರಿಹಾರ ಕೆಲಸಮಾಡುತ್ತದೆ, ಆದರೆ ನೀವು ಇನ್ನೂ ಉತ್ತಮವಾಗಿ ಮಾಡಬಹುದು.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>ಒಂದು ಚೌಕವನ್ನು ಬಿಡಿಸುವ ಪ್ರೋಗ್ರಾಂ ಅನ್ನು ರಚಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>ಚೌಕದ ಬದಲಾಗಿ ಪಂಚಭುಜಾಕ್ರತಿ ಬಿಡಿಸಲು, ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಂ ಅನ್ನು ಬದಲಾಯಿಸಿ.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>ಒಂದು ನಕ್ಷತ್ರದ ಬದಲು, ಚೌಕದಲ್ಲಿ ಜೋಡಿಸಲಾದ ನಾಲ್ಕು ನಕ್ಷತ್ರಗಳನ್ನು ನೀವು ರಚಿಸಬಹುದೇ?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>ಹುಳುವನ್ನು ಹೊಂದಿಲ್ಲ</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>ನಕ್ಷತ್ರಗಳನ್ನು ರಚಿಸಿರಿ, ನಂತರ ನಾಲ್ಕು ಬಿಳಿ ರೇಖೆಗಳನ್ನು ಎಳೆಯಿರಿ.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://kn.wikipedia.org/wiki/ಬಾತುಕೋಳಿ</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>ಚಂದ್ರನು ಅರ್ಧಚಂದ್ರಾಕಾರವಾಗಲು ನೀವು ಒಂದು ಕಪ್ಪು ವೃತ್ತವನ್ನು ಸೇರಿಸಬಹುದೇ?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>ಲೇಖನಿಯ ಮೊನೆಯ ಅಗಲವನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>ತದ ನಂತರದ ಸಂಗೀತ ನೋಟ್ ಗಳನ್ನು ನುಡಿಸುವಾಗ \nನಿರ್ದಿಷ್ಟಪಡಿಸಿದ ಸಾಧನಕ್ಕೆ ಬದಲಾಯಿಸುತ್ತದೆ. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>ಗಣಿತ</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>ಒಂದು ಸಂಪೂರ್ಣ ನೋಟ್-ಗಾಗಿ ಕಾಯುತ್ತದೆ.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

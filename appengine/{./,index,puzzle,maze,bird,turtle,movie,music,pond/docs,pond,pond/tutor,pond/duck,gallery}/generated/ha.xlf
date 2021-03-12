@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="ha">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Yauƙi</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>idan hanya a gaba</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>jeri</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>alƙalami ƙasa</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Gashin baki</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Gashi</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Ya zana siffa mai kusurwa huɗu a wani wuri da \naka fayyace kuma dake da faɗi da tsawo da aka \nfayyace. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Kogi</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Shirya nau’oin kiɗa guda huɗu na farko na 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Kwanso</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>matsar baya daga</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Akwai sabon bulo wanda zai bar ka ka canza launin:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Zana tauraruwa mai ruwan ɗorawa.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Wannan matakin na bukatar bulo ɗin 'idan kuma' da kuma 'kuma'.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Bulon 'idan' zai yi wani abu ne kawai idan sharaɗin gaskiya ne. Juyawa hagu idan akwai hanya zuwa hagun.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>amshi</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>yi</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Ka yi amfani da duk bululluka na wannan mataki. Domin ƙirƙiran sabon bulo, farko kana bukatar goge bulon da ke akwai.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Zai juya mai wasa hagu ko dama da digiri 90.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Danna alamar domin gyara bulo na 'idan'.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Mai kai-komo</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>girman nau’in rubutu</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Sake saiti</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Zai sa mai wasa ya yi abin da bululluka suka ce.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>Bulo ɗin DA gaskiya ne kawai idan duk bayanan gaskiya ne.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Nau’i na ɗaya (C4 shine 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>molo</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>juya dama</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Sa ƙafafun su sauya tsarin wuri a tsakiyar fim ɗin.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Kana so ka fara daga farko?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Janye bulo na 'kuma' zuwa cikin bulo na 'idan'.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>rubutu</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>A gode duk amsoshinka?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Shirya duk abubuwan da kake so. Kana da adadi mai yawa na sabbin bululluka da za ka gano. Sami jin daɗi!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>jita</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Domin kowace dabba (koriya), liƙa hoton ta, zaɓi yawan ƙafafunta, sannan ka yi jeri na halayen ta.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>halaye:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Yana jiran wani lokaci da aka fayyace.</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Yi amfani da umarni na 'bindiga' domin harbin abin da aka nufa. Ma’auni na farko shine kusurwa, ma’auni na biyu shine jeri. Nemo haɗin da yake dai dai.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Tura da zanenka zuwa galarin.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>'Abin gudanar da aiki' yana ba ka dama ka haɗa bululluka tare, sannan ka gudanar da su fiye da sau ɗaya.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Wannan abin da aka nufa dole a harbe shi sau da yawa. Yi amfani da 'yayin da yake (gaskiya)' tsallake domin yin wani abu da ba a tabbatar ba.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Wannan abokin gaba ya yi nisa sosai domin amfani da bindiga. Amma kuma ka yi rauni sosai ka jure karo da shi. Yi iyo zuwa abokin gaba yayin da wurin da kake a miƙe ƙasa yake da 50. To 'tsaya' sannan ka yi amfani da bindiga.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Harba bindiga. Fayyace wani wuri (0-360) da kuma \njeri (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Help</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Wannan abokin gaba ya matsa nesa lokacin da aka harbe shi. Yi iyo zuwa gare shi idan ba ya cikin jerin (mita 70).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Dabara</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Ƙwayar halitta</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Ya maido da matsayin lafiya na yanzu na mai wasa \n(0 shine matacce, 100 shine mai lafiya). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Tsuntsu</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Ƙarin bayani...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Siffofi</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Gudanar da Shiri</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Da kyau! Duk bulullukan guda %1 dai dai ne.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Zana taurari huɗu masu ruwan ɗorawa, da kuma farin layi guda ɗaya.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>Bululluka %1 ba dai dai ba ne.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Ya zana rubutu a inda kunkuru yake da kuma wurinsa.</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Kanannnaɗo</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Tura zuwa Galari</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>saita launi zuwa</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Amsarka ta yi, amma za ka iya yi fiye da haka. Yi amfani da ‘lalube’ domin shaidawa bindiga iyakar yadda za ta yi harbi.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Ya maido da X mai shiryawa na wasa (0 shine \ngefen hagu, 100 shine gefen dama). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Ya dawo da lokaci na yanzu a cikin hotuna masu \nmotsi (0-100). </target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>fiyano</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>wani</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Wannan jeri shine ainihin abinda umarnin 'bindiga' yake so ya harba dai dai.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Wannan abokin gaba yana matsawa gaba ya yi baya, wanda ke sawa ya zama da wahala a harbe shi. Maganar 'lalube' za ta dawo da ainihin jerin zuwa abokin gabar a cikin wani wuri da aka fayyace.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Zai matsar da mai wasa gaba da sarari ɗaya.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Wannan sabon bulon yana daɗa jinkiri na shiru.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Yi haƙuri, '%1' bai dace da kowane shiri da aka ajiye ba.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Dakata da iyo. Mai wasa zai tafi a hankali har \nzuwa tsayawa. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Ya sanya kunkuru (juyawa kuma ya yi kibiya) \nbayyana ko ɓuya. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Kalli Galari</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Akwai matsala tare da abin da aka nema.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Gudanar da shirinka har sai ya tsaya. Sannan za ka iya miƙa kiɗanka zuwa galari.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>siffa mai kusurwa huɗu</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Idan akwai hanya a wata keɓantacciyar hanya, \nto yi ayyukan bulo na farko. Idan ba haka ba, \nyi ayyukan bulo na biyu. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Miƙa kiɗanka zuwa galari.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Duba amsoshi</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Zana babbar da’ira a bayan mutumin.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>buga</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>Ƙirƙiri bulo na farawa na biyu wanda ke da bululluka biyu na jinkiri, sannan kuma ka kunna 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Kiɗa</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Yi lalube domin maƙiya. Fayyace wani wuri \n(0-360). Ya dawo da tazara zuwa maƙiyi mafi \nkusa na wancan wuri. Ya dawo da Maras Iyaka \nidan ba a sami kowane maƙiyi ba. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Kowane bulo na farawa zai kunna 'Frère Jacques' sau biyu.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Ƙirƙiri bululluka na farawa guda huɗu wanda kowane zai kunna 'Frère Jacques' sau biyu. Daɗa adadi da ya yi dai dai na bulullukan jinkiri.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Idan akwai hanya a wata keɓantacciyar hanya, \nto yi wasu ayyuka. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Ƙirƙiri abin aiki na uku domin ɓangare na gaba na 'Frère Jacques'. Nau’ika huɗu na farko sun fi gajarta.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Kammala cika sauti na 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>sarewa</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Ya maido da Y mai shiryawa na wasa (0 shine \ngefen ƙasa, 100 shine gefen sama). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Maimaita ayyukan da aka kewaye har sai an kai \nwurin da aka kammala. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Tsayar da shirin kuma a sake saita matakin.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Ƙirƙiri abin aiki na biyu domin ɓangare na gaba na 'Frère Jacques'. Nau’i na ƙarshe ya fi tsawo.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Sharaɗi na lokacin da tsuntsu ya sami tsutsa.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Gudanar da shirinka har sai ya tsaya. Sannan za ka iya tura zanenka zuwa galari.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Za ka iya saka fiye da bulo ɗaya a cikin bulon 'maimaita'.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Launi</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Bulullukan idan-kuma za su yi wannan aiki ko wani.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Yi amfani da madannin "Kalli Galari" domin ganin abin da wasu matanen suka samar. Idan ka samar da wani abu mai ban sha’awa, yi amfani da madannin "tura zuwa Galari" domin ɗabba’a shi.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Yi amfani da abinda ka koya a matakin da ya gabata domin yin ƙafafu da suka hau kan juna.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Raba bulullukanka tare da wannan haɗi:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Amsarka ta yi aiki, amma za ka iya yi fiye da haka. Yi amfani da abin gudanar da aikace-aikace domin rage adadin lambobi da aka maimaita.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Ajiye kuma a haɗa zuwa bululluka.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Kai ƙarshe na wannan hanya ta amfani da bululluka biyu kawai. Yi amfani da 'maimaita' domin gudanar da bulo fiye da sau ɗaya.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>ɓoye kunkuru</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>A wannan mataki, kana bukatar kafe dukkan bululluka a wuri ɗaya a sararin aiki fari.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>matsa gaba</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Wannan matakin yana da matuƙar wahala. Kana so ka tsallake shi kuma ka tafi zuwa wasa na gaba? Koda yaushe za ka iya dawowa a nan gaba.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Wanda aka nufa</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Yi amfani da siffofi masu sauƙi domin zana wannan mutumin.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>Aiwatar da bululluka a ciki lokacin da aka danna \nmadannin 'Gudanar da Shiri'. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Zana tauraruwar da bululluka huɗu kawai.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Zana surar da bululluka uku kawai.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>juya dama daga</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Baki</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Gashi</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>ƙare y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Zaɓi ɗan wasan da ka fi so daga wannan jeri na zaɓi.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Zana ƙaramar tauraruwa mai ruwan ɗorawa, sannan ka zana layi a samanta.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Matsar da da’irar da ke baya zuwa saman shirinka. Sannan za ta bayyana a bayan mutumin.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Aikace-aikace</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>lokacin da aka danna %1</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Zai sa mai wasa ya koma baya daga farkon kanannaɗo.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Ya zana layi daga wani gurbi zuwa wani tare da \nwani faɗi da aka fayyace. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>layi</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Yi amfani da madannin "Kalli Galari" domin ganin abin da wasu matanen suka samar. Idan ka samar da wani abu mai ban sha’awa, yi amfani da madannin "tura zuwa Galari" domin ɗabba’a shi.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Ya zana da’ira a wani wuri da aka fayyace kuma \nda ke da da’ira da aka fayyace. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Bawa mutumin ‘yan wasu hannaye.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>faɗi</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>nau’in rubutu</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Ya maido da matsayin sauri na mai wasa (0 shine \ntsayawa, 100 shine cikakken sauri). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>juya hagu daga</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Gudanar da shirin da ka rubuta.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>A goge bayanai</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>ganga</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Buɗe galari na zane-zane.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>da’ira</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Yi fim na duk abinda kake so. Kana da adadi mai yawa na sabbin bululluka da za ka gano. Sami jin daɗi!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Fim ɗinka baya motsawa. Yi amfani da bululluka domin yin wani abu mai ban sha’awa. Sannan za ka iya miƙa fim ɗinka zuwa galari.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Bululluka</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Ya juya kunkurun hagu ko dama daga wani digiri \nna lamba da aka fayyace. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Kunkuru</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Ya matsar da kunkuru gaba ko baya daga wani \ngwargwado da aka fayyace. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Yi amfani da wannan bulo domin tafiya zuwa wurin fuskanta ɗaya idan ka na da tsutsar, ko wurin fuskanta daban idan ba ka da tsutsar.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Ka warware wannan mataki tare da layi 1 na JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Ka warware wannan mataki tare da layi %1 na JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Ya ɗaga ko sauke alƙalamin, domin daina ko fara \nzane. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target> Nuna yare na daftarin.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Miƙa fim ɗinka zuwa galarin.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Yi iwo zuwa gaba. Fayyace wuri (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Ka shiryawa ƙalu-bale na gaba?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Wannan matakin fim ne. Kana so hannun mutumin ya matsa a duk faɗin allon. Danna madannin wasa domin ganin duban farko.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Ga sabon bulo wanda zai ƙyaleka ka ɗauke alƙalaminka daga kan takarda lokacin da ka matsa:</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Wannan abokin gaba ya yi nisa sosai domin amfani da bindiga (wanda ke da iyaka na mita 70). Maimakon haka, yi amfani da umarnin 'iyo' domin fara iyo zuwa abokin gaba sannan kuma ka afka masa.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Suna:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>ƙare x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Yiyin da fim ɗin yake kunnawa, kimar bulo na ‘lokacin’ yana ƙirgawa daga 0 zuwa 100. Tunda kana son gurbin 'y' na hannun ya fara daga 0 sannan ya tafi 100 wannan zai zama mai sauƙi.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Ka shiryawa mataki na %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Yi amfani da madannin "Kalli Galari" domin ganin abin da wasu matanen suka samar. Idan ka samar da wani abu mai ban sha’awa, yi amfani da madannin "tura zuwa Galari" domin ɗabba’a shi.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Cancel</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Ba za a iya loda fayil ɗinka da ka ajiye ba. Wata kila an ƙirƙire shi tare da wani nau’i daban na Blockly?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>huta %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>fuskanta</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Kana da bulo %1 da ya rage.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Kana da bululluka %0 da suka rage.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Kana da bululluka %2 da suka rage.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Wasanni domin masu tsara shirye-shirye na gobe.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>tsawo</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>idan hanya zuwa dama</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>idan hanya zuwa hagu</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Zaɓi jinsin da za ka ga bululluka.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Mai wasa</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Ya canza launin alƙalamin.</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Ƙirƙiri abin gudanar da aiki domin yin wasa na nau’in kiɗa guda huɗu na 'Frère Jacques'. Gudanar da abin gudanr da wannan aiki sau biyu. Kada ka daɗa wani sabon nau’i na bulo.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>Saita kauri zuwa</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Zuma</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Kunna sautin ka da molo.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Wannan sabon bulon zai bari ka canza wani abin kiɗan.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Mai harbi</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Za ka iya aiwatar da wannan kanannaɗo mai sarƙaƙiya? Jarraba bin bangon hannun-hagu. Masu aiwatarwa waɗanda suka yi zurfi kawai!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>alƙalami sama</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Kalli Galari</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>juya hagu</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>da’ira</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>matsar gaba daga</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Canza sunan kusurwa domin sanya tsuntsu ya sami tsutsa kuma ya sauka a sheƙarsa.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Buɗe galari na kiɗa.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Dodon-koɗi</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Kusa! Bulo ɗaya ba dai dai ba ne.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>hoto:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Rubutu</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Agwagwa</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Mage</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Ƙudan zuma</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>na al’ada</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>kakaki</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Cat</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Maguji</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Dubi Galari</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>yi %1 nau’in %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Bulo ɗin da aka bayar da haske ba dai dai ba ne. Ci gaba da ƙoƙari.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>fara x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Ya kafe bulullukan 'matsa gaba' a wuri ɗaya domin taimaka min cimma buri na.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Tura zuwa Galari</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Danna %1 a cikin bulon 'idan' domin canza sharaɗin sa.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Snail</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Jeri</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Ɗaurin Gwarmai</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>saita kayan kiɗa zuwa %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>Kiɗan zai iya ƙara daɗi idan ka yi amfani da wani kayan kiɗan daban a kowane bulon farawa.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' shine miƙaƙƙen wurinka na yanzu. Yi amfani da wannan bulo domin zuwa wani wurin fuskanta ɗaya idan 'x' ba ta kai wata lamba ba, ko wani wurin fuskanta daban in ba haka ba.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>ƙafafu:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Bee</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Buɗe galari na fina-finai.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Muna taya ka murna!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Wasannin Blockly</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Galari</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Ya canza launin alƙalamin.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>mai kauri</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Zana duk abinda kake so. Kana da adadi mai yawa na sabbin bululluka da za ka gano. Sami jin daɗi!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>maimaita har</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Tsallake-tsallake</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Tura zuwa Galari</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Mun gode sabo da wannan shiri!  Idan ma’aikatanmu suna son sa, za su ɗabba’a shi a cikin galari cikin ‘yan kwanaki kaɗan.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>Hanyar lissafi domin hannuwa na da sarƙaƙiya. Ga amsar:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Da zaran ka fara gyara JavaScript, ba za ka iya komawa domin gyaran bululluka ba. Wannan ya YI?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Yi amfani da bulo na ‘idan’ domin zana ƙaramin kai na rabin farko na fim ɗin. Sannan ka zana babban kai domin rabo na biyu na fim ɗin.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>zaɓi...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>fara y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Bulo na ‘lokaci' yana ƙirga daga 0 zuwa 100. Amma yanzu kana so gurbin 'y' na ɗaya hannun ya fara a 100 sannan ya tafi zuwa 0. Za ka iya gano wata hanyar lissaffi mai sauƙi da za ta juya gurbin?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Malam-na-bakin-kogi</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>Zana fararen layuka cikin da’ira mai zagayen 360 wanda ya yi kama da cikakken wata.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Shirin ka bai aikatar da kanannaɗo ba. Danna 'Sake saitawa' sannan ka sake gwadawa.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>ɓangaren farko</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Daftari</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>nuna kunkuru</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Matsa zuwa wani wurin na kusurwa da aka bayar: 0 \nshine zuwa dama, 90 ita ce sama ɗoɗar, dsrs. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>gurmi</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>shagiɗe</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Gudanar da shirin ka domin ganin abin da ke faruwa.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Saita nau’in rubutu da bulo mai buga rubutu yake \namfani da shi. </target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>saita launi zuwa</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Sinima</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x da y na nuna wurin da tsuntsu yake. \nIdan x = 0 tsuntsun yana kusa da gaɓar \nhagu, idan x = 100 yana kusa da gaɓar \ndama. Idan y = 0 tsuntsun yana ƙasa, \nidan y = 100 yana sama. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Yi wani nau’i na kiɗa na wani lokaci da sauti da \naka fayyace. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Amsar ka ta yi aiki, amma za ka iya yin fiye da haka.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Ƙirƙiri wani shiri wanda ya zana siffa mai kusurwa huɗu.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Canza shirinka domin zana siffa mai kusurwa biyar maimakon siffa mai kusurwa huɗu.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Maimakon tauraruwa ɗaya, za ka iya zana taurari huɗu a cikin sura mai kusurwa huɗu?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>ba shi da tsutsa</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Zana taurarin, sannan ka zana fararen layuka guda huɗu.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Duck</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Za ka iya daɗa baƙar da’ira ta yadda watan zai zama kamar sabon fitowa?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Ya canza kaurin alƙalamin.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>Ya koma zuwa wani abin kiɗa da aka fayyace \nlokacin yin wani nau’i na kiɗa mai zuwa. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Lissafi</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Yana jirin wani cikakken nau’i.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

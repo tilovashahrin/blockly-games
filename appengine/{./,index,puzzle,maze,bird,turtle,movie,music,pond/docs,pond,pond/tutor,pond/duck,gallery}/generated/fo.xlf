@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="fo">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Slím</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>um rás er fyri framman</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>listi</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>pennur niður</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Kjálkaskegg</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Skinn</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Teknar eitt rættvinklaðan fýrakant á ásetta \nstaðnum við ásettu breiddini og hæddini. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Tjørn</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Set saman fyrstu fýra tónarnar av 'Dovni Jákup'.</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Skel</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>flyt aftur við</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Nú er ein nýggjur blokkur, sum letur teg broyta litin:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Tekna eina gula stjørnu.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Hetta stigið hevur brúk fyri bæði ein 'annars um' og ein 'annars' blokk.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Ein 'um' blokkur ger einans nakað, um treytin er sonn. Royn at venda til vinstru um ein leið er til vinstru.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>kór</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>ger</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Tú hevur brúkt allar blokkarnar til hetta stigið. Fyri at gera ein nýggjan blokk, er neyðugt at tú fyrst strikar ein verandi blokk.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Vendir leikaran 90 gradir til vinstru ella høgru.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Klikka á ikonina fyri at broyta 'um' blokkin.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Pendul</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>skriftstødd</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Nullstilla</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Ger soleiðis, at spælarin ger tað, \nsum blokkurin sigur. </target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>'Og' blokkurin er einans sannur um báðir partar av blokkinum eru sannir.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Ein tóni (C4 er 7)</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>violin</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>vend til høgru</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Ger soleiðis, at beinini fara umvendan veg, tá filmurin er hálvrunnin.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Byrja umaftur?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Hála ein 'annars' blokk inn í 'um' blokkin.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>tekstur</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Strika allar tínar loysnir</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Komponera tað tú vilt. Tú hevur eina rúgvu av nýggjum blokkum, sum tú kanst kanna. Hav tað stuttligt!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>gittari</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Fyri hvørt djór (grønt), knýt í myndina, vel tal av beinum og ger ein stakk av eyðkennum.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>eyðkenni:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Bíðar ásettu tíðina.</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Brúka 'cannon' boðini fyri at raka málið. Fyrsti parameturin er vinkulin og annar parameturin er hvussu langt. Finn tað røttu samansetingina.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Send tínar tekningar til myndasavnið.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>Ein 'funktión' loyvir tær at bólka blokkar, sum tú síðani kanst koyra meira enn eina ferð.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Neyðugt er at raka hetta málið fleiri ferðir. Brúka eina 'while (true)' lykkju fyri at gera okkurt óendaliga ofta.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Hetta mótstøðufólkið er eisini ov langt burturi fyri at kanónin kann brúkast. Men tú ert ov veikur at yvirliva ein samanstoyt. Svim yvir móti mótstøðufólkinum meðan horisontala positiónin hjá tær er minni enn 50. 'stop' síðani og brúka kanónina.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Skjót við kanónini. Áset eina kós (0-360) og \neina frástøðu (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Hjálp</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Hetta mótstøðufólkið flytir seg burtur, tá tað verður rakt. Svim móti tí, um tað er ov langt vekk (70 metrar).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Logikkur</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Ílegur</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Gevur núverandi heilsuna hjá spælaranum (0 er \ndeyður, 100 er frískur). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Fuglur</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Upplýsingar til lærarar...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Variablar</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Koyr forritið</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Einastandandi!
+Allir %1 blokkar eru rættir.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Tekna tríggjar gular stjørnur og eina hvíta linju.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 blokkar eru ikki rættir.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Teknar tekst tann vegin, sum skjalbøkan vendir, \nhar sum hon er. </target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Villiniborg</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Send til almenna listasavnið</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>set lit til</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Loysnin hjá tær riggar, men tú kanst gera tað betri. Brúka 'scan' fyri at fortelja kanónini, hvussu langt hon skal skjóta.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Gevur X krosstalið hjá spælaranum (0 er vinstri \nkantur, 100 er høgri kantur). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Gevur núverandi tíðina í animeringini (0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>klaver</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>annars</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Hendan frástøðan er akkurát tað, sum 'cannon' boðini hava tørv á fyri at raka beint.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Hetta mótstøðufólkið flytir seg aftur og fram, og tað ger tað ringt at raka. 'scan' gevur nágreiniligu frástøðuna til mótstøðufólkið í ásetta rætningin.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Flyt leikaran eitt stig fram.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Hesin nýggi blokkurin leggur eina ljóðleysa seinking inn.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Orsaka '%1' samsvarar ikki við nakað goymt forrit.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Gevst at svimja. Spælarin minkar um ferðina til \nhann steðgar. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Ger soleiðis at skjaldbøkan (sirkul og pílur) er \nsjónlig ella ósjónlig. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Sí filmssavnið</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Har var ein trupulleiki við umbønini.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Koyr forritið til tað steðgar. Síðani kanst tú senda tónleikin til savnið.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>rættvinklaður fýrakantur</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Um ein rás er í ásetta kósini, \nso skal fyrsti blokkurin av gerðum \ngerast. Annars, ger seinna blokkin \nav gerðum. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Send tín tónleik til tónleikasavnið.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Hygg eftir svarunum</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Tekna ein vaksandi sirkul aftan fyri persónin.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>prenta</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>Ger næsta startblokkin, sum hevur tveir seinkingarblokkar, og síðani eisini spælir 'Dovni Jákup'.</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Tónleikur</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Skanna eftir fíggindum. Áset eina kós (0-360). \nGevur frástøðuna til nærmasta fíggindan í ásettu \nkósini. Gevur óendaligt, um eingin fíggindi verður \nfunnin. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Hvør startblokkur skal spæla 'Dovni Jákup' tvær ferðir.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Ger fýra startblokkar, sum hvør spæla 'Dovni Jákup' tvær ferðir. Legg rætta talið av seinkingarblokkum afturat.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Um tað er ein rás í ásettu kósini, \nso skal okkurt gerast. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Ger eina triðju funktión fyri triðja partin av 'Dovni Jákup'. Teir fýra fyrstu tónarnir eru styttri.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Ger 'Dovni Jákup' lagið liðugt.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>floyta</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Gevur Y krosstalið hjá spælaranum (0 er niðari \nkantur, 100 er ovari kantur). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Endurtak ásettu gerðirnar inntil málið er nátt.</target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Steðga forritinum og nullstilla stigið.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Ger næstu funktiónina fyri seinna partin av 'Dovni Jákup'. Síðsti tónin er longri.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Treytin tá fuglurin ikki hevur fingið maðkin.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Koyr forritið inntil tað steðgar. Síðani kanst tú senda tekningarnar hjá tær til myndasavnið.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Meira enn ein blokkur rúmast inni í einum 'endurtak' blokki.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Litur</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>If-else blokkar gera eitt ella eitt annað</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Brúka 'Sí tónasavn' knøttin fyri at síggja, hvat onnur hava skapað. Komponerar tú okkurt áhugavert, so kanst tú brúka 'Send til tónasavn' knøttin at útgeva tað.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Brúka tað, ið tú lærdi í undanfarna stiginum, at gera bein, sum krossast.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Deil blokkarnar hjá tær við hesi leinkuni:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Loysnin hjá tær riggar, men tú klárar tað betri. Brúka funktiónir fyri at minka um nøgdina av endurtakandi kodu.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Goym og leinkja til blokkar.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Kom til endan av hesi rásini við einans at brúka tveir blokkar. Brúka 'endurtak' fyri at koyra ein blokk meira enn eina ferð.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>fjal skjaldbøku</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Á hesum stiginum mást tú stápla saman allar blokkarnar í tí hvíta arbeiðsøkinum.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>flyt fram</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Hetta stigið er ófatiliga torført. Kundi tú hugsað tær at lopið tað um og farið til næsta spæl? Tú kanst altíð koma aftur seinni.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Mál</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Brúka einføld skap til at tekna hendan persónin.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>Gjøgnumførir blokkarnar inni í tá ið klikt \nverður á 'Koyr forrit' knappin. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Tekna stjørnuna við einans fýra blokkum.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Tekna skapið við einans trimum blokkum.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>vend til høgru við</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Nev</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Fjaðrar</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>enda y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Vel tín yndisleikara frá hesi valmyndini.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Tekna eina lítla gula stjørnu, og tekna síðani eina linju omanfyri hana.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Flyt bakgrundssirkulin ovast í forritið hjá tær. So fer hann at síggjast aftan fyri persónin.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Funktiónir</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>tá %1 verður klikt</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Set spælaran aftur til byrjanina av villiniborgini.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Teknar eina linju frá einum punkti til eitt \nannað við ásettu breiddini. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>linja</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Brúka 'Sí filmsavn' knøttin fyri at síggja filmar, ið onnur hava gjørt. Skapar tú okkurt áhugavert, so kanst tú brúka 'Send til filmsavn' knøttin at útgeva tað.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Teknar ein sirkul á ásetta staðnum við ásetta \nradiusinum. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Gev persóninum tvær hendur.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>breidd</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>fontur</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Gevur núverandi ferðina hjá spælaranum (0 er \nsteðgaður, 100 er full ferð). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>vend til vinstru við</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Koyr forritið, sum tú skrivaði.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Reinsa dáta</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>trumma</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Lat myndasavnið upp.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>sirkul</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Ger ein film av tí sum tær lystir. Tú hevur eina rúgvu av nýggjum blokkum, sum tú kanst kanna. Hav tað stuttligt!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Filmurin hjá tær flytir seg ikki. Brúka blokkar fyri at gera okkurt áhugavert. Síðani kanst tú senda filmin til myndasavnið.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Blokkar</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Vend skjaldbøkuna til vinstru ella høgru eftir \neinum ásettum vinkli. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>Í lagi</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Skjaldbøka</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Flyt skjaldbøkun fram ella aftur við einum \násettum tali. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Brúka henda blokkin fyri at fara í ein rætning, um tú hevur maðkin, ella í ein annan rætning, um tú ikki hevur maðkin.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Tú loysti hetta stigið við einari linju av JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Tú loysti hetta stigið við %1 linjum av JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Lyftir ella setir pennin niður, \nfyri at steðga ella byrja at tekna. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Vís mál skjalfestingina.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Send filmin hjá tær til filmssavnið.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Svim frameftir. Áset eina kós (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Er tú klár/ur til næstu avbjóðing?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Hetta stigið er ein filmur. Tú vilt fáa armin hjá persóninum at flyta seg tvørtur um skíggjan. Trýst á spæliknøttin fyri at síggja eina undansýning.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Nú er ein nýggjur blokkur, sum letur teg lyfta pennin upp av pappírinum, tá tú flytir hann:</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Hetta mótstøðufólkið er ov langt burturi fyri kanónina (sum hevur eina avmarking uppá 70 metrar). Ístaðin mást tú brúka 'swim' boðini fyri at byrja at svimja yvir til mótstøðufólkið og krassja í tað.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Heiti:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>enda x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Tá filmurin spælir veksur virðið á tíðarblokkinum frá 0 til 100. Hetta eigur at vera lætt, eftirsum at tú vilt hava y positiónina av arminum at byrja við 0 og enda við 100.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Er tú klár/ur til %1. stig?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Brúka 'Sí Myndasavn' knøttin fyri at síggja hvat onnur hava teknað. Teknar tú okkurt áhugavert, so kanst tú brúka 'Send til Myndasavn' knøttin at útgeva tað.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Angra</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Fái ikki innlisið tína goymdu fílu. Møguliga var hon gjørd við eini aðrari útgávu av Blockly?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>hvíl %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>set kós</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Tú hevur %1 blokk eftir.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Tú hevur %0 blokkar eftir.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Tú hevur %2 blokkar eftir.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Spøl fyri framtíðar forritarar.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>hædd</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>um rás er til høgru</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>um rás er til vinstru</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Vel ein bólk fyri at síggja blokkarnar.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Spælari</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Broytir litin á penninum.</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Ger eina funktión, sum spæla fyrstu fýra tónarnar av 'Dovni Jákup'. Koyr ta funktiónina tvær ferðir. Lat vera við at leggja nakrar nýggjar blokkar afturat.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>set breidd til</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Hunangur</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Spæl lagið hjá tær við eini violin.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Hesin nýggi blokkurin letur teg skifta til eitt annað ljóðføri.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Stingari</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Klárar tú at loysa hesa avbjóðandi villiniborgina? Royn at fylgja vegginum á vinstru hond. Einans fyri framkomnar forritarar!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>pennur upp</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Sí Myndasavn</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>vend til vinstru</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>radius</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>flyt fram við</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Broyt vinkulin fyri at fáa fuglin at fanga maðkin og lenda í reiðrinum.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Lat tónleikasavnið upp.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Snigil</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Næstan! Ein blokkur er ikki rættur.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>mynd:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Tekstur</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Dunna</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Ketta</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Býfluga</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>vanligur</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>trompet</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://fo.wikipedia.org/wiki/Kettur</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Óttafull/ur</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Sí tónleikasavnið.</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>spæl %1 tóna %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Tann upplýsti blokkurin er ikki rættur.
+Royn aftur.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>byrjunar x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Stápla nakrar 'flyt fram' blokkar saman fyri at hjálpa mær at røkka málinum.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Send til Myndasavnið</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Klikka á %1 í 'um' blokkinum fyri at broyta treytina.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://fo.wikipedia.org/wiki/Sniglar</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Listar</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Putlispæl</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>set ljóðføri til %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>Tónleikurin ljóðar betri, um tú brúkar eitt annað ljóðføri í hvørjum startblokki.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' er tín núverandi vatnrætta støða. Brúka henda blokkin fyri at fara í ein rætning um 'x' er minni enn eitt tal, og far annars í ein annan rættning.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>bein:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://fo.wikipedia.org/wiki/B%C3%BD</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Lat filmssavnið upp.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Til lukku!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blokkaspæl</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Savn</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Broytir litin á penninum.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>feitur</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Tekna hvat tú vilt. Tú hevur eina rúgvu av nýggjum blokkum, sum tú kanst kanna. Hav tað stuttligt!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>endurtak inntil</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Lykkjur</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Send til filmssavnið</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Takk fyri hetta forritið! Um okkara vælvandu apur dámar tað, so fara tey at útgeva tað í savninum um nakrar dagar.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>Frymilin fyri armin er fløktur. Her er svarið:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Tá tú byrjar at rætta í forritinum við JavaScript, so kanst tú ikki longur rætta við blokkum. Er hetta í lagi?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Brúka 'um' blokkin til at tekna eitt lítið høvd í fyrru helvtini av filminum. Síðani skal tú tekna eitt stórt høvd til seinnu helvtina av filminum.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>vel...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>byrjunar y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Tíðarblokkurin telur frá 0 til 100. Nú skal y positiónin av hinum arminum byrja við 100 og enda við 0. Finnur tú ein einfaldan frymil, sum roknar tað út?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Tjørn Vegleiðari</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>Tá tú teknar 360 hvítar linjur, so sær tað út sum ein fullmáni.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Forritið hjá tær loysti ikki avbjóðingina. Trýst á 'Nullstilla' og royn aftur.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>fyrsti partur</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Skjalfesting</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>vís skjaldbøku</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Flyt samsvarandi vinklinum: 0 er til høgru, \n90 er beint upp, o.s.fr. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>banjo</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>skákskrift</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Koyr forritið fyri at síggja, hvat hendir.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Ásetir fontin, sum verður brúktur av \nprentblokkinum. </target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>set lit til</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Filmur</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x og y vísa hvar fulgurin er staddur. \nTá x = 0 er fuglurin á vinstra kanti, \ntá x = 100 er hann á høgra kanti. \nTá y = 0 er fuglurin á niðasta kanti, \ntá y = 100 er hann á ovara kanti. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Spælir ein tóna við ásettu longd og tónahædd.</target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Loysnin hjá tær riggar, men tú kanst gera tað enn betri.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Ger eitt forrit, sum teknar ein ferning.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Broyt forritið, soleiðis at tað teknar ein fimmkant í staðin fyri ein ferning.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Í staðin fyri eina stjørnu, kanst tú tekna fýra stjørnur í einum ferningi?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>hevur ikki maðk</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Tekna stjørnurnar og tekna síðani fýra hvítar linjur.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://fo.wikipedia.org/wiki/Villdunna</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Ber til hjá tær at tekna ein svartan sirkul, soleiðis at mánin ikki longur er fullur?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Broytir breiddina á penninum.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>Skiftur til tað ásetta ljóðførið, \nsum skal spæla næstu tónarnar. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Støddfrøði</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Bíðar ein heilan tóna.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

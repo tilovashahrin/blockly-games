@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="lv">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Gļota</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>ja priekšā ir brīvs ceļš</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>saraksts</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>nolaist zīmuli</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Ūsas</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Kažoks</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Zīmē taisnstūri norādītajā vietā un dotajā \naugstumā un platumā. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Dīķis</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Čaula</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>pārvieto atpakaļ par</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Jauns bloks, kas ļauj jums mainīt krāsu:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Uzzīmē dzeltenu zvaigzni.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Šajā līmenī ir vajadzīgi gan 'citādi, ja' un 'citādi' bloki.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Pārbaudes komanda 'ja' dara kaut ko tikai tad, ja pārbaude ir patiesa. Pamēģini pagriezties pa kreisi, ja pa kreisi ir brīvs ceļš.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>koris</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>izpildi</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Jūs esat izmantojis visus blokus šajā līmeni. Lai izveidotu jaunu bloku, jums vispirms nepieciešams izmest kādu esošu bloku.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Pagriež cilvēciņu pa kreisi vai pa labi par 90 \ngrādiem. </target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Klikšķiniet uz ikonas, lai mainītu 'ja' bloku.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Svārsts</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>fonta lielums</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Sākt no sākuma</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Liek spēlētājam darīt to, ko saka bloki.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>'un' bloka vertība ir "patiess" tikai tad, ja abi argumenti ir patiesi.</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>vijole</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>pagriezies pa labi</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Vēlaties sākt no jauna?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Velciet "citādi" bloku zem "ja" bloka.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>teksts</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Izdzēst visus savus risinājumus?</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>ģitāra</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Katram dzīvniekam (zaļais), pievieno tā attēlu, īpašības un kāju skaitu.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>īpašības:</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Iesniegt savu zīmējumu galerijai.</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Palīdzība</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Loģika</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Ģenētika</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Putns</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Vairāk informācijas...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Mainīgie</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Izpildīt programmu</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Lieliski!
+Visi %1 bloki ir pareizi.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Uzzīmē trīs dzeltenas zvaigznes, un vienu baltu līniju.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 bloki nav pareizi.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Zīmē tekstu bruņurupuča virzienā no tā atrašanās \nvietas. </target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labirints</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Iesniegt galerijai</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>iestatīt krāsu, uz</target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Atgriež pašreizējo animācijas laiku (0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>klavieres</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>citādi</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Pārvieto cilvēciņu par vienu soli uz priekšu.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Atvainojiet, bet '%1' neatbilst nevienai no saglabātajām programmām.</target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Padara bruņurupuci (apli un bultu) redzamu vai \nneredzamu. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Skatīt galeriju</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Pieprasījuma kļūda.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>taisnstūris</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Ja attiecīgajā virzienā ir brīvs ceļš, \ntad izpildīt pirmo bloku ar darbībām. \nCitādi izpildīt otro bloku ar darbībām. </target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Pārbaudīt atbildes</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>drukāt</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Mūzika</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Ja attiecīgajā virzienā ir brīvs ceļš, \ntad izpildīt attiecīgās darbības. </target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>flauta</target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Atkārtot iekļautās darbības kamēr sasniegts mērķis.</target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Apstādināt programmu un atiestatīt līmeni.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Stāvoklis, kad putnam knābī nav tārps.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Palaidiet programmu, līdz tā apstājas. Tad jūs varat iesniegt savu zīmējumu galerijā.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Jūs varat ievietot vairāk nekā vienu bloku "atkārtot" bloka iekšpusē.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Krāsa</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Pārbaudes komandas 'ja-citādi' izpildīs vai nu vienu, vai otru bloku atkarībā no pārbaudes.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Izmantojiet to, ko jūs apguvāt iepriekšējos līmeņos, lai panāktu, ka četras zaļās bumbiņas attiecīgi pārvietotos visos četros virzienos.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Dalies ar saviem blokiem ar šo saiti:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Saglabāt un izveidot saiti uz blokiem.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Datoriem ir ierobežota atmiņa. Sasniedz ceļa mērķi lietojot tikai divus blokus. Lieto atkārtošanas bloku lai varētu izpildīt darbību vairāk kā vienu reizi.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>paslēpt bruņrupuci</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Šajā līmenī tev bloki jāsaliek kopā baltajā laukumā.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>ej uz priekšu</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Šis ir grūts līmenis. Vai Jūs vēlētos to izlaist un doties uz nākamo spēli? Jūs vēlāk vienmēr varat atgriezties.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Mērķis</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Izmanto vienkāršas figūras, lai uzzīmētu šo cilvēku.</target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Uzzīmējiet zvaigzni ar ne vairāk kā četru bloku palīdzību.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Uzzīmējiet figūru tikai ar trīs bloku palīdzību.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>pagriezt pa labi par</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Knābis</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Spalvas</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>beigu y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Izvēlēties jūsu iecienītāko spēlētāju no šīs izvēlnes.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Uzzīmējiet nelielu dzeltenu zvaigzni, ar līniju virs tās.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Funkcijas</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Novietot spēlētāju atpakaļ labirinta sākumā.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Zīmē līniju starp dotajiem punktiem norādītajā \nbiezumā. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>līnija</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Zīmē apli norādītajā vietā un ar doto rādiusu.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>platums</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>fonts</target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>pagriezt pa kreisi par</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Palaist izveidoto programmu.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Notīrīt visus datus</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>bungas</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Atvērt zīmējumu galeriju.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>aplis</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Jūsu filma nekustas. Izmantojiet blokus, lai izveidotu kaut ko interesantu. Tad jūs varēsiet pievienot savu filmu galerijai.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Bloki</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Pagriež bruņurupuci pa kreisi vai pa labi par \nnorādīto leņķi, grādos. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>Labi</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Bruņurupucis</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Pārvieto bruņurupuci uz priekšu vai atpakaļ par \nnorādīto attālumu. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Izmanto šo bloku, lai izvēlētos virzienu atkarībā no tā vai tārps ir paņemts vai nē.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Tu atrisināji šo līmeni izmantojot 1 JavaScript rindiņu:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Tu atrisināji šo līmeni izmantojot %1 JavaScript rindiņas:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Paceļ vai nolaiž zīmuli, lai beigtu vai sāktu \nzīmēt. </target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Iesniegt savu filmu galerijā.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Peldēt uz priekšu. Norādi virzienu (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Vai tu esi gatavs nākamajam izaicinājumam?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Šis līmenis ir filma. Jūs vēlaties, lai sarkano bumba pārripo pāri ekrānam. Nospiediet pogu 'atskaņot', lai redzētu priekšskatījumu.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Jauns bloks, kas ļauj pacelt zīmuli no papīra, lai pārvietotu citur:</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Nosaukums:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>beigu x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Kamēr filma darbojas, bloks 'time' skaita kadrus no 0 līdz 100. Tā kā jūs vēlaties, lai bumbas horizontālā pozīcija mainītos no 0 līdz 100, tam vajadzētu būtu vienkārši.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Vai esi gatavs %1 līmenim?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Izmantojiet pogu "Galerija", lai redzētu, ko izveidojuši citi cilvēki. Ja jūs esat izveidojuši ko interesantu, izmantojiet pogu "Pievienot Galerijai", lai to publicētu.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Atcelt</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Nevaru ielādēt tavu saglabāto failu. Iespējams, tas tika izveidots ar citu Blockly versiju?</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>virziens</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Tev atlicis %1 bloks.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Tev atlikuši %0 bloki.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Tev atlikuši %2 bloki.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Spēles rītdienas programmētājiem.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>augstums</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>ja pa labi ir brīvs ceļš</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>ja pa kreisi ir brīvs ceļš</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Izvēlieties kategoriju, lai redzētu blokus.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Spēlētājs</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Maina zīmuļa krāsu.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>iestatīt platumu, uz</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://lv.wikipedia.org/wiki/Drukāšāna</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Medus</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Dzelonis</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Vai tu vari atrisināt šo sarežģīto labirintu? Mēģini sekot sienai kreisajā pusē. Šis ir pieredzējušiem programmētājiem!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>pacelt zīmuli</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Skatīt galeriju</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>pagriezies pa kreisi</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>rādiuss</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>pārvieto uz priekšu par</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Mainīt putna virziena leņķi, lai palīdzētu tam iegūt tārpu un atgriezties ligzdā.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Gliemezis</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Gandrīz! Viens bloks nav pareizs.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>attēls:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Teksts</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Pīle</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Kaķis</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Bite</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normāls</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>trompete</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://lv.wikipedia.org/wiki/Kaķis</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Nobijies</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Skatīt galeriju</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Iezīmētais bloks nav pareizs.
+Mēģini vēl.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>sākuma x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Saliec kopā dažus 'ej uz priekšu' blokus lai mēs varētu sasniegt mērķi.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Iesniegt galerijā</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Noklikšķiniet uz %1 "ja" blokā lai mainītu tā nosacījumu.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://lv.wikipedia.org/wiki/Gliemezis</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Saraksti</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Saliekamattēls</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' ir jūsu pašreizējā horizontālā pozīcija. Izmantojiet šo bloku, lai ietu vienā virzienā, ja 'x' ir mazāks nekā dotais skaitlis, vai otrā virzienā, ja 'x' nav mazāks kā dotais skaitlis.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>kājas:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://lv.wikipedia.org/wiki/Bite</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Atvērt filmu galeriju kuras ievietotas Reddit.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Apsveicam!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blockly Games</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Galerija</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Maina zīmuļa krāsu.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>treknraksts (bold)</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Zīmējiet jebko, ko vēlaties. Jums ir pieejami daudzi jauni bloki. Gūstiet prieku tos izpētot!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>atkārto līdz</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Cikli</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Iesniegt filmu galerijā</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Ja jūs sākat rediģēt JavaScript, bloku rediģēšana vairs nebūs pieejama. Turpināt?</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>izvēlies...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>sākuma y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Bloks 'time' skaita kadrus no 0 līdz 100.
+Bet šoreiz jūs vēlaties, lai bumba savu kustību sāk no 100 un iet līdz 0. Vai varēsiet izdomāt vienkāršu matemātisku formulu, kas izmainīs bumbas virzienu?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Dīķis (treniņš)</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>360 baltas līnijas uzzīmētas izskatīsies kā pilnmēness.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Jūsu programma neatrisināja labirintu.  Nospiediet 'Atsākt' un mēģiniet vēlreiz.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>pirmā daļa</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Dokumentācija</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>rādīt bruņrupuci</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Kustēties leņķa norādītajā virzienā.\n0: pa labi, 90: uz augšu, 270: uz leju, utt.</target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>bandžo</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>slīpraksts (italic)</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Palaidiet programmu, lai redzētu, kas notiek.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Iestata fontu, ko izmantos drukāšanas bloks.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>iestatīt krāsu</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Filma</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>X un Y nosaka putna atrašanās vietu. \nJa x = 0, putns ir pie kreisās malas, \nja x = 100, tas ir pie labās malas. \nJa y = 0, putns ir apakšā, ja y = 100, \ntas ir augšpusē. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Jūsu risinājums darbojas, bet jūs varat to izdarīt labāk.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Izveidojiet programmu, kas uzzīmē kvadrātu.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Izmainiet programmu tā, lai tā uzzīmētu piecstūri.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Vai jūs varat uzzīmēt četras zvaigznes, kas izkārtotas kvadrātā?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>knābī nav tārpa</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Uzzīmējiet zvaigznes, un pēc tam uzzīmējiet četras baltas līnijas.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://lv.wikipedia.org/wiki/P%C4%ABle</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Vai Jūs varat pievienot melnu apli tā, lai mēness kļūst par par pusmēnesi?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Izmaina zīmuļa platumu</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matemātika</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

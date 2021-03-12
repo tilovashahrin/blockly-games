@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="lrc">
+    <body>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>گردالٛی</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>ٱر تۏر د ڤٱر</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>نومگٱ</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>عٱسکدونی ناْ ساٛلٛ بٱکؽت</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>بلنڳی</target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>عٱسکدونی ناْ ساٛلٛ بٱکؽت</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>یاٛ موشگل ڤا دٱرهاست هؽ</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>داٛئن ڤ عٱسکدونی</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>خۊئٱ</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>کۉسٱل</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>هٱلٛ ۉ هار</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Snail</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>نومگٱیا</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>چؽنٱ چؽنٱ</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>نشوݩ داٛئن کۉسٱل</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>چاپ كردن</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>جوئاویاناْ ڤارسی کو</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>فونت</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>پایا:</target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>بٱلٛر ڤ چٱپ</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>دٱنڳ ڤٱن دلخاتوناْ د اؽ نوم ڤٱن اْنتخاو بٱکؽت</target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>تۏر</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>ٱندازٱ فونت</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>د نۊ شرۊ كردن</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>رۉ ڤادما ڤا</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>رٱنڳ</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>رٱد كردن</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>بٱلٛر ڤ راس</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>بٱخشؽاتون ڤا اؽ هوم پاٛڤٱن بٱئر بٱکؽت</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>مؽهات د نۊ شرۊ بٱکؽت؟</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>بٱخشؽانٱ زٱخیرٱ ۉ هوم پاٛڤٱن بٱکؽت.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>مؽن پور</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>مٱتن</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>قایم کردن کۉسٱل</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>تا تکرار کو</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>رۉ نوئا</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>ٱر تۏر د راس</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>اْنتخاو بٱکؽت.......</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>فیلٛم</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>ٱنجوم باٛ</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>هنی</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>بٱلٛر ڤ راس</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>رٱ دؽاری</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>عٱقلمٱنی</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>عٱسٱل</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>بالنٱ</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>دونسمنیا بؽشتر...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>آلشتؽا</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>رویٱیا</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>بٱرنامٱ توناْ ڤٱنؽت ڤا کار اۊساْ باٛینؽت چی مۊئٱ</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>برنامٱ ناْ اْجرا بٱکؽت</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>عالٛیٱ:
+هٱ بٱخشؽا %1 دۏرسٱن.</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>بٱلٛر ڤ چٱپ</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>رۉ نوئا ڤا</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>ٱر تۏر د چٱپ</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>پلاق بیئن</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>عادی</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>نخو</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>عٱسک:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>مٱتن</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>اۏردٱک</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>گورڤٱ</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>گونج</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Duck</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>پاکسا کردن دونمسمنیا</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>هساو کتاو</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>هٱلقٱیا</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>رٱنڳ پاٛنیس آلشت بٱکؽت</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="sq">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Jargë</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>nëse rruga përpara</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>listë</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>pena poshtë</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Mustaqet</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Gëzofi</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Tërheq një drejtkëndësh në vendin e caktuar dhe \nme gjerësinë dhe lartësinë e specifikuar. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Pellg</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Kompono katër notat e para të 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Guaskë</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>lëviz mbrapa</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Ka një bllok të ri që të lejon të ndryshoni ngjyrën:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Vizato një yll të verdhë.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Ky nivel ka nevojë edhe për një bllok "përndryshe nëse" dhe një "tjetër" bllok.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Një bllok "nëse" do të bëjë diçka vetëm nëse kushti është i vërtetë. Provoni të ktheheni majtas nëse ka një rrugë në të majtë.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>kor</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>bëj</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Ke përdorur të gjitha blloqet për këtë nivel. Për të krijuar një bllok të ri, së pari duhet të fshish një bllok ekzistues.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Kthen lojtarin majtas ose djathta 90 shkallë.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Klikoni ikonën për të modifikuar bllokun "nëse".</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Lavjerrsi</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>madhësia e shkronjave</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Riktheje</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>E bën lojtarin të bëj çfarë blloqet thonë.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>Blloku 'dhe' është i vërtetë vetëm nëse të dyja inputet e tij janë të vërteta.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Një shënim (C4 është 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>violinë</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>kthehu djathtas</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Përdor bllokun 'nëse' për të vizatur topa të kuq dhe kaltër për gjysmën e parë të filmit. Pastaj vizato një top të gjelbër për gjysmën e dytë të filmit.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Dëshiron të rifillosh?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Zvarrit bllokun 'përndryshe' në bllokun 'nëse'.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>tekst</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Fshij të gjitha zgjedhjet tuaja?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Përgatit çfarëdo që dëshiron. Ke një numër të madh të blloqeve të reja që mund të eksplorosh. Bëfsh qejf!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>gitarë</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Për çdo kafshë (të gjelbër), bashkëngjitni pamjen e saj, zgjidhni numrin e këmbëve dhe bëni një listë të tipareve të saj.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>tiparet:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Prit për kohëzgjatjen e specifikuar.</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Përdorni komandën 'cannon' për të goditur objektivin. Parametri i parë është këndi, parametri i dytë është largësia. Gjeni kombinimin e duhur.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Posto vizatimin tënd në Reddit.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>Një 'funksion' të lejon t'i gruposh blloqet së bashku, pastaj t'i ekzekutosh ato më shumë se një herë.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Ky objektiv duhet të goditet shumë herë. Përdorni një 'qark' 'while (true)' për të bërë diçka pa fund.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Ky kundërshtar është gjithashtu shumë larg për të përdorur topin. Por ti je shumë i dobët për të mbijetuar një përplasje. Noto drejt kundërshtarit ndërsa vendndodhja yte horizontale është më pak se 50. Pastaj 'ndalo' dhe përdor topin.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Gjuaje topin. Specifiko drejtimin (0-360) dhe \ndistancën (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Ndihmë</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Ky kundërshtar do të largohet kur të goditet. Noto drejt tij nëse është jashtë rrezes së veprimit (70 metra).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Logjikë</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Gjenetikë</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Kthen shëndetin aktual të lojtarit (0 është i \nvdekur, 100 është i shëndetshëm). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Zog</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Më shumë info</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Variablat</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Ekzekuto Programin</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Perfekt!
+Të gjitha blloqet %1 janë të sakta.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Vizato tri yje të verdha, dhe një vijë të bardhë.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 blloqet nuk janë korrekt.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Vizaton tekst në drejtimin e breshkës në \nvendndodhjen e saj. </target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labirint</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Dorëzo në Galeri</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>bëje ngjyrën</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Zgjidhja yte funksionon, por mund të bësh më mirë. Përdorni 'scan' për t'i treguar topit sa larg të gjuaj.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Jep koordinatën X të lojtarit (0 është buza e \nmajtë, 100 është buza e djathtë). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Jep kohën e tanishme në animacion (0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>piano</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>përndryshe</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Ky  është pikërisht ajo që komanda e 'cannon' duhet të zjarri me saktësi.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Ky kundërshtar lëviz prapa dhe mbrapa, duke e bërë të vështirë për t'u goditur. Shprehja 'scan' kthen distancën e saktë të kundërshtarit në drejtimin e caktuar.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Lëvizë lojtarin përpara një hapësirë.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Ky bllok i ri shton një vonesë pa zë.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Na vjen keq, '%1' nuk korrespondon me ndonjë program të ruajtur.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Ndalo notimin. Lojtari do të ngadalësohet deri \nsa të ndalet. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>E bën breshkën (rrethi dhe shigjeta) të dukshme \nose të padukshme. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Shiko Galerinë</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Kishte problem me kërkesën.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Ekzekuto programin deri sa të ndalet. Pastaj mund ta dorëzosh muzikën në galeri.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>kënddrejtë</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Nëse ka një rrugë në drejtimin e caktuar, \natëherë bëni bllokun e parë të veprimeve. \nPërndryshe bëni bllokun e dytë të veprimeve. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Posto muzikën tënde në Reddit. </target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Kontrollo Përgjigjen</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Mund të bësh një top që ndjek telin? Teli tashmë është vizatuar për ty. Pasi ta bësh këtë, mund të bësh çkado.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>shtyp</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>Krijo një bllok të dytë që ka dy blloqe vonese, pastaj luan edhe 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Muzikë</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Skano për armiq. Specifiko një drejtim (0-360). \nKthen distancën e armikut më të afërt në atë \ndrejtim. Kthen Pafundësisht nëse nuk gjendet \narmik. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Çdo bllok fillimi duhet të luajë 'Frère Jacques' dy herë.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Krijo katër blloqe fillestare që secili luan "Frère Jacques" dy herë. Shtoni numrin e saktë të blloqeve të vonesës.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Nëse ka një rrugë në drejtimin e caktuar, \natëherë bëni disa veprime. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Krijo një funksion të tretë për pjesën tjetër të 'Frère Jacques'. Katër notat e para janë më të shkurtra.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Plotësoni melodinë e plotë të 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>flautë</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Jep koordinatën Y të lojtarit (0 është buza e \nposhtme, 100 është buza e sipërme). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Nëse ka një rrugë në drejtimin e caktuar, \natëherë bëni bllokun e parë të veprimeve. \nPërndryshe bëni bllokun e dytë të veprimeve. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Ndale programin dhe reseto nivelin.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Krijo një funksion të dytë për pjesën tjetër të 'Frère Jacques'. Nota e fundit është më i gjatë.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Gjendja kur zogu nuk e ka fituar krimbin.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Ekzekuto programin deri sa të ndalet. Pastaj mund ta dorëzosh vizatimin në galeri.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Mund të vendosni më shumë se një bllok brenda një blloku 'përsëritje'.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Ngjyrë</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>blloqet nëse-përndryshe do ta bëjnë njërën gjë ose tjetrën.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Përdor butonin "Shiko galerinë" për të parë se çfarë kanë komponuar të tjerët. Nëse komponon diçka interesante, përdor butonin "Dorëzo në Galeri" për ta publikuar atë.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Përdore atë që ke mësuar në nivelin e mëparshëm për të bërë katër topa të gjelbra që lëvizin në të katër drejtimet.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Ndaj blloqet me këtë lidhje:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Zgjidhja yte funksionon, por mund të bësh më mirë. Përdor funksione për të zvogëluar sasinë e kodit të përsëritur.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Ruaje dhe lidhu te blloqet.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Arrij fundin e kësaj rruge duke përdorur vetëm dy blloqe. Përdor 'përsëris' për të ekzekutuar një bllok më shumë se një herë.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>fshih breshkën</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Në këtë nivel, duhet të grumbulloni të gjitha blloqet në hapësirën  bardhë të punës.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>ec përpara</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Ky nivel është jashtëzakonisht i vështirë. Dëshiron ta kapërcesh dhe të shkosh në lojën tjetër? Mund të ktheheni më vonë.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Caku</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Përdor forma të thjeshta për ta vizatuar këtë person.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>Ekzekuton blloqet brenda kur klikohet butoni \n'Ekzekuto Programin'. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Vizato yllin me vetëm katër blloqe.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Vizato formën me vetëm tri blloqe.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>kthehu djathtas</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Sqepi</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Puplat</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>përfundo y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Zgjedhni lojtarin tuaj të preferuar nga kjo meny.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Vizato një yll të verdhë të vogël, pastaj vizato një vijë mbi ti.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Funksionet</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>kur klikohet %1</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Kthen lojtarin në fillim të labirintit.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Vizaton një vijë nga një pikë në tjetrën me \ngjerësinë e specifikuar. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>vijë</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Vizaton një rreth në vendin e caktuar dhe me \nrreze të caktuar. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Dy vija të thjeshta. Vetëm kuptoje se çfarë bëjnë fundet e vijës.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>gjerësia</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>fonti</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Jep shpejtësinë aktuale të lojtarit (0 është \nndalur, 100 është shpejtësia e plotë). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>kthehu majtas</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Ekzekuto programin që shkrove. </target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Pastro të dhënat</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>bateri</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Hape galerinë e vizatimeve në Reddit.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>rreth</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Bëj një film të çkado që dëshirosh. Ke një numër të madh të blloqeve të reja me të cilët mund të eksplorosh. Bëfsh qejf!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Filmi yt nuk lëviz. Përdor blloqe për të bërë diçka interesante. Pastaj mund ta paraqesësh filmin tënd në galeri.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Blloqet</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Kthen breshkën majtas ose djathtas me numër të \ncaktuar të shkallëve. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>Në rregull</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Breshkë</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Lëvizë breshkën përpara ose prapa sipas vlerës \nsë specifikuar. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Përdore këtë bllok për të shkuar në një drejtim nëse keni krimb, ose një drejtim tjetër nëse nuk keni krimb.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Zgjodhët këtë nivel me një 1 rresht JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Zgjodhët këtë nivel me %1 rreshta JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Ngritë ose ulë stilolapsin, për të ndaluar ose \npër të filluar vizatimin. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Shfaq dokumentimin e gjuhës.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Posto vizatimin filmin tënd në Reddit.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Noto përpara. Specifikon drejtimin (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>A je gati për sfidën tjetër?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Ky nivel është një film. Doni që një top i kuq të rrokulliset nëpër ekran. Shtype butonin luaj për të parë një parashikim.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Ka një bllok të ri që ju lejon të hiqni penën nga letra kur lëvizni:</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Ky kundërshtar është shumë larg për ta përdorur topin (i cili ka një limit prej 70 metrash). Në vend të kësaj, përdorni komandën 'swim' për të filluar notimin ndaj kundërshtarit dhe përplasuni në të.</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>përfundo x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Ndërsa luan filmi, vlera e bllokut "koha" llogaritet nga 0 në 100. Meqenëse doni që pozicioni horizontal i topit të kuq të fillojë në 0 dhe të shkojë në 100 kjo duhet të jetë e lehtë.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>A je gati për nivelin %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Përdor butonin "Shiko galerinë" për të parë se çfarë kanë vizatuar të tjerët. Nëse vizatoni diçka interesante, përdor butonin "Paraqit në Galeri" për ta publikuar atë.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Anulo</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Nuk mund të ngarkoheshin skedarët tuaj të ruajtur. Ndoshta është krijuar me version tjetër të Blockly?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>pusho %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>drejtimi</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Ke %1 blloqe të mbetura.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Ke %0 blloqe të mbetura.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Ke %2 blloqe të mbetura.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Lojra për programerët e së nesërmes.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>lartësia</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>nëse rruga djathtas</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>nëse rruga majtas</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Zgjedh një kategori për të parë blloqet.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Lojtar</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Ndryshon ngjyrën e lapsit.</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Krijo një funksion për të luajtur katër notat e para të 'Frère Jacques'. Ekzekuto atë funksion dy herë. Mos shto blloqe të reja të notave.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>vendosë gjerësinë në</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://sq.wikipedia.org/wiki/Shtypi</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Mjaltë</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Luaj melodinë me violinë.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Ky bllok i ri të lejon të ndryshosh në një instrument tjetër.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Thumbues</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Mund ta zgjidhësh këtë labirint të komplikuar? Provo të ndiqni murin në të majtë. Vetëm për programuesit e avancuar!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>pena lartë</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Shiko Galerinë</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>kthehu majtas</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>rrezja</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>ec përpara</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Ndryshoni këndin e drejtimit për ta bërë zogun të marrë krimbën dhe të fluturoj në fole.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Hape galerinë e muzikës në Reddit.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Kërmill</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Pothuajse. Një bllok nuk është korrekt.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>foto:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Tekst</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Shotë</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Mace</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Bletë</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normale</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>trumpetë</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://sq.wikipedia.org/wiki/Macja</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>I friksuar</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Shiko Galerinë</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>luaj %1 nota %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Blloku i theksuar nuk është korrekt.
+Provo prap.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>fillo x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Rëndit një çift të blloqeve 'lëviz përpara' së bashku për të më ndihmuar të arrij qëllimin.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Dorëzo në Galeri</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Kliko në %1 në bllokun 'nëse' për të ndryshuar gjendjen e tij.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://sq.wikipedia.org/wiki/K%C3%ABrmilli</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Listat</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Gjëegjëzë</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>vendos instrumentin %1</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' është pozicioni juaj aktual horizontal. Përdoreni këtë bllok për të shkuar në një drejtim nëse 'x' është më pak se një numër, ose në një drejtim tjetër nëse është ndryshe.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>këmbët:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://sq.wikipedia.org/wiki/Bleta</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Hape galerinë e filmave në Reddit.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Urime!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Lojërat Blockly</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Ndryshon ngjyrën e lapsit.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>trashë</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Vizatoni çdo gjë që dëshironi. Keni një numër të madh të blloqeve të reja që mund të eksploroni. Bëfshi qejf!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>përsërit derisa</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Qark</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Dorëzo në Galeri</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>Bërja e kokës së miut të lëvizë është e lehtë. A mund ta zgjidhni matematikën për të lëvizur edhe veshët?</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Sapo të filloni të modifikoni JavaScript, nuk mund të ktheheni te blloqet e redaktimit. A është kjo në rregull?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Formula matematikore për këtë top në rënie është e komplikuar. Ja përgjigja:</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>zgjedh...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>fillo y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Blloku 'kohë' llogaritet nga 0 në 100. Por këtë herë ju doni që pozicioni horizontal i topit të kuq të fillojë në 100 dhe të shkojë në 0. A mund të kuptoni një formulë të thjeshtë matematikore që ndryshon drejtimin?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Tutori i Pellgut</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>Vizatimi i 360 vijave të bardha do të duket si hëna e plotë.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Programi yt nuk e zgjidhi këtë labirint. Shtyp 'Reseto' dhe provo përsëri.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>pjesa e parë</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Dokumentacion</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>shfaq breshkën</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Lëviz në drejtim të këndit të dhënë: 0 është \ndjathtas, 90 është përpjetë, etj. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>banxho</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>italike</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Ekzekuto programin për të parë çfarë ndodhë.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Vendosë fontin e përdorur nga blloku i shtypur.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>bëje ngjyrën</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Film</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x dhe y shënojnë pozicionin e shpendëve. \nKur x = 0, zogu është afër skajit të majtë, \nkur x = 100 është pranë skajit të djathtë. \nKur y = 0 zogu është në fund, kur y = 100 \nështë në krye. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Luaj një notë muzikore të kohëzgjatjes dhe \nlartësisë së caktuar. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Zgjudhja yte punon, por mund të bësh më mire.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Krijo një program që vizaton një katror.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Ndrysho një program për të vizatuar një pentagon në vend të katrorit.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Në vend të një ylli, a mund të vizatoni katër yje të aranzhuara në një katror?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>nuk ka krimb</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Vizato yjet, pastaj vizato katër vija të bardha.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Duck</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>A mund të shtoni një rreth të zi në mënyrë që hëna të bëhet gjysmëhënë?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Ndryshon gjerësinë e lapsit.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>Kalon në instrumentin e caktuar kur luan notat \nmuzikore në vazhdim. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matematikë</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Prit për një notë të plotë.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

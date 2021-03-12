@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="ru">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Слизь</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>если путь впереди</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>список</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>опустить перо</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Усы</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Мех</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Рисует прямоугольник в заданном месте с заданной \nдлиной и шириной. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Пруд</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Исполните первые четыре ноты 'Братца Якоба'</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Ракушка</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>переместить назад на</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Это новый блок, который позволяет изменить цвет.</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Нарисуй жёлтую звезду.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>На этом уровне требуются блоки "иначе если" и "иначе".</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Блок "если" выполнит что-то только в случае верного условия. Попробуйте повернуть налево, если путь влево доступен.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>хор</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>выполнять</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Вы использовали все блоки для этого уровня. Чтобы добавить новый блок, вначале необходимо удалить существующий.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Повернуть путника на 90 градусов влево или вправо.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Щелкните на иконке, чтобы изменить блок 'если'.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Маятник</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>размер шрифта</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Сбросить</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Путник сделает всё, что скажут ему блоки.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>Блок "и" имеет значения истина, если оба параметра истинны.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Одна нота (C4 это 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>скрипка</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>повернуть направо</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Сделай, чтобы ноги были в обратном порядке на середине фильма.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Хотите начать заново?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Перетащи блок "иначе" в блок "если".</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>текст</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Удалить все решения?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Сочини всё, что пожелаешь. У тебя появилось много новых блоков, которые стоит изучить. Приятно провести время!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>гитара</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Для каждого животного (зелёный блок), прикрепи его изображение, выбери число ног и собери его отличительные черты.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>особенности:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Ожидает определённое время</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Используйте команду 'cannon', чтобы поразить цель. Первый параметр — угол, второй — расстояние. Найдите правильное сочетание.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Загрузить ваш рисунок в галерею.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>'Функция' позволяет тебе сгруппировать блоки вместе, а затем запускать их более одного раза.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Эта цель должна быть поражена много раз. Используй цикл 'while (true)', чтобы делать что-то бесконечно.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Этот противник тоже слишком далеко, чтобы использовать пушки. Но ты слишком слаб, чтобы выжить в столкновении. Плыви в сторону противника, пока твоё горизонтальное положение меньше 50. Затем 'stop' и используй пушки.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Стрелять из пушки. Укажи направление (0-360) и \nрасстояние (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Справка</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Этот противник будет отходить, когда в него попали. Плыви вперед, если он находится вне диапазона (70 метров).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Логика</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Генетика</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Возвращает текущее здоровье игрока (0 - труп, \n100 - здоров). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Птица</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Информация для преподавателей ...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Переменные</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Запустить Программу</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Идеально!
+Все блоки (%1) расположены правильно.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Нарисуй три жёлтых звезды и одну белую линию.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>Несколько блоков (%1) расположены неправильно.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Нарисовать текст в положении и направлении \nчерепашки. </target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Лабиринт</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Загрузить в Галерею.</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>установить цвет</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Твоё решение работает, но можно сделать лучше. Используй 'scan', чтобы указать расстояние для стрельбы пушки.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Возвращает координату X игрока (0 - левый край, \n100 - правый край). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Возвращает текущее время в фильме (0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>пианино</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>иначе</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Расстояние — именно то, что нужно команде 'cannon' для точной стрельбы.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Этот противник двигается взад-вперёд, из-за чего в него трудно попасть. Выражение 'scan' возвращает точное расстояние до противника в указанном направлении.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Продвигает путника вперёд на один шаг.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://ru.wikipedia.org/wiki/Шрифт</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Этот новый блок добавляет беззвучную задержку.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>К сожалению, '%1' не соответствует ни одному сохраненному файлу Блокли.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Прекратить плыть. Игрок будет замедляться до \nостановки. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Сделать черепашку (окружность и стрелку) видимой \nили невидимой. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>см. Галерею</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Произошла проблема при запросе.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Запусти программу и жди её завершение. Затем можно поместить полученный рисунок в галерею.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>прямоугольник</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Если путь в указанном направлении открыт, \nто выполнить первый блок действий. \nИначе, выполнить второй блок действий. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Загрузить вашу музыку в галерею.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Проверить результат</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Нарисуй расширяющийся круг за человеком.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>напечатать</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>Создайте второй стартовый блок с двумя блоками задержки, а затем сыграйте песню «Братец Якоб».</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Музыка</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Ищет врагов. Укажи направление (0-360). \nВозвращает расстояние до ближайшего \nпротивника в этом направлении. \nВозвращает бесконечность, если противник \nне найден. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Каждый стартовый блок должен дважды играть песню «Братец Якоб».</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Создайте четыре стартовых блока, каждый из которых дважды исполняет песню «Братец Якоб». Добавьте правильное количество блоков задержки.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Если путь в указанном направлении открыт, \nто выполнить некоторые действия. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Создайте третью функцию для следующей части песни «Братец Якоб». Первые четыре ноты короче.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Закончите мелодию песни «Братец Якоб» до конца.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>флейта</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Возвращает координату Y игрока (0 - нижний край, \n100 - верхний край). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Повторять действия, заключенные в блоке, \nдо достижения конечной точки. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Прерывает программу и сбрасывает в начальное \nсостояние. </target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Создайте вторую функцию для следующей части песни «Братец Якоб». Последняя нота длиннее.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Состояние, когда птица ещё не поймала червя.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Запусти программу и жди её завершение. Затем можно поместить полученный рисунок в галерею.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Вы можете расположить более одного блока внутри блока «повторять».</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Цвет</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Команда "если-иначе" выполнит одно или другое действие.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Используй кнопку "Смотреть Галерею", чтобы посмотреть работы других. Если ты написал что-то интересное — используй кнопку "Сохранить в Галерее", чтобы поделиться работой с другими.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Используй то, что ты узнал на предыдущем уровне, чтобы ноги пересеклись.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Поделитесь своими блоками по этой ссылке:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Ваше решение работает, но вы можете сделать лучше. Используйте функции для уменьшения количества повторяющегося кода.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Сохранить и показать ссылку на блоки.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Пройдите до конца этого пути, используя только два блока. Для выполнения блока более одного раза используйте "повторять".</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>скрыть черепашку</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>На данном уровне вам необходимо сложить вместе все блоки на белом рабочем поле.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>шагнуть вперед</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Этот уровень очень сложен. Может, ты хочешь пропустить его и перейти к следующей игре? Ты всегда можешь вернуться сюда позже.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Цель</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Используй простые фигуры, чтобы нарисовать этого человечка.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>Выполняет блоки внутри, когда кнопка 'Запустить \nпрограмму' нажата. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Нарисуй звёздочку, используя всего четыре блока.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Нарисуй фигуру, используя всего три блока.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>повернуть направо на</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Клюв</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Перья</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>конечный y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Выберите в этом меню своего любимого путника.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>нарисуй небольшую жёлтую звёздочку, потом линию над ней.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Передвиньте фоновый круг наверх вашей программы. Тогда он окажется позади человека.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Функции</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>когда %1 нажата</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Вернуть путника в начало лабиринта.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Рисует отрезок заданной ширины между указанными \nточками. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>рисовать</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Используй кнопку "Смотреть Галерею", чтобы посмотреть фильмы других. Если ты создал что-то интересное - используй кнопку "Сохранить в Галерее", чтобы поделиться фильмом с другими.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Рисует круг в заданном месте с заданным радиусом.</target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Добавь человеку пару рук.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>длина</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>шрифт</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Возвращает текущую скорость игрока (0 - \nнеподвижность, 100 - максимальная скорость). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>повернуть налево на</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Запусти написанную тобой программу.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Очистить данные</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>барабан</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Открывает галерею рисунков.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>круг</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Сделай фильм, какой пожелаешь. У тебя появилось много новых блоков, которые стоит изучить. Приятно провести время!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Твой фильм неподвижен. Используй блоки, чтобы создать что-то интересное. После этого ты можешь поместить свой фильм в галерею.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Блоки</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Повернуть черепашку налево или направо на \nзаданный угол в градусах. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Черепашка</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Переместить черепашку вперёд или назад на \nзаданное расстояние. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Используй этот блок для движения в одном направлении, если червяк пойман, и в другом - если не пойман.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Ты решил задачу на этом уровне одной строкой на JavaScript.</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Ты решил этот уровень. Число строк кода на JavaScript - %1:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Поднимает или опускает перо, чтобы становить или \nначать рисование. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Открывает документацию по языку.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Загрузить ваш фильм в галерею. </target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Плыть вперед. Укажи направление (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Ты готов к следующему испытанию?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Этот уровень представляет собой кино. Требуется, чтобы рука двигалась по экрану. Нажми кнопку «Старт», чтобы посмотреть.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Есть новый блок, который позволяет поднять перо от бумаги при движении:</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Этот противник слишком далеко, чтобы использовать пушку (которая имеет ограничение 70 метров). Вместо этого, используй команду 'swim', чтобы плыть в сторону противника и врезаться в него.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Заголовок:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>конечный x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Во время показа фильма значение блока "time" меняется от нуля до 100. Из-за того, что координата 'y' также должна начинаться с 0 и дойти то 100, это должно быть просто.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Ты готов к уровню %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Используй кнопку "Смотреть Галерею", чтобы посмотреть рисунки других. Если ты нарисовал что-то интересное - используй кнопку "Сохранить в Галерее", чтобы поделиться рисунком с другими.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Отмена</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Не удалось загрузить ваш сохраненный файл.  Возможно, он был создан в другой версии Блокли?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>пауза, протяжённостью %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>направление</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>У вас остался %1 блок.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>У вас осталось %0 блоков.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>У вас осталось %2 блоков.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Игры для будущих программистов.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>ширина</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>если путь cправа</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>если путь cлева</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Выбери группу, чтобы увидеть блоки.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Игрок</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Изменяет цвет пера.</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Создайте функцию, чтобы сыграть первые четыре ноты песни «Братец Якоб». Запустите эту функцию дважды. Не добавляйте новые нотные блоки.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>установить ширину</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://ru.wikipedia.org/wiki/Книгопечатание</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Мёд</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Сыграйте свою мелодию на скрипке.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Этот новый блок позволяет вам использовать другой музыкальный инструмент.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Жало</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Можешь ли ты решить этот сложный лабиринт? Попробуй придерживаться левой стены. Только для опытных программистов!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>поднять перо</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>См. Галерею</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>повернуть налево</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>радиус</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>переместить вперёд на</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Измени курс, чтобы птица поймала червяка и села в своё гнездо.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Открыть галерею музыки.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Улитка</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Почти! Один блок расположен неправильно.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>картинка:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Текст</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Утка</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Кошка</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Пчела</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>обычный</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>труба</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://ru.wikipedia.org/wiki/Кошка</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Пуганый</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>См. Галерею</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>играть %1 ноту %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Выделенный блок расположен неправильно.
+Попробуй ещё.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>начальный x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Сгруппируйте несколько блоков "шагнуть вперёд", чтобы помочь мне достичь цели.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Загрузить в Галерею.</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Нажмите на %1 в блоке "если" для изменения его условия.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://ru.wikipedia.org/wiki/Улитка_(жизненная_форма)</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Списки</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Головоломка</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>установить инструмент %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>Музыка будет звучать лучше, если вы будете использовать разные инструменты в каждом стартовом блоке.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' - это текущее горизонтальное положение. Используй этот блок, чтобы двигаться в одном направлении, если 'x' меньше числа, или в другом направлении, в противном случае.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>ноги:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://ru.wikipedia.org/wiki/Пчёлы</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Открыть галерею фильмов.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Поздравляем!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Игры Blockly</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Галерея</target>
+      </trans-unit>
+      <trans-unit id="3616731507597101347" datatype="html">
+        <target>Печатает число в консоль вашего браузера.</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Меняет цвет пера.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>жирный</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Нарисуй, что пожелаешь. У тебя появилось много новых блоков, которые стоит изучить. Приятно провести время!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>повторять, пока не</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Циклы</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Представить в Галерею</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Спасибо за эту программу! Если нашим тренированным мартышкам она понравится, то они опубликуют программу в галерее в течение нескольких дней.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>Математическая формула для руки непроста. Вот ответ:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Как только вы начнёте редактировать JavaScript, вы не сможете вернуться к редактированию блоков. Продолжить?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Используйте блок «если», чтобы нарисовать маленькую голову для первой половины фильма. Затем нарисуйте большую голову для второй половины фильма.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>выбери...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>начальный y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Блок "time" отсчитывает от 0 до 100. Но теперь требуется менять координату 'y' другой руки от 100 до 0. Можешь найти простую математическую формулу, чтобы развернуть направление движения?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Учебный Пруд</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>Прорисовка 360-и белых линий будет выглядеть как полная луна.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Ваша программа не решила задачу. Нажмите кнопку «Сбросить» и попробуйте снова.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>первая часть</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Документация</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>показать черепашку</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Двигаться в направлении, заданном углом: 0 - \nвправо, 90 - вверх и т.д. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>банджо</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>курсив</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Запустите программу, чтобы посмотреть, что происходит.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Устанавливает шрифт для блока печати.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>установить цвет</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Фильм</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x и y отмечают положение птицы. \nПри x = 0 птица находится у левого \nкрая, при x = 100 она у правого \nкрая. При y = 0 птица находится \nв нижней части, при y = 100 - на \nсамом верху. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Проигрывает одну музыкальную ноту с определенной \nдлительностью и тональностью. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Твоё решение работает, но можно сделать лучше.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Создай программу, которая нарисует квадрат.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Измени программу, чтобы вместо квадрата нарисовать пятиугольник.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Вместо одной звезды, можешь нарисовать четыре звезды в углах квадрата?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>червяк не пойман</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Нарисуй звёзды, потом четыре белые линии.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://ru.wikipedia.org/wiki/Утки</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Можешь добавить чёрный круг, чтобы луна превратилась в полумесяц?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Изменить ширину пера.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>Переключает на заданный инструмент, \nво время проигрывания последующих \nмузыкальных нот. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Математика</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Ожидает одну целую.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

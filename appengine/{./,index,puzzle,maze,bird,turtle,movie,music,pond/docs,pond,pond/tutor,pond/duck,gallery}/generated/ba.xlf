@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="ba">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target> Лайла</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>әгәр юл алда булһа</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>Исемлек.</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Мыйыҡтар</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Йәнлек тиреһе</target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Быуа</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target> Ҡабырсаҡ</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target> "Әгәр ҙә" блогы дөрөҫ шарттар булғанда ғына нимәлер башҡарасаҡ. Һулға юл асыҡ булһа, шул яҡҡа боролоп ҡарағыҙ.</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>үтәргә</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Был баҫҡыс өсөн бөтә блоктырҙы ҡулландығыҙ. Яңы блок өҫтәр өсөн, тәүҙә булғанын юйҙырырға кәрәк.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Юлсыны һулға йәки уңға 90 градусҡа борорға.</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Таҙартырға</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Юлсы блоктар күрһәткәндең барыһын да эшләйәсәк.</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>уңға боролоу</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Яңынан башларға теләйһегеҙме?</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>тест</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target> Бөтә сиселештәрҙе лә юйырғамы?</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Һәр йәнлек өсөн (йәшел блок), һүрәтен беркет, аяҡтары һанын һайла һәм уның айырмалы һыҙаттарын йыйып ал.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>үҙенсәлектәр:</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Ярҙам</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target> Танылыу</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Ҡош</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Ентекләберәк</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target> Үҙгәреүсән дәүмәлдәр</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Программаны ебәреү</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Өлгөлө!(%1) бөтә блоктар ҙа дөрөҫ урынлашҡан.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>Бер нисә блок (%1) дөрөҫ урынлаштырылмаған.</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Лабиринт</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>башҡаса</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Юлсыны бер аҙымға алға күсерә. </target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>
+Ҡыҙғанысҡа ҡаршы, %1 һаҡланған программаларҙың береһенә лә тура килмәй</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Һорау ваҡытында проблема тыуҙы.</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Әгәр күрһәтелгән йүнәлештә юл асыҡ булһа, \nэштәрҙең беренсе блогын башҡарырға. \nЯбыҡ булһа, эштәрҙең икенсе блогын башҡарырға. </target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Һөҙөмтәне тикшереү</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Әгәр күрһәтелгән йүнәлештә юл асыҡ булһа, \nҡайһы бер эштәрҙе башҡарырға </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Блокта булған эштәрҙе һуңғы нөктәгә барып \nеткәнсе ҡабатларға </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Программаны өҙә һәм башланғыс торошона ырғыта.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Ҡоштоң ҡарышлауыҡты әле тотоп өлгөрмәгән сағы.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>"Ҡабатлау" блогы эсендә берҙән артыҡ блок урынлаштыра алаһығыҙ.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Төҫ</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>"бәлки-башҡаса" фарманы был йә башҡа эште башҡара.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>%1 һылтанмаһы буйынса булған блоктарығыҙ менән бүлешегеҙ</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Блоктарға һылтанманы һаҡларға һәм күрһәтергә.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Ике генә блокты ҡулланып был юлдың аҙағынаса үтегеҙ. Блокты бер тапҡырҙан артыҡ башҡарыу өсөн "ҡабатларға"  төймәһен ҡулланығыҙ.</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Был баҫҡыста һеҙгә аҡ эш яланында бөтә блоктарҙы ла бергә ҡушыу мотлаҡ.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>алға табан баҫыу</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Был кимәл бик ҡатмарлы. Бәлки һин уны ҡалдырып киләһе уйынға күсергә теләйһеңдер. Бында һин һуңғараҡ кире ҡайта алаһың.</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target> Томшоҡ</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Ҡауырһын</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Был менюла үҙегеҙҙең яратҡан юлсыны һайлағыҙ.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target> Функциялар</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Юлсыны лабиринт башына ҡайтарырға.</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Яҙған программаңды тоҡандыр.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target> Мәғлүмәттәрҙе юйырға</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>Яҡшы</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Ташбаҡа</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Мәсьәләне был кимәлдә JavaScriptта бер юл менән систегеҙ</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Был кимәлде систегеҙ. JavaScriptта код юлдары һаны - %1:</target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Киләһе һынауҙарға әҙерһеңме?</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target> %1 кимәленә әҙерһеңме?</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target> Баш тартыу</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Һаҡланған файлығыҙҙы тейәп булманы. Ул, моғайын, Блоктың башҡа версияһында эшләнгән булғандыр.</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>йүнәлеш</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Һеҙҙең %1 блок ҡалды.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Һеҙҙең %0 блогыгыҙ ҡалды.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Һеҙҙең %2 блок ҡалды.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target> Буласаҡ программистар өсөн уйындар.</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>әгәр юл уңда булһа</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>әгәр юл һулда булһа</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Бал</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Ҡаяу</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Был ҡатмарлы лабиринтты сисә алаһыңмы? Һул яҡтан барырға тырышығыҙ. Тәжрибәле программистар өсөн генә.</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>һулға боролоу</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Ҡусҡар</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Булды тиерлек!
+Бер блок дөрөҫ урынлаштырылмаған</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>Рәсем</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Текст</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target> Өйрәк</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Бесәй</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Бал ҡорто</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Бесәй</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target> Билдәләнгән блок дөрөҫ урынлаштырылмаған. Яңынан эшләп ҡара.</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Маҡсатыма ирешеүгә ярҙам өсөн бер нисә "алға атлау" блогын берләштерегеҙ</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>"Әгәр ҙә" блогы шарттарын үҙгәртеү өсөн %1 баҫығыҙ</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Ҡусҡар</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Исемлектәр</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Башватҡыс</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>аяҡтар:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Бал ҡорто</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target> Ҡотлайбыҙ!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blockly уйындары</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>булғансы ҡабатларға</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target> Циклдар</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target> Фильм</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>һайла...</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Tutor быуаһы</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Һеҙҙең программа мәсьәләне сисмәне. "Алып ташлау" төймәһенә баҫығыҙ һәм яңынан эшләп ҡарағыҙ.</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Нимә барғанын белеү өсөн программаны асығыҙ.</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>ҡарышлауыҡ тотолманы</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Duck</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Математика</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

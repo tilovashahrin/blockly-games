@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="ja">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>スライム</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>もしまっすぐ進めるなら</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>リスト</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>ペンを下ろす</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>ヒゲ</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>毛皮</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>指定された位置に、指定された幅と高さを持つ長方形を描きます。.</target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>ポンド</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>カラ</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>後ろに進む</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>色を変えられる新しいブロックがあります。</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>黄色の星を描いてください。</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>このレベルをクリアするには、'else if' と 'else' ブロックの2つが必要です。</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>「if」(もし) ブロックは条件が正しいときだけ何か動作をします。左に進めるときは左を向くようにしてみてください。</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>実行</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>このレベルで使えるブロックをすべて使いました。ブロックを新しく作成するには、今あるブロックを消さなければなりません。</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>プレーヤーが左または右に 90 度向きを変えます。</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>'if' ブロックを変更するには、アイコンをクリックしてください。</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>ふりこ</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>フォント サイズ</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>リセット</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>並べたブロックの動作をプレーヤーに実行させます。</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>'and' ブロックは、2つの入力が両方とも true の時に、true になります。</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>バイオリン</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>右を向く</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>動画の前半では足を反対向きに描いてください。</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>やり直しますか？</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>'else' ブロックを 'if' ブロックの中にドラッグします。</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>テキスト</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>すべての回答を削除しますか？</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>ギター</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>それぞれの動物 (緑) について、絵をつなげて、足の数を選んで、形質を並べてください。</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>特ちょう:</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>'cannon'コマンドを使って標的を射ってください。最初のパラメーターは角度、二番目のパラメーターは範囲です。それらの正しい組み合わせを見つけてください。</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>ギャラリーに図を送信。</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>この標的には何回も当てる必要があります。'while (true)'のループを使うと何かをずっと実行することができます。</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>この相手も大砲を使うには離れすぎています。しかし、突撃すると弱すぎて生き残れません。敵に向かって泳いで水平位置を50未満にします。そして'stop'で止まり大砲を使ってください。</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>大砲を発射します。方向（0～360）と距離（0～70）を指定してください。.</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>ヘルプ</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>この相手は撃たれると離れていきます。射程範囲（70メートル）外の場合、相手に向かって泳いでください。</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>論理</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>ジェネティクス</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>プレーヤーの現在の健康状態（0は死、100は健康）を返します。.</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>鳥</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>教育者の皆様むけのお知らせ…</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>変数</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>プログラムを実行</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>完ぺきです!
+%1 個のブロックが全問正解です。</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>3つの黄色の星を描き、白いラインを１本描いてみましょう。</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 個のブロックが間違っています。</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>タートルの方向と場所を文字として表示します。</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>迷路</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>ギャラリーへ送信</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>色を変える</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>あなたの回答は有効ですが、もっとよくできます。'scan'を使って大砲にどのくらいの遠くへ射つかを指示してください。</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>プレーヤーのX軸上の値（0は左端、100は右端）を返します。.</target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>アニメーション（1～100）の現在の時間を返します。</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>ピアノ</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>それ以外</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>この射程距離を使って'cannon'の命令が正確に実行されます。</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>この相手は前後に動いて、当てるのが難しいです。 この'scan'の表現は相手の方向への正確な距離を返します。</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>プレーヤーがまっすぐ 1 マス進みます。</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>すみません。「%1」という名前のプログラムは保存されていません。</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>水泳を止めます。プレーヤーはゆっくりと止まります。</target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>タートル (円と矢印) の表示/非表示を切り替えます。</target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>ギャラリーを見る</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>ネットワーク接続のエラーです。</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>長方形</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>選んだ方向に進める場合は最初のブロックの動作を、進めない場合は 2 番めのブロックの動作をします。.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>答え合わせ</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>この人の背景にどんどん大きくなる円を描きましょう。</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>表示</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>音楽</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>\n敵を探します。方向（0～360）を指定してください。その方向で最も近くにいる敵への距離を返します。敵が見つからない場合には無限大を返します。 </target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>選んだ方向に進める場合は、何か動作をします。</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>フルート</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>プレーヤーのY軸上の値（0は下端、100は上端）を返します。.</target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>内側の動作を、ゴールに着くまで繰り返します。</target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>プログラムを止めて、レベルをリセット。</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>鳥が虫を捕まえていない状態。</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>プログラムが停止するまで実行した後に、図をギャラリーに送信することができます。</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>「繰り返し」ブロックの中で、1 個以上のブロックを使えます。</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>色</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>「if-else」(もし-それ以外) ブロックでは、一方ともう一方の 2 つのことができます。</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>'ギャラリーを見る' ボタンを使って、他の人たちが描いたものを見てみましょう。何かおもしろいものを描いたときには、'ギャラリーへ送信' ボタンを押して、公開してみましょう。</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>前のレベルで学んだことを利用して、足を組んでみましょう。</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>ブロックの状態をこのリンクで共有できます:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>ブロックの状態を保存してリンクを取得します。</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>2 個のブロックだけでゴールしてください。ブロックを繰り返し実行する「繰り返し」を使ってください。</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>タートルを隠す</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>この面では、何もないワークスペースに、すべてのブロックを配置する必要があります。</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>まっすぐ進む</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>このレベルは難易度が非常に高いです。スキップして次のゲームを続けますか？いつでも戻ってくることができます。</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>ターゲット</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>簡単な形を使ってこの人を描いてみましょう。</target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>4つのブロックで星を描いてみましょう。</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>3つのブロックで形を作ってみましょう。</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>右に回転</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>くちばし</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>羽毛</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>yを終了</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>このメニューから好きなプレーヤーを選んでください。</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>小さい黄色の星を描いてから、その上に線を描いてみましょう。</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>関数</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>プレーヤーを迷路の最初の場所に戻します。</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>指定された幅である点から別の点へ線を引きます。</target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>線</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>他の人たちが作った動画を見るには"ギャラリーを見る"ボタンを使ってください。おもしろい動画ができたら、"ギャラリーへ送信"ボタンを使って公開してみましょう。</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>指定された位置に指定された半径で円を描きます。</target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>この人に腕を2本、付けてみましょう。</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>幅</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>フォント</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>プレーヤーの現在の速度（0は停止、100は最速）を返します。.</target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>左に回転</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>あなたの書いたプログラムを実行。</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>データをクリア</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>ドラム</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>図のギャラリーを開きます。</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>円</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>何でも作りたい動画を作ってみましょう。新しくたくさんのブロックが用意されています。楽しみましょう！</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>動画がうまくいっていません。ブロックを使って何かおもしろいものを作ってみましょう。できた動画はギャラリーに送信することができます。</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>ブロック</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>指定した角度だけタートルを回転させます。</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>タートル</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>指定した長さだけ前または後ろにタートルを動かします。</target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>虫を持っている場合にある方向へ行き、持っていない場合には異なる方向へ行くのにこのブロックを使います。</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>このレベルでのあなたの回答は１行のJavaScriptになります：</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>このレベルでのあなたの回答は%1行のJavaScriptになります：</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>線を引いたり引くのをやめたりするために、ペンを上げるか下げるかします。.</target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>言語の解説文を表示する。</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>ギャラリーに動画を送信。</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>前へ泳ぐ。方向を指定してください。(0-360)</target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>次のチャレンジに進みますか？</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>このレベルは動画です。画面を横切るよう腕を動かしましょう。プレイ・ボタンを押すとプレビューが見られます。</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>動くときにペンを紙から上げられる新しいブロックがあります。</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>タイトル:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>xを終了</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>動画が再生されるときには、'time'ブロックの値が0から100まで増えていきます。腕を'y'に0から100まで動かすのは簡単にできそうですね。</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>レベル %1 に進みますか？</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>"ギャラリーを見る" ボタンを使って、他の人たちが描いたものを見てみましょう。何かおもしろいものを描いたときには、"ギャラリーへ送信" ボタンを押して、公開してみましょう。</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>キャンセル</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>保存されたファイルを読み込めませんでした。別のバージョンのブロックリーで作成された可能性があります。</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>進む</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>残り %1 ブロックです。</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>残り %0 ブロックです。</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>残り %2 ブロックです。</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>明日のプログラマーのためのゲーム</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>高さ</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>もし右に進めるなら</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>もし左に進めるなら</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>カテゴリーを選んでブロックを見ます。</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>プレイヤー</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>ペンの色を変えます。</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>太さを変える</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://ja.wikipedia.org/wiki/印刷</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>ハチミツ</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>バイオリンで自分の曲を弾いてみましょう。</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>ハリ</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>この難しい迷路を解けますか? 左側の壁をたどってみてください。上級のプログラマー向けの迷路です!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>ペンを上げる</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>ギャラリーを見る</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>左を向く</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>半径</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>前に進む</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>鳥が虫を捕らえて巣に帰れるように進む角度を変えてください。</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>音楽のギャラリーを開きます。</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>カタツムリ</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>惜しい! 1 個のブロックが間違っています。</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>絵:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>テキスト</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>アヒル</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>猫</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>ハチ</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>標準</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>トランペット</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Cat</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>こわがって</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>ギャラリーを見る</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>強調されているブロックが正しくありません。
+がんばってください。</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>xを開始</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>「まっすぐ進む」のブロックをいくつか縦につないで、ゴールに連れて行ってください。</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>ギャラリーへ送信</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>「if」(もし)ブロックの条件を変えるには %1 をクリックしてください。</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Snail</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>リスト</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>パズル</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x'は現在の水平位置です。もし'x'がある数より小さい場合にはある方向に、そうでない場合には異なる方向に行くようにこのブロックを使います。</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>足:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://ja.wikipedia.org/wiki/ハチ</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>動画のギャラリーを開きます。</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>おめでとう!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>ブロックリー・ゲーム</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>ギャラリー</target>
+      </trans-unit>
+      <trans-unit id="3616731507597101347" datatype="html">
+        <target>webブラウザーのコンソールに数字を出力します。</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>ペンの色を変えます。</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>太字</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>何でも描きたいものを描いてください。たくさんの新しいブロックを試せます。楽しんでください！</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>「まで繰り返す」</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>繰り返し</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>ギャラリーへ送信</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>腕の数式は複雑なのです。答え合わせをしましょう。</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>JavaScriptの編集を開始すると、ブロックの編集へは戻れません。それでも宜しいですか？</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>動画の前半で小さな頭を描くのに、'if' ブロックを使いましょう。後半では大きな頭を描きます。</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>選んでください...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>yを開始</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>'time'ブロックは0から100まで増していきます。でも、もう片方のはアームを'y'に100から0まで動かすことにしましょう。方向を変える簡単な数式がどうなるかわかりますか？</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>ポンド・チューター</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>360本の白い線を描くと満月のように見えるでしょう。</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>あなたのプログラムでは迷路を解けませんでした。「リセット」を押してやり直してください。</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>説明書</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>タートルを表示する</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>与えられた角度の方向へ動く：0は右、90は上など。</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>斜体</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>動作を見るには、プログラムを実行してください。</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>表示ブロックで使うフォントを設定します。</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>色を設定：</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>動画</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>xとyは鳥の位置を示します。鳥は、x = 0 のときには左辺近く、x = 100 \nのときには右辺近くにいます。　鳥は、y = 0 のときには下辺にいて、y = 100 \nのときには上辺にいます。 </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>解けましたが、もっと上手に解くこともできるでしょう。</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>四角を書くプログラムを作る</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>正方形の代わりに五角形を描くようにプログラムを変えてください。</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>正方形の中に、１つの星の代わりに４つの星を並べることができますか？</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>虫を持っていないなら</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>星を描いてから、4つの白い線を描いてみましょう。</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Duck</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>黒い円を加えて月が三日月に見えるようにできますか？</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>ペンの太さを変えます。</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>数学</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>この相手は大砲（射程最大70メートル）を使うには離れすぎています。その代わりに、'swim'の命令を使って敵の方へ泳いで突撃してください。</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

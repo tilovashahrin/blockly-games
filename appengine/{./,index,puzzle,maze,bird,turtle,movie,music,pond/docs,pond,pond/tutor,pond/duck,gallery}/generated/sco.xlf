@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="sco">
+    <body>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>gif path is aheid</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>leet</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>pen doon</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Ae 'gif' block will dae sommit yinlie gif the condeetion is true.  Gie turnin cair ae shot gif thaur is ae path oan the cair.</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>dae</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Ye'v uised up aw the blocks fer this level.  Tae mak ae new block, ye maun first delyte aen exeestin block.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Turns the player cair or richt bi 90 degrees.</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>font size</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Reset</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Maks the player dae whit the blocks say.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Ye can fit mair than yin block inside ae 'repeat' block.</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>turn richt</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>tex</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Fer ilka kintrie (green), attach its banner, chuise its leid, an mak ae stack o its cities.</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Heelp</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Logeec</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Variables</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Rin Program</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Perfect!
+Aw %1 blocks ar correct.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 blocks ar oncorrect.</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Put the player back at the stairt o the maze.</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>set colour tae</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>itherwise</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Maze</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Sairrie, '%1' disna correspond wi onie hained program.</target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Maks the turtle (circle n pointer) veesible or \nonveesible. </target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Thaur wis ae problem wi the request.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Check Answers</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>prent</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>muiv forewaird</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Gif thaur is ae path in the speceefied \ndirection, than dae some aictions. </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Repeat the enclaised aictions ontil the finish \npoint is reached. </target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>muiv backwaird bi</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Colour</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Gif-itherwise blocks will dae yin thing or the ither.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Shair yer blocks wi this airtin:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Hain n airt til blocks.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Reach the end o this path uisin yinlie twa blocks.  Uise 'repeat' tae rin ae block mair than yince.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>skauk turtle</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Oan this level, ye need tae stack thegather aw o the blocks in the white warkspace.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Draws tex in the turtle's direction at its \nlocation. </target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>turn richt bi</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Chuise yer favoorite player fae this menu.</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>gif path is oan the cair</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Muivs the player forewaird yin space.</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>font</target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>turn cair bi</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Turns the turtle cai or richt bi the speceefied \nnummer o degrees. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Turtle</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Muives the turtle forewaird or backwaird bi the \nspeceefied amoont. </target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Lifts or lowers the pen, tae stap or stairt drawin.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Cancel</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Coudnae laid yer hained file.  Perhaps it wis makit wi ae deefferent version o Blockly?</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Ye hae %1 block left.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Ye hae %0 blocks left.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Ye hae %2 blocks left.</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>gif path is oan the richt</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Functions</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Chynges the colour o the pen.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>set width tae</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Can ye solve this compleecated maze?  Gie follaein the cair waa ae shot.  Advanced programmers yinlie!</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>pen up</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>turn cair</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>muiv forewaird bi</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Naerlie! yin block is oncorrect.</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Tex</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Gif thaur is ae path in the speceefied \ndirection, than dae the first block o \naictions. Itherwise, dae the seicont \nblock o aictions. </target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normal</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>The heilichted block is no correct.
+Keep it up.</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Stack some 'muiv forewaird' blocks thegather tae heelp me reach the goal.</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Clap oan %1 in the 'gif' block tae chynge its condeetion.</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Leets</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Jigsaw puzzle</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Sets the font uised bi the prent block.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>baud</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>repeat ontil</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Luips</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>chuise...</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Yer program didna solve the maze.  Press 'Reset' n gie it anither shot.</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>shaw turtle</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>italeec</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Rin yer program tae see whit happens.</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Chynges the width o the pen.</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Maths</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

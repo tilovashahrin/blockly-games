@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="ksh">
+    <body>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Beinah! Ei Klözje es verkeeht.</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Supper!
+Alle %1 Klözje sin reschtesch.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Klözjer</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Dat eine Klözje es verkeht.
+Versöhg et norr_ens.</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>För jedes Diersche, en Jröhn, donn däm sing Beld draan, söhk uß, wi vill Bein dad-et haät, un maar_ene Schtahpel met singem Wehse un singe Eijeschaffte.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>Söhk jäd uß...</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>Jebongt!</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 Klözje sin verkeeht.</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Hölp</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Prööve!</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Possel</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

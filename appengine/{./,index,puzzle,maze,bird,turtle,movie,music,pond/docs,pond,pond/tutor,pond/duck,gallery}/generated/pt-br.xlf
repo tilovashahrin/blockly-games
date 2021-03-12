@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="pt-br">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Gosma</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>se caminho à frente</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>lista</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>abaixar caneta</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Bigodes</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Pelo</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Desenhar um retângulo numa localidade específica \ncom uma largura e uma altura especifica. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Lagoa</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Componha as primeiras quatro notas de 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Concha</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>mover para trás</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Aqui está um novo bloco que te permite trocar a cor:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Desenhe uma estrela amarela.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Este nível precisa de um bloco 'senão se' e de um bloco 'senão'.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Um bloco 'se' fará alguma coisa apenas se a condição for verdadeira. Tente virar à esquerda se houver um caminho para a esquerda.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>coro</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>faça</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Você usou todos os blocos para este nível. Para criar um novo bloco, você primeiro deve deletar um bloco existente.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Vira o jogador 90 graus para esquerda ou direita.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Clique no ícone para modificar o bloco 'se'.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Pendulo</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>tamanho da fonte</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Reiniciar</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Faz o jogador executar o que os blocos dizem.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>O bloco "e" somente é verdadeiro se as duas entradas forem verdadeiras.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Uma nota (C4 é 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>violino</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>vire à direita</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Faça as pernas inverterem a direção a meio do filme.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Quer começar novamente?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Puxe um bloco "senão" em cima do bloco "se".</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>Y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>texto</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Deletar todas as suas soluções?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Componha o que o que você quiser. Você tem uma grande quantidade de blocos novos que pode explorar. Divirta-se!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>guitarra</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Para cada animal (verde), anexe sua imagem, escolha seu numero de pernas, e faça uma lista de seus traços.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>traços:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Aguarde pela duração especificada.</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Use o comando 'cannon' para atingir o alvo. O primeiro parâmetro é o ângulo, o segundo é o alcance. Ache a combinação correta.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Enviar seu desenho para a galeria.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>Uma 'função' permite agrupar os blocos, e depois executá-los mais de uma vez.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Este alvo deve ser acertado várias vezes. Use o ciclo 'while (true)' para fazer algo indefinidamente.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Este oponente também está muito longe para usar o canhão. Mas você está muito fraco para sobreviver à uma colisão. Nade até o oponente enquanto sua posição horizontal for menor que 50. Então 'pare' e use o canhão.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Dispare o canhão. Especifique uma direção \n(0-360) e o alcance (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Ajuda</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Este oponente irá se mover para longe quando golpeado. Nade até ele se está fora do alcance (70 metros).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Lógica</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Genéticas</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Retorna a saude atual do jogador (0 esta morto, \n100 esta saudável). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Pássaro</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Informações para educadores...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Variáveis</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Executar o programa</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Perfeito!
+Todos os %1 blocos estão corretos.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Desenhe três estrelas amarelas e uma linha branca.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 blocos estão incorretos.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Desenha texto na direção da tartaruga em sua \nlocalização. </target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labirinto</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Enviar para a galeria</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>Configurar cor para</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Sua solução funciona, mas você pode fazer melhor. Use 'scan' para mostrar ao canhão o quão longe atirar.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Retorna a coordenada X do jogador (0 é a margem \nesquerda, 100 é a margem direita). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Retornar o tempo atual na animação (0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>piano</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>senão</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Este alcance é exatamente o que o comando 'cannon' precisa para atirar precisamente.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Esse oponente move-se para frente e para trás, fazendo ficar difícil acertá-lo. A Expressão 'scan' retorna o alcance exato do oponente naquela direção.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Move o jogador um espaço para frente.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://pt.wikipedia.org/wiki/Fonte_tipogr%C3%A1fica</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Este novo bloco acrescenta um temporizador silencioso.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Desculpe, '%1' não corresponde a um programa salvo.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Parar de nadar. O jogador fara uma parada lenta. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Torna a tartaruga (círculo e seta) visível ou \ninvisível. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Ver a Galeria</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Houve um problema com a requisição.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Execute o seu programa até ele parar. Então poderá enviar a sua música para a galeria.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>retangulo</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Se há um caminho na direção especificada, \nentão faça o primeiro bloco de ações. \nCaso contrário, faça o segundo bloco de \nações. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Envie sua música para a galeria.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Checar respostas</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Desenhe um círculo em expansão atrás da pessoa.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>imprimir</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>Crie um segundo bloco inicial que tenha dois blocos silenciosos, e então toque 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Música</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Busque inimigos. Especifique uma direção(0-360). \nRetorna a distancia do inimigo mais proximo \nnaquela direção. Retorna infinito se nenhum \ninimigo for encontrado. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Cada bloco inicial deve tocar 'Frère Jacques' duas vezes.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Crie quatro blocos iniciais que toquem 'Frère Jacques' duas vezes. Acrescente o número correto dos blocos silenciosos.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Se há um caminho na direção especificada, \nentão faça algumas ações. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Crie uma terceira função para a próxima parte de 'Frère Jacques'. As quatro primeiras notas são mais curtas.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Complete toda a cantiga de 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>flauta</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Retorna a coordenada Y do jogador (0 é a borda \ninferior, 100 é a borda superior). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Repetir as ações inclusas até que o ponto final \nseja alcançado. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Parar a execução do programa e resetar o nivel.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Crie uma segunda função para a próxima parte de 'Frère Jacques'. A última nota é mais longa.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Esse bloco indica quando o pássaro não possui a \nminhoca. </target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Rode seu programa até que ele pare. Depois você pode submeter seu desenho a galeria.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Você pode encaixar mais de um bloco dentro de um bloco 'repetir'.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Cor</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Blocos se-senão farão uma coisa ou outra.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Utilize o botão "Ver Galeria" para ver o que as outras pessoas compuseram. Se compor algo interessante, use o botão "Enviar para a Galeria" para publicar.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Use o que você aprendeu no nível anterior para fazer pernas cruzadas.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Compartilhe seus blocos com este link:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>A sua solução funcionou, mas pode fazer melhor. Utilize as funções para reduzir a quantidade de código repetido.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Salvar e ligar aos blocos.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Alcance o fim deste caminho usando apenas dois blocos. Use 'repetir' para executar um bloco mais de uma vez.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>esconder tartaruga</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Neste nível, você deve empilhar todos os blocos na área de trabalho branca.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>avançar</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Este nível é extremamente difícil. Você deseja pulá-lo e ir ao próximo jogo? Você sempre pode voltar mais tarde.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Alvo</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Use formas simples para desenhar essa pessoa.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>Execute os blocos dentro quando o botão de \n'Executar programa' for clicado. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Desenhe a estrela somente com 4 blocos.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Desenhe o contorno somente com esses três blocos.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>vire à direita</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Bico</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Penas</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>fim Y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Escolha o seu jogador favorito neste menu.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Desenhe uma pequena estrela amarela, depois, desenhe uma linha em cima dela.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Mova o círculo de fundo para o topo do seu programa. Então aparecerá atrás da pessoa.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Funções</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>quando %1 é clicado</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Coloca o jogador de volta ao início do labirinto.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Desenha uma linha de um ponto ao outro com um \ncomprimento especifico. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>linha</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Use o botão "Ver Galeria" para ver o que as outras pessoas desenharam. Se você desenhar algo interessante,use o botão "Enviar para a Galeria" para publicar.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Desenha um circulo numa localidade específica e \ncom o raio especificado. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Dê a pessoa algumas mãos.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>largura</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>fonte</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Retorna a velocidade atual do jogador (0 esta \nparádo, 100 esta na velocidade maxima) </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>vire à esquerda</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Rodar o programa que você escreveu.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Apagar dados</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>tambor</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Abrir a galeria de desenhos.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>circulo</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Desenhe o que você quiser. Você conseguiu um grande numero de blocos novos para explorar. Divirta-se!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Seu filme não se move. Use blocos para fazer algo interessante. Depois você pode enviar seu filme para a galeria.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Blocos</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Gira a tartaruga para esquerda ou direita de \nacordo com o número de graus especificado. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Tartaruga</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Move a tartaruga para frente ou para trás a \nquantidade especificada. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Usar este bloco para ir em uma posição se você tiver a minhoca, ou uma posição diferente se você não tiver a minhoca.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Você solucionou esse nível com uma linha de JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Você solucionou esse nível com %1 linhas de JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Levanta ou abaixa a caneta, para parar ou voltar \na desenhar. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Mostrar a documentação de idioma.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Enviar o seu filme para a galeria.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Nadar para a frente. Especifique uma direção \n(0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Você esta preparado para o próximo desafio?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Este nível é um filme. Você quer que o braço da pessoa se mova pela tela. Pressione o botão play para ver uma prévia.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Aqui esta um novo bloco que te permite suspender a caneta quando você move o cursor:</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Esse oponente está muito longe para usar o canhão (que tem um alcance de 70 metros). Invés disso, use o comando 'swim' para começar a nadar até o oponente e trombar nele.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Título:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>fim X</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Enquanto o filme passa, o valor do bloco 'time' conta de 0 a 100. Como queira a posição 'y' do braço iniciar no 0 e que vá até 100 isto deve ser fácil.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Você esta preparado para o nível %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Use o botão "Ver Galeria" para ver o que as outras pessoas desenharam. Se você desenhar algo interessante,use o botão "Enviar para a Galeria" para publicar.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Cancelar</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Não foi possível carregar seu arquivo salvo. Talvez ele tenha sido criado com uma versão diferente do Blockly?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>resta %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>direção</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Resta %1 bloco.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Restam %0 blocos.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Restam %2 blocos.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Jogos para os programadores de amanhã.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>altura</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>se caminho à direita</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>se caminho à esquerda</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Escolha uma categoria para ver os blocos.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Jogador</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Muda a cor da caneta.</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Crie uma função para tocar as quatro primeiras notas de 'Frère Jacques'. Execute essa função duas vezes. Não acrescente novos blocos de notas.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>configurar largura para</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://pt.wikipedia.org/wiki/Impress%C3%A3o</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Mel</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Tocar a sua ária com um violino.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Este bloco novo permite que mude para outro instrumento.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Ferrão</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Você consegue resolver este labirinto complicado? Tente seguir a parede da mão esquerda. Apenas para programadores avançados!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>X</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>levantar caneta</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Ver a Galeria</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>vire à esquerda</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>raio</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>avançar</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Trocar o ângulo da direção para que o pássaro pegue a minhoca e aterrisse em seu ninho.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Abrir a galeria da música.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Caracol</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Quase! Um bloco está incorreto.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>imagem:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Texto</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Pato</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Gato</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Abelha</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normal</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>trompete</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>http://pt.wikipedia.org/wiki/Gato</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Assustado</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Ver a galeria</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>tocar %1 nota %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>O bloco destacado está incorreto. Continue tentando.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>início x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Empilhe alguns blocos 'avançar' juntos para me ajudar a alcançar o objetivo.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Enviar a Galeria</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Clique em %1 no bloco 'se' para mudar sua condição.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>http://pt.wikipedia.org/wiki/Caracol</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Listas</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Quebra-Cabeça</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>ajustar o instrumento para %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>A música soará melhor se usar um instrumento diferente em cada bloco inicial.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' e sua posição horizontal atual. Use este bloco para ir em uma direção se 'x' for menor que um numero, ou uma direção diferente caso contrário.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>patas:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>http://pt.wikipedia.org/wiki/Abelha</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Abra a galeria de filmes.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Parabéns!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Jogos do Blockly</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Galeria</target>
+      </trans-unit>
+      <trans-unit id="3616731507597101347" datatype="html">
+        <target>Imprime um número no console do seu navegador.</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Trocar a cor da caneta.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>negrito</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Desenhe o que você quiser. Você conseguiu um grande numero de blocos novos para explorar. Divirta-se!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>repetir até</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Laços</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Enviar a Galeria</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Agradecemos pelo programa! Se a nossa equipa gostar dele, este será publicado na galeria por nós dentro de alguns dias.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>A fórmula matemática para o braço é complicada. Aqui está a resposta:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Quando você começar a editar o JavaScript, você não poderá mais voltar a editar os blocos. Você tem certeza?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Use o bloco 'se' para desenhar uma pequena cabeça na primeira metade do filme. Em seguida, desenhe uma grande cabeça para a segunda metade do filme.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>escolha...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>início y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>O bloco 'tempo' conta de 0 a 100. Mas agora você quer que a posição 'y' do outro braço comece em 100 e vá para 0. Você consegue descobrir uma fórmula matemática simples que inverta a direção?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Tutor de Lagoa</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>Desenhar 360 linhas brancas vai parecer uma lua cheia.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Seu programa não resolveu o labirinto. Aperte 'Reiniciar' e tente novamente.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>primeira parte</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Documentação</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>mostrar tartaruga</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Mover na direção do ângulo indicado: 0 é para a \ndireita, 90 é para frente, etc. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>banjo</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>itálico</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Execute seu programa para ver o que acontece.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Configurar a fonte usada pelo bloco de impressão \nna tela. </target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>mudar a cor para</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Filme</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x e y marcam a posição do pássaro. \nQuando x = 0 o pássaro esta próximo \nda margem esquerda, quando x = 100 \nesta perto da margem direita. Quando \ny = 0 o pássaro esta em baixo, quando \ny = 100 ele está no topo. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Toque uma nota musical com a duração e altura \nespecíficas. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Sua solução funciona, mas você pode fazer melhor.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Crie um programa que desenha um quadrado.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Modifique seu programa para que desenhe um pentágono em vez de um quadrado.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Em vez de uma estrela, você pode desenhar quatro estrelas dispostas como um quadrado?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>não tem minhocas</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Desenhe as estrelas, depois desenhe quatro linhas brancas.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>http://pt.wikipedia.org/wiki/Pato</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Você pode adicionar um circulo preto para que a lua fique crescente?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Muda o tamanho da caneta.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>Alterne para o instrumento específico ao tocar \nas notas musicais posteriores. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matemática</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Aguarde por uma semibreve.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

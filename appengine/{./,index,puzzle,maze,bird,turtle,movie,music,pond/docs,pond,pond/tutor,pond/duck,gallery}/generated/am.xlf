@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="am">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>የሰውነት ፈሳሽ ያለው</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>መንገድ ካለ ወደፊት</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>ዝርዝር</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>ብዕር ያስቀምጡ</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>ጢም ያለው</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>ፀጉር ያላት</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>በተጠቀሰው ቦታ ላይ እና ከተጠቀሰው ስፋት እና ቁመት አራት ማእዘን ይስላል።.</target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>ኩሬ</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>የ‹ፍሬ ዣክ›ን የመጀመሪያዎቹን አራት ኖታዎች ያቀናብሩ፡፡</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>ሼል ያለው</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>በዚህ ያህል መጠን ወደ ኋላ ሂድ</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>ቀለሙን ለመለወጥ የሚያስችልዎ አዲስ ብሎክ አለ</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>ቢጫ ኮከብ ይሳሉ።</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>ይህ ደረጃ የ'else if' እና 'else' ብሎኮችን ይፈልጋል ፡፡</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>የ'ቢሆን' ብሎክ አንድ ነገር የሚያከናው ሁኔታው እውነት ከሆነ ብቻ ነው ፡፡ ወደ ግራ የሚወስደ መንገድ ካለ ወደ ግራ ለመሄድ ይሞክሩ ፡፡</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>መዘምራን</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>አድርግ</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>ለዚህ ደረጃ ሁሉንም ብሎኮች ተጠቅመዋል ፡፡ አዲስ ብሎክ ለመፍጠር በመጀመሪያ አንድ ብሎክ መሰረዝ ያስፈልግዎታል ፡፡</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>ይሄ ተጫዋቹን ወደ ግራ ወይንም ወደቀኝ በ 90 ዲግሪዋች ያሳጥፈዋል.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>የ 'If' ብሎኩን ለመቀየር አዶውን ጠቅ ያድርጉ።</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>ፔንዱለም</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>የቅርጸ-ቁምፊ መጠን</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>ዳግም ይጀመር</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>ይህን ቁልፍ መጫን የተፃፈውን የኮምፒተር ፕሮግራም ያሂዳል።.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>የ 'and' ብሎክ እውነት የሚሆነው ሁለቱም ግብአቶች እውነት ከሆኑ ብቻ።</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>አንድ ኖታ(C4 7 ነው)።</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>ቫዮሊን</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>ታጠፍ ወደቀኝ</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>በፊልሙ አጋማሽ ላይ እግሮቹ አቅጣጫ እንዲቀይሩ ያድርጉ።</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>እንደገና መጀመር ይፈልጋሉ?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>አንድን የ'else' ብሎክ ወደ 'if' ብሎክ ይጎትቱ።</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>Y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>ጽሕፈት</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>ሁሉንም መፍትሔዎችዎን ይሰረዙ?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>ማንኛውንም የሚፈልጉትን ነገር ይሳሉ። እርስዎ ሊጠቀሙ የሚችሉባቸው በጣም ብዙ ቁጥር ያላቸው አዳዲስ ብሎኮች አሉዎት ፡፡ ይዝናኑ!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>ጊታር</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>ለእያንዳንዱ እንስሳ (አረንጓዴ) ስዕሉን ያያይዙ ፣ የእግሮቹን ብዛት ይምረጡ እና የባህሪያቱን አይነት መርጠው በመደርደር ያብጁት</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>ባህሪያት:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>ለተጠቀሰው የጊዜ ቆይታ ይጠብቃል።</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>ዒላማውን ለመምታት የ ‹canon› ትዕዛዙን ይጠቀሙ ፡፡ የመጀመሪያው ግባአት አንግል ነው ፣ ሁለተኛው ርቀት ነው። ትክክለኛውን ጥምር ይፈልጉ።</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>ስዕልዎን ወደ ማእከለ ስዕላት ያስገቡ።</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>'መላ' (functions) ብሎኮችን በአንድ ላይ ለመሰብሰብ ያስችልዎታል ፣ ከዚያም ይሄን በተፈለገው ድግግሞሽ በቀላሉ ማስኬድ ይችላሉ፡፡</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>ይህ ዒላማ ብዙ ጊዜ መምታት አለበት። ያለገደብ የሆነ ነገር ለመስራት 'while (true)' ይጠቀሙ።</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>ይህ ጠላት መድፉን ለመጠቀም በጣም ሩቅ ነው ፡፡ እርስዎ ደግሞ ከግጭት ለመትረፍ በጣም ደካማ ነዎት ፡፡ አዋጭ የሚሆነው አግዳሚ ስፍራዎ ከ 50 በታች እስኪሆን ድረስ ወደ ተጋጣሚው ላይ ይዋኙና  ከዚያ 'stop'ን ተጠቅመው መድፉን ይጠቀሙ ፡፡</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>መድፉን ይተኩሱ፡፡ አቅጣጫ (0-360) እና ርቀት(0-70) ይግለጹ።.</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>እርዳታ</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>ይህ ጠላት ሲመቱት ይሸሻል። ከርቀት (70 ሜትር) ውጭ ከሆነ ይዋኙ ፡፡</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>የሁኔታዊ መገንቢያ ብሎኮች</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>የ ዘረ መል ጨዋታ</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>የተጫዋቹን ወቅታዊ ጤና ይመልሳል (0 ሞቷል ፣ 100 ጤናማ ነው)።.</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>ወፍ</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>ለአስተማሪዎች መረጃ ...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>የተላውጠ ቃላት መገንቢያ ብሎኮች</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>ፕሮግራም ያሂዱ</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>ድንቅ ነው!
+ሁሉም %1 ብሎኮች ትክክል ናቸው።</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>ሶስት ቢጫ ኮከቦችን ይሳሉ እና አንድ ነጭ መስመር ይሳሉ።</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 ብሎኮች ትክክል አይደሉም ፡፡</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>ኤሊው ወዳለበት አቅጣጫ ጽሑፍን ይስላል፡፡</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>መንገድ</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>ሙዚቃ ወደ ማእከሉ ያስገቡ</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>ቀለም ይለውጡ ወደ</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>የእርስዎ መፍትሔ ይሠራል ፣ ግን በተሻለ መስራት ይችላሉ። ምን ያህል ርቀት መተኮስ እንዳለበት ለመንገር 'scan' ይጠቀሙ።</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>ተጫዋቹ ያለበትን የ X ቦታ ይመልሳል (0 የግራ ጠርዝ ነው ፣ 100 የቀኝ \nጠርዝ ነው)። </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>በአኒሜሽኑ ውስጥ የአሁኑን ጊዜ ይመልሳል (0-100) ።.</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>ፒያኖ</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>ካልሆነ</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>ይህ ርቀት በትክክል ‹canon› ለመተኮስ የሚያስፈልገው ነው ፡፡</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>ይህ ጠላት ወደፊትና ወደኋላ ስለሚንቀሳቀስ ለመመታት ከባድ ያደርገዋል ፡፡ ‹scan› በተጠቀሰው አቅጣጫ ከጠላት ጋር ያለዎትን ትክክለኛውን ርቀት ወደ ያሳያልና ይጠቀሙበት ፡፡</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>ይሄ ተጫዋቹን አንድ እርምጃ ወደ ፊት ይወስደዋል.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>ይህ አዲስ ብሎክ ጸጥታን ይጨምራል።</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>ይቅርታ ፣ '%1' ከማንኛውም የተቀመጠ ፕሮግራም ጋር ስያሜው አይጣጣምም</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>መዋኘት ያቁሙ ፤ ተጫዋቹ ቀስ እያለ ሄዶ ይቆማል።.</target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>ኤሊው (ክብ እና ቀስት) እንዲታይ ወይም የማይታይ ያደርገዋል።.</target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>ማዕከለ-ፊልምን ይመልከቱ</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>ማግኘት አልተቻለም</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>ፕሮግራምዎ እስኪያቆም ድረስ ያሂዱ። ከዚያ ስዕልዎን ወደ ቤተ-ስዕሉ ማስገባት ይችላሉ።</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>አራት ማእዘን</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>በተጠቀሰው አቅጣጫ አንድ መንገድ ካለ ፣ የመጀመሪያዎቹን ብሎክ ድርጊቶች \nያከናውን። ያለበለዚያ ፣ የሁለተኛውን ብሎክ ድርጊቶች ያከናውን። </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>በማእከል የእርስዎን ሙዚቃ ያስገቡ</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>መልሶችን ይመልከቱ</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>ከሰውየው በስተጀርባ የሚሰፋ ክብ ይሳሉ።</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>ያትሙ</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>ሁለት የሚያዘገዩ ብሎኮች ያሉት የመጀመሪያ ብሎኮች ይፍጠሩ ፣ ከዚያ 'ፍሬ ዣክ' ይጫወት ፡፡</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>ሙዚቃ</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>ጠላቶችን ይቃኙ፤ አቅጣጫን ይግለጹ (0-360)፣ በሰጡት አቅጣጫ በኩል \nበቅርበት የሚገኘውን ጠላት ርቀት ያያሉ ፡፡ ምንም ጠላት ካልተገኘ \nInfinity ይመልሳል። </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>እያንዳንዱ ጅምር 'ፍሬ ዣክ'ን ሁለት ጊዜ መጫወት አለበት ፡፡</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>እያንዳንዳቸው ሁለት ጊዜ ‹ፍሬ ዣክ› የሚጫወቷቸውን አራት የመጀመሪያ ብሎኮች ይፍጠሩ ፡፡ ተገቢ የማዘግያ ብሎኮችን ያክሉ።</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>በተጠቀሰው አቅጣጫ መንገድ ካለ የሆነ እርምጃ ይውሰዱ.</target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>ለሚቀጥለው የ 'ፍሬ ዣክ' አንድ ሦስተኛ መላ ይፍጠሩ ፡፡ የመጀመሪያዎቹ አራት ኖታዎች አጭጫር ናቸው ፡፡</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>ሙሉውን የ 'ፍሬ ዣክ'  ዜማ ይሙሉ ፡፡</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>ዋሽንት</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>ተጫዋቹ ያለበትን የ Y ቦታ ይመልሳል (0 የግራ ጠርዝ ነው ፣ 100 የቀኝ \nጠርዝ ነው)። </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>የመጨረሻው ነጥብ ላይ እስከሚደርስ ድረስ ድርጊቶችን ይደጋግሙ ፡፡.</target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>ፕሮግራሙን ያቁሙና ደረጃውን እንደገና ያስጀምሩ</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>ለሚቀጥለው የ 'ፍሬ ዣክ' ሁለተኛ መላ ይፍጠሩ ፡፡ የመጨረሻው ኖታ ረዘም ይላል ፡፡</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>ወፏ ትል ሳታገኝ ስትቀር ያለው ሁኔታ</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>ፕሮግራምዎ እስኪያቆም ድረስ ያሂዱ። ከዚያ ስዕልዎን ወደ ቤተ-ስዕሉ ማስገባት ይችላሉ።</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>ከአንድ በላይ ብሎኮችን በ'ድገም' ብሎክ ውስት ማገጣጠም ይችላሉ ፡፡</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>የቀለም መገንቢያ ብሎኮች</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>የ ከሆነ-ካልሆነ ብሎኮች ተፈታኝ ብሎኩ ከሆነ የመጀመሪያውን ካልሆነ ደግሞ ሌላውን ለሚያሰናደር ይረዳሉ</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>ሌሎች ሰዎች ምን እንደሳቡ ለመመልከት የ “ማዕከለ-ስዕላትን ይመልከቱ” የሚለውን ቁልፍ ይጠቀሙ ፡፡ አንድ አስደሳች ነገር ከሳሉ እሱን ለማተም 'ወደ ማእከለ-ስዕላት ያስገቡ' የሚለውን ቁልፍ ይጠቀሙ ፡፡</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>ቀደም ሲል የተማሩትን ተጠቅመው እግሮቹን የተጣመሩ ያድርጉ፡፡</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>ብሎኮችዎን በዚህ መስፈንጠርያ አጋሩ:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>የሰሩት መፍትሔ ይሠራል ፣ ግን ከዚህም በተሻለ መስራት ይችላሉ። የተደጋገሙ ኮዶችን መጠን ለመቀነስ የመላ መገንቢያዎችን (functions) ይጠቀሙ።</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>ብሎኮች ያስቀምጡ እና መስፈንጠሪያ ያግኙ</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>ሁለት ብሎኮችን ብቻ በመጠቀም የዚህን መንገድ መጨረሻ ይድረሱ ፡፡ ከአንድ ጊዜ በላይ ብሎክን ለማሄድ 'ድገም' ን ይጠቀሙ ፡፡</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>ኤሊውን ይደብቁ</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>በዚህ ደረጃ ፣ ሁሉንም ብሎኮች በአንድ ላይ በነጭ የሥራ ቦታ ላይ ቀጣጥሎ መደርደር ያስፈልግዎታል ፡፡</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>ወደፊት ሂድ</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>ይህ ደረጃ እጅግ በጣም ከባድ ነው፡፡ ዘለው ወደሚቀጥለው ጨዋታ መሄድ ይፈልጋሉ? በኋላ በማንኛውም ጊዜ ተመልሰው መምጣት ይችላሉ።</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>ዒላማ</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>ይህንን ሰው ለመሳል ቀላል ቅርጾችን ይጠቀሙ።</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>የ 'ፕሮግራም ያሂዱ' አዝራሩ ጠቅ ሲደረግ በውስጡ ያሉትን ብሎኮች ያሄዳሉ።.</target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>ኮከቡን በአራት ብሎኮች ብቻ ይሳሉ ፡፡</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>ቅርጹን በሶስት ብሎኮች ብቻ ይሳሉ ፡፡</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>በዚህ ያህል መጠን ወደ ቀኝ ሂድ</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>ማንቁርት ያለው</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>ላባዎች ያሉት</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>መጨረሻ Y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>ከዚህ ምናሌ ውስጥ ተወዳጅ ተጫዋችዎን ይምረጡ።</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>አንድ ትንሽ ቢጫ ኮከብ ይሳሉ እና ከዚያ በላይ መስመር ይሳሉ።</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>የበስተጀርባውን ክብ ወደ ፕሮግራምዎ አናት ያዛውሩ ፡፡ ከዚያ ከሰውየው ጀርባ ይታያል።</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>የመላዎች መገንቢያ ብሎኮች</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>%1 ጠቅ ሲደረግ</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>ይህን ቁልፍ በመጫን ተጫዋቹን ወደ ጀመረበት ቦታ ይመልሱ።.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>በተጠቀሰው ስፋት ከአንድ ነጥብ ወደ ሌላው መስመር ይሳላል።.</target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>መስመር</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>ሌሎች ሰዎች ምን እንደሳቡ ለመመልከት የ “ማዕከለ-ስዕላትን ይመልከቱ” የሚለውን ቁልፍ ይጠቀሙ ፡፡ አንድ አስደሳች ነገር ከሳሉ እሱን ለማተም 'ወደ ማእከለ-ስዕላት ያስገቡ' የሚለውን ቁልፍ ይጠቀሙ ፡፡</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>በተጠቀሰው ቦታ እና ከተጠቀሰው ራዲየስ ክብ ይስላል ፡፡.</target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>ለሰውየው ሁለት እጆች ይስሩለት፡፡</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>ስፋት</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>ቅርጸ-ቁምፊ</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>የተጫዋቹን የአሁኑ ፍጥነት ይመልሳል (0 ቆሟል ፣ 100 ሙሉ ፍጥነት ነው)።.</target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>በዚህ ያህል መጠን ወደ ግራ ሂድ</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>የጻፉትን ፕሮግራም ያሂዱ</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>መረጃ ያፅዱ</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>ከበሮ</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>የስዕሎችን ማእከል ይክፈቱ።</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>ክብ</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>ማንኛውንም የሚፈልጉትን ነገር ይሳሉ። እርስዎ ሊጠቀሙ የሚችሉባቸው በጣም ብዙ ቁጥር ያላቸው አዳዲስ ብሎኮች አሉዎት ፡፡ ይዝናኑ!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>የእርስዎ ፊልም አይንቀሳቀስም። አንድ አስደሳች ነገር ለማድረግ ብሎኮችን ይጠቀሙ ፡፡ ከዚያ ፊልምዎን ወደ ቤተ-ስዕሉ ማስገባት ይችላሉ።</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>ብሎኮች</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>በተጠቀሰው ዲግሪዎች ቁጥር ኤሊውን ወደ ግራ ወይም ወደ ቀኝ ያዞረዋል።.</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>እሺ</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>ኤሊ</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>ኤሊውን ወደ ፊት ወይም ወደ ኋላ በተጠቀሰው መጠን ያንቀሳቅሰዋል።.</target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>ትል ካለዎት በአንኛው አቅጣጫ ለመሄድ ይህንን ብሎክ ይጠቀሙ ፣ ትል ከሌልዎት ደግሞ የተለየ አቅጣጫ ይጠቀሙ፡፡</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>ይህን ደረጃ በ1 የጃቫ ስክሪፕት መስመር ፈትተዋል</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>ይህን ደረጃ በ%1 የጃቫ ስክሪፕት መስመሮች ፈትተዋል</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>ስዕሉ ለመስጀመር ብዕሩን ከፍ ለማድረግ ፣ ወይም ስለው ሲጨርሱ ብዕሩን \nለማስቀመጥ ይረዳል </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>የቋንቋ ሰነዶችን ያሳዩ።</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>ፊልምዎን ወደ ማእከለ ፊልም ያስገቡ።</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>ወደ ፊት ይዋኙ፤ አቅጣጫ ይግለጹ (0-360)</target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>ለሚቀጥለው ፈተና ዝግጁ ነዎት?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>ይህ ደረጃ ፊልም ነው ፡፡ የግለሰቡ ክንድ በማያ ገጹ ላይ እንዲንቀሳቀስ ያድርጉ። ቅድመ-እይታን ለማየት የጨዋታ ቁልፉን ይጫኑ ፡፡</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>በሚንቀሳቀሱበት ጊዜ ብዕርዎን ከወረቀት ላይ ለማንሳት የሚያስችል አዲስ ብሎክ አለ፤</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>ይህ ጠላት መድፉን ለመጠቀም በጣም ሩቅ ነው (የ 70 ሜትር ወሰን አለው) ፡፡ በምትኩ ፣ ወደ ተቃዋሚው መዋኘት ለመጀመር 'swim' ትዕዛዙን ይጠቀሙ።</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>አርዕስት</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>መጨረሻ X</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>ፊልሙ ሲጫወት ፣ የ 'time' ብሎኩ ዋጋ ከ 0 እስከ 100 ይቆጥራል። የክንዱ የ y አቀማመጥ በ 0 ጀምሮ ወደ 100 ስለሚቆትጥር ይሄ ቀለል ይላል ፡፡</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>ለደረጃ %1 ዝግጁ ነዎት?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>ሌሎች ሰዎች ምን እንደሳቡ ለመመልከት የ “ማዕከለ-ስዕላትን ይመልከቱ” የሚለውን ቁልፍ ይጠቀሙ ፡፡ አንድ አስደሳች ነገር ከሳሉ እሱን ለማተም 'ወደ ማእከለ-ስዕላት ያስገቡ' የሚለውን ቁልፍ ይጠቀሙ ፡፡</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>ይቅር</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>የተቀመጠ ፋይልዎን መጫን አልተቻለም። ምናልባትም በልዩ የብሎኪ ስሪት ተፈጠሮ ይሆን?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>ያሳርፉ %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>አቅጣጫ</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>የቀሩትዎት ብሎኮች %1 ናቸው፡፡</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>የቀሩትዎት ብሎኮች %0 ናቸው፡፡</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>የቀሩትዎት ብሎኮች %2 ናቸው፡፡</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>ለነገዎቹ ቀማሪዎች የተቀመሙ ጨዋታዎች</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>ቁመት</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>መንገድ ካለ በስተቀኝ</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>መንገድ ካለ በስተግራ</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>ብሎኮችን ለማየት አንድ ምድብ ይምረጡ፡፡</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>ተጫዋች</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>የብዕሩን ቀለም ይለውጣል።</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>የመጀመሪያዎቹን አራት የ 'ፍሬ ዣክ' ኖታዎች ለመጫወት መላ ይፍጠሩ ፡፡ ያንን የመላ መገንቢያ ሁለት ጊዜ ያሂዱት። ምንም አዳዲስ የnote ብሎኮች አይጨምሩ።</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>ስፋቱን ይለውጡ ወደ</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>ማር የምትሰጥ</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>ዜማዎን በቫዮሊን ይጫወቱ።</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>ይህ አዲስ ብሎክ ወደ ሌላ መሣሪያ እንዲቀይሩ ያስችልዎታል ፡፡</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>መናደፊያ ያላት</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>ይህንን የተወሳሰበ መንገድ አልፈው ግብ ላይ መድረስ ይችላሉ? የግራ ግድግዳውን ለመከተል ይሞክሩ። የላቀ ችሎታ ላላቸው ቀማሪዎች ብቻ!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>X</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>ብዕር ያንሱ</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>ማዕከለ-ስዕላትን ይመልከቱ</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>ታጠፍ ወደግራ</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>ራዲየስ</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>በዚህ ያህል መጠን ወደፊት ሂድ</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>ወፏ ምግቧ የሆነውን ትል ይዛ ወደ ጎጆዋ ውስጥ እንድትገባ ለማድረግ አቅጣጫ ይለውጡ ፡፡</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>የሙዚቃ ማእከልን ይክፈቱ።</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>ቀንድ አውጣ</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>ደርሰዋል! አንድ ብሎክ ብቻ የተሳሳተ ነው ፡፡</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>ስዕል:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>የጽሕፈት መገንቢያ ብሎኮች</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>ዳክዬ</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>ድመት</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>ንብ</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>መደበኛ</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>ትራምፔት</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Cat</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>ፈሪ</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>የሙዚቃ ማእከሉን ይመልከቱ</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>ጨዋታ %1  ኖታ %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>የደመቀው ብሎክ ትክክል አይደለም ፡፡
+መሞከርዎን አያቋርጡ！</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>መነሻ X</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>"ወደፊት" ብሎኮችን በአንድ ላይ በመቀጣጠል ወደ መጨረሻው ግብ አድርሰኝ</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>ወደ ማዕከለ ስዕላት ያስገቡ</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>ሁኔታውን ለመቀየር በ 'ቢሆን' ብሎኩ ላይ %1 ን ጠቅ ያድርጉ ፡፡</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Snail</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>የዝርዝር መገንቢያ ብሎኮች</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>እንቆቅልሽ</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>የሙዚቃ መሣሪያ ይቀይሩ %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>በእያንዳንዱ የመነሻ ብሎክ ውስጥ የተለየ የሙዚቃ መሳሪያ የሚጠቀሙ ከሆነ ሙዚቃው በተሻለ ሁኔታ ይሰማል ፡፡</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' እርስዎ ያሉበት የአግድም አቀማመጥ ነው። 'x' ቀጥሎ ካለው ቁጥር በታች ከሆነ ፣ በአንዱ ከበለጠ ደግሞ በሌላ አቅጣጫ ለመሄድ ይህንን ብሎክ ይጠቀሙ።</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>እግሮች:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Bee</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>የፊልሞች ማዕከል ይክፈቱ።</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>እንኳን ደስ አለዎት!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>የብሎክሊ ጨዋታዎች</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>ማጠራቀሚያ ማእከል</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>የብዕሩን ቀለም ይለውጣል።</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>ደማቅ</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>ማንኛውንም የሚፈልጉትን ነገር ይሳሉ። እርስዎ ሊጠቀሙ የሚችሉባቸው በጣም ብዙ ቁጥር ያላቸው አዳዲስ ብሎኮች አሉዎት ፡፡ ይዝናኑ!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>እስከዚህ ድረስ ደጋግም</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>የዙሮች መገንቢያ ብሎኮች</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>ወደ ማዕከለ ስዕላት ያስገቡ</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>ለዚህ ፕሮግራም እናመሰግናለን! የሰለጠኑ ጦጣዎች ሰራተኞቻችን ከወደዱት በጥቂት ቀናት ጊዜ ውስጥ ያትሙታል</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>ለክንድ  የሚሆነው የሂሳብ ቀመር ትንሽ የተወሳሰበ ነው። መልሱ እዚህ አለ</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>አንድ ጊዜ ጃቫስክሪፕትን ማስተካከል ከጀመሩ ፣ ወደ ብሎኮች መመለስ አይችሉም ፡፡ ይሁን?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>ለፊልሙ የመጀመሪያ አጋማሽ ትንሽ ጭንቅላትን ለመሳል የ “if” ብሎክን ይጠቀሙ ፡፡ ከዚያ ለፊልሙ ሁለተኛ አጋማሽ አንድ ትልቅ ጭንቅላት ይሳሉ።</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>ይምረጡ...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>መነሻ Y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>የ 'time' ብሎክ ቁጥር ከ 0 እስከ 100 ይቆጥራል። አሁን ግን የሌላኛው ክንድ የ “y” አቀማመጥ በ 100 እንዲጀምር እና ወደ 0 ይሄዳል ፡፡ አቅጣጫውን የሚያስቀይር ቀላል የሂሳብ ቀመር ማግኘት ይችላሉ?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>ኩሬ መምህር</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>360 ነጫጭ መስመሮችን መሳል ሙሉ ጨረቃን ይመስላል።</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>የገነቡት ፕሮግራም ከግብ የሚደርስ አልሆነም፡፡ ‹ዳግም አስጀምር› ን ተጭነው እንደገና ይሞክሩ፡፡</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>የመጀመሪያ ክፍል</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>ሰነዶች</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>ኤሊውን ያሳዩ</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>የተሰጠው አንግል አቅጣጫ ይጠቀሙ: 0 ወደ ቀኝ ነው፣ 90 ቀጥታ ነው ወዘተ.</target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>ባንጆ</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>ሰያፍ</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>ምን እንደሚከሰት ለማየት ፕሮግራምዎን ያሂዱ።</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>በ print ብሎክ ውስጥ ጥቅም ላይ የሚውለውን ቅርጸ-ቁምፊ ያዘጋጃል።.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>ቀለም ይለውጡ ወደ</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>ፊልም</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x እና y የወፏን አቀማመጥ ያመለክታሉ፡፡ X = 0 ወፏ ከግራ ጠርዝ አጠገብ \nስትሆን ሲሆን በቀኝ ጠርዝ አጠገብ ስትገኝ x = 100 ነው ፡፡ Y = 0 ወፏ \nከስር ስትሆን ሲሆን ፣ y = 100 ወፏ ከአናት ላይ ስትደርስ ነው ፡፡ </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>በመረጡት የጊዜ ቆይታ እና ውፍረት አንድ የሙዚቃ ኖታ ይጫወታል።.</target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>ያበጁት መፍትሔ መልካም ነው፣ ነገር ግን ከዚህ የተሻለ መስራት ይችላሉ።</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>ካሬ የሚስል ፕሮግራም ይፍጠሩ።</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>በካሬ ፋንታ ፔንታጎን ለመሳል ፕሮግራምዎን ይለውጡ።</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>በአንድ ኮከብ ምትክ አራት ኮከቦችን በካሬ አይነት መሳል ይችላሉ?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>ወፏ ትል ከሌላት</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>ኮከቦችን ይሳሉ ከዚያም አራት ነጭ መስመሮችን ይሳሉ።</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Duck</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>ግማሽ ጨረቃ እንድትሆን ጥቁር ክበብ ማከል ይችላሉ?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>የብዕሩን ቀለም ይለውጣል።</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>ተከታታይ የሙዚቃ ኖታዎችን ሲያጫውቱ ድምጹ ወደተመረጠው የሙዚቃ መሣሪያ \nይቀየራል። </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>የሂሳብ መገንቢያ ብሎኮች</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>አንድ ሙሉ ኖታ ይጠብቃል።</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="arz">
+    <body>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>شوف الإجابات</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 مكعبات غلط.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="ne">
+    <body>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>यदि सिधा बाटो छ भने</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>सूची</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>हुन्छ</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>सूची</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>छाप्नुहोस्</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>छड्के</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>गर्ने</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>लिपि आकार</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>रिसेट गर्नुहोस्</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>रंग</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>रद्द गर्ने</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>दायाँ मोड्ने</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>यदि-नत्र ब्लकले पहिलो या दोस्रो कृयाकलाप छान्न सकिन्छ ।</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>मोटो</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>पाठ</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>यस सम्म दोहोर्‌याउने</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>अघि बढ्ने</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>छान्ने...</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>यदि दाहिने तिर बाटो छ भने</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>यदि बायाँ तिर बाटो छ भने</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>प्रवाहक</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>सहायता</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>लजिक</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>चल राशी(variables)</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>अनुक्रियाहरु</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>अनुप्रयोग चलाउने</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>उत्तम !
+सबै  %1 ब्लकहरू सहि छन्</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>बायाँ मोड्ने</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>लुपहरू</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>लिपि</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>पाठ</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>नत्र</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>सामान्य</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>गणित</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

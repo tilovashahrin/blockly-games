@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="ca">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Bava</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>al davant</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>llista</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>ploma avall</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Bigotis</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Pèl</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Dibuixa un rectangle a la posició indicada i amb \nl'amplada i l'alçada especificades. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>La Bassa</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Compon les primeres quatre notes de 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Closca</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>moure enrere</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Hi ha un bloc nou que et permetrà de canviar el color:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Dibuixa una estrella groga.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Aquest nivell vol tant un bloc 'si no, si' com un bloc 'i si no'.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Una condició 'si' farà fer alguna cosa només si la condició és certa. Prova de girar a l'esquerra si hi ha un camí a l'esquerra.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>cor</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>fes</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Heu usat tots els blocs per aquest nivell. Per crear un nou bloc, primer heu d'esborrar un bloc existent.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Gira el Pegman a l'esquerra o a la dreta 90 graus.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Clica la icona per modificar el bloc 'si'.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Pèndol</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>mida de lletra</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Reinicialitza</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Fa que el jugador faci el que diuen els blocs.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>El bloc 'i' és cert només si totes dues entrades són certes.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Nota (el Do és el 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>violí</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>gira dreta</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Fes que les cames canviïn de direcció a la meitat de la pel·lícula.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Vols tornar a començar?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Arrossega un bloc 'si no' dins del bloc 'si'.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>text</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Eliminar totes les solucions?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Compon el que et sembli. Tens una bona colla de blocs nous per explorar. Passa't-ho bé!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>guitarra</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Per a cada animal (verd), adjunta-hi la seva fotografia, tria quantes potes té i llista'n els seus trets.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>trets:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Espera la durada especificada. </target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Fes servir l'ordre 'canó' per tocar l'objectiu. El primer paràmetre és l'angle i el segon l'abast. Troba-li la combinació adient.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Envia aquest dibuix a la galeria.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>Una 'funció' permet d'agrupar blocs i en acabat executar-los més d'un cop.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Aquest objectiu s'ha de tocar molts de cops. Fes servir un bucle 'mentre (cert)' per fer una cosa indefinidament.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Aquest oponent és massa lluny per fer servir el canó. Però ets massa feble per sobreviure a un xoc. Neda cap a ell mentre la teva posició sigui menys de 50. Llavors atura't amb 'Aturar' i fes servir el canó.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Dispara el canó. Especifica-li la direcció \n(0-360) i l'abast (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Ajuda</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Aquest oponent se n'anirà quan el toquis. Neda cap a ell si és fora d'abast (70 metres).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Lògica</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Genètica</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Torna la salut actual del ninot (0 si és mort, \n100 si és ple de salut). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Ocell</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Info per als educadors...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Variables</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Executa el programa</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Perfecte!
+Tots els blocs de %1 són correctes.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Dibuixa tres estrelles grogues i una línia blanca.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 blocs són errònies.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Dibuixa text en la direcció de la tortuga a \npartir de la seva posició. </target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Laberint</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Enviar a Galeria</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>canvia el color a</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Aquesta solució funciona però ho pots millorar. Fes servir 'buscar' per dir al canó amb quin abast ha de tirar.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Torna al coordenada X del ninot (0 és la banda \nesquerra i 100 és la banda dreta). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Retorna el moment actual de l'animació (0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>piano</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>si no</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Aquesta distància és justament l'abast que cal a la comanda 'canó' per disparar amb precisió.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Aquest oponent es mou endavant i enrere, fent que sigui difícil d'encertar. L'expressió 'buscar' torna la distància exacta de l'oponent en la direcció especificada.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Mou el Pegman endavant un espai.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://ca.wikipedia.org/wiki/Font_(tipografia)</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Aquest bloc nou afegeixes una pausa en silenci.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Ho sentim, '%1' no es correspon amb cap fitxer desat de Blockly.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Para de nedar. El ninot frenarà fins a \naturar-se. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Fa que la tortuga (cercle i fletxa) sigui \nvisible o invisible. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Mirar Galeria</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Hi ha hagut un problema amb la sol·licitud.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Executa el programa fins que que s'aturi. En acabat pots enviar la música a la galeria.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>rectangle</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Si hi ha un camí en la direcció especificada, \nllavors fes el primer bloc d'accions. \nSi no, fes el segon bloc d'accions. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Envia la música a la galeria.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Comprovar les respostes</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Dibuixa una rodona que es vagi engrandint darrere de la persona.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>imprimir</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>Crea un segon bloc d'inici que tingui dos blocs de retard i després també toqui 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Música</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Busca els enemics. Especifica-li una direcció \n(0-360). Torna la distància a l'enemic més proper \nen aquella direcció. Torna Infinit si no troba \ncap enemic. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Cada bloc d'inici hauria de tocar 'Frère Jacques' dos cops.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Crea quatre blocs d'inici de manera que cadascun toqui 'Frère Jacques' dos cops. Afegeix el nombre correcte de blocs de retard.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Si hi ha un camí en la direcció especificada, \nllavors fes algunes accions. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Crea una tercera funció per al següent tros de 'Frère Jacques'. Les primeres quatre notes són més curtes.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Acaba de fer la tonada sencera de 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>flauta</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Torna la coordenada Y del ninot (0 és la banda \nde sota i 100 és la de sobre). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Repeteix les accions de dins del bloc fins \narribar al punt final. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Atura el programa i reinicia el nivell.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Crea una segona funció pel segon tros de 'Frère Jacques'. L'última nota és més llarga.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>La condició quan l'ocell no ha agafat el cuc.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Fes córrer el programa fins que s'aturi. Llavors pots enviar el teu dibuix a la galeria.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Podeu encabit més d'un bloc dins d'un bloc 'repeteix'.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Color</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Les declaracions 'si-si no' faran fer una cosa o una altra.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Fes servir el botó 'Mirar Galeria' per veure què ha compost l'altra gent. Si compons res d'interessant fes servir el botó 'Enviar a la Galeria' per publicar-ho.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Fes servir el que hagis après al nivell anterior per fer cames que es creuin.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Comparteix els teus blocs amb aquest enllaç: %1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Aquesta solució funciona però ho podries millorar. Fes servir funcions per estalviar la repetició de codi.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Desa i enllaça als blocs.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Els ordinadors tenen una memòria limitada. Arriba al final d'aquest camí utilitzant només dos blocs. Utilitza 'repeteix' per a executar un bloc més d'una vegada.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>amaga tortuga</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>En aquest nivell, has d'apilar junts tots els blocs a l'espai de treball blanc.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>mou endavant</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Aquest nivell és extremadament difícil. El vols deixar i anar al següent joc? Sempre podràs tornar-hi més tard.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Objectiu</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Fes servir formes simples per dibuixar la persona.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>Executa els blocs de dins quan es cliqui el botó \n'Executar Programa'. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Dibuixa l'estrella només amb quatre blocs.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Dibuixa la forma només amb tres blocs.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>gira cap a la dreta</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Bec</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Plomes</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>y final</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Escolliu el vostre jugador favorit en aquest menú.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Dibuixa una estrella groga petita i després dibuixa una lína al cim seu.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Mou el cercle de fons a l'inici del programa. Llavors apareixerà darrere de la persona.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Procediments</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>quan es cliqui %1</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Col·loca el jugador a l'inici del laberint.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Dibuixa una línia d'un punt a l'altre amb el \ngruix especificat. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>línia</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Fes servir el botó 'Veure Galeria' per veure pel·lícules que ha fet altra gent. Si has fet una pel·lícula interessant fes servir el botó 'Envia a Galeria' per publicar-la.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Dibuixa un cercle a la posició indicada amb el \nradi indicat. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Afegeix un parell de mans a la persona.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>amplada</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>font</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Torna la velocitat actual del ninot (0 si és \naturat, 100 si és amb velocitat màxima) </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>gira cap a l'esquerra</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Executa el programa que has escrit.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Esborrar totes les dades</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>tambor</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Obrir la galeria de dibuixos.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>cercle</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Fes una pel·lícula del que més t'agradi. Ara tens molts blocs nous per explorar. Passa't-ho bé!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>La teva pel·lícula no es mou. Fes servir els blocs per fer alguna cosa interessant. Llavors pots enviar la pel·lícula a la galeria.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Blocs</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Gira la tortuga cap a l'esquerra o cap a la \ndreta el nombre especificat de graus. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>D'acord</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Tortuga</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Mou la tortuga endavant o enrere segons la \nquantitat especificada. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Fes servir aquest bloc per anar en una direcció si té el cuc, o en una altra de diferent si no té el cuc.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Has solucionat aquest nivell amb 1 línia de JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Has solucionat aquest nivell amb %1 línies de JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Aixeca o abaixa la ploma, per acabar o començar \na dibuixar. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Mostra la documentació del llenguatge.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Envia la pel·licula a la galeria.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Neda endavant. Especifica-li una direcció \n(0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Estàs preparat pel següent repte?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Aquest nivell és una pel·lícula. Cal que el braç de la persona es mogui per la pantalla. Prem el botó Reproduir per previsualitzar-ho.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Hi ha un bloc nou que et permetrà aixecar el llapis del paper quan et moguis:</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Aquest oponent és massa lluny per fer servir el canó (limitat a 70 metres). Fes servir, en canvi, la comanda 'nedar' per nedar cap a l'oponent i xocar-hi.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Títol:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>x final</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Mentre la pel·lícula es reprodueix el valor del bloc 'temps' compta de 0 a 100. Com que vols que la posició 'y' del braç comenci a 0 i acabi a 100 això hauria de ser fàcil.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Estàs preparat pel nivell %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Fes servir el botó "Mirar Galeria" per veure què ha dibuixat l'altra gent. Si dibuixes alguna cosa interessant fes servir el botó 'Enviar a la Galeria' per publicar-la.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Cancel·la</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>No s'ha pogut carregar el teu fitxer desat.  Potser va ser creat amb una versió diferent de Blockly?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>espera %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>direcció</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Et resten %1 blocs.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Et resten %0 blocs.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Et resten %2 blocs.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Jocs pels programadors del futur.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>alçada</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>si camí a la dreta</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>si camí a l'esquerra</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Tria una categoria per veure'n els blocs.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Ninot</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Canvia el color de la ploma.</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Crea una funció per tocar les primeres quatre notes de 'Frère Jacques'. Executa-la dos cops sense afegir cap altre bloc amb notes.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>canvia el gruix a</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://ca.wikipedia.org/wiki/Impressió</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>mel</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Toca la cançó amb un violí.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Aquest bloc et permet de canviar d'instrument.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Fibló</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Pots resoldre aquest complicat laberint? Prova de seguir la paret de l'esquerra. Només programadors avançats!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>ploma amunt</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Mirar Galeria</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>gira esquerra</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>radi</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>moure endavant</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Canvia l'angle de la direcció per fer que l'ocell agafi el cuc i aterri al seu niu.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Obre la galeria de música.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>cargol</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Gairebé! Una bloc és incorrecte.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>foto:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Text</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Ànec</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Gat</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Abella</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normal</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>trompeta</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://ca.wikipedia.org/wiki/Gat</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Atemorit</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Mirar Galeria</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>toca %1 nota %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>El bloc de subratllat no és correcta.
+Continuï provant.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>x inicial</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Apila un parell de blocs 'mou endavant' junts per ajudar-me a arribar a la meta.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Enviar a la Galeria</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Feu clic a %1 en el bloc 'si' per canviar-ne la condició.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://ca.wikipedia.org/wiki/Caragol_de_terra</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Llistes</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Trencaclosques</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>estableix instrument %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>La música sonarà més bé si fas servir un instrument diferent a cada inici de bloc.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' és la teva posició horitzontal actual. Fes servir aquest bloc per anar en una direcció si 'x' és més petita que un número i, si no, cap a una altra direcció.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>potes:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://ca.wikipedia.org/wiki/Abella_de_la_mel</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Obre la galeria de pel·lícules.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Felicitats!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blockly Games</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Galeria</target>
+      </trans-unit>
+      <trans-unit id="3616731507597101347" datatype="html">
+        <target>Imprimeix un nombre a la consola del navegador.</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Canvia el color del llàpis.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>negreta</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Dibuixa el que et sembli. Ara tens molts de blocs nous per explorar. Passa't-ho bé!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>repeteix fins al</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Bucles</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Enviar a Galeria</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Gràcies per aquest programa! Si agrada al nostre equip de micos ensinistrats te'l publicaran a la galeria en un parell de dies.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>La fórmula matemàtica pel braç és complicada. Aquí en tens la resposta:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Un cop comencis a editar el JavaScript no podràs tornar a editar blocs. Et sembla bé?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Fes servir el bloc 'si' per dibuixar-li un cap petit per la primera meitat de la pel·lícula. Llavors dibuixa-li un cap gros per la segona meitat de la pel·lícula.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>triar...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>y inicial</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>El bloc 'temps' compta de 0 a 100. Però ara cal que la posició 'y' de l'altre braç comenci a 100 i vagi fins a 0. Podries dir una fórmula matemàtica simple que ho giri al revés?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Tutor de La Bassa</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>Dibuixant 360 línies blanques semblarà la lluna plena.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>El vostre programa no ha resolt el laberint. Cliqueu 'Reinicialitza' i torneu a intentar-ho.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>primera part</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Documentació</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>mostra tortuga</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Fes que es mogui en la direcció de l'angle: 0 és \na la dreta, 90 és amunt, etc. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>banjo</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>cursiva</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Executeu el vostre programa per veure què passa.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Canvia la font usada pel bloc d'impressió.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>estableix color</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Pel·lícula</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x i y marquen la posició de l'ocell. \nQuan x=0 l'ocell és vora el marge \nesquerre. Quan x=100 és vora el marge \ndret. Quan y=0 l'ocell és a sota de \ntot i quan y=100 és a dalt de tot. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Toca una nota musical de la durada i to \nespecificats. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>La teva solució funciona però encara ho pots fer més bé.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Crea un programa que dibuixi un quadrat.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Canvia el programa per dibuixar un pentàgon en comptes d'un quadrat.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>En comptes d'una estrella, podries dibuixar quatre estrelles arrenglerades en forma de quadrat?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>no té cuc</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Dibuixa les estrelles i després dibuixa quatre línies blanques.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://ca.wikipedia.org/wiki/Ànecs</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Pots afegir-hi un cercle negre de manera que la lluna es torni quart creixent?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Canvia el gruix de la ploma.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>Commuta a l'instrument especificat per tocar les \nnotes musicals següents. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matemàtiques</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Espera la durada d'una nota rodona.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

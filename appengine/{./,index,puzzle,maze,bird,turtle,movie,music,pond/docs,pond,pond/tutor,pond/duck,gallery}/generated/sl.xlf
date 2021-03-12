@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="sl">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Sluz</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>če pot naprej</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>tabela</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>svinčnik dol</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Brki</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Dlaka</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Nariši pravokotnik na določenem položaju ter z \ndoločeno dolžino in širino. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Ribnik</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Sestavite prve štiri note pesmi 'Mojster Jaka'.</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Hišica</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>pojdi nazaj za</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>To je nov delček, ki ti omogoča spremembo barve:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Nariši rumeno zvezdo.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>V tej stopnji moraš uporabiti delčka "drugače če" in "drugače".</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Blok 'if' bo nekaj storil samo, če je pogoj resničen. Če je pot na levi, se poskusite obrniti levo.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>zbor</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>naredi</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Porabili ste vse bloke na tej ravni. Za ustvaritev novega bloka morate najprej izbrisati obstoječi blok.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Obrne igralca levo ali desno za 90 stopinj.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Kliknite ikono, da spremenite blok 'če'.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Nemirni</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>velikost pisave</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Ponastavi</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Igralec začne izvajati, kar je zapisano na delčkih.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>Delček "in" je resničen natanko tedaj, ko sta oba vhoda (podatka) resnična.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Ena nota (C4 je 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>violina</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>zavij desno</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Na polovici filma obrni noge v obratno smer.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Želite začeti znova?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Povleci delček "drugače" v delček "če".</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>besedilo</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Izbrišem vse tvoje rešitve?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Sestavi karkoli želiš. Na voljo imaš ogromno novih delčkov, ki jih lahko raziščeš. Zabavaj se!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>kitara</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Za vsako žival (zelena), pripni ustrezno sliko, izberi število nog in izdelaj seznam pripadajočih lastnosti.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>lastnosti:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Počaka določen čas.</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Uporabi blok 'top', da zadaneš tarčo. Prvi parameter je kot, drugi parameter je razdalja. Najdi pravo kombinacijo.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Oddaj svojo risbo v galerijo.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>'Funkcija' ti omogoča, da združiš delčke in jih nato večkrat zaženeš.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>To tarčo je potrebno zadeti večkrat. Uporabi zanko 'dokler', da izvajaš nekaj v neskončnost.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Ta nasprotnik je tudi predaleč, da bi uporabil top. Vendar si prešibek, da bi preživel trk. Plavaj proti nasprotniku dokler je tvoja vodoravna koordinata manjša od 50. Potem se 'ustavi' in uporabi top.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Sproži top. Določi smer (0-360) in razdaljo \n(0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Pomoč</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Ta nasprotnik se bo umaknil, če bo zadet. Zaplavaj proti njemu, če je izven dometa (70 metrov).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Logika</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Genetika</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Vrne trenutno igralčevo zdravje (0 je mrtev, \n100 je zdrav). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Ptič</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Informacije za izobraževalce ...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Spremenljivke</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Poženi program</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Odlično!
+Vsi %1 delčki so pravilni.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Nariši tri rumene zvezde in eno belo črto.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 delčki so nepravilni.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Nariše besedilo v želvini smeri in na njenem \npoložaju. </target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labirint</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Objavi v galeriji</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>nastavi barvo na</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Tvoja rešitev deluje, vendar znaš boljše. Uporabi 'iskanje', da poveš topu, kako daleč naj strelja.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Vrne X koordinato igralca (0 je na levem robu, \n100 je na desnem robu). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Vrne trenutni čas v animaciji (0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>klavir</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>sicer</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Ta razdalja je natančna razdalja, ki jo potrebuje 'top', da lahko strelja.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Ta nasprotnik se premika nazaj in naprej, zaradi česar ga je težko zadeti. Delček 'iskanje' v določeni smeri vrne natančno razdaljo do nasprotnika.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Premakne igralca naprej za en kvadrat.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Novi delček doda glasbeno pavzo (tišino).</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Oprosti, '%1' se ne ujema z nobenim shranjenim programom.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Ustavi plavanje. Igralec se bo počasi ustavil. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Skrije ali prikaže želvo (krožec in puščico).</target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Ogled galerije</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Prišlo je do težave z zahtevo.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Poganjaj program, dokler se ne ustavi. Potem lahko svojo glasbo oddaš v galerijo.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>pravokotnik</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Če je pot v določeno smer, potem izvede prvi \nsklop ukazov. 
+Drugače izvede drugi sklop \nukazov. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Oddaj svojo glasbo v galerijo. </target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Preveri odgovore</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Za osebo narišite krog, ki se širi.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>natisni</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>Ustvari drugi začetni delček, ki ima dve pavzi in nato zaigra pesem 'Mojster Jaka'.</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Glasba</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Išče nasprotnike. Določi smer (0-360). \nVrne razdaljo do najbližjega nasprotnika \nv tej smeri. Vrne Neskončno, če ni \nnasprotnika. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Vsak začetni delček naj dvakrat zaigra pesem 'Mojster Jaka'.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Ustvari štiri začetne delčke. Vsak od njih naj dvakrat zaigra pesem 'Mojster Jaka'. Dodaj ustrezno število pavz.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Če je pot v določeno smer, potem izvede nekaj \nukazov. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Ustvari tretjo funkcijo za naslednji del pesmi 'Mojster Jaka'. Prve štiri note so krajše.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Dokončaj celotno pesem 'Mojster Jaka'.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>flavta</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Vrne Y koordinato igralca (0 je na spodnjem \nrobu, 100 je na zgornjem robu). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Ponavljaj ograjene delčke dokler ne dosežeš cilja.</target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Ustavi program in ponastavi stopnjo.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Ustvari drugo funkcijo za naslednji del pesmi 'Mojster Jaka'. Zadnja nota je daljša.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Pogoj, ko ptica ni dobila črva.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Poganjaj program, dokler se ne ustavi. Potem lahko svoj izdelek oddaš v galerijo.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>V blok 'ponovi' lahko postavite več kot en blok.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Barva</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Delčki »če-potem« bodo izvedli eno ali drugo stvar.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Z gumbom  »Ogled galerije« si lahko ogledate, kaj zanimivega so ustvarili drugi. Če ste uglasbili kaj zanimivega, lahko objavite z gumbom  »Objavi v galeriji«.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Uporabi, vse kar si se naučil v prejšnji stopnji in prekrižaj noge.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Deli svoje delčke s povezavo: %1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Tvoja rešitev deluje, vendar bi lahko bila boljša. Uporabi funkcije, da se iste stvari ne bodo ponavljale na več mestih.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Shrani in poveži do delčkov.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Dosezite konec te poti z uporabo samo dveh blokov. Za večkratni zagon bloka kliknite 'ponovi'.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>skrij želvo</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Na tej ravni moraš sestaviti vse delčke na delovnem prostoru.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>pojdi naprej</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Ta stopnja je zelo težka. Jo želiš preskočiti in začeti naslednjo igro? Pozneje se lahko vedno vrneš.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Tarča</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Uporabi preproste oblike, da narišeš to osebo.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>Izvede delčke v notranjosti, ko klikneš gumb \n'Zaženi program'. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Nariši zvezdo s štirimi delčki.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Nariši obliko s samo tremi delčki.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>zavij desno za</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Kljun</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Perje</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>končni y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Izberi svojega najljubšega igralca iz tega seznama.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Nariši majhno rumeno zvezdo in nato črto nad njo.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Premakni krog v ozadju na vrh svojega programa. Potem se bo pojavil za osebo.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Funkcije</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>ob kliku na %1</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Postavi igralca na začetek labirinta.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Nariše črto določene širine od ene do druge točke.</target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>črta</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Z gumbom »Ogled galerije« si lahko ogledate filme, ki so jih ustvarili drugi. Če ste ustvarili zanimiv film, ga lahko objavite z gumbom »Objavi v galeriji«.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Nariši krog na določenem položaju in z določenim \npolmerom. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Osebi dodaj par rok.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>širina</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>pisava</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Vrne trenutno igralčevo hitrost (0 je ustavljen, \n100 na polni hitrosti). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>zavij levo za</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Poženi program, ki si ga napisal/-a.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Izbriši podatke</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>boben</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Odpri galerijo risb.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>krog</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Izdelaj film po svojih željah. Na voljo imaš veliko število novih delčkov, ki jih je še potrebno odkriti. Uživaj!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Tvoj film se ne premika. Uporabi delčke, da ustvariš nekaj zanimivega. Potem lahko oddaš tvoj film v galerijo.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Delčki</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Obrne želvo levo ali desno za določeno število \nstopinj. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>V redu</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Želva</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Premakne želvo naprej ali nazaj za določeno \nkoličino. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Uporabi ta delček, da greš v eno smer, če črva imaš in v drugo smer, če črva nimaš.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Stopnjo si rešil/-a z 1 vrstico JavaScript-a:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>To stopnjo si rešil z %1 vrsticami JavaScript-a.</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Dvigne ali spusti svinčnik za začetek ali konec \nrisanja. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Prikaži dokumentacijo jezika.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Oddaj svoj film v galerijo.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Plavaj naprej. Določi smer (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Si pripravljen(-a) na naslednji izziv?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>v tej stopnji izdeluješ film, v katerem se mora roka premikati po zaslonu. Pritisni gumb za predvajanje, da vidiš predogled.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>To je nov blok, ki vam omogoča dvig peresa, ko se premikate:</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Ta nasprotnik je predaleč za uporabo topa (ki strelja do 70 metrov). Namesto tega uporabi delček 'plavaj', da boš začel(-a) proti nasprotniku plavati in se zaletel(-a) vanj.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Naslov:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>končni x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Ko se film predvaja, se vrednost delčka 'time' (čas) šteje od 0 do 100. Ker želiš, da se vodoravni položaj roke začne na 0 in gre do 100, ne bi smelo biti pretežko.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Si pripravljen(-a) na stopnjo %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Z gumbom  »Ogled galerije« si lahko ogledate, kaj so narisali drugi uporabniki. Če ste narisali kaj zanimivega, lahko objavite z gumbom »Objavi v galeriji«.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Prekliči</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Ne morem naložiti shranjene datoteke. Mogoče je bila ustvarjena z drugo različico Blocklyja?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>pavza %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>smer</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Na razpolago imate še %1 delček.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Na razpolago imate še %0 delčkov.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Na razpolago imate še %2 delčkov.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Igre za jutrišnje programerje.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>višina</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>če pot na desno</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>če pot na levo</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Izberi kategorijo za prikaz delčkov.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Igralec</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Spremeni barvo svinčnika.</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Ustvari funkcijo za predvajanje prvih štirih not pesmi 'Mojster Jaka'. Zaženi jo dvakrat. Ne dodaj novih delčkov za note.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>nastavi širino na</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Med</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Zaigraj pesem z violino.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Z novim delčkom lahko spremeniš inštrument.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Želo</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Ali lahko rešiš ta zapleteni labirint? Poskusi slediti levi steni. Samo za izkušene programerje!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>svinčnik gor</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Ogled galerije</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>zavij levo</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>polmer</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>pojdi naprej za</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Spremeni smerni kot, da bo ptica ujela črva in nato pristala v gnezdu.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Odpri galerijo glasbe.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Polž</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Skoraj! En delček je napačen.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>slika:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Besedilo</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Raca</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Mačka</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Čebela</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normalno</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>trobenta</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Cat</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Prestrašeni</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Ogled galerije</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>zaigraj noto %1 višine %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Označen delček ni pravilen.
+Poskusi še enkrat.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>začetni x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Da mi boš pomagal(-a) doseči cilj, sestavi nekaj delčkov 'premakni naprej'.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Objavi v galeriji</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Za spremembo njegovega pogoja kliknite %1 v bloku 'if'.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Snail</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Tabele</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Sestavljanka</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>nastavi glasbilo na %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>Glasba bo zvenela bolje, če pri vsakem začetnem delčku uporabiš drug inštrument.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' je tvoj trenutni vodoravni položaj. Uporabi ta delček, da greš v eno smer, če je 'x' manjši od števila, sicer v drugo smer.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>noge:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Bee</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Odpri galerijo filmov.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Čestitke!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blockly igre</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Galerija</target>
+      </trans-unit>
+      <trans-unit id="3616731507597101347" datatype="html">
+        <target>V konzoli brskalnika izpiše številko.</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Spremeni barvo svinčnika.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>krepko</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Nariši karkoli želiš. Na voljo imaš veliko število novih delčkov, ki jih je še potrebno odkriti. Uživaj!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>ponavljaj dokler ni</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Zanke</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Objavi v galeriji</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Hvala za ta program! Če bo našemu osebju usposobljenih opic všeč, ga bomo v nekaj dneh objavili v galeriji.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>Matematična formula za roko je zapletena. Tukaj je odgovor:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Ko začneš urejati JavaScript, se ne moreš vrniti nazaj na urejanje delčkov. Je to v redu?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Uporabi delček »če« in za prvo polovico filma nariši majhno glavo. Nato nariši veliko glavo za drugo polovico filma.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>izberi ...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>začetni y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Blok 'time' šteje od 0 do 100. Vendar se mora zdaj navpični položaj drugega kraka spreminjati od 100 proti 0. Lahko ugotovite preprosto matematično formulo, ki spreminja smer?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Ribnik Mentor</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>360 narisanih belih črt bo izgledalo kot polna luna.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Tvoj program ni rešil labirinta. Pritisni 'Ponastavi' in poskusi ponovno.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>prvi del</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Dokumentacija</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>prikaži želvo</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Premik v smeri danega kota: 0 je na desni, \n90 naravnost gor, itd. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>banjo</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>ležeče</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Zaženi svoj program, da vidiš, kaj se zgodi.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Nastavi pisavo, ki jo bo uporabljal delček \n'natisni'. </target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>nastavi barvo na</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Film</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x in y označujeta položaj ptice.\nKo je x = 0, je ptica blizu levega roba.\nKo je x = 100, je ptica blizu desnega roba.\nKo je y = 0, je ptica na spodnjem robu.\nKo je y = 100, je ptica na zgornjem robu.</target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Predvaja eno glasbeno noto določenega trajanja \nin višine. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Tvoja rešitev deluje, vendar jo lahko izboljšaš.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Ustvari program, ki nariše kvadrat.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Spremeni program tako, da bo narisal petkotnik namesto kvadrata.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Znaš namesto ene zvezde narisati štiri zvezde razporejene v kvadrat?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>nima črva</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Najprej nariši zvezde, nato nariši štiri bele črte.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Duck</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Dodaj črn krog tako, da bo nastal lunin krajec.</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Spremeni širino svinčnika.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>Pri predvajanju naslednjih glasbenih not \npreklopi na določen instrument. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matematika</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Počaka eno celinko.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

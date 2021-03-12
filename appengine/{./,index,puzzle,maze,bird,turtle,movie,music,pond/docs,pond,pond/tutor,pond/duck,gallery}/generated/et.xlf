@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="et">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Lima</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>kui rada on otse ees</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>loend</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>pliiats maha</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Vurrud</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Karvkate</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Joonistab ristküliku määratletud asukohas ning \nmääratud laiuse ja kõrgusega. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Tiik</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Koda</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>liikuda tagasi</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Seal on uus plokk, mis võimaldab teil värvi muuta:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Joonista kollane täht.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>See tase vajab nii plokki “muidu kui” kui ka “muidu”.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>"If" plokk täidab käsu ainult siis, kui seatud tingimus on tõene. Proovi keerata vasemale, kui rada läheb vasemale.</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>käivita</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Sul on ära kasutatud kõik selle taseme plokid. Uue ploki loomiseks pead sa kõigepealt mõne olemasoleva ära kustutama.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Mängija pöörab vasemale või paremale.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Klõpsake ikooni, et muuta blokki 'if'.</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>kirjasuurus</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Tühjenda</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Mängija täidab plokkides sisalduvaid käske.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>Plokk 'ja' on tõene ainult siis, kui mõlemad sisendid on tõesed.</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>pööra paremale</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Kas soovid uuesti alustada?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Lohistage „muidu” plokk „kui” plokki</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>tekst</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Kustutan kõik sinu lahendused?</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Lisa igale (rohelisele) loomale õige pilt, vali õige jalgade arv ja lisa õiged tunnused.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>tunnused:</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Esitage oma joonis galeriisse. </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Abi</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Loogika</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Geneetika</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Lind</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Lisateave õpetajatele...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Muutujad</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Käivita programm</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Täiuslik!
+Kõik %1 plokid on õiged.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Joonista kolm kollast tähte ja üks valge joon.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 plokki on valesti.</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labürint</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>sea värviks</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>vastasel juhul</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Mängija liigub sammu võrra edasi.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Kahjuks '%1' ei vasta ühelegi salvestatud programmile.</target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Muudab kilpkonna (ring ja nool) nähtavaks või \nnähtamatuks. </target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Väike tehniline probleem</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>ristkülik</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Kui rada läheb vajalikus suunas, \ntäida esimese rühma käsud. Vastasel \njuhul täida teise rühma käsud. </target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Vaata vastuseid</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>prindi</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Muusika</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Kui on olemas rada vajalikus suunas, \nsiis tee järmised toimingud. </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Korda lisatud käskusid kuni jõuad raja lõppu.</target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Peata programm ja mine algusesse.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Seisund, kui lind pole ussi saanud.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Käitage oma programmi, kuni see peatub. Seejärel võite oma joonistuse galeriisse esitada.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>"korda" ploki sisse saab panna ka rohkem, kui ühe ploki.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Värv</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>If-else plokid lubavad valida kahe erineva tegevuse vahel.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Jaga oma plokke selle lingiga: %1</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>See tase on väga raske. Kas soovid selle vahele jätta ja alustada järgmist mängu? Sa võid alati hiljem tagasi tulla.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Raja lõpuni jõudmiseks saad kasutada kahte plokki. Kasuta "kordus" plokki, et anda sama käsku mitu korda.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>peita kilpkonn</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Sel tasandil pead valgele alale kokku laduma kõik plokid.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>liigu edasi</target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Joonistage täht vaid nelja ploki abil.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Joonistage kuju kolme ploki abil.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>pööra paremale</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Nokk</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Suled</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Vali menüüst oma lemmikmängija.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Funktsioonid</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Pane mängija tagasi labürindi algusesse.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Joonistab ringi kindlaksmääratud asukohas ja \nmääratud raadiusega. </target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>laius</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>šrift</target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>pööra vasakule</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Käivita koostatud programm</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Kustuta andmed</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Avage jooniste galerii.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>ring</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Plokid</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Pöörab kilpkonna vasakule või paremale määratud \narvu kraadi võrra. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>Sobib</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Kilpkonn</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Lahendasid selle taseme kasutades ühe rea JavaScript koodi</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Lahendasid selle taseme kasutades %1 rida JavaScript koodi</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Tõstke või langetage pliiatsit, \net peatada või alustada joonistamist. </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Kas oled järgmiseks väljakutseks valmis?</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Pealkiri:</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Oled sa valmis tasemeks %1 ?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Kasutage nuppu 'Vaata galeriid', et näha, mida teised inimesed joonistasid. Kui joonistate midagi huvitavat, kasutage selle avaldamiseks nuppu "Edasta galeriisse".</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Loobu</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Ei saa laadida salvestatud faili. Võib-olla see on loodud erineva Blokli versiooniga?</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>Suund</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Sul on %1 plokk järel.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Sul on %0 plokki järele jäänud.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Sul on %2 plokki järel.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Mängud tulevastele programmeerijatele.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>kõrgus</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>kui rada läheb paremale</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>kui rada läheb vasemale</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Plokkide nägemiseks valige kategooria.</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Muudab pliiatsi värvi.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>seada laius</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://et.wikipedia.org/wiki/Tr%C3%BCkikunst</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Mesi</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Mürgiastel</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Kas saate selle keeruka labürindi lahendada? Proovige järgida vasakut seina. Ainult edasijõudnutele programmeerijatele!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>pliiats üles</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Vaadake galeriid</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>pööra vasakule</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>raadius</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>liigu edasi</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Muutke suunanurka, et lind saaks ussi ja maanduks oma pesas</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Tigu</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Peaaegu! Üks plokk on valesti.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>pilt:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Tekst</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Part</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Kass</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Mesilane</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://et.wikipedia.org/wiki/Kass</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Märgistatud plokk on valesti.
+Proovi uuesti.</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Eesmärgile jõudmiseks lisa mitu "liigu edasi" plokki.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Esita galeriisse</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Klõpsa %1, et muuta ploki olekut.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://et.wikipedia.org/wiki/Teod</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Loendid</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>pusle</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>jalad:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://et.wikipedia.org/wiki/Mesilane</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Palju õnne!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blockly mängud</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>rasvane</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Joonistage kõike, mida soovite. Teil on tohutult palju uusi plokke, mida saate uurida. Lõbutsege!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>korda, kuni</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Silmad</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Täname teid selle programmi eest! Kui meie koolitatud ahvide meeskonnale see meeldib, avaldavad nad selle paari päeva jooksul galeriisse.</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Kui olete hakanud JavaScripti redigeerima, ei saa te plokkide redigeerimise juurde tagasi pöörduda. Kas see on OK?</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>vali...</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Tiigi lahing</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>360 valge joone joonistamine näeb välja nagu täiskuu.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Sinu programm ei leidnud teed läbi labürindi. Vajuta nuppu "Reset" ja proovi teisiti.</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>näita kilpkonn</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Liigutage etteantud nurga suunas: 0 on paremale, \n90 on otse üles jne </target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>kaldkiri</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Käivita oma programm ja vaata, mis juhtub.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Määrab fondi, mida prindiblokk kasutab.</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Film</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x ja y tähistavad linnu asukohta. \nKui x = 0, on lind vasaku serva \nlähedal, kui x = 100 on see parema \nserva lähedal. Kui y = 0, on lind \nallosas, kui y = 100 on see ülaosas. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Teie lahendus töötab, kuid saate paremini hakkama.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Looge programm, mis joonistab ruudu.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Muutke oma programmi nii, et ruudu asemel joonistatakse viisnurk.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Kas saate ühe tähe asemel joonistada neli tähte, mis moodustavad ruutu?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>pole ussi</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Joonistage tähed ja seejärel joonistage neli valget joont.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://et.wikipedia.org/wiki/Part</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Kas saate lisada musta ringi, et kuust saaks poolkuu?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Muudab pliiatsi laiust.</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matemaatika</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

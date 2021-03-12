@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="he">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>ריר</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>נתיב אם בהמשך</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>רשימה</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>עט למטה</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>שפם</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>פרווה</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>צייר מלבן במיקום מסויים ועם אורך ורוחב מסויימים.</target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>אגם</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>נגן את 4 התווים הראשונים של אחינו הנהג</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>קונכייה</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>זוז אחורה כ</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>ישנו בלוק חדש המאפשר לך לשנות את הצבע:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>ציירו כוכב צהוב.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>השלב הזה דורש גם 'else if' וגם 'else'</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>קטע קוד 'אם' יבצע פעולה רק אם התנאי הוא נכון. נסה לפנות שמאלה אם ישנו נתיב פנוי לכיוון צד שמאל.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>מקחלה</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>תעשה</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>עשית שימוש בכל קטעי הקוד הזמינים לשלב זה. בכדי ליצור קטע קוד חדש, אתה צריך קודם לכן למחוק קטע קוד קיים.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>סובב את השחקן שמאלה או ימינה ב-90 מעלות.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>לחץ על הסמליל על מנת לשנות את בלוק ה-'if'.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>מטוטלת</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>גודל הגופן</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>איפוס</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>גורם לשחקן לעשות את מה שהקוביות אומרות.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>ערכו של הבלוק 'and' הוא true רק אם שני הקלטים שלו הם true</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>תו אחד (C4 מיוצג בתור 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>כינור</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>פנה ימינה</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>הפוך את כיוון הרגליים באמצע הסרט</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>רוצה להתחיל מחדש?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>גרור בלוק 'else' לתוך בלוק ה-'if'.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>טקסט</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>למחוק את כל הפתרונות שלך?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>באפשרותך להלחין כל מה שבא לך. יש לך מגוון ענק של קוביות חדשות שמחכות לך לחקור אותן. באנו לבלות!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>גיטרה</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>בשביל כל חיה (בירוק), צרפו את התמונה, בחרו את מספר הרגליים שלה, ועשו ערמה של המאפיינים שלה.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>מאפיינים:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>ממתין למשך הזמן שנקבע.</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>השתמש בפקודה 'cannon' כדי לפגוע במטרה. הפרמטר הראשון זו הזווית, השני זה הטווח. מצא את השילוב הנכון</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>שלח את הציור שלך לגלריה</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>'פונקציה' מאפשרת לך ליצור קבוצה מכמה בלוקים ביחד, כך שהם רצים אחד אחרי השני.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>המטרה צריכה להיפגע כמה פעמים. השתמש בלולאת 'while (true)' כדי לבצע את הפעולה עד אין סוף.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>גם היריב הזה רחוק מדי מכדי להשתמש בתותח. אבל אתה חלש מידי כדי לשרוד התנגשות. תשחה לכיוון היריב כאשר המיקום האופקי שלך קטן מ 50. לאחר מכן השתמש ב stop ואז השתמש בתותח.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>בצע יריה מהתותח. ציין כיוון (0-360) וטווח \n(0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>עזרה</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>היריב כבר יזוז עד הפגיעה. תשחה לכיוון שלו אם הוא מחוץ לטווח (70 מטר).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>לוגיקה</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>גנטיקה</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>החזרת מצב הבריאות הנוכחי של השחקן (0 - מת, \n100 - בריא). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>ציפור</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>מידע למורים…</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>משתנים</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>הרץ תכנית</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>מושלם!
+כל %1 הקוביות נכונות.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>צייר שלושה כוכבים צהובים וקו לבן אחד.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 קוביות אינן נכונות.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>מצייר את הטקסט בכיוון הצב במיקומו הנוכחי.</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>מבוך</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>שליחה לגלריה</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>קבע את הצבע ל</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>הפתרון שלך עובד, אבל אפשר להשתפר. נא להשתמש ב‚סריקה’ כדי להגיד לתותח כמה רחוק לירות.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>החזרת נקודת הציון של השחקן בציר X‏ (0 - קצה \nשמאלי, 100 - קצה ימני). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>מחזיר את הזמן הנוכחי של ההנפשה (0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>פסנתר</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>אחרת</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>הטווח הזה הוא בדיוק מה שהפקודה 'canon' צריכה כדי לירות באופן מדוייק</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>היריב הזה זז מצד לצד מה שמקשה על פגיעה זו. הביטוי 'scan' מחזיר את הטווח המדוייק ליריב בכיוון מסויים</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>הזז את השחקן קדימה מרווח אחד</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>לבנה חדשה זו מוסיפה השהיה שקטה.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>לצערנו, '%1' איננו מתאים לאף אחת מהתוכניות השמורות</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>להפסיק לשחות. השחקן יאט עד לעצירה. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>מציג או מסתיר את הצב (מעגל או חץ).</target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>ראה גלריה</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>הבקשה נכשלה.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>הרץ את התכנית שלך עד אשר היא עוצרת. לאחר מכן באפשרותך לשלוח את השיר שלך לגלריה.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>מלבן</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>אם יש אפשרות תנועה בכיוון הנוכחי אזי לבצע את \nקוביית הפעולות הראשונה. אחרת, לבצע את קוביית \nהפעולות השניה. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>שלח את השיר שלך לגלריה.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>בדוק את התשובות</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>צייר עיגול מתרחב מאחורי האיש</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>הדפס</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>ליצור לבנת התחלה שנייה שבה שתי לבני השהיה, לאחר מכן יתנגן ‚אחינו הנהג’.</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>מוזיקה</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>סרוק אם ישנם אויבים. ציין כיוון (0-360). \nקבל בחזרה את המרחק לאויב הקרוב ביותר בכיוון \nהמבוקש. מחזיר Infinity אם אין אויב בכיוון \nהמבוקש </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>כל לבנת התחלה אמורה לנגן את ‚אחינו הנהג’ פעמיים.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>עליך ליצור ארבע קוביות התחלה שכל אחת מהן מנגנת את ‚אחינו הנהג’ פעמיים. יש להוסיף את המספר הנכון של קוביות ההשהיה.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>אם יש אפשרות תנועה בכיוון הנוכחי, עשה מספר פעולות.</target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>צור פונקציה שלישית לחלק הבא של השיר אחינו הנהג. 4 התווים הראשונים הם קצרים יותר</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>להשלים את הנעימה ‚אחינו הנהג’.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>חליל</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>החזרת נקודת הציון של השחקן בציר Y‏ (0 - תחתית, \n100 - ראש). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>חזור על הפעולות האלה עד הגעה לנקודת הסיום.</target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>הפסקת התכנית ואיפוס השלב</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>צור פונקציה שניה לחלק הבא של השיר אחינו הנהג. התו האחרון ארוך יותר</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>התנאי כאשר הציפור לא קיבלה את התולעת.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>הרץ את התכנית שלך עד אשר היא עוצרת. לאחר מכן באפשרותך לשלוח את הציור שלך לגלריה.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>אתה יכול להשתמש ביותר מקטע קוד אחד בתוך קטע קוד 'חזור'.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>צבע</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>קוביות אם-אז תבצענה אחד משני דברים.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>השתמש בכפתור 'צפיה בגלריה' כדי לצפות בשירים של משתמש אחרים. אם הלחנת משהו מעניין, השתמש בכפתור 'שליחה לגלריה' לפרסם אותו</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>השתמש במה שלמדת בשלב הקודם כדי ליצור רגלים מצטלבות</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>ניתן לשתף את הקוביות שלך באמצעות קישור זה:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>הפתרון שלך עובד, אך את/ה יכול/ה להשתפר. עשה/י שימוש בפונקציות על מנת לצמצם את כמות הקודים החוזרים על עצמם.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>שמירה וקישור לקוביות.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>השתמש בשני קטעי קוד בלבד בכדי להגיע לקצה הנתיב הזה. השתמש ב-'חזור' בכדי להריץ קטע קוד יותר מפעם אחת.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>הסתרת הצב</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>בשלב זה, נדרש ממך לערום את כל הקוביות שבמשטח העבודה הלבן.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>נוע קדימה</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>שלב זה הוא קשה למדי. האם תרצה לדלג עליו ולעבור למשחק הבא? תוכל לחזור מאוחר יותר.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>מטרה</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>השתמש בצורות פשוטות בשביל לצייר איש.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>הרץ את הבלוקים שבתוך כאשר לוחצים על הכפתור 'Run \nProgram'. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>צייר את הכוכב עם ארבעה בלוקים בלבד.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>צייר את הצורה עם שלושה בלוקים בלבד.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>סובב ימינה כ</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>מקור</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>נוצות</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>סיום y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>בחר את השחקן המועדף עליך מתוך תפריט זה.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>ציירו כוכב קטן בצבע צהוב, לאחר מכן ציירו קו מעליו.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>הזז את עיגול הרקע לתחילת התכנית, כך שהוא יופיע מאחורי האיש</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>פונקציות</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>כאשר %1 נלחץ</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>שים את השחקן בחזרה בנקודת ההתחלה של המבוך.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>מצייר קו מנקודה אחת לאחרת עם העובי שנקבע.</target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>קו</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>השתמש בכפתור 'צפיה בגלריה' כדי לצפות בסרטים של משתמשים אחרים. אם יצרת סרט מעניין, השתמש בכפתור 'שליחה לגלריה' לפרסם אותו</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>צייר עיגול במיקום מסויים וברדיוס מסויים.</target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>תן לאיש מספר ידיים.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>רוחב</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>גופן</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>החזרת המהירות הנוכחית של השחקן (0 - עוצר, \n100 - מהירות מלאה). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>סובב שמאלה כ</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>הרץ את התוכנית שכתבת.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>ניקוי נתונים</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>תוף</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>פתיחת גלריית הציורים.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>עיגול</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>צור סרט של מה שתרצה. יש לך הרבה בלוקים חדשים לחקור. תהנה!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>הסרט שלך אינו נע. יש להשתמש בקוביות כדי ליצור משהו מעניין. לאחר מכן ניתן לשלוח את הסרט לגלריה.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>קטעי קוד</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>מסובב את הצב שמאלה או ימינה כמספר המעלות המוגדר.</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>אישור</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>צב</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>מזיז את הצב קדימה או אחורה על פי המספר המוגדר.</target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>השתמש בבלוק הזה על מנת ללכת בכיוון אחד אם יש לציפור תולעת, או בכיוון אחר אם אין לה תולעת</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>פתרת את השלב עם שורה אחת של JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>פתרת את השלב עם %1 שורות של JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>מרים או מוריד את העט, בכדי לעצור או להתחיל לצייר.</target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>הצגת התיעוד עבור השפה.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>שלח את הסרט שלך לגלריה.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>לשחות קדימה. נא לציין כיוון (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>אתה מוכן לאתגר הבא?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>השלב הזה הוא סרט. המטרה להזיז את היד של האיש לרוחב המסך. לחץ על כפתור ה play על מנת לצפות בו.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>קיים בלוק חדש שמאפשר לך להרים את העט מהנייר כאשר אתה זז</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>היריב הזה הוא רחוק מידי מכדי להשתמש בתותח (שהטווח שלו מוגבל ל 70 מטר). במקום זה, השתמש בפקודה 'swim' כדי להתחיל לשחות לכיוון היריב ולהתנגש בו.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>כותרת:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>סיום x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>כאשר הסרט מתנגן, הערך של הבלוק ‚time’ עולה מ־0 ל־100. מאחר שהמטרה שמיקום ה־y של היד יתחיל מ־0 וימשיך עד 100, זה אמור להיות קל.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>אתה מוכן לשלב %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>השתמש בכפתור 'צפיה בגלריה' כדי לצפות בציורים של משתמשים אחרים. אם ציירת משהו מעניין, השתמש בכפתור 'שליחה לגלריה' לפרסם אותו</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>ביטול</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>נסיון הטעינה של הקובץ השמור שלך נכשל. האם ייתכן שהוא נוצר בגרסה שונה של בלוקלי?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>תמתין %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>בכיוון</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>נותרה לך פעולת קוד אחת</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>נותרו לך %0 קוביות.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>נותרו לך %2 קוביות.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>משחקים למתכנתים של מחר.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>גובה</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>נתיב אם מימין</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>נתיב אם משמאל</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>יש לבחור קטגוריה כדי לראות את הקוביות.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>שחקן</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>משנה את צבע העט</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>צור פונקציה כדי לנגן את 4 התווים הראשונים של אחינו הנהג. הרץ את הפונקציה הזאת פעמיים. אל תוסיף בלוקים חדשים של תווים.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>קבע עובי ל</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>דבש</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>נגן את המנגינה שלך עם כינור.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>הלבנה החדשה הזאת מאפשרת לך להחליף כלי נגינה.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>עוקץ</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>האם תוכל לפתור את המבוך המסובך הזה? נסה לעקוב אחרי הקיר השמאלי. מיועד לתוכניתנים מנוסים בלבד!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>עט למעלה</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>ראה גלריה</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>פנה שמאלה</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>רדיוס</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>זוז קדימה כ</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>שנה את זווית הכיוון על מנת לגרום לציפור לתפוס את התולעת ולנחות בקן שלה</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>פתיחת גלריית המוזיקה.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>חילזון</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>כמעט! קטע קוד אחד לא נכון.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>תמונה:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>טקסט</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>ברווז</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>חתול</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>דבורה</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>רגיל</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>חצוצרה</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://he.wikipedia.org/wiki/חתול</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>מבוהל</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>ראה גלריה</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>נגן %1 מהתו %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>הקוביה המודגשת שגויה.
+נא לנסות שוב.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>התחלה x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>יש לערום כמה קוביות ‚לנוע קדימה’ כדי לעזור להגיע אל המטרה.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>שליחה לגלריה</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>יש ללחוץ על %1 בקוביה ‚אם’ כדי לשנות את התנאי.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://he.wikipedia.org/wiki/חילזון</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>רשימות</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>פאזל</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>קביעת כלי נגינה עבור %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>המוזיקה תשמע טוב יותר אם תשתמש בכלים שונים בכל בלוק</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>x הוא המיקום האופקי שלך. השתמש בבלוק זה על מנת ללכת בכיוון אחד אם הערך של 'x' קטן ממספר, אחרת, לך בכיוון אחר</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>רגליים:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://he.wikipedia.org/wiki/דבורה</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>פתיחת גלריית הסרטים.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>מזל טוב!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>משחקי בלוקלי</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>גלריה</target>
+      </trans-unit>
+      <trans-unit id="3616731507597101347" datatype="html">
+        <target>מדפיס מספר למסוף של הדפדפן שלך.</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>משנה את צבע העט.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>מודגש</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>צייר מה שתרצה. יש לך מספר רב של בלוקים חדשים שאתה יכול לחקור. תהנה!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>המשך עד ש</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>לולאות</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>שליחה לגלריה</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>תודה ששלחת את התכנית! אם צוות הקופים המאולפים שלנו יאהב אותה, הם יפרסמו אותה בגלריית התכניות בתוך כמה ימים</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>הנוסחה המתמטית של הידים הושלמה. הנה התשובה:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>לאחר התחלת עריכה ב־JavaScript, לא ניתן יהיה לחזור לעריכת קוביות. האם זה בסדר?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>השתמש בבלוק 'if' כדי לצייר ראש קטן לחצי הראשון של הסרט. לאחר מכן, צייר ראש גדול לחצי השני של הסרט.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>בחירה…</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>התחלה y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>ערך הבלוק 'time' עולה מ 0 ל 100. אבל הפעם המטרה שמיקום ה y של היד השניה יתחיל מ 100 וירד ל 0. האם תוכל למצוא שיטה מתמטית פשוטה שמחליפה את הכיוונים?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>מדריך האגם</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>ציור 360 קווים לבנים ייראה כמו הירח המלא.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>התוכנית שלך לא פתרה את המבוך. לחץ על 'אפס' בכדי לנסות שנית</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>המסלול הראשון</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>תיעוד</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>הצגת הצב</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>נוע בכיוון הזווית הנתונה, 0 לכיוון ימין, \n90 להמשיך ישר, וכן הלאה </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>בנג'ו</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>נטוי</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>עליך להריץ את התוכנית בכדי לראות מה קורה</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>קובע את הגופן שבשימוש קטע קוד ההדפסה.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>קבע את הצבע ל</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>סרט</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x ו - y מסמנים את מיקום הציפור. \nכאשר x = 0 הציפור ליד הקצה השמאלי. \nכאשר x = 100 הציפור ליד הקצה הימני. \nכאשר y = 0 הציפור בקצה התחתון, \nכאשר y = 100 הציפור בקצה העליון </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>מנגן תו אחד לאורך זמן מסויים ובגובה מסויים.</target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>הפתרון שלך עובד, אך את/ה יכול/ה להשתפר.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>צור תכנית אשר תצייר ריבוע.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>בצע שינויים בתכנית שלך על מנת לצייר מחומש במקום ריבוע.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>במקום כוכב אחד, האם תוכל לצייר 4 כוכבים מסודרים בריבוע?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>לא מחזיקה תולעת</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>צייר את הכוכבים, לאחר מכן צייר ארבעה קווים לבנים.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://he.wikipedia.org/wiki/ברווז</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>האם אתה יכול להוסיף עיגול שחור באופן בו הירח הופך לסהרון?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>שינוי עובי העט.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>החלף לכלי מסויים כאשר מתנגנים התווים הבאים.</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>מתמטיקה</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>חכה אורך של תו שלם.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

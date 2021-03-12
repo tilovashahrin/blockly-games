@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="fi">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Lima</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>jos edessä on polku</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>lista</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>kynä alas</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Viikset</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Turkki</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Piirtää suorakulmion määritettyyn sijantiin \nannetulla korkeudella ja leveydellä. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Lampi</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Sävellä 'Jaakko kulta'n ensimmäiset neljä nuottia</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Kuori</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>siirry taaksepäin</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Nyt käytössäsi on uusi lohko, jonka avulla voit muuttaa väriä.</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Piirrä keltainen tähti.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Tässä tehtävässä tarvitaan sekä 'muuten tai' sekä 'muuten' lohkoja.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>'jos' lohko toimii vain jos jokin ehto on tosi. Kokeile kääntyä vasemmalle kun polku kääntyy vasemmalle.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>kuoro</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>tee</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Olet käyttäny tämän tason kaikki käytettävissä olevat lohkot. Sinun pitää ensin poistaa olemassa oleva lohko, ennen kuin voit luoda uuden lohkon.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Kääntää pelaajaa vasemmalle tai oikealle 90 \nastetta. </target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Napsauttamalla kuvaketta voit muokata 'jos'-lohkoa.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Heiluri</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>Fonttikoko</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Nollaa</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Saa pelaajan tekemään asioita, \njoita koodilohkot kuvailevat. </target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>'ja' lohko on totta vain jos molemmat sen ehdot ovat totta.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Yksi sävel (C4 on 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>viulu</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>käänny oikealle</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Laita jalat vaihtamaan suuntaa elokuvan puolivälissä.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Haluatko aloittaa alusta?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Vedä 'muuten' lohko 'jos' lohkon sisään.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>teksti</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Haluatko varmasti poistaa kaikki ratkaisut?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Sävellä mitä tahansa haluat. Sinulla on valtava määrä uusia palikoita, joita voit tutkia. Pidä hauskaa!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>kitara</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Kullekin eläimelle (vihreä), liitä oikea kuva, valitse jalkojen lukumäärä ja tee pino piirteistä.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>piirteet:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Odottaa tietyn ajan.</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Käytä 'cannon' komentoa osuaksesi kohteeseen. Ensimmäinen parametri on kulma, toinen parametri on etäisyys. Koita löytää oikea yhdistelmä.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Lähetä piirroksesi galleriaan. </target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>"Funktio" mahdollistaa sinun yhdistävän palikoita yhteen. Sitten voit suorittaa niitä useammin kuin kerran.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Tähän maaliin pitää osua useita kertoja. Käytä 'while (true)' lohkoa  toistaaksesi jotain ikuisesti.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Tämä vihollinen on myös liian kaukana jotta kanuunaa voisi käyttää. Olet myös liian heikko selviytyäksesi yhteentörmäyksestä. Ui vastustajaa kohti kunnes etäisyys on vähemmän kuin 50. Pysähdy sitter ja käytä kanuunaa.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Ammu tykillä. Määritä suunta (0-360) ja kantama \n(0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Ohje</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Tämä vihollinen siirtyy kauemmas kun saa osuman. Ui sitä kohti jos se on ampumasäteen ulkopuolella (70 metriä).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Logiikka</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Genetiikka</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Palauttaa pelaajan terveyden (0 on kuollut, \n100 terve) </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Lintu</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Lisätietoja opettajille...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Muuttujat</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Suorita ohjelma</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Hienoa!
+Kaikki %1 lohkoa ovat oikein.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Piirrä kolme keltaista tähteä ja yksi valkoinen viiva.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 lohkoa ovat virheellisiä.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Tuottaa tekstiä kilpikonnan osoittamaan suuntaan.</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Sokkelo</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Lähetä galleriaan</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>aseta väriksi</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Ratkaisusi toimii mutta osaatko tehdä sen paremmin. Käytä 'scan' toimintoa jotta voit määrittää kuinka kauas tykin pitää ampua.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Palauttaa pelaajan X-koordinaatin (0 on vasen \nreuna, 100 on oikea reuna) </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Palauttaa animaation nykyisen ajan (0–100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>piano</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>muutoin</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Tämä etäisyys on juuri mitä 'cannon' komento tarvitsee ampuakseen tarkasti.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Tämä vastustaja liikkuu edestakaisin ja on siihen on siksi vaikea osua. 'scan' toiminto palauttaa tarkan etäisyyden vastustajaan määriteltyyn suuntaan.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Liikuta pelaajaa eteenpäin yksi askel.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://fi.wikipedia.org/wiki/Fontti</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Tämä uusi lohko lisää hiljaisen viiveen.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Valitettavasti '%1' ei vastaa mitään tallennettua ohjelmaa.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Lopeta uiminen. Pelaaja hidastaa vauhtia ja \npysähtyy. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Tekee kilpikonnasta (ympyrä ja nuoli) näkyvän \ntai näkymättömän. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Näytä galleria</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Pyyntö epäonnistui.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Aja ohjelmasi kunnes se päättyy. Sitten voit lähettää musiikkisi galleriaan.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>suorakulmio</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Jos polku vie annettuun suuntaan, \nensimmäisen osan palikat suoritetaan. \nMuuten suoritetaan toisen osan \npalikat. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Lähetä musiikkisi galleriaan.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Tarkista vastaukset</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Piirrä laajentuva ympyrä henkilön taakse.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>tulosta</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>Luo toinen aloituspalikka, jossa on kaksi viivepalikkaa, ja sitten soita 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Musiikki</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Etsi vihollisia. Määritä suunta (0-360). \nPalauttaa kyseisessä suunnassa lähimpänä \nolevan vihollisen etäisyyden. Palauttaa \näärettömän arvon, jos vihollista ei löydy. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Kunkin aloituslohkon pitäisi soittaa 'Jaakko kulta' kahdesti.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Luo neljä aloituspalikkaa, jotka kukin soittavat 'Jaakko kulta' kahdesti. Lisää oikeat numerot viivekoodeihin</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Jos on olemassa polku määritettyyn suuntaan, \ntee joitain toimintoja. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Luo kolmas funktio 'Frère Jacques':n seuraavaan osaan. Ensimmäiset neljä säveltä ovat lyhyempiä.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Suorita täydellinen sävelmä 'Jaakko kulta'lle</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>huilu</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Palauttaa pelaajan Y-koordinaatin (0 on \nalareuna, 100 on yläreuna) </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Toistaa sulkujen sisällä olevaa koodia siihen \nsaakka, että sulkuja edeltävä ehto täyttyy. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Lopeta ohjelma ja nollaa taso. </target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Tee toinen funktio Jaakko kullan toista osiota varten. Viimeinen nuotti on pidempi.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Tila jossa lintu ei ole saanut matoa.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Aja ohjelmasi kunnes se päättyy. Sitten voit lähettää piirroksesi galleriaan.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Voit laittaa useita lohkoja 'toista' lohkon sisään.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Väri</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>If-else (joko-tai) -lohko tekee joko yhden tai toisen asian.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Käytä "Näytä galleria" painiketta nähdäksesi, mitä muut ihmiset ovat säveltäneet. Jos sävellät jotain mielenkiintoista, käytä "Lähetä galleriaan" painiketta julkaistaksesi sen.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Käytä edellisessä tasossa oppimaasi luodaksesi jalat, jotka menevät ristiin.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Jaa lohkosi tällä linkillä:</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Ratkaisusi toimii, mutta voit tehdä paremmin. Käytä toimintoja vähentääksesi toistetun koodin määrää.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Tallenna ja linkitä lohkoihin. </target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Koita saavuttaa polun pää käyttäen vain kahta lohkoa. Käytä 'toista' lohkoa suorittaaksesi lohkoja useamman kerran.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>piilota kilpikonna</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Tässä tehtävässä sinun pitää pinota kaikki lohkot päällekkäin valkoisella työalueella.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>liiku eteenpäin</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Tämä taso on erittäin haastava. Haluatko ohittaa sen ja siirtyä seuraavaan peliin? Voit palata takaisin myöhemmin.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Kohde</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Käytä yksinkertaisia muotoja tämän henkilön piirtämiseen.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>Suorittaa lohkot sisällä, kun 'Aja ohjelma' \npainiketta napsautetaan. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Piirrä tähti vain neljällä lohkolla.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Piirrä kuvio vain kolmella lohkolla.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>käänny oikealle</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Nokka</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Höyhenet</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>loppu-y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Valitse suosikkihahmosi tästä valikosta.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Piirrä pieni keltainen tähti ja sitten piirrä viiva sen yläpuolelle.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Siirrä taustalla oleva ympyrä ohjelman yläreunaan, niin se ilmestyy henkilön takana.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Funktiot</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>kun %1 napsautetaan</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Aseta pelaaja sokkelon alkuun. </target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Piirtää viivan yhdestä pisteestä toiseen \nannetulla leveydellä. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>viiva</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Käytä "Katso Galleriaa" - painiketta nähdäksesi muiden tekemiä elokuvia. Jos teet mielenkiintoisen elokuvan, käytä "Lähetä Galleriaan" - painiketta julkaistaksesi sen.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Piirtää ympyrän määritettyyn sijantiin annetulla \nsäteellä. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Anna henkilölle kädet.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>leveys</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>kirjasin</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Palauttaa pelajaan nopeuden (0 tarkoittaa \npysähtynyttä, 100 täyttä nopeutta). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>käänny vasemmalle</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Suorita kirjoittamasi ohjelma. </target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Tyhjennä tiedot</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>rumpu</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Avaa piirrosgalleria.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>ympyrä</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Nyt voit tehdä minkälaisen elokuvan vain haluat. Pidä hauskaa!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Elokuva ei liiku. Käytä lohkoja tehdäksesi jotain mielenkiintoista. Sitten voit lähettää elokuvasi galleriaan.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Lohkot</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Kääntää kilpikonnaa vasta- tai myötäpäivään \ntietyn verran astetta. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Kilpikonna</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Liikuttaa kilpikonnaa eteenpäin tai taaksepäin \nantamasi luvun verran. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Käytä tätä lohkoa siirtyäksesi tiettyyn kohtaan jos sinulla on mato, tai toiseen kohtaan jos sinulla ei ole matoa.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Ratkaisit tämän tason yhdellä rivillä JavaScriptiä:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Ratkaisit tämän tason %1 rivillä JavaScriptiä:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Nostaa tai laskee kynän, jotta piirtäminen \nloppuu tai alkaa. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Näytä kieliohje</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Lähetä elokuvasi galleriaan.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Ui eteenpäin. Määrittele suunta (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Oletko valmis seuraavaan haasteeseen?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Tämä tehtävä on elokuva. Siirrä henkilön käsi näytön poikki. Paina toista-painiketta esikatsellaksesi.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Nyt käytössäsi on uusi lohko, jonka avulla voit nostaa kynän ylös paperista, kun liikut.</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Tämä vastustaja on liian kaukana jotta voisit käyttää kanuunaa (kantama on 70 metriä). Joudut siksi käyttämään 'swim' toimintoa uidaksesi vastustajaa kohti ja törmätäksesi siihen.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Otsikko:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>loppu-x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Kun elokuva on käynnissä, aika etenee 'aika'-lohkossa nollasta sataan. Koska tarkoitus on saada käden 'y'-sijainti alkamaan nollasta ja loppumaan sataan, pitäisi sen onnistua helposti.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Oletko valmis tasoon %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Käytä "Katso Galleria" - painiketta nähdäksesi mitä muut ovat piirtäneet. Jos piirrät jotain mielenkiintoista, käytä "Lähetä Galleriaan" - painiketta julkaistaksesi sen.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Peru</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Tallennuksen lataaminen epäonnistui. Ehkä se on tehty Blocklyn eri versiolla?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>lepää %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>kurssi</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Sinulla on %1 lohko jäljellä.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Sinulla on %0 lohkoa jäljellä.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Sinulla on %2 lohkoa jäljellä.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Pelejä tuleville ohjelmoijille.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>korkeus</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>jos polku kääntyy oikealle</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>jos polku kääntyy vasemmalle</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Valitse luokka, niin näet lohkot.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Pelaaja</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Vaihtaa kynän väriä.</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Luo funktio, joka soittaa 'Frère Jacques':n neljä ensimmäistä säveltä. Suorita funktio kaksi kertaa. Älä lisää uusia sävelpalikoita.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>asettaa leveyden arvoon</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://fi.wikipedia.org/wiki/Painaminen</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Hunaja</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Toista melodiasi viululla.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Tämä uusi lohko antaa sinun vaihtaa toiseen soittimeen.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Pistin</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Pystytkö ratkaisemaan tämän monimutkaisen sokkelon? Kokeile seurata vasenta seinää. Vain kokeneille ohjelmoijille.</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>kynä ylös</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Näytä galleria</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>käänny vasemmalle</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>säde</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>siirrä eteenpäin</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Vaihda menokulmaa niin, että lintu saa madon ja laskeutuu pesäänsä.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Avaa musiikkigalleria.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Etana</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Lähes oikein! Vain yksi lohko on väärin.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>kuva:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Teksti</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Ankka</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Kissa</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Mehiläinen</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normaali</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>trumpetti</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://fi.wikipedia.org/wiki/Kissa</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Peloissaan</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Näytä galleria</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>Toista %1 nuotti %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Korostettu lohko ei ole oikein.
+Yritä uudelleen.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>alku-x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Pinoa muutama "liiku eteenpäin" -lohko yhteen, jotta pääsisin maaliin asti.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Lähetä galleriaan</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Napsauta %1 'jos' lohkossa vaihtaaksesi ehtoa.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://fi.wikipedia.org/wiki/Käärme</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Listat</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Palapeli</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>aseta instrumentiksi %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>Musiikki kuulostaa paremmalta, jos käytät eri instrumenttiä jokaisessa aloituspalikassa.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' on vaakasuora sijaintisi. Käytä tätä lohkoa siirtyäksesi sivuttain jos 'x' on pienempi kuin jokin numero tai käytä jotain toista lohkoa.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>jalkoja:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://fi.wikipedia.org/wiki/Mehiläiset</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Avaa elokuvagalleria.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Onnittelut!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blockly-pelit</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Galleria</target>
+      </trans-unit>
+      <trans-unit id="3616731507597101347" datatype="html">
+        <target>Tulostaa luvun selaimesi konsoliin.</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Vaihtaa kynän värin.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>lihavoitu</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Piirrä mitä tahansa haluat. Sinulla on suuri määrä uusia lohkoja tutustuttavana. Pidä hauskaa!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>toista kunnes</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Silmukat</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Lähetä galleriaan</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Kiitos ohjelmastasi! Jos meidän koulutetuista apinoista koostuva henkilöstömme pitää ohjelmasta, niin he julkaisevat sen galleriassa muutaman päivän sisällä.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>Käden matemaattinen laskentakaava on monimutkainen. Tässä vastaus:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Kun alat muokkaamaan JavaScriptiä, et voi enää palata muokkaamaan lohkoja. Haluatko jatkaa?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Käytä 'jos'-palikkaa piirtääkseski pienen pään elokuvan ensimmäiseen puoliskoon. Sitten piirrä iso pää elokuvan toista puoliskoa varten.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>valitse...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>alku-y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Aika juoksee 'time' lohkossa nollasta sataan mutta tällä kertaa punaisen pallon vaakasuora sijainti alkaa sadasta ja siirtyy nollaan. Osaatko ratkaista tämän yksinkertaisen matemaattisen yhtälön jossa käytät hyväksesi ajan arvoa.</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Lampi Tutor</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>360 valkoisen viivan piirtäminen saa aikaan täyden kuun.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Ohjelmasi ei ratkaise sokkeloa. Paina "Nollaa" ja yritä uudelleen.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>ensimmäinen osa</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Ohjeet</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>näytä kilpikonna</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Siirry annetun kulman suuntaan: 0 tarkoittaa \noikealle, 90 suoraan ylös jne. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>banjo</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>kursivoitu</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Suorita ohjelmasi nähdäksesi, mitä tapahtuu.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Asettaa käytettävän fontin tekstin näyttämiseen.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>aseta väriksi</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Elokuva</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x ja y ilmaisevat linnun sijainnin. \nKun x = 0, lintu on vasemmassa laidassa; \nkun taas x = 100, lintu on oikeassa \nlaidassa. Kun y = 0, lintu on alareunassa; \nkun taas y = 100, lintu on ylälaidassa. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Soittaa yhden nuotin tietyllä kestolla ja \nsävelkorkeudella. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Ratkaisusi toimii, mutta pystyt parempaan.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Luo ohjelma, joka piirtää neliön.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Muuta ohjelmaa niin, että se piirtääkin viisikulmion nelikulmion asemesta.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Yhden tähden sijaan voitko tällä kertaa piirtää neljä tähteä neliön muotoon?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>linnulla ei ole matoa</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Piirrä tähdet ja sitten piirrä neljä valkoista viivaa.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://fi.wikipedia.org/wiki/Ankka</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Saatko kuusta sirpin muotoisen lisäämällä mustan ympyrän?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Vaihtaa kynän leveyden.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>Vaihtaa määritettyyn soittimeen kun soitetaan \nuseampia säveliä. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matematiikka</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Odottaa yhtä kokonaista nuottia.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

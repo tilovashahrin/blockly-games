@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="la">
+    <body>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Paene! Una sectio vitiosa est.</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Bene!
+Omnes %1 sectiones recte solvisti.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 sectiones vitiosae sunt.</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Sectio excerpta vitiosa est.</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Unicuique civitati vexillum proprium adiunge, linguam elige et urbes eius indice.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>elige...</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>ASSENTIOR</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Auxilium</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Responsa examinare</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Ludus</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

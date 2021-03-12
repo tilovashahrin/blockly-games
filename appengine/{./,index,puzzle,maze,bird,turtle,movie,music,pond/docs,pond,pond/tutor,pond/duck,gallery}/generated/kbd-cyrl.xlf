@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="kbd-cyrl">
+    <body>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>гъуэгур захуэмэ</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>къебжэкI</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>ПащIэ</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Цы</target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Псыхъурей</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>ХьэмлашкIуэ</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Вагъуэ гъуэжь итхъэ.</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>гъэзэщIэн</target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>сэмэгумкIэ гъэшын кIэ-</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>шрифтым и инагъыр</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Псори щыгъэгъупщэн</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>ЗекIуэлIым блокхэм жаIэр игъэзэщIэнущ.</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>ижьымкIэ гъэшын</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>ЩIэрыщIэу щIэбдзэжыну?</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Нэщэнэ</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blockly и джэгукIэхэр</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Reddit-ым уи сурэтыр илъхьэн.</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>ДэӀэпыкъуэгъу</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Программэр егъэжьэн</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Бзу</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Нэхъ гъэхуауэ...</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>УблэцIэфта! Зы блок ипIэ иткъым.</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Щыпкъабзэ!
+Блокыухъуар (%1) япIэ итщ.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>Блок зыбжанэ (%1) япIэ иткъым</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Дыхьэ-дэкI</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>плъыфэр къыхэхын</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>армырамэ</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>ЗекIуэлIыр пэщIэдзэм гъэкIуэжын.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://ru.wikipedia.org/wiki/Шрифт</target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Галереим еплъ</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>зэпэплIымэ</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>КъыщIэкIар къэпщытэн</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>къыдэгъэкӀын</target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Программэр къэгъэувыIауэ здынэсари щыгъэгъупщэн.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Плъыфэ</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Хъумауэ блокхэм я техьэпIэр къэгъэлъагъуэн.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>шылъэгур гъэпщкIун</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>ипэкIэ бэкъуэн</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>ижьымкIэ гъэшын кIэ-</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>гъуэгур сэмэгумкIэмэ</target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>итхъа</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>бгъуагъыр</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>шрифт</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>ЗекIуэлIыр градус 90кIэ ижымкIэ е сэмэгумкIэ \nгъэшын. </target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Итхахэр игъэкIыжын</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>хъурей</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>ХЪУАЩ</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Шылъэгу</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Reddit-ым уи нэтын илъхьэн.</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>x и кIэух</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>ЩӀегъуэжын</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Блокыу %1 къыпхуэнащ</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Блокыу %0 къыпхуэнащ</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Блокыу %2 къыпхуэнащ</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Программэтх хъунухэм я джэгукIэ.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>лъэгагъыр</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>гъуэгур ижымкIэмэ</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>радиус</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>ДжэгуакIуэ</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>бгъуагър къыхэхын</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://ru.wikipedia.org/wiki/Книгопечатание</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Фо</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Галереим еплъ</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>сэмэгупмкIэ гъэшын</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>ипэкIэ бэкъуэн кIэ-</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>НэщIэпкIэ</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>сурэт:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Тхыгъэ</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Псыджэд</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Джэду</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Бжьэ</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>къызэрыгуэкI</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%88%D0%BA%D0%B0</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Блок къыхэгъэщар ипIэ иткъым.
+Зэ еплъыж.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>x и щIэдзапIэ</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Галереим илъхьэн.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D0%B8%D1%82%D0%BA%D0%B0_(%D0%B6%D0%B8%D0%B7%D0%BD%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D0%B0)</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>КъебжэкI</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Узыгъэгупсысэ</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>лъпкъуэхэр:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://ru.wikipedia.org/wiki/%D0%9F%D1%87%D1%91%D0%BB%D1%8B</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>ПщIыжахэр тебгъэкIыжрэ?</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>ф1ыцIэ-Iув</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Галереим илъхьэн</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Нэтын</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>къыхэх...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>y и щIэдзапIэ</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>y и кIэух</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>ТхылъымпIэхэр</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>шылъэгур къэгъэлъагъуэн</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>Iэпэрытх</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Программэр щIэгъэнауэ игъэзащIэм еплъын.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Блок къыдэгъэкIыпхъэм и шрифтыр хэхын.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://ru.wikipedia.org/wiki/%D0%A3%D1%82%D0%BA%D0%B8</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Математикэ</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

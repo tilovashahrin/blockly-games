@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="sc">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Baula</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>si tenis caminu ananti</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>lista</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>pinna calada</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Mustatzus</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Peddi</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Trassa unu retàngulu in su puntu specificau e \ncun sa ladària e artària specificadas. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Stàini</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Croxu</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>movi asegus de</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Nci est unu brocu nou chi ti permitit de mudai su colori:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Trassa unu steddu grogu.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>A custu livellu serbint unu brocu 'sinuncas si' e unu 'sinuncas' puru.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Su brocu 'si' fait calincuna cosa sceti si sa cunditzioni est bera. Prova a furriai a manu manca si nci est unu caminu a manu manca.</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>fai</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>As imperau totu is brocus po custu livellu. Po tenni unu brocu nou, ndi depis bogai unu innantis.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Furria su giogadori a manu manca o dereta de 90 \ngradus. </target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Clica s'incona po mudai su brocu 'si'</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Péndula</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>font (mesura)</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Reset</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Lassa fai a su giogadori su chi nant is brocus.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>Su brocu 'e' est beridadi sceti si ambadùs is inputs funt beridadi.</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>furria a manu dereta</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Impera su brocu 'if' po disinnai bòcias arrùbias e blu po sa primu metadi de su filmi. Apustis disinna una bòcia birdi po s'àtera metadi de su filmi.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Bolis torrai a cumentzai?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Traga unu brocu 'sinuncas' aintru de su brocu 'si'.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>testu</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Scancellu totu is solutzionis tuas?</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Po dònnia animali (birdi), poni sa màgini sua, scebera su numeru de cambas, e apilla is calidadis.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>calidadis:</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Impera su cumandu 'cannon' po ferri su bressallu. Su primu parametru est s'angulu, su segundu parametru est s'impostúra. Cumbinaddus beni a pari.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Poni su disinnu tuu in Reddit. </target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Custu bressallu depit essi fertu prus e prus bortas. Impera una lòriga 'while (true)' po fai una cosa po unu tempus indefiniu.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Est tropu atesu po su cannoni e tui ses tropu debili po ddu stumbai. Prova a annadai e candu ses prus acanta de 50 in orizontali firma e tira cun su cannoni.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Spara cun su cannoni. Specifica sa \ndiretzioni(0-360) e sa ghetada(0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Agiudu</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Cutu si ndi stesiat candu ddi ferit sa balla. Prova su cumandu 'swim' po t'acostai si est foras de tiru (70 metrus).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Lògica</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Torrat sa saludi de su giogadori (0 est mortu, \n100 est in saludi). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Pilloni</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Àteras informatzionis...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Variabilis</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Arròllia su Programa</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Perfetu!
+Su %1 de is brocus funt curretus.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Trassa tres steddus grogus, e una linia bianca.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 brocus funt de curregi.</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labirintu</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>imposta su colori a</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Su chi as fatu podit andai beni, ma podis fai mellus. Impera 'scan' po nai a su cannoni cantu depit scudi atesu.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Torrat sa cordinada X de su giogadori (0 est \ns'oru a manu manca, 100 est a dereta). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Torrat su tempus currenti in s'animatzioni(0-100).</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>sinuncas</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Custa impostúra est propri su chi serbit a su cumandu 'cannon' po ferri in su puntu giustu.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Custu bressallu depit essi fertu prus e prus bortas. Impera una lòriga 'while (true)' po fai una cosa po unu tempus indefiniu.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Movi su giogadori ananti de unu.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Mi dispraxit, '%1' non torrat a pari cun nimancu unu de is programas sarvaus.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Firma de annadai. Su giogadori at a andai a \nbellu fintzas a si firmai. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Fait su tostoinu (circu cun sa frícia), \nvisibili o invisìbili. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Castia Galleria</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Ddui fut unu problema cun sa pregunta</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>retàngulu</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Si tenis caminu in d-una andada, \nfai su primu brocu de atzionis. \nSinuncas, fai su segundu brocu de \natzionis. </target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Castia Arrespusta</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Arresurtas a fai una bòcia chi sighit su filu? Su filu est stètiu giai fatu po tui. Si fais custu, as a podi fai calisisiat cosa.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>imprenta</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Poni su testu anca est postu e anca est tirendi \nsu tostoinu. </target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>k</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Si ddu est unu caminu anca as nau, \ninsaras fai su de fai. </target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Torrat sa cordinada Y de su giogadori (0 est \ns'oru de bàsciu, 100 est su de susu). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Repiti s'atzioni sceberada fintzas a lompi.</target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Firma su programa e anudda su livellu.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Sa conditzioni candu su pilloni non portat su \nbremi </target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Arròllia su programa tuu fintzas a candu si firmat. Apustis as a podi ponni su disinnu tuu in sa galleria.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Podis ponni prus de unu brocu aintru de su brocu'repiti'.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Colori</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Su brocu si-sinuncas fait una cosa o s'àtera.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Impera su chi as imparau po fai cuatru bòcias birdis chi si movant in totu is cuatru diretzionis.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Poni is brocus tuus in custu acàpiu:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Sarva e alliòngia a is brocus. </target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Arriba a sa fini de custu caminu cun duus brocus sceti. Impera 'repit' po fai arrolliai unu brocu prus de una borta.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>cua su tostoinu</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>In custu livellu, depis apillai a pari totu is brocus in s'area bianca.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>movi ananti</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Custu livellu est difìcili meda. Bolis andai a fai un'àteru giogu? Podis torrai a custu prus a tardu si bolis.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Bressallu</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Prova a fai s'omineddu cun simpli fromas.</target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Trassa su steddu cun cuatru brocus sceti.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Trassa sa figura un tres brocus sceti.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>furria a manu dereta de</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Bicu</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Prumas</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Scebera de custu menu su giogadori chi preferis.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Trassa unu steddu grogu piticheddu, apustis trassaddi una linia asusu.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Funtzionis</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Torra a ponni su giogadori a su comintzu de su \nlabirintu. </target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Trassa una linia de unu puntu a un'àteru cun sa \nladària specificada. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>linia</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Craca "Castia Galleria" po biri ita ant fatu is àterus. Si fais calincuna cosa de giudu, craca "Poni in sa Galleria" po ddu publicai.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Trassa unu circu in su puntu specificau e cun \ns'arraju specificau. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Duas lìnias sceti. Depis cumprendi ita funt fendi is càbudus de is lìnias.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>ladària</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>font (literas)</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Torrat sa lestresa de su giogadori (0 est firmu, \n100 est a totu fua). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>furria a manu manca de</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Arrollia su programa chi as scritu.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Fùlia datus</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Aberi sa galleria de is disinnus in Reddit.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>circu</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Fai unu filmi comenti bolis. Tenis unu muntoni de brocus nous. Spassiadì!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Su filmi tuu non si movit. Impera is brocus po fai calincuna cosa de giudu. Apustis podis ponni totu in sa galleria.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Brocus</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Furria su tostoinu a manu manca o dereta de su \nnumeru de gradus inditaus. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Tostoinu</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Movit su tostoinu ananti o asegus de su tanti \ninditau. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Impera custu brocu po tirai a una parti si portas su bremi o a un'àtera si no ddu portas.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>As arresòlviu custu livellu cun 1 arriga de JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>As arresòlviu custu livellu cun %1 arrigas de JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Àrtzia o cala sa pinna, po acabai o cumentzai a \ndisenniai. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Amosta sa documentatzioni de su linguàgiu.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Poni su film tuu in Reddit.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Annada a innantis. Specifica sa diretzioni \n(0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Prontu ses po un'àteru disafiu?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Custu livellu est unu filmi. Bolis una bòcia arrùbia arrumbuendi. Craca su butoni play po dda biri.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Nci est unu brocu nou chi ti permitit de artziai sa pinna de su paperi candu ti movis:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>fini x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>In sa proietzioni, su brocu 'time' contat de 0 a 100. Ca bolis chi sa bòcia andit de 0 a 100 in orizòntali.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Prontu ses po su livellu %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Craca "Castia Galleria" po biri ita ant fatu is àterus. Si fais calincuna cosa de giudu, craca "Poni in sa Galleria" po ddu publicai.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Annulla</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Non potzu carrigai su file sarvau. Fortzis est stètiu fatu cun d-una versioni diferenti de Blockly?</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>faci a</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Abarrant %1 brocus.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Abarrant %0 brocus.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Abarrant %2 brocus.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Giogus po is programadoris de cras.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>artària</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>si tenis caminu a manu dereta</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>si tenis caminu a manu manca</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Scebera una categoria po biri is brocus.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Giogadori</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Muda su colori de sa pinna.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>imposta sa largària a</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Meli</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Agu</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Si dda fais a arrèsolvi custu labirintu introbeddau? Prova sighendi su muru a manu manca. Po programadoris espertus sceti!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>pinna artziada</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Castia Galleria</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>furria a manu manca</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>arraju</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>movi ananti de</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Muda s'angulu a manera chi su pilloni ndi potzat pigai su bremi e lompi a su niu.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Sintzigorru</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Giai-giai! Unu brocu est de curregi.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>màgini:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Testu</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Anadi</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Gatu</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Abi</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normal</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Cat</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Spramau</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Su brocu marcau est de curregi.
+Provanci.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>inghitzu x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Apilla pariga de brocus 'movi ananti' po m'agiudai a fai su chi depu.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Poni in sa Galleria</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Craca in %1 in su brocu 'si' po mudai sa cunditzioni.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Snail</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Lista</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Puzzle</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' est sa posidura orizontali currenti. Impera custu brocu po tirai a una parti si 'x' est prus piticu de unu numeru o sinuncas a un'àtera.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>cambas:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Bee</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Aberi sa galleria de is films in Reddit.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Bravu!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Giogus de Blockly</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Muda su colori de sa pinna.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>bold</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Disinna su chi bolis. Tenis unu muntoni de brocus nous de provai. Spassiatì.</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>repiti fintzas</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Lòrigas</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Poni in sa Galleria</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>A fai movi sa conca de su topi est simpli. Dda agatas sa manera, matemàtica, de ddi fai movi is origas puru?</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Filmi</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Sa formula matemàtica po custa bòcia arruendi est cumpricada. Innoi sa solutzioni:</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>scebera...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>inghitzu y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Su brocu 'time' contat de 0 a 100. Ma custa borta tui bolis chi sa bòcia andit de 100 a 0 in orizòntali. Dda agatas una formula matemàtica po inverti diretzioni?</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>fini y</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>Trassendi 360 linias biancas at a parri sa luna prena.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Su programa no arrèsolvit su labirintu. Craca 'Reset' e torra a provai.</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Documentatzione</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>amosta su tostoinu</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Movi tirendi faci a s'angulu postu: 0 est a manu \nmanca, 90 est a innantis, etc. </target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>italic</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Arròllia su programa po biri ita fait.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Imposta is literas imperadas de is brocus de \nimprenta. </target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>poni su colori a</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x e y marcant sa posidura de su pilloni. \nCandu x = 0 su pilloni est accanta a s'oru \nde manca, candu x = 100 est acanta a s'oru \nde deretta. Candu y = 0 est in basciu in \nbasciu, candu y = 100 est in susu totu. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Sa faina tua funtzionat, ma podis fai mellus.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Cuncorda unu programa chi trassit unu cuadru.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Muda su programa po trassai unu pentagunu intamis de unu cuadru.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Intamis de unu steddu, ndi podis fai cuatru postus a cuadru?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>non portat bremi</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Trassa is steddus e apustis cuatru linias biancas.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Duck</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Podis aciungi unu circu nieddu a manera chi sa luna si furrit a luna noa?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Muda sa largària de sa pinna.</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matemàtica</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Est tropu atesu po su cannoni (chi tirat a massimu 70 metrus). Prova su cumandu 'swim' po annadai, t'acostai e ti nci scudi a s'aversariu.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

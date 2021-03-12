@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="si">
+    <body>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>ලැයිස්තුව</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>ඉස්මතු කල කොටස් වැරදියි.උත්සහ කරන්න.</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>ඉල්ලීමෙහි  ගැටලුවක් තිබුනි.</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>හරි</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>තර්කය</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>ලැයිස්තු</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>මුද්‍රණය කරන්න</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>කරන්න</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>අකුරක විශාලත්‍වය</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>මුල් සැකසුම</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>පාට</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>අවලංගු කරන්න</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>දකුණට හැරෙන්න</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>පිළිතුරු පරික්ෂා කරන්න</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>තදකුරු</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>පෙළ</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>ඉදිරියට යන්න</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>තෝරන්න...</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>ඇළ අකුරු</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>උදවු</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>බොහෝ දුරට නිවරදියි!එක් කොටසක් වැරදියි.</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>විචල්‍යයන්</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>ශ්‍රිත</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>මෘදුකාංගය ක්‍රියාත්මක කරන්න</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>විශිෂ්ඨයි!
+සියලු %1 කොටස් නිවරදියි.</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>වමට හැරෙන්න</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 කොටස් වැරදියි.</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>අක්ෂර</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>පෙළ</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>නැත්නම්</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>සාමාන්‍ය</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>ගණිතමය</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

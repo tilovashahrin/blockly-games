@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="sv">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Slem</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>om det är en väg framåt</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>lista</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>penna ned</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Morrhår</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Päls</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Ritar en cirkel på angiven plats och med angiven \nbredd och höjd. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Damm</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Komponera de första fyra noterna ur "Broder Jakob".</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Skal</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>flytta bakåt med</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Det finns ett nytt block som låter dig ändra färgen:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Rita en gul stjärna.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Den här nivån kräver både ett 'annars om' och ett 'annars'-block.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Ett 'om'-block kommer endast att göra någonting om villkoret är sant. Pröva att svänga vänster om det finns en väg till vänster.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>kör</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>utför</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Du har använt alla block för nivån. För att skapa ett nytt block måste du först radera ett befintligt block.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Svänger spelaren 90 grader till vänster eller \nhöger. </target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Klicka på ikonen för att ändra 'om'-blocket.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Pendel</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>teckenstorlek</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Återställ</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Får spelaren att göra vad blocken säger.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>'och'-blocket är endast sant om båda inmatningar är sanna.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>En not (C4 är 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>violin</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>sväng höger</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Förflytta benen i motsatt riktning i filmens andra hälft.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Vill du börja om?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Dra ett 'annars'-block till 'om'-blocket.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>text</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Radera alla dina lösningar?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Komponera vad du vill. Du har massa nya block att utforska. Ha kul!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>gitarr</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>För varje djur (grön), lägg till bilden, välj antalet ben och skapa en lista med dess egenskaper.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>egenskaper:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Väntar på vald varaktighet.</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Använd kommandot 'cannon' för att träffa kanonen. Den första parametern är vinkeln, den andra parametern är räckvidden. Hitta den rätta kombinationen.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Skicka din teckning till galleriet.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>En "funktion" låter dig gruppera block tillsammans och sedan köra dem mer än en gång.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Detta mål behöver träffas flera gånger. Använd en 'while (true)'-loop för att göra någonting oändligt.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Denna motståndare är för långt borta för att använda kanonen. Men du är för svag för att överleva en kollision. Simma fram till motståndaren medan din horisontala position är mindre än 50. Använd kommandot 'stop' sedan och använd kanonen.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Skjut med kanonen. Ange en riktning (0-360) och \nett avstånd (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Hjälp</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Denna motståndare förflyttar sig bortåt när den träffas. Simma framåt om den är utom räckhåll.</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Logik</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Genetik</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Returnerar spelarens nuvarande hälsa (0 är död, \n100 är frisk). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Fågel</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Information för lärare...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Variabler</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Kör program</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Perfekt!
+Alla %1 block är rätt.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Rita tre gula stjärnor och en vit linje.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 block är fel.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Ritar text i sköldpaddans riktning på dess \nplacering. </target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labyrint</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Skicka till galleriet</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>ställ in färg till</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Din lösning fungerar, men du kan göra det bättre. Använd 'scan' för att tala om för kanonen hur långt den ska skjuta.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Returnerar spelarens X-koordinat (0 är den \nvänstra kanten, 100 är den högra kanten). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Returnerar den aktuella tiden i animationen \n(0-100). </target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>piano</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>annars</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Denna räckvidd är vad kommandot 'cannon' precis behöver för att skjuta träffsäkert.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Den här motståndaren rör sig fram och tillbaka vilket gör det svårt att träffa. Kommandot 'scan' returnerar det exakta avståndet till en motståndare i den angivna riktningen.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Flyttar spelaren framåt en ruta.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://sv.wikipedia.org/wiki/Typsnitt</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Detta nya block lägger till en tyst fördröjning.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Tyvärr, '%1' överensstämmer inte med något sparat program.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Sluta simma. Spelaren kommer att bromsa tills \nden stannar. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Gör sköldpaddan (cirkel och pil) synlig eller \nosynlig. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Se galleri</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Det uppstod ett problem med begäran.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Kör ditt program tills det stannar. Sedan kan du skicka din musik till galleriet.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>rektangel</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Om det finns en väg i angiven riktning, \nutför då det första blocket med åtgärder. \nAnnars, utför det andra blocket med \nåtgärder. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Skicka din musik till galleriet.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Kontrollera svar</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Rita en utvidgande cirkel bakom personen.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>visa</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>Skapa ett till startblock som har två fördröjningsblock och sedan spelar "Broder Jakob".</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Musik</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Sök efter fiender. Ange en riktning (0-360). \nReturnerar avståndet till den närmaste fienden \ni den riktningen. Returnerar Oändligt om ingen \nfiende hittas. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Varje startblock bör spela "Broder Jakob" två gånger.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Skapa fyra startblock som spelar "Broder Jakob" två gånger. Lägg till det rätta antalet fördröjningsblock.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Om det finns en väg i angiven riktning, \nutför vissa handlingar. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Skapa en tredje funktion för nästa del ur "Broder Jakob". De fyra första noterna är kortare.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Slutför den fullständiga melodin ur "Broder Jakob".</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>flöjt</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Returnerar spelarens Y-koordinat (0 är den \nnedersta kanten, 100 är den översta kanten). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Upprepa de slutna kommandona till dess att \nslutpunkten nås. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Stoppa programmet och återställ nivån.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Skapa en annan funktion för nästa del ur "Broder Jakob". Den sista noten är längre.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Tillståndet när fågeln inte har fångat masken.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Kör ditt program tills det stannar. Sedan kan du skicka din teckning till galleriet.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Du får plats med mer än ett block i ett upprepningsblock.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Färg</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Om-annars-block kommer att göra det ena eller det andra.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Använd knappen "Se galleriet" för att se vad andra personer har komponerat. Använd knappen "Skicka till galleriet" för att publicera din musik om du komponerar någonting intressant.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Använd vad du lärde dig i den tidigare nivån för att få benen att korsa varandra.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Dela dina block med länken: 
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Din lösning fungerar, men du kan förbättra den. Använd funktioner för att reducera mängden upprepad kod.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Spara och länka till block.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Nå slutet av vägen med hjälp av endast två block. Använd 'upprepa' för att använda ett block mer än en gång.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>dölj sköldpadda</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>På den här nivån måste du sätta ihop blocken i det vita arbetsområdet.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>gå framåt</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Den här nivån är extremt svår. Vill du hoppa över den och gå till nästa spel? Du kan alltid komma tillbaka senare.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Mål</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Använd enkla former för att rita personen.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>Utför blocken inuti när knappen "Kör program" \nklickas. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Rita stjärnan med bara fyra block.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Rita formen med bara tre block.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>sväng höger med</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Näbb</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Fjädrar</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>slut y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Välj din favoritspelare från menyn.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Rita en liten gul stjärna och rita sedan en linje ovanför den.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Flytta bakgrundscirkel längst upp i dit program. Den kommer sedan att dyka upp bakom personen.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Funktioner</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>när %1 klickas</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Placerar spelaren i labyrintens början.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Ritar en linje från en punkt till en annan med \nangiven bredd. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>linje</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Använd knappen "Se galleriet" för att se filmer som andra personer har gjort. Om du gör en intressant film kan du använda knappen "Skicka till galleriet" för att publicera den.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Ritar en cirkel på angiven plats och med angiven \nradie. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Ge personen två händer.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>bredd</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>typsnitt</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Returnerar spelarens aktuella hastigheten (0 är \nstopp, 100 är full fart). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>sväng vänster med</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Kör programmet du skrev.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Rensa data</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>trumma</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Öppna teckningsgalleriet.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>cirkel</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Gör en film av vad du vill. Du har massor av nya block att utforska. Ha kul!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Din film rör sig inte. Använd block för att göra någonting intressant. Då kan du sedan skicka din film till galleriet.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Block</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Vrider sköldpaddan vänster eller höger enligt \ndet angivna antalet grader. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Sköldpadda</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Flyttar sköldpaddan framåt eller bakåt enligt \nden angivna summan. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Använd det här blocket för att flyga i en riktning när du har masken och i en annan riktning när du inte har masken.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Du löste nivån med 1 rad JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Du löste nivån med %1 rader JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Lyfter eller sänker pennan, för att sluta eller \nbörja rita. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Visa språkets dokumentation.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Skicka din film till galleriet.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Simma framåt. Ange en riktning (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Är du redo för nästa utmaning?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Den här nivån är en film. Du ska förflytta personens arm tvärs över skärmen. Tryck på uppspelningsknappen för en förhandsvisning.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Det finns ett nytt block som låter dig lyfta din penna från papperet när du flyttar den:</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Denna användare är för långt borta för att använda kanonen (som har en räckvidd på 70 meter). Använd istället kommandot 'swim' för att börja simma mot motståndaren och krocka med den.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Titel:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>slut x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>När filmen spelas upp kommer värdet för blocket 'time' räkna från 0 till 100. Eftersom du vill att 'y'-positionen för armen ska börja vid 0 och gå till 100 bör detta vara enkelt.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Är du redo för nivå %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Använd knappen "Se galleriet" för att se vad andra personer har ritat. Använd knappen "Skicka till galleriet" för att publicera din teckning om du ritar någonting intressant.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Avbryt</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Kunde inte läsa din sparade fil. Den skapades kanske med en annan version av Blockly?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>vila %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>riktning</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Du har %1 block kvar.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Du har %0 block kvar.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Du har %2 block kvar.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Spel för morgondagens programmerare.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>höjd</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>om det är en väg till höger</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>om det är en väg till vänster</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Välj en kategori för att se blocken.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Spelare</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Ändrar pennans färg.</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Skapa en funktion för att spela de fyra första noterna ur "Broder Jakob". Kör funktionen två gånger. Lägg inte till några nya notblock.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>ställ in bredd till</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://sv.wikipedia.org/wiki/Tryckteknik</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Honung</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Spela din ton med en violin.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Detta nya block låter dig ändra till ett annat instrument.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Gadd</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Kan du lösa den här komplicerade labyrinten? Försök att följa väggen till vänster. Endast för avancerade programmerare!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>penna upp</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Se galleri</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>sväng vänster</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>radie</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>flytta framåt med</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Ändra riktningen för att fågeln ska få tag i masken och landa i sitt bo.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Öppna musikgalleriet.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Snigel</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Nästan! Ett block är fel.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>bild:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Text</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Anka</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Katt</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Bi</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normal</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>trumpet</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://sv.wikipedia.org/wiki/Katt</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Fegis</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Se galleri</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>spela %1 not %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Det markerade blocket är inte rätt.
+Försök igen.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>start x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Stapla ett par 'gå framåt'-block för att hjälpa mig att nå målet.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Skicka till galleriet</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Klicka på %1 i "om"-blocket för att ändra dess tillstånd.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://sv.wikipedia.org/wiki/Snäckor</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Listor</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Pussel</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>ändra instrument till %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>Musiken låter bättre om du använder ett annorlunda instrument i varje startblock.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' är din nuvarande horisontella position. Använd det här blocket för att flyga i en riktning när 'x' är mindre än en siffra och annars i en annan riktning.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>ben:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://sv.wikipedia.org/wiki/Bin</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Öppna filmgalleriet.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Gratulerar!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blocklyspel</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Galleri</target>
+      </trans-unit>
+      <trans-unit id="3616731507597101347" datatype="html">
+        <target>Skriver ett nummer till din webbläsares konsol.</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Ändrar färgen på pennan.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>fet</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Rita vad du vill. Du har massa nya block att utforska. Ha kul!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>upprepa tills</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Loopar</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Skicka till galleriet</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Tack för programmet! Om vår personal som består av dresserade apor gillar det kommer de publicera det i galleriet inom några dagar.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>Den matematiska formeln för armen är komplicerad. Här är svaret:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>När du väl börjar redigera JavaScript kan du inte gå tillbaka och redigera block. Är det okej med dig?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Använd blocket 'om' för att rita ett litet huvud i filmens första hälft. Rita sedan ett stort huvud i filmens andra hälft.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>välj...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>start y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Blocket 'time' räknar från 0 till 100. Men nu vill du att 'y'-positionen för den andra armen ska börja vid 100 och gå till 0. Kan du lista ut en enkel matematisk formel som vänder på riktningen?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Dammhandledare</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>Om en vit linje ritas i 360 grader ser den ut som en fullmåne.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Ditt program löste inte labyrinten. Tryck på 'Återställ' och försök igen.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>första delen</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Dokumentation</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>visa sköldpadda</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Flyg i angiven riktning: 0 är till höger, \n90 är rakt upp osv. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>banjo</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>kursiv</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Kör ditt program för att se vad som händer.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Anger vilket typsnitt som ska användas av \ntextblocket. </target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>ställ in färg till</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Film</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x och y markerar fågelns position. \nNär x = när fågeln nära den vänstra \nsidan, när x = 100 är den nära den \nhögra sidan. När y = 0 är fågel längst \nned, när y = 100 är den längst upp. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Spelar upp en musiknot av vald varaktighet och \ntonhöjd. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Din lösning fungerar, men du kan göra det bättre.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Skapa ett program som ritar en kvadrat.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Ändra ditt program för att rita en femhörning i stället för en kvadrat.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Kan du rita fyra stjärnor ordnade i en kvadrat istället för en stjärna?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>har ingen mask</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Rita stjärnorna och sedan fyra vita linjer.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://sv.wikipedia.org/wiki/Anka</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Kan du lägga till en svart cirkel så att månen blir en halvmåne?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Ändrar bredden på pennan.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>Växlar till valt instrument när flera musiknoter \nspelas. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matematik</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Väntar på en helnot.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

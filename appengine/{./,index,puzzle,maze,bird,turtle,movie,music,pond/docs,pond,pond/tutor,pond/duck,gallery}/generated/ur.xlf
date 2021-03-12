@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="ur">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>لعاب</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>اگر آگے راستہ ہے</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>فہرست</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>قلم نیچے</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>مونچھیں</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>بال</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>مخصوص جگہ پر اور مخصوص چوڑائی اور اونچائی کے \nساتھ ایک آئتاکار بنائیں. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>طالاب</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>'فریئر جیکس' کے پہلے چار نوٹوں کو تحریر کریں.</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>چھیلکہ</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>کی طرف سے پیچھے منتقل</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>ایک نیا بلاک ہے جو آپ کو رنگ تبدیل کرنے کی اجازت دیتا ہے.</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>ایک پیلا اسٹار بناؤ</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>اس سطح کو 'اور' دونوں کی ضرورت ہوتی ہے اور ایک اور 'بلاک' کی ضرورت ہوتی ہے.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>ایک 'اگر' بلاک صرف اس صورت میں کچھ کرے گا جب حالت درست ہے. اگر بائیں طرف کا راستہ ہے تو بائیں باری کی کوشش کریں.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>طائفہ</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>کریں</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>آپ نے اس سطح کے لئے تمام بلاکس کو استعمال کیا ہے. ایک نیا بلاک بنانے کے لئے، آپ سب سے پہلے موجودہ بلاک کو ختم کرنے کی ضرورت ہے.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>نمایاں کردہ بلاک صحیح نہیں ہے
+کوشش جاری رکھیں.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>'اگر' بلاک کو ترمیم کرنے کیلئے آئکن پر کلک کریں.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>پینڈلم</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>حرف کا سائز</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>دوبارہ مرتب کریں</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>کھلاڑی بناتا ہے جو بلاکس کہتے ہیں.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>'اور' بلاک صرف اس صورت میں سچ ہے اگر اس کے آدانوں دونوں درست ہیں.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>ایک نوٹ (سی 4 7 ہے).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>وایلن</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>بائیں موڑ جائیں</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>ٹانگوں کو فلم کے ذریعہ آدھے راستے سے ہٹائیں.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>ایک بار پھر شروع کرنا چاہتے ہیں؟</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>'اور' بلاک کو 'اگر' بلاک میں گھسیٹیں.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>ٹیکسٹ</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>اپنے سارے حل ختم کریں؟</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>جو کچھ آپ چاہتے ہو اسے لکھیں. آپ کو نئی بلاکس کی بڑی تعداد ملی ہے جو آپ تلاش کر سکتے ہیں. مزے کرو!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>گٹار</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>ہر جانور کے لئے (سبز) اس کی تصویر سے منسلک کریں، اس کی تعداد میں ٹانگوں کا انتخاب کریں اور اس کی علامات کا ایک اسٹیک بنائیں</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>:علامات</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>مخصوص مدت کے لئے انتظار کرتا ہے.</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>ہدف کو مارنے کے لئے 'تپ' کمانڈ کا استعمال کریں. پہلا پیرامیٹر زاویہ ہے، دوسرا پیرامیٹر رینج ہے. صحیح مجموعہ تلاش کریں.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>گیلری، نگارخانہ میں اپنا ڈرائنگ جمع کرو.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>ایک 'فنکشن' آپ کو بلاکس کو ایک ساتھ جمع کرنے کی اجازت دیتا ہے، پھر ان سے ایک بار سے زیادہ چلائیں.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>اس ہدف کو کئی بار مارنے کی ضرورت ہے. غیر یقینی طور پر کچھ کرنے کے لئے 'جبکہ (سچ)' لوپ کا استعمال کریں.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>یہ مخالف بھی تپ کا استعمال کرنے کے لئے بہت دور ہے. لیکن آپ ایک تصادم سے بچنے کے لئے بہت کمزور ہیں. مخالف کی طرف جھک جاؤ جبکہ آپ کے افقی مقام 50 سے زائد ہے. پھر 'روکے' اور تپ کا استعمال کریں.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>تپ آگ ایک سمت (0-360) اور ایک حد (0-70) کی وضاحت \nکریں. </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>مدد</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>جب مخالف مارا جاتا ہے تو یہ دور ہوجائے گا. اس کی طرف رخ کرو اگر یہ حد (70 میٹر) سے باہر ہے.</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>منطق</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>جینیاتیات</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>کھلاڑی کی موجودہ صحت (0 مردہ ہے، 100 صحت مند ہے) \nواپس. </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>پرندہ</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>مزید معلومات...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>متغیرات</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>پروگرام جس میں آپ نے لکھا. چلائیں</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>بہترین!
+تمام 1فیصد%1  بلاکس درست ہیں.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target> پیلے ستاروں اور ایک سفید لائن بنائیں.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target> (%1) فیصد1  بلاک درست نہیں</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>اس جگہ پر کچھی کی سمت میں متن ڈرائیو.</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>بھول بھلیاں</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>گیلری، نگارخانہ میں جمع</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>رنگ مقرر</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>آپ کا حل کام کرتا ہے، لیکن آپ بہتر کر سکتے ہیں. تپ کو بتانا کہ کتنا دور گولی مار کرنے کے لئے 'اسکین' کا استعمال کریں.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>پلیئر کے X ہم آہنگی کو واپس دیتا ہے (0 بائیں \nجانب ہے، 100 دائیں کنارے ہے). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>موجودہ وقت حرکت پذیری (0-100) میں لوٹاتا ہے.</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>پیانو</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>یآ</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>یہ رینج بالکل وہی ہے جو 'تپ' کمانڈ درست طور پر آگ لگانے کی ضرورت ہے.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>یہ مخالف آگے پیچھے چلتا ہے، اسے ہٹانا مشکل بناتا ہے. 'اسکین' اظہار مخصوص سمت میں مخالف کو صحیح رینج واپس دیتا ہے.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>کھلاڑی آگے ایک جگہ منتقل کرتا ہے.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>یہ نیا بلاک خاموش تاخیر میں اضافہ کرتا ہے.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>افسوس،'1فیصد'%1 کسی محفوظ کردہ پروگرام کے مطابق نہیں ہے.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>سوئمنگ بند کرو پلیئر کو روکنے میں سست ہو جائے گا.</target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>کچھی (دائرے اور تیر) دکھائی دیتا ہے یا پوشیدہ \nکرتا ہے. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>گیلری دیکھیں</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>درخواست میں مسئلہ ہے۔</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>اپنا پروگرام چلائیں جب تک وہ روک نہیں پھر آپ اپنی موسیقی گیلری میں جمع کر سکتے ہیں.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>مستطیل</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>اگر مخصوص سمت میں ایک راستہ ہے، تو اعمال کے پہلے \nبلاک کو کریں. ورنہ، اعمال کا دوسرا بلاک کرو. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>اپنی موسیقی گیلری میں جمع کرو. </target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>جوابات چیک کریں</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>شخص کے پیچھے ایک توسیع حلقہ ڈرا کرلو.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>پرنٹ کریں</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>دوسرا آغاز بلاک بنائیں جس میں دو تاخیر بلاکس ہیں، پھر 'فریئر جیکس' بھی ادا کرتے ہیں.</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>موسیقی</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>دشمنوں کے لئے سکین سمت کی وضاحت کریں (0-360).\nاس سمت میں قریبی دشمن کو فاصلہ واپس.\nاگر کوئی دشمن نہیں ملا تو انفینٹی واپس آتا ہے.</target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>ہر آغاز کے بلاک کو دو بار فریئر جیکس ادا کرنا چاہئے.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>ہر کھیل 'فریئر جیکس' کو دو بار بلاکس بنائیں. تاخیر بلاکس کی صحیح تعداد میں شامل کریں.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>اگر مخصوص سمت میں ایک راستہ ہے، تو پھر کچھ کام \nکریں. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>'فریئر جیکس' کے اگلے حصہ کے لئے ایک تیسری تقریب بنائیں. پہلا چار نوٹ کم ہیں.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>فریئر جیکس کی مکمل دھن مکمل کریں.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>بانسری</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>کھلاڑی کے Y ہم آہنگی واپس دیتا ہے (0 سب سے نیچے \nکنارے ہے، 100 سب سے اوپر کنارہ ہے). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>جب تک ختم پوائنٹ تک پہنچ گئی ہے تک بند کردہ \nاعمال کو دوبارہ کریں. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>پروگرام بند کرو اور سطح کو دوبارہ ترتیب دیں.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>فریئر جیکس کے اگلے حصے کے لئے ایک دوسری تقریب بنائیں. آخری نوٹ طویل ہے.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>شرط جب پرندوں کو کیڑے نہیں ملتی ہے.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>اپنے پروگرام کو چلائیں جب تک وہ روک نہیں پائے. پھر آپ اپنی ڈرائنگ گیلری میں جمع کر سکتے ہیں.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>آپ ایک 'دوبارہ' بلاک کے اندر ایک سے زائد بلاک فٹ کر سکتے ہیں.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>رنگ</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>اگریآ</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>"؛ گیلری، نگارخانہ "؛ کا استعمال کریں. یہ دیکھنے کے لئے بٹن جسے دوسرے لوگوں نے تشکیل دیا ہے. اگر آپ دلچسپ بات کرتے ہیں تو، "؛ گیلری، نگارخانہ میں جمع کریں "؛ کا استعمال کریں. اسے شائع کرنے کیلئے بٹن.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>پیرس کو کراس بنانے کے لئے پچھلے سطح میں آپ نے کیا سیکھا.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>اپنے بلاک کو اس ربط سے شیئر کریں:
+
+١فیصد%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>آپ کا حل کام کرتا ہے، لیکن آپ بہتر کر سکتے ہیں. بار بار کوڈ کی رقم کو کم کرنے کے افعال کا استعمال کریں.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>محفوظ کریں اور بلاکس سے لنک کریں.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>صرف دو بلاکس کا استعمال کرتے ہوئے اس راستے کے اختتام تک پہنچیں. کسی بار سے زیادہ ایک بلاک کو چلانے کے لئے 'دوبارہ دوبارہ' کا استعمال کریں.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>کچھی چھپائیں</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>اس سطح پر، آپ کو سفید کاری اسپیس میں تمام بلاکس کے ساتھ اسٹیک کرنے کی ضرورت ہے.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>آگے بڑھئے</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>یہ سطح انتہائی مشکل ہے. کیا آپ اسے چھوڑ کر اگلے کھیل پر جائیں گے؟ آپ ہمیشہ بعد میں واپس آ سکتے ہیں.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>ہدف</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>اس شخص کو اپنی طرف متوجہ کرنے کے لئے سادہ شکلیں استعمال کریں.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>'چلائیں پروگرام' کے بٹن پر کلک کیا جاتا ہے جب \nاندر بلاکس کو خارج کر دیتا ہے. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>صرف چار بلاکس کے ساتھ اسٹار ڈراؤ.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>صرف تین بلاکس سے شکل ڈرائیو.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>بائیں طرف</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>بیک</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>پر</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>y ختم کریں</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>اس مینو سے اپنے پسندیدہ پلیئر کا انتخاب کریں.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>ایک چھوٹا سا پیلا ستارہ بناؤ، پھر اس کے اوپر ایک قطار بناؤ</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>پس منظر کے حلقے کو اپنے پروگرام کے اوپر منتقل کریں. اس کے بعد یہ شخص کے پیچھے آتا ہے.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>افعال</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>جب%1 پر کلک کیا گیا</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>بھولبلییا کے آغاز پر کھلاڑی واپس رکھو.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>ایک چوڑائی سے مخصوص چوڑائی کے ساتھ ایک دوسرے کو \nایک قطار ڈرا دیتا ہے. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>لکیر</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>"؛ گیلری، نگارخانہ "؛ کا استعمال کریں. اس فلم کو دیکھنے کے لئے بٹن جسے دوسرے لوگوں نے بنایا ہے. اگر آپ ایک دلچسپ فلم بناتے ہیں تو، "؛ گیلری، نگارخانہ میں جمع کریں "؛ کا استعمال کریں. اسے شائع کرنے کیلئے بٹن.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>مخصوص مقام پر اور مخصوص ردعمل کے ساتھ ایک حلقہ \nبنائیں. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>شخص کو دو ہاتھ  دو</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>چوڑھائی</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>فونٹ</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>پلیئر کی موجودہ رفتار (0 رکھی گئی ہے، 100 مکمل \nرفتار ہے) واپس. </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>بائیں مڑو</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>پروگرام جس میں آپ لکھا ہے چلائیں.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>ڈیٹا صاف کریں</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>ڈھول</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>ڈرائنگ کی گیلری، نگارخانہ کھولیں.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>دائرہ</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>جو کچھ آپ چاہتے ہیں اس کی فلم بنائیں. آپ کو نئی بلاکس کی بڑی تعداد ملی ہے جو آپ تلاش کر سکتے ہیں. مزے کرو!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>آپ کی فلم منتقل نہیں ہوتی. کچھ دلچسپ بنانے کے لئے بلاکس کا استعمال کریں. پھر آپ اپنی فلم کو گیلری، نگارخانہ میں جمع کر سکتے ہیں.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>بلاکس</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>مخصوص ڈگری کی طرف سے کچھی بائیں یا دائیں کو بدل \nدیتا ہے. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>ٹھیک ہے</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>کچھوا</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>مخصوص رقم کی طرف سے کچھی اگلا یا پیچھے اگلا.</target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>اگر آپ کیڑا نہیں ہے اگر آپ کیڑا ہے، یا ایک مختلف سرنگ ایک سر میں جانے کے لئے اس بلاک کا استعمال کریں.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>آپ نے اس سطح کو جاوا اسکرپٹ کے 1 لائن کے ساتھ حل کیا:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>آپ نے اس سطح کو جاوا اسکرپٹ کے 1 فیصد (%1)  لائنوں کے ساتھ حل کیا</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>ڈرائیو کو روکنے یا شروع کرنے کے لئے قلم لفٹیں یا \nقلم کو کم کرتی ہے. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>زبان کی دستاویزات دکھائیں.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>اپنی فلم گیلری، نگارخانہ میں جمع کرو.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>آگے بڑھو. سمت کی وضاحت کریں (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>کیا آپ اگلے چیلنج کے لئے تیار ہیں؟</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>یہ سطح ایک فلم ہے. آپ چاہتے ہیں کہ شخص کی بازو اسکرین میں منتقل ہوجائے. پیش نظارہ دیکھنے کیلئے کھیل بٹن دبائیں.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>ایک نیا بلاک ہے جو آپ کو اپنے قلم کو کاغذ سے دور کرنے کی اجازت دیتا ہے.</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>یہ مخالف تپ کا استعمال کرنے کے لئے بہت دور ہے (جس میں 70 میٹر کی حد ہے). اس کے بجائے، مخالف اور حادثے کی طرف سوئمنگ شروع کرنے کے لئے 'تیر' کمانڈ استعمال کریں.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>:عنوان</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>x ختم کریں</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>جیسا کہ فلم ادا کرتا ہے، 'وقت' بلاک کی قدر 0 سے 100 تک کی جاتی ہے. چونکہ آپ کو 'باز' کی بازی 0 شروع کرنے اور 100 پر جانے کے لئے اس سے آسان ہونا چاہئے.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>کیا آپ 1 فیصد (%1) لیول کے لئے تیار ہیں؟</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>"؛ گیلری، نگارخانہ "؛ کا استعمال کریں. دوسرے لوگوں کو کیا کیا ہے دیکھنے کے لئے بٹن. اگر آپ کچھ دلچسپ ھیںچو تو، "؛ گیلری، نگارخانہ میں جمع کریں "؛ کا استعمال کریں. اسے شائع کرنے کیلئے بٹن.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>منسوخ</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>آپ کی محفوظ کردہ فائل کو لوڈ نہیں مل سکا. شاید یہ بلاشبہ کے ایک مختلف ورژن سے پیدا ہوا تھا؟</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>باقی %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>سرخی</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>آپ کے پاس   (%1) 1فیصد بلاک باقی ہیں.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>آپ کے پاس 0فیصد بلاک باقی ہیں.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>آپ کے پاس %2فیصد بلاک باقی ہیں.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>کل کے پروگرامرز کے لئے کھیل.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>اونچھائی</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>اگر دائیں راستہ ہے</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>آگے بائیں راستہ ہے</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>بلاکس کو دیکھنے کے لئے ایک قسم کا انتخاب کریں.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>کھلاڑی</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>قلم کا رنگ بدلتا ہے.</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>فریئر جیکس کے پہلے چار نوٹوں کو کھیلنے کے لئے ایک فنکشن بنائیں. اس تقریب کو دو بار چلائیں. کوئی نیا نوٹ بلاکس شامل نہ کریں.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>چوڑائی مقرر</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>شہد</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>وایلن کے ساتھ اپنی دھن کو کھیلیں.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>یہ نیا بلاک آپ کو ایک اور آلہ میں تبدیل کرنے کی اجازت دیتا ہے.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>ڈنک</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>کیا آپ یہ پیچیدہ بھولبلییا حل کر سکتے ہیں؟ بائیں ہاتھ دیوار کی پیروی کریں. اعلی درجے کی پروگرامرز صرف!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>قلم اپ</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>گیلری دیکھیں</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>دائیں موڑ جائے</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>منزہ</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>آگے بڑھو</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>پہلو کو زاویہ میں تبدیل کرنے کے لئے پہلو کو زاویہ میں تبدیل کریں.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>موسیقی کی گیلری، نگارخانہ کھولیں.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>سست</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>قریب! ایک بلاک درست نہیں۔</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>تصویر:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>متن</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>بطخ</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>بلی</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>مکھی</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>معمول</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>ترم</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Cat</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>ڈرا ہوا</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>گیلری دیکھیں</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>%1 نوٹ کو %2 ادا کریں</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>نمایاں کردہ بلاک صحیح نہیں ہے
+کوشش جاری رکھیں</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>x شروع کریں</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>مقصد میں پہنچنے میں میری مدد کرنے کے لۓ ایک دوسرے کے ساتھ 'آگے آگے' بلاکس اسٹیک کریں.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>گیلری، نگارخانہ میں جمع</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>اس صورت میں 'اگر' بلاک کرنے کے لئے (%1) 1 فیصد
+ پر کلک کریں.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Snail</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>فہرستیں</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>پہیلی</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target> آلہ کو %1 میں سیٹ کرے</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>اگر آپ ہر ابتدائی بلاک میں ایک مختلف آلہ استعمال کرتے ہیں تو بہتر بہتر ہوگا.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' آپ کا موجودہ افقی پوزیشن ہے. اگر یہ ایرر برقرار رہے تو ہمارے ہیلپ ڈیسک سے رابطہ کریں. غلط استعمال کی اطلاع دیتے ہوئے ایرر آ گیا ہے. براہ مہربانی دوبارہ کوشش کریں. اگر یہ ایرر برقرار رہے تو ہمارے ہیلپ ڈیسک سے رابطہ کریں. غلط استعمال کی اطلاع دیتے ہوئے ایرر آ گیا ہے.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>:ٹانگیں</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Bee</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>فلموں کی گیلری، نگارخانہ کھولیں.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>مبارک ہو!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target> بلوکلی گیم</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>گیلری</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>قلم کا رنگ بدلتا ہے.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>جرات مندانہ</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>جو کچھ آپ چاہتے ہو اسے بنائیں آپ کو نئی بلاکس کی بڑی تعداد ملی ہے جو آپ تلاش کر سکتے ہیں. مزے کرو!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>تک دہرائے</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>لوپیں</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>اپنی فلم گیلری، نگارخانہ میں جمع کرو.</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>س پروگرام کے لئے شکریہ! اگر اس طرح تربیت یافتہ بندروں کے ہمارے عملے، وہ دو دن کے اندر اندر گیلری میں شائع کرے گا.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>بازو کے لئے ریاضیاتی فارمولا پیچیدہ ہے. یہاں جواب ہے:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>ایک بار جب آپ جاوا اسکرپٹ میں ترمیم شروع کرتے ہیں تو، آپ کو بلاکس میں ترمیم کرنے میں واپس نہیں جا سکتے. کیا یہ ٹھیک ہے؟</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>فلم کے پہلے نصف کے لئے ایک چھوٹا سا سر نکالنے کے لئے 'اگر' بلاک کا استعمال کریں. پھر فلم کے دوسرے نصف کے لئے ایک بڑا سر ڈراکرے.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>...منتخب کریں</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>y شروع کریں</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>'وقت' بلاک 0 سے 100 تک شمار ہوتا ہے. لیکن اب آپ دوسرے بازو کی 'Y' پوزیشن چاہتے ہیں 100 سے شروع ہونے اور 0. پر جائیں. کیا آپ کو ایک سادہ ریاضیاتی فارمولا پتہ چلتا ہے جو سمت پھیلتا ہے؟</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>طالاب ٹیوٹر</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>360 سفید لائنوں کو مکمل چاند کی طرح نظر آئے گا.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>اپنے پروگرام کو چلائیں اپنے پروگرام بھولبلییا کو حل نہیں کیا. 'ری سیٹ کریں' پر دبائیں اور دوبارہ کوشش کریں.
+اے دیکھو کیا ہوتا ہے.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>پہلا حصہ</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>دستاویز کاری</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>کچھی دکھائیں</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>دیئے گئے زاویہ کی سمت میں منتقل کریں: 0 صحیح ہے، \n90 براہ راست ہے، وغیرہ. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>بنجو</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>اٹلک</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>اپنے پروگرام کو چلنے کے لۓ چلائیں.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>پرنٹ بلاک کی طرف سے استعمال کیا جاتا فونٹ سیٹ \nکرتا ہے. </target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>رنگ مقرر</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>فلم</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>ایکس اور Y پرندوں کی پوزیشن کو نشان زد کرتے ہیں. \nجب ایکس = 0 بائیں بائیں کنارے کے قریب ہے، جب ایکس \n= 100 یہ دائیں کنارے کے قریب ہے. \nجب y = 0 پرندے نچلے حصے پر ہے، جب y = 100 یہ سب سے \nاوپر ہے. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>مخصوص مدت اور پچ کے ایک موسیقی نوٹ ادا کرتا ہے.</target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>آپ کا حل کام کرتا ہے، لیکن آپ بہتر کر سکتے ہیں.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>ایک ایسا پروگرام بنائیں جو ایک مربع ڈراؤ.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>ایک مربع بجائے پینٹینگن کو اپنی پروگرام میں تبدیل کریں.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>ایک ستارہ کے بجائے، کیا آپ چار ستاروں کو ایک مربع میں ترتیب دے سکتے ہیں؟</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>کیڑا نہیں ہے</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>ستارے بنائے، پھر چار سفید لائنوں کو ڈراؤ.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Duck</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>کیا آپ ایک سیاہ دائرے کو شامل کرسکتے ہیں تاکہ چاند ایک چراغ بن جائے؟</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>قلم کی چوڑائی میں تبدیلی</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>مخصوص آلے پر سوئچ کرتا ہے جب بعد میں موسیقی کے \nنوٹوں کو کھیلنے. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>ریاضی</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>ایک مکمل نوٹ کے لئے انتظار کرتا ہے.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

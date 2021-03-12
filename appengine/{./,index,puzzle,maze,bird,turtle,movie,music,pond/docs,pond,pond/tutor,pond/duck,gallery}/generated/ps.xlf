@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="ps">
+    <body>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>لړليک</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>بنديزونه</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>د دې غوښتنې سره يوه ستونزه رامېنځ ته شوه</target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>ډنډ</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>ښه</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>کيشپ</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>منطق</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>لړليکونه</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>چاپول</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>پښې:</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>انځورتون وگورئ</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>د ليکبڼې کچه</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>بياايښودل</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>مبارک مو شه!</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>رنگ</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>ناگارل</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>ښي تاوول</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>ځوابونه کره کول</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>زغرد</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>متن</target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>کرښه</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>ټاکل...</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>فلم</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>کول</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>لارښود</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>لاسوندکښنه</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>څوکه</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>گبين</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>مارغه</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>نور مالومات...</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>رېوند</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>نژدې دی! يو بنديز سم نه دی.</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>ډېر ښه!
+ټول %1 بنديزونه سم دي.</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>کيڼ تاوول</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 بنديزونه سم نه دي.</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>ليکبڼه</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>انځور:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>متن</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>هيلۍ</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>پيشو</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>مچۍ</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>نورمال</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>شمېرپوهنه</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

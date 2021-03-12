@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="nb">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Slim</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>if-sti fremover</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>Liste</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>penn ned</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Værhår</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Pels</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Tegner et rektangel ved den angitte lokasjonen \nmed den angitte bredden og høyden. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Dam</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Komponer de første fire notene fra «Fader Jakob».</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Skall</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>flytt bakover med</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Det er en ny blokk som lar deg endre fargen:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Tegn en gul stjerne.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Dette nivået trenger både en «else if» og en «else»-blokk.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>En 'if'-blokk vil bare gjøre noe dersom forholdene er sanne. Forsøk å svinge til venstre hvis det finnes en sti til venstre.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>kor</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>utfør</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Du har brukt opp alle blokkene for dette nivået. For å lage nye blokker, må du først slette en eksisterende blokk.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Svinger spilleren 90 grader til høyre eller \nvenstre. </target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Klikk ikonet for å endre «if»-blokken.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Pendel</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>skriftstørrelse</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Nullstill</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Få spilleren til å gjøre det blokkene sier.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>«and»-blokken er sann bare om begge inndataene er sanne.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Én note (C4 er 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>fiolin</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>sving til høyre</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Bruk «if»-blokken for å tegne røde og blå baller i første halvdel av filmen. Tegn så en grønn ball i andre halvdel av filmen.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Ønsker du å starte på nytt?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Dra en «else»-blokk inn i «if»-blokken.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>Tekst</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Slett alle løsningene dine?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Komponer det du har lyst til. Du har et enormt antall nye blokker du kan utforske. Kos deg!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>gitar</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>For hvert dyr (grønt), legg til dets bilde, velg antall bein, og legg en stabel med dets trekk.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>trekk:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Venter i den gitte varigheten. </target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Bruk kommandoen «cannon» for å treffe målet. Den første parameteren er vinkelen, den andre er avstanden. Finn riktig kombinasjon.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Send tegningen din til galleriet.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>En «funksjon» lar deg gruppere blokker sammen, og så kjøre dem mer enn én gang.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Dette målet må treffes mange ganger. Bruk en «while (true)»-sløyfe for å gjøre noe uendelig.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Denne motstanderen er også for langt unna til å bruke kanonen. Men du er for svak til å overleve et kræsj. Svøm mot motstanderen mens din horisontale lokasjon er mindre enn 50. Bruk så «stop» og bruk kanonen.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Fyr av kanonen. Angi en retning (0–360) og en \navstand (0–70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Hjelp</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Denne motstanderen vil flytte seg vekk når den blir truffet. Svøm mot den om den er for langt unna (70 meter).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Logikk</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Genetikk</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Returnerer spillerens nåværende helse (0 er død, \n100 er sunn). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Fugl</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Mer info…</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Variabler</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Kjør Programmet</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Perfekt!
+Alle %1 blokker er riktig.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Tegn tre gule stjerner og én hvit linje.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 blokker er feil.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Skriver tekst i skilpaddens retning på dens \nplassering. </target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labyrint</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Send til galleriet</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>sett fargen til</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Løsningen din virker, men du kan gjøre det bedre. Bruk «scan» for å fortelle kanonen hvor langt den skal skyte.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Returnerer spillerens X-koordinat (0 er venstre \nkant, 100 er høyre kant). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Returnerer nåværende tid i animasjonen (0–100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>piano</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>ellers</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Denne avstanden er akkurat det «cannon»-kommandoen trenger for å skyte treffsikkert.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Denn motstanderen flytter seg fram og tilbake, og er vanskelig å treffe. «scan»-uttrykket returnerer den eksakte avstanden til motstanderen i den angitte retningen.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Flytter spilleren ett felt fremover.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://no.wikipedia.org/wiki/Skrifttype</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Denne nye blokka legger til en taus forsinkelse.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Beklager, '%1' samsvarer ikke med noe lagret program.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Slutt å svømme. Spilleren vil sakke ned til den \nstopper. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Gjør skilpadden (sirkel og pil) synlig eller \nusynlig. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Se galleri</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Det oppsto et problem med forespørselen din</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Kjør programmet til det stopper. Du kan sende musikken din til galleriet.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>rektangel</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Hvis det finnes en sti i angitt retning, \ngjør den første blokken av handlinger. \nEllers, gjør den andre blokken av handlinger. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Send musikken din til Reddit.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Sjekk svar</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Kan du lage en ball som følger vaieren? Vaieren har allerede blitt tegnet for deg. Når du kan gjøre det kan du gjøre hva som helst.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>skriv</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>Opprett en annen startblokk som har to forsinkelsesblokker, og så spiller «Fader Jakob».</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Musikk</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Søk etter fiender. Angi en retning (0–360). \nReturnerer avstanden til nærmeste fiende i \nden retningen. Returnerer uendelighet om ingen \nfiender finnes. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Hver startblokk bør spille «Fader Jakob» to ganger.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Opprett fire startblokker som hver spiller «Fader Jakob» to ganger. Legg til riktig antall forsinkelsesblokker.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Hvis det finnes en sti i angitt retning, \ngjør visse handlinger. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Opprett en tredje funksjon for neste del av «Fader Jakob». de første fire notene er kortere.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Fullfør hele melodien til «Fader Jakob».</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>fløyte</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Returnerer spillerens Y-koordinat (0 er bunnen, \n100 er toppen). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Gjenta de sluttede kommandoene inntil \nsluttpunktet nås. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Stopp programmet og nullstill nivået.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Opprett en annen funksjon for neste del av «Fader Jakob». Den siste noten er lengre.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Betingelsen for når fuglen ikke har fått marken.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Kjør programmet til det stopper. Etter det kan du levere tegningen din til galleriet.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Du kan plassere mer enn en blokk i en repeteringsblokk.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Farge</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>If-else-blokker vil gjøre det ene eller det andre.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Bruk knappen «Se galleri» for å se hva andre har komponert. Om du komponerer noe interessant, bruk knappen «Send til galleri» for å publisere det.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Bruk det du har lært i tidligere nivåer for til å få fire grønne baller til å bevege seg i alle fire retninger.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Del dine blokker med denne lenken:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Løsningen din virker, men du kan gjøre det bedre. Bruk funksjoner for å redusere mengden gjentatt kode.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Lagre og lenke til blokker.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Nå slutten av denne stien ved å bruke bare to blokker. Bruk 'repeter' for å kjøre en blokk mer enn én gang.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>skjul skilpadde</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>På dette nivået må du sette sammen alle blokkene i det hvite arbeidsområdet.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>gå fremover</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Dette nivået er veldig vanskelig. Ønsker du å hoppe over det og fortsette til neste spill? Du kan alltids komme tilbake senere.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Mål</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Bruk enkle former til å tegne denne personen.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>Kjører blokkene inni når knappen «Kjør program» \nklikkes. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Tegn stjernen med bare fire blokker.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Tegn formen med bare tre blokker.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>sving til høyre med</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Nebb</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Fjær</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>slutt y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Velg din favorittspiller fra denne menyen.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Tegn en liten gul stjerne, og tegn en linje over den.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Funksjoner</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>når %1 klikkes</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Flytt spilleren tilbake til starten av labyrinten.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Tegner en linje fra ett punkt til et annet med \nden angitte bredden. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>linje</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Bruk «Se galleri»-knappen for å se filmer som andre har laget. Om du lager en interessant film, bruk «Send til galleri»-knappen for å publisere den.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Tegner en sirkel ved den angitte lokasjonen med \nden angitte radiusen. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>To enkle linjer. Bare finn ut hva slutten på linjene gjør.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>bredde</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>skrifttype</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Returnerer spillerens nåværende fart (0 er \nstoppet, 100 er full fart). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>sving til venstre med</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Kjør programmet du skrev.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Fjern data</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>tromme</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Åpne galleriet over tegninger. </target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>sirkel</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Lag en film med hva som helst. Du har et enormt antall nye blokker du kan utforske. Kos deg!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Filmen din beveger seg ikke. Bruk blokker for å lage noe interessant. Så kan du sende filmen din til galleriet.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Blokker</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Sving skilpadden venstre eller høyre med angitt \nantall grader. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Skilpadde</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Flytter skilpadden fremover eller bakover med \nden angitte verdien. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Bruk denne blokken for å gå i én retning om du har marken, eller en annen retning om du ikke har marken.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Du løste dette nivået med 1 linje JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Du løste dette nivået med %1 linjer JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Hever eller senker pennen, for å stoppe eller \nstarte tegning. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Viser språkdokumentasjonen.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Send filmen din til galleriet. </target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Svøm forover. Angi en retning (0–360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Er du klar for neste utfordring?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Dette nivået er en film. Du vil at en rød ball skal krysse skjermen. Trykk på avspillingsknappen for å se en forhåndsvisning.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Det er en ny blokk som lar deg løfte pennen av papiret når du flytter deg:</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Denne motstanderen er for langt unna til å bruke kanonen (som har en grense på 70 meter). Bruk i stedet kommandoen «swim» for å svømme mot motstanderen og kræsje inn i den.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Tittel:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>slutt x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Mens filmen spiller vil verdien til «time»-blokken telle fra 0 til 100. Siden du vil at den horisontale posisjonen til den røde ballen skal starte på 0 og gå til 100 bør dette være enkelt.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Er du klar for nivå %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Bruk «Se galleri»-knappen for å se hva andre har tegnet. Om du tegner noe interessant, bruk «Send til galleri»-knappen for å publisere det.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Avbryt</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Kunne ikke laste inn filen. Kanskje den ble laget med en annen versjon av Blockly?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>hviler %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>retning</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Du har %1 blokk igjen.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Du har %0 blokker igjen.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Du har %2 blokker igjen.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Spill for morgendagens programmerere.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>høyde</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>if-sti til høyre</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>if-sti til venstre</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Velg en kategori for å se blokkene.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Spiller</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Endrer fargen på pennen.</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Opprett en funksjon for å spille de første fire notene i «Fader Jakob». Kjør den funksjonen to ganger. Ikke legg til nye noteblokker.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>sett bredden til</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://no.wikipedia.org/wiki/Trykking</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Honning</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Spill melodien din med fiolin.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Denne nye lokka lar deg bytte til et annet instrument.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Brodd</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Kan du løse denne kompliserte pyramiden? Forsøk å følge veggen på venstre side. Kun for avanserte programmerere.</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>penn opp</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Se galleri</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>sving til venstre</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>radius</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>flytt fremover med</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Endre retningsvinkelen for å få fuglen til å få marken og lande i redet sitt.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Åpne musikkgalleriet på Reddit.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Snegle</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Nesten! En blokk er feil.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>bilde:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Tekst</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>And</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Katt</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Bie</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normal</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>trompet</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://no.wikipedia.org/wiki/Katt</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Redd</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Se galleri</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>spill %1 note %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Den merkede blokken er ikke riktig.
+Fortsett å prøve.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>start x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Sett sammen et par 'gå fremover'-blokker for å hjelpe meg med å nå målet.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Send til galleri</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Klikk på %1 i 'if'-blokken for å endre tilstand.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://no.wikipedia.org/wiki/Snegler</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Lister</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Puslespill</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>sett instrument til %1</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>«x» er din nåværende horisontale posisjon. Bruk denne blokken for å gå i én retning om «x» er mindre en et nummer, eller en annen retning om «x» ikke er det.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>bein:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://no.wikipedia.org/wiki/Bier</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Åpne galleriet av filmer.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Gratulerer!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blockly-spill</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Galleri</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Endrer fargen på pennen.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>fet</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Tegn det du har lyst til. Du har et enormt antall nye blokker du kan utforske. Kos deg!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>gjenta inntil</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Løkker</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Send til galleri</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>Å få musas hode til å bevege seg er lett. Kan du finne ut regnestykket for å få ørene til å bevege seg også?</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Når du begynner å redigere JavaScript kan du ikke gå tilbake til redigeringsblokker. Er det greit?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Matteformelen for denne fallende ballen er komplisert. Her er svaret:</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>velg…</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>start y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>«time»-blokken teller fra 0 til 100. Men denne gangen vil du at den horisontale posisjonen til ballen skal starte på 100 og gå til 0. Kan du finne en enkel matematisk formel som endrer retningen?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Damlærer</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>Å tegne 360 hvite linjer vil ligne på fullmånen.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Programmet ditt løste ikke labyrinten. Trykk 'Nullstill' og prøv igjen.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>første del</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Dokumentasjon</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>vis skilpadde</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Flytt i retningen til den gitte vinkelen: 0 er \nhøyre, 90 er rett opp, osv. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>banjo</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>kursiv</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Kjør programmet for å se hva som skjer.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Setter skrifttypen som brukes av skriveblokken.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>sett farge til</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Film</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x og y markerer fuglens posisjon. \nNår x = 0 er fuglen nær venstre \nkant, når x = 100 er den nær den \nhøyre kanten. Når y = 0 er fuglen \nved bunnen, mens y = 100 er den nær \ntoppen. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Spiller én musikknote med den gitte varigheten \nog tonehøyden. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Løsningen din virker, men du kan gjøre det bedre.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Lag et program som tegner et kvadrat.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Endre programmet til å tegne en femkant i stedet for en stjerne.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>I stedet for én stjerne, kan du tegne fire stjerner i et firkantmønster?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>har ikke mark</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Tegn stjernene, og tegn så fire hvite linjer.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://no.wikipedia.org/wiki/And</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Kan du legge til en svart sirkel så månen blir en halvmåne?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Endrer bredden på pennen.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>Bytter til det gitte instrumentet når \netterfølgende noter spilles. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matte</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Venter én hel note.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

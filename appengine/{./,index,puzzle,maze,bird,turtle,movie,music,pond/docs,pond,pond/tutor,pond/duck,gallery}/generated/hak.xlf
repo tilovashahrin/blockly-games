@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="hak">
+    <body>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>佬前方有路</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>列表</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>加光个格仔毋著。
+繼續努力。</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>命令出現錯誤。</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>確定</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>列表</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>迷局</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>做</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>向左還有向右彎90度。</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>顏色</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>取消</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>沒存到你保存个檔案。可能它係從其他版本个Blockly創建麼？</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>核對答案</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>文字</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>重覆直到</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>每隻國家（青色），選擇其對應个旗幟，語言，與城市。</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>選擇</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>佬右邊有路</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>佬左邊有路</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>右彎</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>幫助</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>變量</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>函數</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>差滴！有 1 格毋著。</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>讚！
+%1 格仔全部正確。</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>左彎</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 格毋著。</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>迷宮</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>文字</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>不過</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Sṳ-ho̍k kûng-sṳt</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>前行一步。</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

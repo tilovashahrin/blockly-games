@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="gn">
+    <body>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>tysýi</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>eguejy haiha</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Peteĩ tekojepe'y ohechauka.</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>Oĩma</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Karumbe</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Kuaarape</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Tysýi</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>italic</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>pejapo</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>tai tuichakue</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Ñepyrũ jey</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Sa'y</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Temboja'o nde vorekuéra ko joaju ndie:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Oñongatu ha ombojoaju vorekuéra.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>bold</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>jehaipy</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Reñepyrũrõ remoambue JavaScript jehaipy, ndaikatúi remoambue jey umi atýra. Oĩma?</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>jeporavo...</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>ejupi haiha</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Haimete porã! Peteĩ vore oĩ vai.</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Ñemoambuéva</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Aporeko</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Pejapo pe Jejaporã</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Iporãite!
+Opa %1 vorekuéra oĩ porã.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 vorekuéra oĩ vai.</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Tapykuegua</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>tai ysaja</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Jehaipy</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>térã</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>tai tee</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Papapykuaa</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="br">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Babouz</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>Ma'z eus un hent dirak</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>roll</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>lakaat ar stilo d'an traoñ</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Mourroù</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Feur</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Tresañ a ra ur skouergorneg en ul lec'h spisaet \ngant al ledander hag an uhelder spisaet. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Stank</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Savit ar peder notenn gentañ eus "Breur Jakez".</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Krogenn</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>Mont war-gil eus</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Setu ur bloc'h nevez ha gantañ e c'hallit kemmañ al liv :</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Tresañ ur steredenn velen</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Ezhomm en deus al live-mañ eus ur bloc'h "ma" hag unan "anez" war un dro.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Ne raio ur bloc'h "ma" un dra bennak ken nemet m'eo gwir an amplegad. Klaskit treiñ a-gleiz ma'z eus un hent war an tu kleiz.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>laz-kanañ</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>ober</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Implijet eo bet ganeoc'h holl vloc'hoù al live-mañ. Evit krouiñ ur bloc'h nevez e rankit dilemel ur bloc'h zo anezhañ da gentañ.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Lakait ar c'hoarier da dreiñ a-gleiz pe a-zehoù \na 90 derez. </target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Klikit war an arlun evit kemmañ ar bloc'h 'ma'</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Momeder</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>ment ar font</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Adderaouekaat</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Lakaat ar c'hoarier d'ober ar pezh a lavar ar \nbloc'hoù. </target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>Gwir eo ar bloc'h "ha" mar ha nemet mard eo gwir an daou voned.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Un notenn (C4 zo 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>violoñs</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>treiñ a-zehoù</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Lakait an divesker da vont en tu all eus hanterenn ar film.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Ha c'hoant ho peus da adkregiñ ?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Sachañ ur bloc'h "anez" er bloc'h "ma".</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>testenn</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Lemel holl ho tiskoulmoù ?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Savit ar pezh ho peus c'hoant. Un niver bras a vloc'hoù a c'hallit ergezhet ho peus. Kemerit plijadur !</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>gitar</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Evit kement loen(e gwer), stagañ he skeudenn, dibab pet pav zo dezhañ, ha berniañ he ferzhioù.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>perzhioù :</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>O c'hortoz ar pad spisaet.</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Implijit an urzhiad "cannon" evit tizhout ar gwenn. An arventenn gentañ eo ar "c'horn", an eil eo ar "c'heit". Kavit ar c'henaozad mat.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Embannit ho tresadenn er palier.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>Gant un "arc'hwel" e challit kenstrollañ bloc'hoù, ha goude-se seveniñ anezho meur a wech.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Ar c'horn-mañ a zle bezañ tizhet meur a wech. Implijit ur rodell "while (true)" evit un ober un dra dizehan.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Re bell eo an enebour-se evit implijout ar c'hanol. Re wan oc'h avat evit chom bev goude ur stokadenn. Neuiit davet an eneber keit ha ma'z eo bihanoc'h ho lec'hiadur a-blaen eget 50. "stop" da c'houde hag implijit ar c'hanol.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Tennañ gant ar c'hanol. Spisait un tu (0-360) \nhag un hed-tenn (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Skoazell</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Pellaat a ray an eneber-mañ pa vo skoet outañ. Neuit davetañ ma'z eo dreist diraez (70 metr).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Poell</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Genetek</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Distreiñ yec'hed a vremañ ar c'hoarier (0 zo par \nda "marv", 100 zo par da "yac'h-pesk") </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Labous</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Titouroù pedagogel...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Argemmennoù</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Lañsañ ar programm</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Dispar !
+Reizh eo an/ar %1 bloc'h.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Tresit teir steredenn velen, hag ul linenn wenn.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 bloc'h zo direizh.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Tresañ an destenn war-zu ar vaot el lec'h m'emañ.</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Milendall</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Embann er Palier</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>lakaat al liv da</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Mat eo ho tiskoulm, met gallout a reot ober gwelloc'h.
+Implijit "scan" evit lavaret d'ar c'hanol betek pegeit tennañ.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Distreiñ daveenn X ar c'hoarier (0 zo ar bord \nkleiz, 100 zo par d'ar vord dehou) </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Distreiñ pad a vremañ ar skeudenn-vev (0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>piano</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>a-hend-all</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>An hed-tenn-mañ zo tre-ha-tre ar pezh en deus ezhomm an urzhiad "cannon" evit tennañ en un doare resis.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>An enebour-mañ a zo o vont war-raok ha war-gil. Gant-se ez eo diaes tizhout anezhañ. Ar bomm "scan" a zistro ar c'heit resis d'an enebour war an tu spisaet.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Lakait ar c'hoarier da vont war-raok eus un \nesaouenn. </target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Ar bloc'h nevez-mañ a ouzhpenn pred ur baouezenn.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Digarezit. "%1" ne glot gant programm enrollet ebet.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Paouezit da neuial. Ar c'hoarier a grenno e dizh \nevit chom a-sav. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Lakaat a ra ar vaot (kelc'h ha biroù) war wel pe \ndiwar wel. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Gwelet ar palier</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Ur gudenn zo gant ar reked.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Roit lañs d'ho programm betek ma paouezo. Gallout a rit embann ho sonerezh er palier neuze.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>Skouergorneg</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Ma'z eus un hent war an tu spisaet, \ngrit ar c'hentañ bloc'had oberoù. \nA-hend-all, grit an eil bloc'had \noberoù. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Embannit ho sonerezh er palier.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Gwiriañ ar respontoù</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Tresit ur c'helc'h hag a zo o vrasaat a-dreñv an den.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>moullañ</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>Krouit un eil bloc'h en deus daou vloc'h paouezenn, ha son "Breur Jakez" ivez goude-se .</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Sonerezh</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Klaskit enebourien. Spisait un tu (0-360). \nDistreiñ a ra an hed d'an enebour tostañ \ndiouzh an tu-mañ. Distreiñ a ra "anvevenn" \nma ne vez kavet enebour ebet. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Pep bloc'h deraouiñ a rank seniñ "Breur Jakez" div wech.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Krouit pevar bloc'h loc'hañ hag a c'hall seniñ "Breur Jakez" div wech. Ouzhpennit an niver mat a vloc'h paouezenn.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Ma'z eus un hent war an tu spisaet, \ngrit an oberoù-se neuze. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Krouit un trede arc'hwel evit al lodenn da-heul "Breur Jakez". Berroc'h eo ar peder notenn gentañ.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Echuit an ton "Breur Jakez" en e bezh.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>fleüt</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Retorn a ra daveenn Y ar c'hoarier (0 zo an \ntraoñ, 100 zo ar c'hrec'h). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Adober ar bloc'hoù zo en diabarzh betek tizhout \nar pal. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Paouez ar programm hag adderaouekaat al live.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Krouit un eil arc'hwel evit al lodenn da-heul eus "Breur Jakez". Hiroc'h eo an notenn diwezhañ.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Ar stad m'emañ al labous pa n'eo ket deuet \na-benn da gaout ar preñv. </target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Luskañ ho programm betek ma paouezo. Goude-se e c'hallit embann ho tresadenn er palier.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Meur a vloc'h a c'haller lakaat en ur bloc'h 'adober'.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Liv</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Seveniñ a raio ar bloc'hoù "Ma/A-hend-all" an eil tra pe egile.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Implijit ar bouton 'gwelet ar palier' evit gwelet ar pezh a zo bet sonaozet gant tud all. Ma savit un ton dedennus bennak, implijit ar bouton 'Embann er palier' evit embann anezhañ.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Implijit ar pezh ho peus desket el live kent evit kroaziañ e zivesker.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Rannañ ho ploc'hoù gant al liamm-mañ :
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Mont a ra ho tiskoulm en-dro, met gallout a reot ober gwelloc'h. Implijit an arc'hwelioù evit digreskiñ ar c'hementad kod arreet.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Enrollañ ha liammañ ouzh ar bloc'hadoù.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>N'eus ket nemeur a vemor gant an urzhiataerioù. Implijit daou vloc'h hepken evit tizhout ar pal. Implijit ar bloc'h "adober" evit seveniñ ur bloc'h meur a wech.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>kuzhat ar vaot</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>El live-se az peus ezhomm da verniañ bloc'hoù an eil war egile en un takad labour gwenn.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>mont war-raok</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Diaes-kenañ eo al live-mañ. Ha c'hoant ho peus da lammat anezhañ ha da dremen d'ar c'hoari war-lerc'h ? Gallout a rit atav distreiñ dezhañ diwezhatoc'h.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Pal</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Implijit stummoù eeun evit tresañ an den-mañ.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>a seven ar bloc'hoù en diabarzh pa vez kliket ar \nbouton "Lañsañ ar programm". </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Tresañ ar steredenn gant pevar bloc'h hepken.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Tresañ ar stumm gant tri bloc'h hepken.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>treiñ a-zehoù da</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Beg</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Pluñv</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>y dibenn</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Dibabit ho c'hoarier karetañ el lañser.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Tresañ ur steredenn vihan, ha goude-se ul linenn a-us dezhi.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Dilec'hiit ar c'helc'h en drekleur e krec'h ho programm. Dont a ray war wel a-dreñv an den.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Arc'hwelioù</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>Pa z'eo kliket %1</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Adlakaat an dudenn e deroù ar milendall.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Tresañ a ra ul linenn eus ur poent d'egile gant \nul ledander spisaet. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>linenn</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Implijit ar bouton %quot;gwelet ar palier; evit gwelet fiskeudennoù-bev ar re all. Ma rit ur skeudenn-vev dedennus, implijit ar bouton %quot;Embann er palier%quot; evit embann anezhi.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Dresañ a ra ur c'helc'h el lec'h spisaet gant ur \nskin spisaet. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Roit daou zorn d'an den.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>Ledander</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>font</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Distreiñ tizh a vremañ ar c'hoarier (0 zo par da \n"ehanet", 100 zo par "diwar dizh"). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>Treiñ a-gleiz da</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Lañsañ ar programm ho peus skrivet.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Nullañ ar roadennoù</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>taboulin</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Digeriñ palier an tresadennoù. </target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>Kelc'h</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Savit ar skeudenn-vev ho peus c'hoant. Un niver bras a vloc'hoù a c'hallit ergerzhet ho peus. Kemerit plijadur !</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>N'emañ ket ho skeudenn-vev o fiñval. Implijout ar bloc'hoù evit ober un dra bennak dedennus. Goude-se e c'hallot embann ho fskeudenn-vev er palier.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Bloc'hoù</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Lakaat ar vaot da dreiñ a-gleiz pe a-zehoù \nhervez an niver a zerezioù merket. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>Mat eo</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Baot</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Lakaat ar vaot da vont war-raok pe da vont \nwar-gil hervez ar c'hementad merket. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Implijit ar bloc'h-mañ evit mont war un tu m'emañ ar preñv ganeoc'h, ha d'un tu all ma n'emañ ket ganeoc'h.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Diskoulmet ho peus al live-mañ gant 1 linenn JavaScript :</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Diskoulmet ho peus al live-mañ gant %1 linenn JavaScript :</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Sevel pe diskenn ar stilo, evit paouez pe kregiñ \nda dresañ. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Diskwel an teuliadur diwar-benn ar yezh.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Embannit ho skeudenn-vev er palier.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Neuial. Spisait un tu (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Ha prest oc'h evit an dae da zont ?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Ur film eo al live-se. C'hoant ho peus da zilec'hiañ brec'h an den a-dreuz ar skramm. Pouezit war ar bouton c'hoari evit gwelet un alberz.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Setu ur bloc'h nevez ha gantañ e c'hallit lemel ho kreion diwar ar follenn pa vezit o vont gant ho hent :</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Re bell eo an eneber-mañ evit implijout ar c'hanol (a c'hall tennañ betek 70 m d'ar muiañ). En e lec'h, implijit an urzhiad "swim" evit kregiñ da neuial war-zu an eneber ha skeiñ outañ.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Titl :</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>x dibenn</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Keit ha m'emañ ar skeudenn-vev o c'hoari emañ ar bloc'h "amzer" o vont war-raok eus 0 da 100. Evel m'ho peus c'hoant e krogo lechiadur "y" ar vrec'h  e 0 ha ma'z ay betek 100 e tlefe bezañ aes.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Ha prest oc'h evit al live %1 ?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Implijit ar bouton %quot;gwelet ar palier; evit gwelet ar pezh zo bet treset gant ar re all. Ma tresit un dra bennak dedennus, implijit ar bouton %quot;Embann er palier%quot; evit embann ho tresadenn.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Nullañ</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Ne c'haller ket kargañ ho restr enrollet. Marteze e oa bet krouet gant ur stumm disheñvel eus Blockly ?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>gortoz %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>Penn</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Chom a ra %1 bloc'h ganeoc'h.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Ne chom bloc'h ebet (%0) ganeoc'h.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Chom a ra %2 bloc'h ganeoc'h.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>C'hoarioù evit programmerien warc'hoazh.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>Uhelder</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>Ma'z eus un hent a-zehoù</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>Ma'z eus un hent a-gleiz</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Dibabit ur rummad evit gwelet ar bloc'hoù.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>C'hoarier</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Cheñch liv ar stilo.</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Krouit un arc'hwel evit seniñ ar peder notenn gentañ eus "Breur Jakez". Lañsit an arc'hwel-se div wech. Arabat eo deoc'h ouzhpennañ bloc'hoù notennoù all.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>lakaat al ledander da</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Mel</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Seniñ ho ton gant ar violoñs</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Gant ar bloc'h nevez e c'hallit tremen d'ur benveg all.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Flemm</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Daoust ha gouest oc'h da ziskoulmañ ar milendall luziet-mañ ? Klaskit mont a-hed ar voger gleiz. Evit ar brogrammerien arroutet-mat hepken !</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>sevel ar stilo</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Gwelet ar palier</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>treiñ a-gleiz</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>skin</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>Mont war-raok eus</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Kit d'un tu all evit ma c'hallo al labous tapout ar preñv ha mont d'e neizh.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Digeriñ ar palier sonerezh.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Maligorn</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Tost ! Chom a ra ur bloc'h direizh.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>Skeudenn :</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Testenn</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Houad</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Kazh</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Gwenanenn</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>reizh</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>trompilh</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://br.wikipedia.org/wiki/Kazh</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Spontet</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Gwelet ar palier</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>c'hoari %1 notenn %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Direizh eo ar bloc'h usskedet.
+Kendalc'hit da bleustriñ.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>x deroù</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Berniañ asambles daou vloc'h kemennoù "mont war-raok" evit sikour ac'hanon da dizhout ar pal.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Embann er Palier</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Klikit war %1 er bloc'h "ma" evit cheñch e amplegad.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://br.wikipedia.org/wiki/Maligorn</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Rolloù</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Miltamm</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>Termenañ ar benveg-seniñ e %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>Gwelloc'h e vo ar sonerezh ma'z implijit ur benveg disheñvel e pep bloc'h loc'hañ.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>"X" zo ho lec'hiadur a-blaen. Implijit ar bloc'h-mañ evit mont d'un tu ma'z eo bihanoc'h "X" eget un niver, anez-se d'un tu all ?</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>Pavioù :</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://br.wikipedia.org/wiki/Gwenanenn</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Digeriñ palier ar skeudennoù-bev.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Gourc'hemennoù !</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>C'hoarioù Blockly</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Palier</target>
+      </trans-unit>
+      <trans-unit id="3616731507597101347" datatype="html">
+        <target>Moullañ a ra un niver war penell ho merdeer.</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Cheñch liv ar stilo.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>tev</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Tresit ar pezh ho peus c'hoant. Un niver bras a vloc'hoù a c'hallit ergerzhet ho peus. Kemerit plijadur !</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>adober betek</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Rodelloù</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Embann er Palier</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Trugarez evit ar programm-mañ. Ma plij d'hor skipailh marmouzed  doñvaet e vo embannet ganto er palier ac'hann da zaou zevezh.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>Luziet eo ar formulenn vatematik evit ar vrec'h. Setu ar respont :</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Ur wech m'ho po kroget da zazkemmañ ar JavaScript ne c'hallit ket mui distreiñ d'an daskemmañ bloc'hoù. Ha mat eo evidoc'h ?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Implijit ar bloc'h "if" evit tresañ ur penn bihan evit an hanterenn gentañ eus ar film. Tresit goude-se ur penn bras evit an eil hanterenn eus ar film.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>dibab...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>y deroù</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Emañ ar bloc'h "amzer" o vont eus 0 da 100. Bremañ avat ho peus c'hoant ma krogo lec'hiadur "y" ar vrec'h all e 100 ha ma'z ay betek 0. Ha c'hoant ho peus da gavout ar formulenn vatematik a cheñcho tu ?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Tutorial Stank</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>Tresit 360 linenn wenn hag a denn d'ul loargann</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>N'eo ket bet diskoulmet ar milendall gant ho programm. Pouezit war "Adderaouekaat" ha klaskit en-dro.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>kentañ lodenn</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Teuliadur</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>diskouez ar vaot</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Mont war-zu ur c'horn roet : 0 zo war an \ntu-dehou, 90 zo war-eeun, ha kement zo </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>banjo</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>italek</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Sevenit ho programm evit gwelet petra a c'hoarvez.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Termeniñ a ra ar font implijet gant ar bloc'h \nskrivañ. </target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>lakaat al liv da</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Film</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x hag y a verk pelec'h emañ al labous. \nPa'z eo par x da 0 emañ al labous tost \nd'ar vord kleiz, pa'z eo par x da 100 \nemañ al labous tost d'ar vord dehou. \nPa'z eo par y da 0 emañ al labous en \ntraoñ, pa'z eo par y da 100 emañ e krec'h. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Seniñ a ra un notenn sonerezh eus padalezh hag \nuhelder ar roadennoù. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Ho tiskoulm a zo vont en-dro, met gallout a rit ober gwelloc'h.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Krouit ur programm evit tresañ ur garrezenn.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Kemmit ho programm evit tresañ ur pempkorneg kentoc'h eget ur garrezenn.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>E-lec'h ur steredenn hepken, ha gallout a rit tresañ teir steredenn kempennet e doare ur garrezenn ?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>n'eus preñv ebet gantañ</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Tresit ar stered, ha peder linenn wenn da c'houde.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://br.wikipedia.org/wiki/Houad</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Gallout a rit ouzhpennañ ur c'helc'h du evit ma teuio al loar da vezañ ur c'hresk-loar ?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Cheñch ledander ar stilo.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>A wint war-zu ar benveg spisaet en ur seniñ an \nnotennoù sonerezh war-lerc'h. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matematik</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>O c'hortoz un notenn anterin.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

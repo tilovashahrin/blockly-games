@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="sk">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Sliz</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>ak je cesta pred</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>zoznam</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>pero dole</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Fúzy</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Kožúšok</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Nakreslí obdĺžnik na zadaných súradniciach s \ndanou výškou a šírkou. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Rybník</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Ulita</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>posunúť vzad o</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Pribudol nový blok, ktorý mení farbu čiary:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Nakresli žltú hviezdičku.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>V tejto úrovni sú potrebné bloky 'inak ak' aj 'inak'.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Rozhodovací blok 'ak' urobí niečo len v prípade, že je splnená podmienka. Skús otočenie vľavo, ak je cesta naľavo.</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>urob</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Využil si všetky bloky dostupné v tejto úrovni. Ak chceš nový blok, odstráň najprv nejaký existujúci.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Otočenie hráča o 90° vľavo či vpravo.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Klikni na inkonku a zmeň blok 'ak'.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Kyvadlo</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>veľkosť písma</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Odznova</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Postavička vykoná to, čo je napísané na bloku.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>Blok 'a' je pravda len ak oba jeho vstupy sú pravdivé.</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>husle</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>otoč sa vpravo</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Dosiahni toho, aby nohy zmenili svoj smer v polovici filmu.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Chceš začať odznova?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Potiahni blok 'inak' dovnútra bloku 'ak'.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>text</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Zmazať všetky tvoje riešienia?</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>gitara</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Ku každému zvieraťu (zelené) priraď počet nôh a usporiadaj vlastnosti.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>vlastnosti:</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Na zasiahnutie cieľa použi príkaz "cannon". Prvý parameter je uhol, druhý parameter je sila. Nájdi správnu kombináciu oboch čisel.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Pošlite Váš obrázok do galérie.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Tento cieľ treba zasiahnuť veľakrát. Slučka "while (true)" opakuje niečo donekonečna.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Tento protivník je tiež mimo dosahu kanóna. Si príliš slabý a náraz neprežiješ. Plávaj teda smerom k súperovi, kým je tvoja vodorovná súradnica menšia ako 50. Potom použi "stop" a "cannon".</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Vypáli z dela. Zadaj smer (0-360) a silu (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Pomoc</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Tento protivník po zásahu začne utekať. Ak je mimo dosahu, plávaj mu oproti.</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Logické</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Genetika</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Vráti momentálne zdravie hráča (0 je mŕtvy, \n100 zdravý). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Vták</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Informácie pre vzdeľávateľov...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Premenné</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Spustiť</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Výborne!
+Všetkých %1 blokov je na správnom mieste.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Nakresli tri žlté hviezdy a jednu bielu čiaru.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 blokov je nesprávne.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Vypíše text na pozícii korytnačky v smere jej \nnatočenia. </target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Bludisko</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>nastaviť farbu</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Tvoje riešenie pracuje, ale môžeš to urobiť lepšie. Pomocou príkazu "scan" povedz kanónu, ako ďaleko má strieľať.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Vráti vodorovnú (x) súradnicu hráča (0 ľavý \nokraj, 100 pravý okraj). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Vráti aktuálny čas v animácii (0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>piano</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>inak</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Presne takúto silu potrebuje príkaz "cannon" na presný zásah.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Tento protivník sa pohybuje tam a späť, takže je ťažké ho zasiahnuť. Výraz "scan" vráti presnú silu na zasiahnutie súpera v určenom smere.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Posun hráča o jednu dĺžku dopredu.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://sk.wikipedia.org/wiki/Font_%28po%C4%8D%C3%ADta%C4%8De%29</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Prepáč, '%1' nie je meno žiadneho uloženého programu.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Skončí plávanie. Hráč sa pomaly zastaví. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Ukáže alebo skryje korytnačku (krúžok so šípkou).</target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Zobraziť galériu</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Nastal problém pri spracovaní požiadavky.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>obdĺžnik</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Ak je tým smerom cesta, vykonaj prvý blok príkazov.\nInak vykonaj druhý blok príkazov.</target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Pošli svoju hudbu na Reddit.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Skontrolovať odpovede</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Nakresli zvečšujúci sa kruh za osobou.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>tlačiť</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Hudba</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Hľadá nepriateľa. Zadaj smer (0-360). \nVráti vzdialenosť od najbližšieho \nnepriateľa v danom smere. Vráti Nekonečno \nak v danom smere nie je žiadny nepriateľ. </target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Ak je tým smerom cesta, vykonaj príkazy.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>flauta</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Vráti zvislú (y) súradnicu hráča (0 dolný okraj, \n100 horný okraj). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Opakuj príkazy vo vnútri bloku, \naž kým neprídeš do cieľa. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Zastaviť program a vrátiť úroveň do pôvodného \nstavu. </target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Podmienka ak ešte vták nechytil červa.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Spustiť program, až kým nezastaví. Potom môžeš svoj výtvor poslať do galérie.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Do opakovacieho bloku môžeš umiestniť aj viac ako jeden blok.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Farba</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Príkaz ak-inak urobí buď jedno alebo druhé.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Použi vedomosti z predošlej úrovne a vytvor prekrížené nohy.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Zdieľať odkaz na tento program: %1</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Uložiť a zdieľať odkaz na tento program.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Dosiahni cieľ použitím len dvoch blokov. Na zopakovanie bloku použi blok 'opakuj'.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>skryť korytnačku</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>V tejto úrovni máš na bielej ploche poskladať všetky diely skladačky.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>choď dopredu</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Táto úroveň je veľmi ťažká. Chceš ju preskočiť a pozrieť sa na ďalšiu hru? Neskôr sa sem môžeš vrátiť.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Terč</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Nakresli postavu jenoduchými tvarmi</target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Nakresli hviezdičku iba so štyrmi blokmi.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Nakresli tento útvar iba s tromi blokmi.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>otočiť vpravo o</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Zobák</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Perie</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>cieľ y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Zvoľ si svojho obľúbeného hráča z ponuky.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Nakresli žltú hviezdičku a potom čiaru nad ňou.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Premiestnite kruh z pozadia na vrch Vášho programu. Následne sa objaví za osobou.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Funkcie</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Presunúť hráča späť na začiatok bludiska.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Nakreslí čiaru danej hrúbky z jedného bodu do \ndruhého. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>čiara</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Tlačidlom "Galéria" si prezri filmy iných ľudí. Ak sa ti podarí zaujímavý film, zverejníš ho tlačidlo "Zdieľať do galérie".</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Nakreslí kružnicu na zadaných súradniciach s \ndaným polomerom. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Daj osobe dlane.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>hrúbka</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>písmo</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Vráti momentálnu rýchlosť hráča (0 stojaci, \n100 plná rýchlosť). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>otočiť vľavo o</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Spustiť napísaný program.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Zmazať údaje</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>bubny</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Otvoriť galériu obrázkov.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>kružnica</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Urob si film podľa vlastnej fantázie. Na preskúmanie tu máš veľký počet nových dielikov. Príjemnú zábavu!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Tvoj film sa zatiaľ nehýbe. Urob si z dielikov niečo zaujímavé. Potom nám svoj film môžeš vyzdieľať do galérie.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Bloky</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Korytnačka sa otočí vľavo alebo vpravo o zadaný \npočet stupňov. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Korytnačka</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Presunie korytnačku dopredu alebo dozadu o \nurčitý počet krokov. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Použi tento blok na pohyb jedným smerom, ak máš červa, alebo iným smerom, ak ho nemáš.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Vyriešil si úroveň jedným riadkom JavaScriptu:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Vyriešil si túto úroveň s %1 riadkami JavaScriptu:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Pero hore alebo dole, skončí alebo začne kresliť.</target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Zobrazí dokumentáciu programovacieho jazyka.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Vložte váš film do galérie.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Pláva vpred. Zadaj smer (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Pripravený na ďalšiu výzvu?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>V tejto úrovni tvoríš film. Potrebuješ, aby sa ruka človeka pohybovala po obrazovke. Stlač tlačidlo na prehratie, aby si zhľiadol náhľad.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Pribudol nový blok, ktorým sa zdvíha pero z papiera:</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Názov:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>cieľ x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Počas prehrávania filmu sa hodnota bloku 'čas' mení od 0 do 100. Pretože chceš meniť vodorovnú polohu od 0 do 100, malo to by byť jednoduché.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Pripravený na úroveň %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Použi tlačidlo "Prezrieť Galériu" a prezri si výtvory iných ľudí. Ak nakreslíš niečo zaujímavé, stlač "Poslať do Galérie" a zverejni svoj výtvor.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Zrušiť</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Nebolo možné načítať uložený súbor. Možno bol vytvorený v inej verzii Blockly.</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>smer</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Máš už iba %1 blok.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Zostalo ti %0 blokov.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Zostalo ti ešte %2 blokov.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Hry pre budúcich programátorov.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>výška</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>ak je cesta vpravo</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>ak je cesta vľavo</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Zvoľ si kategóriu a prezri si bloky v nej.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Hráč</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Zmeniť farbu pera.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>nastaviť šírku</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://sk.wikipedia.org/wiki/Kn%C3%ADhtla%C4%8D</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Med</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Žihadlo</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Zvládneš aj toto komplikované bludisko?
+Skús ísť popri ľavej stene. Len pre pokročilých programátorov!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>pero hore</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Prezrieť galériu</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>otoč sa vľavo</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>polomer</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>posunúť dopredu o</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Zmeň smer vtáka tak, aby chytil červa a pristál v hniezde.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Slimák</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Takmer! Jeden blok je nesprávne.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>obrázok:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Textové</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Kačica</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Mačka</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Včela</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normálne</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Cat</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Strachopud</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Zobraziť galériu</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>zahraj %1 notu %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Zvýraznený blok nie je správne.
+Skúšaj ďalej.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>štart x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Program je postupnosť blokov. Pospájaj niekoľko blokov 'vpred' a pomôž mi dôjsť do cieľa.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Poslať do Galérie</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Klikni na %1 v rozhodovacom bloku a nastav podmienku.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Snail</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Zoznamy</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Skladačka</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' je tvoja momentálna vodorovná pozícia. Použi blok na pohyb jedným smerom, ak 'x' je menej ako číslo, alebo iným smerom, ak je to inak.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>nohy:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Bee</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Otvoriť galériu filmov.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Blahoželáme!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Hry Blockly</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Zmení farbu pera.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>tučné</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Nakresli si čokoľvek. Pribudlo mnoho nových blokov, ktoré môžeš preskúmať. Bav sa!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>opakuj kým nebude</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Slučky</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Poslať do galérie</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Ďakujeme Vám za tento program! Ak sa našim cvičeným opičkám (zamestnancom) bude páčiť, uverejnia ho v galérii v priebehu niekoľkých dní.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>Matematický vzorec pre ruku je zložitý. Tu je odpoveď:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Ak už raz začnete písať JavaScript, nemôžete sa vrátiť k úprave blokov. Je to v poriadku?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Použi blok Ak na nakreslenie malej hlavy pre prvú polovicu filmu. Potom nakresly veľkú hlavu pre druhú časť filmu.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>zvoliť...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>štart y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Blok 'čas' počíta od 0 do 100. Tentoraz chceš, aby vodorovná poloha druhej ruky začala na 100 a znížila sa na 0. Dokážeš prísť na jednoduchý matematický vzorec, ktorý dokáže zmeniť smer?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Nacvičiť si Rybník</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>360 bielych čiar bude pripomínať mesiac v splne.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Tvoj program neprešiel cez bludisko. Stlač "Obnoviť" a skús to znova.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>prvá časť</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Dokumentácia</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>ukázať korytnačku</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Pohybuj sa v smere uhla. 0 je vpravo, \n90 je nahor atď. </target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>kurzíva</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Spusti svoj program a uvidíš, čo sa stane.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Nastaví písmo, ktoré používa tlačový dielec.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>nastav farbu na</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Film</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x a y označujú pozíciu vtáka. Keď x = 0, \nvták je blízko ľavého okraja, keď x = 100, \nje blízko pravého okraja. Keď y = 100, je \nnavrchu. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Zahrá jednu notu so špecifikovanou dĺžkou a výškou.</target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Tvoje riešenie pracuje, ale môže byť ešte lepšie.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Vytvor program, ktorý kreslí štvorec.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Zmeň svoj program tak, aby namiesto štvorca nakreslil päťuholník.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Namiesto jednej hviezdičky nakresli štyri, usporiadné do štvorca.</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>nemá červa</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Nakresli hviezdy, a potom štyri biele čiary.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Duck</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Ak pridáš ešte čierny kruh, z mesiaca sa stane polmesiac.</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Zmeniť hrúbku pera.</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matematika</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Tento protivník je mimo dosahu kanóna (ktorý má limit 70 metrov). Namiesto streľby použi príkaz "swim", plávaj smerom k protivníkovi a nabúraj doň.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

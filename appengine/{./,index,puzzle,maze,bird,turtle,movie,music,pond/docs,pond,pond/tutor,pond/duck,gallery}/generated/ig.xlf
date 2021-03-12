@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="ig">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Ọnụnọ</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>ma ọ bụrụ ụzọ n'ihu</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>ndepụta</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>wedata mkpịsị ode akwụkwọ</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Akpụ</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Aji</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Na-ese otu rektangụ na ebe a kapịrị ọnụ yana \nsite n'obosara na ogo a kapịrị ọnụ. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Ọdọ mmiri</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Dee ederede anọ mbu nke 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Azụ</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>laa n’azụ site</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Enwere ngọngọ ọhụrụ nke na-enye gị ohere ịgbanwe agba:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>See kpakpando n’acha odo.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Ọkwa a chọrọ ngọngọ ma 'ọzọ ma ọ bụrụ' na ngọngọ 'ọzọ’.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Ngọngọ 'ma ọ bụrụ na' ga-eme ihe naanị ma ọ bụrụ na ọnọdụ ahụ bụ eziokwu. Gbalịa tụgharịa aka ekpe ma ọ bụrụ na e nwere ụzọ gara n'aka ekpe.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>ndị egwu</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>megharịa</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>I jịrịla ngọngọ niile dị maka ogo a. Iji mepụta ngọngọ ọhụrụ, ị ga-ebu ụzọ wepụ ihe ngọngọ dị ugbu a.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Na-atụgharị onye egwuregwu ahụ aka ekpe ma ọ bụ \naka nri site ogo 90. </target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Pịa akara ngosi iji gbanwee ngọngọ 'ma ọ bụrụ na'.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Pendụlom</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>nhata akara ihe ederede</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Tọgharịa</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Na-eme ka onye egwuregwu ahụ mee ihe ngọngọ ahụ \nna-ekwu. </target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>Ngọngọ MA bụ eziokwu naanị ma ọ bụrụ na ntinye ya abụọ bụ eziokwu.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Otụ ederede (C4 bụ 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>vaiolin</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>tụgharịa aka nri</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Mee ka ụkwụ ahụ kwụgharịa ụzọ ọkara ụzọ site na ihe nkiri ahụ.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Ịchọrọ ịmalite n’isi?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Dọrọ otu ngọngọ 'ọzọ' na-etinye n'ime ngọngọ 'ma ọ bụrụ'.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>ederede</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Kpochapụ ihe ngwọta gị niile?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Dee ihe ọ bụla ị chọrọ. Ị nwere nnukwu ngọngọ ọhụrụ ị nwere ike ịchọpụta. Nwee anụrị!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>jịta</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Maka anụ ọ bụla (akwụkwọ ndụ), tinye foto ya, họrọ ọnụọgụ ụkwụ ya, ma mee ịkọkọta àgwà ya.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>àgwà:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Na-eche maka oge a kapịrị ọnụ. </target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Jiri iwu 'egbe ọkụ' kụọ ebumnuche. Nkebi nke mbụ bụ akuku ahụ, nkebi nke abụọ bụ ókè. Chọta ezi nchikota.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Nyefee eserese gị na Galeri.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>'Ọrụ' na-enye gị ohere ichikota otύ ngọngọ ihe, wee mee ya ha ihe karịrị otu ugboro.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Ee kwesịrị ịkụ ebumnuche a ọtụtụ ugboro. Jiri 'mgbe (ezịokwụ)' gburugburu iji ime ihe ruo mgbe ebighị ebi.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Onye iro a dịkwa oke anya iji egbe ọkụ ahụ. Mana ịsighi ike ịlanarị nkukota. Gwuo ga n'akụkụ onye iro ahụ mgbe ebe akara gị dị ala karịa 50. Mgbe ahụ, 'kwụsị' ma jiri egbe ọkụ ahụ.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Gbaa egbe ọkụ ahụ. Kọwaa ntụziaka ụzọ nke \n(0-360) na renji (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Nkwádo</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Onye iro a ga-apụ mgbe a kụrụ ya. Gwuru mmiri ga n'akụkụ ya ma ọ bụrụ na ọ dị n’ókè n’erụghị (mita 70).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Lọgịk</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Jenetiks</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Weghachite ahụike nke onye egwuregwu ahụ (0 bụ \nonye nwụrụ anwụ, 100 dị ike). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Nnụnụ</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Ozi ndị ọzọ...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Agbanwe</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Bịdo Ụsoro Ihe Omume</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Zuru okè! Ihe %1 ngọngọ niile bu ihe ziri ezi.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>See kpakpando odo odo atọ, na otu akara ọcha.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 ngọngọ ezighi ezi.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Na-ede ederede na ntuziaka nke mbe na ebe ọ nọọ.</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Rịgọrịgọ</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Nyefee na Galeri</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>ghazịe agba na</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Ihe ngwọta gị na-arụ ọrụ, ma i nwere ike ime nke ọma karịa. Jiri 'Nyocha' iji kọọrọ egbe ọkụ ahụ ókè ọ ga agbaa.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Weghachite njikwa X nke onye egwuregwu (0 bụ aka \nekpe, 100 bụ ihu aka nri). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Weghachitere oge ugbu a na mmegharị (0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>piano</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>ọzọ</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Ókè nke a bụ kpọmkwem ihe iwu kwesịrị 'egbe ọkụ' iji gba ọkụ n'ụzọ ziri ezi.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Onye iro a na-aga n'ihu ma na-azụ, na-eme ka ọ sie ike ịkụ. Nziputa 'nchoputa' weghachiri ókè kmpomkwem nye onye iro na ntughari aka akapịrị ọnụ.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Na-eme ka ọnye egwuregwu ahụ gaa n'ihu otu ohere.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Mgbochi ọhụrụ a na-agbakwụnye oge nkwụsị di jụụ.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Ndo, '%1' ekwenyeghị na usoro ihe omume ihe ọ bụla e chedoro.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Kwụsị igwu mmiri. Ndị na-egwu egwu ga-akwụsị na \nnwayọ. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Na-eme ka mbe (gburugburu na akụ) pụta ihe ma ọ \nbụ zoo ezo. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Lee Galeri</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Enwere nsogbu na arịrịọ ahụ.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Bịdo ụsoro ihe omume gi ruo mgbe o kwusịrị. Mgbe ahụ i nwere ike nyefee egwu gị na galeri.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>rektangụ</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Ọ bụrụ na e nwere ụzọ na ntuziaka a kapịrị ọnụ, \nmezie omume ngọngọ mbu. Ma ọ bụghị ya, mee omume \nngọngọ nke abụọ. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Nyefee egwu gị na Galeri.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Nyocha Azịza</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>See gburugburu na-agbasawanye na azụ onye ahụ.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>bipụta</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>Mepụta ngọngọ nke abụọ nke nwere ngọngọ oge nkwụsị abuo, mgbe ahụ, kpọkwụọ 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Egwu</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Nyocha maka ndị iro. Kọwaa ntụziaka ụzọ nke \n(0-360). Weghachiri ntoanya n'ebe onye iro \nkachasị nso nọ na ntụziaka ahụ. \nWeghachite oge ebighi ebi ma oburu na enweghi \nonye iro. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Ngọngọ mmalite ọ bụla ga-akpọ 'Frère Jacques' ugbo abụọ.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Mepụta ngọngọ anọ nke na-akpọ 'Frère Jacques' ugboro abụọ. Tinye ọnụ ọgụgụ ziri ezi nke oge mkpọchi.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Ọ bụrụ na e nwere ụzọ na ntuziaka a kapịrị ọnụ, \nmezie ụfọdụ omume. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Mepụta ọrụ nke atọ maka akụkụ sochirinụ nke 'Frère Jacques'. Ntughari akwukwo nke mbu dị mkpumkpu.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Dezue ụda nke 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>ụda</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Weghachite njikwa Y nke onye egwuregwu (0 bụ ọnụ \nala, 100 bụ ọnụ elu). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Tinyegharịa ihe omume ahụ mechiri ruo mgbe ọ \ngwụchara. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Kwụsị ihe omume ahụ ma tọgharịa ogo.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Mepụta ọrụ nke abụọ maka akụkụ sochirinụ nke 'Frère Jacques'. Ederede ikpeazụ dị ogologo.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Ọnọdụ mgbe nnunu ahụ enwetabeghị ikpuru.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Bịdo ụsoro ihe omume gi ruo mgbe o kwusiri. Mgbe ahụ ị nwere ike ịdebe ihe eserese gị na ihe onyinyo galeri ahụ.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Ị nwere ike itinye ihe karịrị otu ngọngọ n'ime mkpọchi ngọngọ 'megharịa'.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Agba</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Ngọngọ ma ọ bụrụ - ọzọ ga-eme otu ihe ma ọ bụ nke ọzọ.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Jiri bọtịnụ "Lee Galeri" iji hụ ihe ndị ọzọ dere. Ọ bụrụ na ị dee ihe na-adọrọ mmasị, jiri bọtịnụ "Nyefee na Galeri" iji bipụta ya.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Jiri ihe ị mụtara na ogo gara aga mee ka ụkwụ na-agafe.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Jịrị ihe njikọ a kesaa ngọngọ gị: %1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Ihe ngwọta gị na-arụ ọrụ, ma i nwere ike ime nke ọma karịa. Jiri ọrụ iji belata ọnụọgụ koodu ugboro ugboro.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Zọpụta ma jikọta ngọngọ.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Jiri naanị ngọngọ abụọ ga na njedebe nke ụzọ a. Jiri 'megharịa' iji gbaa ihe ngọngọ karịa otu ugboro.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>zoo mbe</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Na ogo a, ịkwesịrị ịkọkọta ngọngọ niile na ndebanye ọrụ ọcha.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>gaa n'ihu</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Ogo a na ara oké ahụ. Ọ ga-amasị gị ịwụ ya ma gaa na egwuregwu ọzọ? Ị nwere ike ịlaghachi mgbe e mesịrị.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Ebumnuche</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Jiri odidi di mfe iji see onye a.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>Na-eme ngọngọ dị n'ime mgbe a pịrị bọtịnụ 'Bido \nIhe omume’. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Jiri nani ngọngọ anọ see kpakpando ahu.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Jiri nani ngọngọ atọ see ihe odidi ahu.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>tụgharị aka nrị site</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Ọnụ</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Nku</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>mechịe y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Họrọ onye egwuregwu kachasị amasị gị site na nghọrọ a.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>See obere kpakpando n’acha odo, wee see akara n'elu ya.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Bugharia gburugburu dị n’azụ ga n’elu usoro ihe omume gi. Mgbe ahụ, ọ ga-apụta n'azụ onye ahụ.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Ọrụ</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>mgbe %1 a pịrị</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Tinyeghachi onye egwuregwu ahụ azụ na mmalite \nnke rịgọrịgọ. </target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Na-ese otu akara site n'otu ebe gaa na nke ọzọ \nnke n'obosara a kapịrị ọnụ. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>akara</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Jiri bọtịnụ "Lee Galeri" iji hụ ihe ndị ọzọ dere. Ọ bụrụ na ị dee ihe na-adọrọ mmasị, jiri bọtịnụ "Nyefee na Galeri" iji bipụta ya.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Na-ese gburugburu na ebe a kapịrị ọnụ na site na \nredios a kapịrị ọnụ. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Nye onye ahụ aka abụọ.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>obosara</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>akara ihe ederede</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Weghachite ọsọ ngwangwa nke onye egwuregwu ahụ \n(0 bụ kwụsịrị, 100 bụ ngwangwa zuru oke). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>tụgharị aka ekpe site</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Bịdo ụsoro ihe omume i dere.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Hichapụ data</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>ịgba</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Lee galeri eserese.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>gburugburu</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Mee ihe nkiri maka ihe ọ bụla ị chọrọ. Ị nwere nnukwu ngọngọ ọhụrụ ị nwere ike ịchọpụta. Nwee anụrị!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Ihe nkiri gị adịghị agagharị. Jiri ngọngọ iji mee ihe na-adọrọ mmasị. Mgbe ahụ ị nwere ike ịnyefee ihe nkiri gị na galeri.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Ngọngọ</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Na-atụgharị mbe aka nrị ma ọ bụ aka ekpe site na \nogo ọnụ ọgụgụ a kapịrị ọnụ. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>Ọ DỊ MMA</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Mbe</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Na-ebugharị mbe n’ihụ ma ọ bụ azụ site na ọnụ \nọgụgụ a kapịrị ọnụ. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Jiri ngọngọ a gaa n'otu isiokwu ma ọ bụrụ na ị nwere ikpuru, ma ọ bụ isiokwu dị iche ma ọ bụrụ na i nweghị ikpuru.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Ị rụtara ogo a site na akara 1 nke JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Ị rụtara ogo a site na akara %1 nke JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Welịte ma ọ bụ wedata mkpịsị ode akwụkwọ, \niji kwụsị ma ọ bụ malite ihe eserese. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Gosipụta ndekọ akwụkwọ asụsụ.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Nyefee ihe nkiri gị na galeri. </target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Gwuo n'ihu. Kọwaa ntụziaka ụzọ nke (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Ị dị njikere maka nsogbu ọzọ?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Ogo a bụ ihe nkiri. Ịchọrọ ka ogwe aka onye ahụ gafee ihuenyo ahụ. Pịa bọtịnụ mbido iji hụ ọkwa.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Nke a bụ ngọngọ ọhụrụ nke na-enye gị ohere ibuli mkpịsị ode akwụkwọ gị na akwụkwọ ahụ mgbe ị na-agagharị:</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Onye iro a dị nnọọ anya iji egbe ọkụ ahụ (nke nwere oke nke mita 70). Kama nke ahụ, jiri iwu 'igwu mmiri' mee ka ị malite igwu mmiri ga n'akụkụ onye iro ahụ ma daba na ya.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Aha</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>mechịe x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Ka ihe nkiri ahụ na-akpọ, akara nke 'oge' ngọngọ na-agụnye site na 0 ruo 100. Ebe ọ bụ na ịchọrọ ọnọdụ 'y' nke ogwe aka ịmalite na 0 ma gaa 100 nke a kwesịrị ịdị mfe.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Ị dị njikere maka ọkwa %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Jiri bọtịnụ "Lee Galeri" iji hụ ihe ndị ọzọ dere. Ọ bụrụ na ị dee ihe na-adọrọ mmasị, jiri bọtịnụ "Nyefee na Galeri" iji bipụta ya.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Hapụ̀</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Enweghị ike ịbụpụta faịlụ echekwara gị. Ikekwe e mepụtara ya na ụdị Blockly dị iche?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>kwụsị %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>isi</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Ị nwere ihe ngọngọ %1 fọrọ.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Ị nwere ihe ngọngọ %0 fọrọ.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Ị nwere ihe ngọngọ %2 fọrọ.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Egwuregwu maka onye n’ede koodu nke echi.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>ogo</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>ma ọ bụrụ ụzọ aka nri</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>ma ọ bụrụ ụzọ aka ekpe</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Họrọ otu ụdị iji hụ ngọngọ.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Onye egwuregwu</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Na-agbanwe agba nke mkpịsị ode akwụkwọ.</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Mepụta ọrụ iji kpọ egwu nke anọ mbụ 'Frère Jacques'. Mee ọrụ ugbo abụọ.  Etinyela ederede ngọngọ ọhụ ọ bụla.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>ghazịe obosara na</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Mmanụ aṅụ</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Kpọ egwu gị na violin.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Mgbochi ọhụrụ a na-ekwe gị ka ị gbanwee na ngwa egwu ọzọ.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Ọgba</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Ị nwere ike idozi nsogbu rịgọrịgọ a dị mgbagwoju anya? Gbalịa soro mgbidi aka ekpe. Ndị odee koodu dị elu naanị!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>welịte mkpịsị ode akwụkwọ</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Lee Galeri</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>tụgharịa aka ekpe</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>redios</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>gaa n'ihu site</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Gbanwee akụkụ isiokwu iji mee ka nnụnụ nweta ikpuru ma laa n'ime akwụ ya.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Mepee galeri egwu.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Eju</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Ihe fọrọ nke nta ka ọ bụrụ! Otu ngọngọ ezighi ezi.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>foto:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Ederede</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Ọbọgwụ</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Pusi</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Ańu</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>na nkịtị</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>opi</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Cat</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Onye na-agba ọsọ</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Lelee Galeri</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>kpọ %1 ederede %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Ihe nkesa ahụ egosiri ezighi ezi. Na-agbalị.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>malite x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Kọkọta ụfọdụ ngọngọ ‘na-aga n'ihu’ ọnụ iji nyere m aka iru ihe mgbaru ọsọ.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Nyefee na Galeri</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Pịa na %1 ngọngọ 'ma ọ bụrụ na' iji gbanwe ọnọdụ ya.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Snail</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Ndepụta</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Mgbagwoju anya</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>debe ngwá ọrụ na %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>Egwú ga-adaba ọfụma ma ọ bụrụ na i jiri ngwá ọrụ dị iche na mmalite ngọngọ ọ bụla.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' bụ ọnọdụ akara gị dị n’ala ugbu a. Jiri ngọngọ a gaa n'otu isiokwu ma ọ bụrụ na 'x' bụ ihe na-erughị nọmba, ma ọ bụ isiokwu dị iche ma ọ bụghị ya.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>ụkwụ:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Bee</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Mepee galeri nke ihe nkiri.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Ekele!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Egwuregwu Blockly</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Galeri</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Na-agbanwe agba nke mkpịsị ode akwụkwọ.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>okpokpo</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>See ihe ọ bụla ị chọrọ. Ị nwere nnukwu ngọngọ ọhụrụ ị nwere ike ịchọpụta. Nwee anụrị!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>megharịa ruo mgbe</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Meghachi</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Nyefee na Galeri</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Daalụ maka usoro ihe omume a! Ọ bụrụ na ọmasị ndị ọrụ anyị, ha ga-ebipụta ya na ihe oyiyi galeri n'ime ụbọchị ole na ole.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>Usoro mgbakọ na mwepụ maka ogwe aka na agbagwoju anya. Nke a bụ azịza ya:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Ozugbo ịmalitere nhazi ederede Javascript, ị nweghị ike ịlaghachi na nhazi ederede. Nke a ọ dị mma?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Jiri ngọngọ 'ma ọ bụrụ' iji see obere isi maka ọkara mbụ nke ihe nkiri ahụ. Mgbe ahụ, buru see isi ukwu maka ọkara nke abụọ nke ihe nkiri ahụ.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>họrọ...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>malite y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Ngọngọ 'oge' na esite na 0 ruo 100. Ma ugbu a, ịchọrọ ọnọdụ 'y' nke ogwe aka nke ọzọ ịmalite na 100 wee gaa 0. Ị nwere ike ịchọpụta usoro mgbakọ na mwepụ dị mfe nke na-atụgharị ntụziaka ahụ?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Onye nkụzị Ọdọ mmiri</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>Ịsee akara ọcha 360 ga - adị ka ọnwa zuru ezu.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Usoro ihe omume gi edozighi ihe rịgọrịgọ. Pịa 'Tọgharia' ma gbalịa ọzọ.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>nke mbụ</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Ndekọ akwụkwọ</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>gosị mbe</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Gaa na ntụziaka nke ebe a nyere: 0 dị n'aka nri, \n90 di na ogologo, wdg. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>banjo</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>ịtalik</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Bịdo ụsoro ihe omume gị iji hụ ihe ga emenu.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Hazịrị akara ihe edere nke ngọngọ mbipụta jiri.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>tinye agba na</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Ihe nkịrị</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x na y bụ akara ọnọdụ nnunu. Mgbe x = 0 nnụnụ dị \nnso n'akụkụ aka ekpe, mgbe x = 100 ọ dị nso \nn'akụkụ aka nri. Mgbe y = 0 nnụnụ dị na ala, mgbe \ny = 100 ọ dị n'elu. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Kpọ otu ederede egwu nke oge kapịrị ọnụ na oge \npitch. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Ihe ngwọta gị na-arụ ọrụ, ma i nwere ike ime nke ọma karịa.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Mepụta ihe omume nke na-ese skweya.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Gbanwee usoro ihe omume gị iji see pentagọn kama ịbụ skweya.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Kama otu kpakpando, ị nwere ike see kpakpando anọ n’ime skweya?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>enweghị ikpuru</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>See kpakpando ahụ, ma see akara ọcha anọ.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Duck</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Ị nwere ike igbakwunye nwa gburugburu ojii ka ọnwa wee ghọọ mpekere onwa?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Na-agbanwe obosara nke pen.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>Na-agbanyere ngwá ọrụ a kapịrị ọnụ mgbe ị \nna-akpọ nkeso ederede egwu. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Mgbakọ na mwepụ</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Na-echere otu ederede zuru ezu.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

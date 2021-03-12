@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="fa">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>خزیدن</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>اگر مسیر پیش رو</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>فهرست</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>قلم پایین</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>ریش</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>پوستین</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>در محل مشخص شده، یک مستطیل با عرض و ارتفاع مشخص \nشده می‌کشد. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>تالاب</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>پوسته</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>یک بلوک جدید وجود دارد که به شما اجازه می‌دهد تا رنگ را تغییر دهید:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>ترسیم یک ستاره زرد.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>یک بلوک «اگر» کاری انجام می‌دهد اگر شرایط صادق بود.  چرخش به چپ را آزمایش کنید اگر یک مسیر به چپ است.</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>انجام</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>شما همهٔ بلوک‌های این مرحله را استفاده کرده‌اید. برای ایجاد یک بلوک جدید، شما ابتدا نیازمند حذف یک بلوک موجود هستید.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>بازیکن ۹۰ درجه چپ یا راست می‌چرخاند.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>'اگر' مسدود شده‌اید برای تغییر بر روی آیکون کلیک کنید.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>آونگ</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>اندازهٔ قلم</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>از نو</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>می‌گذارد کاربر آنچه که بلوک‌ها می‌گوید را انجام \nدهد. </target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>انتقال به پشت تا</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>بپیچ به راست</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>می خواید از اول شروع کنید؟</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>بلاک 'else' را به داخل بلاک 'if' بکشید.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>متن</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>همه راه حل ها را از بین میبری؟</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>برای هر جانور (سبز)، در کنار تصویرشان، تعدادپاها را مشخص کنید و ویژگی‌های آن را مشخص کنید.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>ویژگی‌ها:</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>از دستور 'cannon' استفاده کنید تا هدف را بزنید. پارامتر اول زاویه و پارامتر دوم فاصله می‌باشد. ترکیب مناسب را پیدا کنید.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>هدف مورد نظر بایستی چندین بار مورد اصابت قرار گیرد. از یک حلقه‌ی 'while (true)' استفاده کنید تا یک عمل را به دفعات بینهایت انجام دهید.</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>راهنما</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>منطق</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>ژنتیک</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>پرنده</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>اطلاعات بیشتر...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>متغییرها</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>اجرای برنامه</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>عالی!
+هر %1 بلوک درست است.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 بلوک نادرست است.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>کشیدن متن در جهت لاک‌پشت و موقعیتش.</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>پیچ‌درپیچ</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>تنظیم رنگ به</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>اثر زخم</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>آنگاه</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>بازیکن را یک خانه جلو می‌برد.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://fa.wikipedia.org/wiki/%D9%82%D9%84%D9%85_%28%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87%29</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>شرمنده، «%1» با هیچ برنامهٔ ذخیره‌شده‌ای تطبیق پیدا نکرد.</target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>نمایش مستندات زبان مورد نظر</target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>(دایره و فلش) لاک‌کپشت را ظاهر یا پنهان می‌کند.</target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>نمایش نگارخانه</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>مشکلی با درخواست وجود داشت.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>مستطیل</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>اگر مسیری در جهت مشخص‌شده وجود دارد، اول اولین \nبلوک کارها را انجام بده. در غیر اینصورت بلوک دوم \nکارها را انجام بده. </target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>بررسی پاسخ</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>چاپ</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>آهنگ</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>اگر مسیری در یک جهت وجود دارد، پس کارهایی انجام \nبده. </target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>مختصات Y بازیکن را برمی‌گرداند ( 0 لبه‌ی پایینی، \nو 100 لبه‌ی بالایی می‌باشد). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>کارهای محصور را تا رسیدن به نقطهٔ پایان تکرار کن.</target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>توقف برنامه و بازنشانی مرحله</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>شرط زمانی که پرنده کرم را نگرفته است.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>شما می‌توانید بیشتر از بلوک را در بلوک «تکرار» جای دهید.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>رنگ</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>بلوک‌ها اگر-آنگاه یک کار را انجام می‌دهند یا یک کار دیگر.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>اشتراک‌گذاری بلاک‌هایتان با این پیوند:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>ذخیره و پیوند به بلوک‌ها.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>رسیدن به انتهای مسیر با فقط دو بلوک. استفاده از «دوباره» برای اجرای یک بلوک بیشتر از یکی.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>پنهان کردن لاک‌‌پشت</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>در این مرجله، شما نیازمند قرار دادن همهٔ بلوک‌ها در فضای کار سفید هستید.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>حرکت رو به جلو</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>این سطح از بازی بسیار سخت می‌باشد. آیا مایل هستید تا آن را رد کرده و به مرحله‌ی بعد بروید؟‌ بعدا می‌توانید به این مرحله بازگردید.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>هدف</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>از شکل های ساده برای کشیدن این شخص استفاده کنید.</target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>تنها با استفاده از چهار بلوک ستاره را بکشید.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>چرخش به راست به مقدار</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>منقار</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>پر و بال</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>پایان Y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>انتخاب بازیکن مجبوب شما از این منو.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>توابع</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>بازیکن را در اول شروع پیچ‌درپیچ قرار بده.</target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>خط</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>در محل مشخص شده، یک دایره با شعاع مشخص شده می‌کشد.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>عرض</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>قلم</target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>چرخش به چپ به مقدار</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>اجرا کردن برنامه‌ی نوشته شده</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>خالی کردن داده</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>راه حل شما درست است، اما می‌توانید بهتر از این هم کار کنید. از 'scan' استفاده کنید تا به توپ بگویید که در چه فاصله‌ای شلیک کند.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>دایره‌</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>بلوک‌ها</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>چرخاندن لاک پشت به چپ یا راست با عدد مشخص‌شدهٔ \nدرجه. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>تأیید</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>لاک‌پشت</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>لاک پشت را به مقدار مشخص‌شده جلو یا عقب منتقل \nمی‌کند. </target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>شما این مرحله را با یک خط کد جاوااسکریپت حل کردید:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>شما این مرحله را با %1 خط کد جاوااسکریپت حل کردید:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>پالا یا پایین‌بردن قلم، برای شروع یا پایان نقاشی.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>فیلم خود را در گالری ثبت کنید. </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>آیا تو آماده چالش بعدی هستی؟</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>عنوان:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>پایان X</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>آیا برای مرحله %1 آماده اید؟</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>لغو</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>نتوانست پروندهٔ ذخیرهٔ شما بارگیری شود.  احتمالاً با نسخهٔ متفاوتی از بلوکی درست شده‌است؟</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>عنوان</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>شما %1 بلوک مانده دارید.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>شما %0 بلوک باقی‌مانده دارید.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>شما %2 بلوک باقی‌مانده دارید.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>بازی‌هایی برای برنامه‌نویسان آینده</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>ارتفاع</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>اگر مسیر به سمت راست</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>اگر مسیر به سمت چپ</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>یک دسته‌بندی را انتخاب کنید تا بلوک‌ها را ببینید.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>بازیکن</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>رنگ قلم را تغییر می‌دهد.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>تنظیم پهنا به</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://fa.wikipedia.org/wiki/%DA%86%D8%A7%D9%BE_%28%D8%B5%D9%86%D8%B9%D8%AA%29</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>عسل</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>نیش حشرات</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>می‌توانید یک پیچ‌درپیچ پیچیده را جل کنید؟  از دیوار دست چپ استفاده کنید. برنامه‌نویسان حرفه‌ای فقط!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>قلم تا</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>نمایش نگارخانه</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>بپیچ به چپ</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>شعاع</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>انتقال به جلو تا</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>زاویه حرکت را تغییر دهید تا پرنده بتواند کرم را بگیرد و به آشیانه‌ی خود بازگردد.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>حلزون</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>تقریبا! یک بلوک نادرست است.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>تصویر:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>متن</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>مرغابی</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>گربه</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>زنبور عسل</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>عادی</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Cat</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>نمایش گالری</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>بلوک پررنگ شده درست نیست.
+مجددا تلاش کنید.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>شروع X</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>تعدادی از بلوک‌های «حرکت به جلو» را با هم در پشته قرار بده که به رسیدن من به هدف کمک کند.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>افزودن به نگارخانه</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>بر %1 در بلوک «اگر» کلیک کنید که شرایط را تغییر دهید.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Snail</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>فهرست‌ها</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>پازل</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>پاها:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Bee</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>گالری فیلم را باز کنید.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>تبریک می‌گوییم!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>بازی‌های بستن</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>گالری</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>رنگ قلم را تغییر دهید.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>پررنگ</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>تکرار تا</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>حلقه‌ها</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>افزودن به نگارخانه</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>یک بار که شما آغاز به ویرایش جاوااسکریپت می‌کنید، شما نمی‌توانید به ویرایش بلاک‌ها برگردید. آیا این موضوع را می‌پذیرید؟</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>انتخاب کنید...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>شروع Y</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>سرپرست تالاب</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>از یک نقطه تا یک نقطه‌ی دیگر، خطی با ضخامت مشخص \nشده می‌کشد. </target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>برنامهٔ شما پیچ‌درپیچ را حل نکرد.  «از نو» را فشار دهید و دوباره تلاش کنید.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>بخش اول</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>مستندات</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>نمایش لاک‌پشت</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>در جهت زاویه مورد نظر حرکت کنید:‌ صفر به سمت \nراست، ۹۰ مسیر مستقیم و به همین ترتیب باقی زوایا. </target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>کج</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>اجرای برنامهٔ شما برای دیدن اینکه چه رخ می‌دهد.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>اندازهٔ قلم استفاده شده توسط چاپ بلوک را مشخص \nمی‌کند. </target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>تنظیم رنگ به</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>فیلم</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x و y مکان پرنده را مشخص می‌کنند. \nهنگامی که x = 0 باشد، پرنده نزدیک \nلبه‌ی سمت چپ و هنگامی که x = 100 \nباشد، در نزدیکی لبه‌ی سمت راست \nمی‌باشد. هنگامی که y = 0 پرنده در \nپایین و هنگامی که y = 100 در بالای \nصفحه می‌باشد. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>راه حل شما کار کرد، اما می توانید بهترش کنید.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>برنامه‌ای ایجاد کنید که یک مربع بکشد.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>برنامه خود را تغییر دهید تا به جای مربع، یک پنج ضلعی بکشد.</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>کرم ندارد</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Duck</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>پهنای قلم را تغییر می‌دهد.</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>ریاضی</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

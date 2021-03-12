@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="ku-latn">
+    <body>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>lîste</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>Baş e</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Kusî</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Lîste</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>çap bike</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Jê bibe</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Pîroz be!</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Reng</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>sernivîs</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>nîveşkêl</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Bersivan kontrol bike</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Betal bike</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Mebest</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>nivîs</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>hilbijêre...</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Lîstikvan</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Alîkarî</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Belgekirin</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Binere Galerîye</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Çivîk</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>xwahr</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Here Programe</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>wêne:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Nivîs</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Mêş</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normal</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

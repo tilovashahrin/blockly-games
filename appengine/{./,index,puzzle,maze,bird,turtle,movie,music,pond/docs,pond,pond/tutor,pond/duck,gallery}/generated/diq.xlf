@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="diq">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Çılm</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>Eger ke verdı ray esta se</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>liste</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>qeleme rone</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Zımbêli</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Çerme</target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Golık</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Sıfteyên çehar notanê 'Frère Jacques'i bınusnê</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Qafık</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Reng vurnayışi rê mısade dayen yew bloko newe esto:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Yew astareyo zerd vıraze.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Na sewiya hem 'else if' hem zi bloqê 'else' lazımo</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>bıke</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Kaykeri çerğê raşti yana çepi keno.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Bloqê 'if' vurnayışi rê ikoni bıploğnê</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Pandul</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>çapa fonti</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Raçarne</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Yû note (C4 7 o).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>kemane</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>şo hetê raşti</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Qayılê ke fına suru bıkerê?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Bloqey 'else' kaşê bloqe 'if' kerê.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Hedef</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>nuşte</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Agozi pêro wa bıesteri yê?</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>gitar</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>xısusiyeti:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Hendê belıkerde muhleti paweno.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Nusenê ho bırışê galeriy</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Peşti</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Mentıq</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Genetiki</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Mirçıke</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Mısnayoğan rê melumat...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Vırneyeni</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Programi Akar fi</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Muhteşem!
+Bloga %1 pêro raşta.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 bloqi çewti</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Kaufinayoği seraniya labirenti de rone.</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>rengi eyar kerê</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Tersayo</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>piyano</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>eke çıniyo</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labirent</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>No bloko newe bêveng yew peyra manayış keno cı</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Melûlime, '%1' be qet yew programi ra yewbini nêgêno.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Asnawi verad. Kayker hêdêna vındeno </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Galeriye bıvêne</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>waştışi deyne zew problem esto</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>çargoşeyo tikın</target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Muzıkê ho bırışê galeri</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Netican kontrol ke</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>çap ke</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Muzik</target>
+      </trans-unit>
+      <trans-unit id="3616731507597101347" datatype="html">
+        <target>Konsolê browserê şıma rê yew numre çap keno.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Deyıra 'Frère Jacques' pêroy temam kerê</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>flute</target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Proğrami vındarnı u sewiyay reset ke.</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>honde peyser şo</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Reng</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Blokan na linkera bıhesrne
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Qeyd ke û be blokan ra gıre de.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>kesa bınımne</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>raver şo</target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Estarey teyna pê çehar blokana bınusê</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Şekıli teyna pê hirê blokana bınusê</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>hende şo hetê raşti</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Nıkıle</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Pûrti</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>peyniye y</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Fonksiyoni</target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>xete</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Kaykeri yu vengeg beno revey.</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>font</target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>hende şo hetê çepi</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Proğramo ke to nusnayo bıxebetne.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Melumati bestere</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>dawul</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Galeriya nusan akerê</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>çembere</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Kılitkerdışi</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>TEMAM</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Kesa</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>trompet</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Şıma ena sewiya be JavaScript ra 1 xete hal kerde:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Şıma ena sewiya be JavaScript ra %1 xete hal kerde:</target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Dokumananê zıwani bımocne</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Filmi bırışê galeriy</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Ravêr asnaw bıkerê. Yew het nışan ke (0-360) </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Mısabeqaya bahdoyêne rê şıma hazırê?</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>peyniye x</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Seba sewiya %1 rê şıma hazırê?</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Bıtexelne</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Dosyaya şımaya qeydbiyayiye bar nêbena. Beno ke be versiyonê Blocklyê bini ra vıraziya?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>wexto mende %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>sername</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>%1 bloqê şıma mendê</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>%0 bloqê şıma mendê</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>%2 bloqê şıma mendê</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Programwananê mesti rê kayi</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>berziye</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>Eger taşt dı ray esta se</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>Eger ke çepdı ray esta se</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>çapane</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Kayker</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Rengê qeleme vurneno.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>herayiye eyar kerê</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Hemgêni</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Melodiya ho pê kemaniya  bıcınê</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>No bloqo newe, yewna enstrumani ravêrneno</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Tire</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>qeleme berz ke</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Galeriye bıvêne</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>şo hetê çepi</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Galeriye rê bırışe</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>honde raver şo</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>koro</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Galeriya muzıki akerê</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Qarvelık</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Tay mend bı! Ju bloqe çewta</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>resım:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Metın</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Ordege</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Pısınge</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Mêsa hemgêni</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normal</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://diq.wikipedia.org/wiki/Pısınge</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>herayiye</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>%1 dem de %2 bılewne</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Pronyaye bloq çewta. Cerbnayışi rê dewam kerê</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>verêniye x</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Galeriye rê bırışe</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://diq.wikipedia.org/wiki/Qarvelık</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Listi</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Puzzle</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>şeqi:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://diq.wikipedia.org/wiki/Mêsa hemgêni</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Galeriya filman akerê</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Tebrik kem!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Kayê Blockly</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Galeriye</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>qalınd</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>hend tekrar ke</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Dingeki</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Galeriye rê bırışe</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Sername:</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>weçine...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>verêniye y</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Doleka musayışi</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>pareyo verên</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Dokumentasyon</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>kesa bımocne</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>İtalik</target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>banco</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>rengi eyar kerê</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Bere</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Galeriye bıvêne</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Çerdağ nusen yew program vıraze</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Heruna çerdağ seba phanckışt musayışi programi bıvurnê</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>Lolıki çıniyo</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://diq.wikipedia.org/wiki/Ordege</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Herayiya qeleme vurneno.</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matematik</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Hendê noti pêro paweno</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

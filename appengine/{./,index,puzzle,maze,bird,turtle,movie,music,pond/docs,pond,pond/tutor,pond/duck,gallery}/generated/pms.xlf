@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="pms">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Bava</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>se sënté dë dnans</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>lista</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>pogé la piuma</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Barbis</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Plissa</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>A dissegna un retàngol ant ël pòst ëspessificà e \ncon larghëssa e autëssa spessificà. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Baciass</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Ch'a compon-e le prime quatr nòte ëd 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Cuchija</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>andé andaré ëd</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Cost-sì a l'é un blòch neuv ch'a-j përmet ëd modifiché ël color:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Dissegné na stèila giàuna.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Ës livel a l'ha damanca sia d'un blòch 'si' che d'un blòch 'dësnò'.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Un blòch 'si' a farà cheicòs mach si la condission a l'é vera. Preuva a svolté a snistra s'a-i é na stra a snistra.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>còro</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>fé</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>It l'has consumà tuti ij blòch për cost livel. Për creé un blòch neuv, tl'has prima damanca dë scancelé un blòch esistent.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Fé volté ël giugador a snistra o a drita ëd 90 gré.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Sgnaché an sla plancia për modifiché ël blòch 'si'.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Pèndola</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>dimension dij caràter</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Buté torna coma al prinsipi</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>A fà fé al giugador lòn ch'a diso ij block.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>Ël blòch 'e' a l'é ver mach si soe doe part a son vere.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Un-a nòta (C4 a l'é 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>violin</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>voltesse a drita</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Ch'a fasa anvërtì la diression a le gambe a mità dël filmà.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Veul-lo ancaminé dal prinsipi?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Tiré un blòch 'dësnò' ant ël blòch 'si'.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>test</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Dëscancelé tute le soe solussion?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Ch'a compon-a lòn ch'a veul. A l'ha un nùmer ëstragròss ëd neuv blòch da esploré. Ch'as amusa!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>ghitara</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Për minca n'animal (an verd), tacheje soa plancia, serne ël nùmer ëd soe piòte, e fé na colòna ëd soe caraterìstiche.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>caraterìstiche:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>A spetà për la durà spessificà.</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Ch'a deuvra ël comand 'cannon' për colpì ël bërsaj. Ël prim paràmeter a l'é l'àngol, ël second a l'é la distansa. Ch'a treuva la bon-a combinassion.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Publiché sò dissegn ant la galarìa.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>Na 'fonsion' a-j përmet d'argropé ansem dij blòch, peui ëd feje andé pi che na vira.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Ës bërsaj a dev esse colpì vàire vire. Ch'a deuvra un sicl 'while (true)' për fé cheicòs indefinitivaman.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>ëdcò st'aversari-sì a l'é tròp leugn për dovré ël canon. Ma chiel a l'é tròp débol për dzorvive a n'antruch. Ch'a noa vers l'aversari fin-a a che soa posission orisontal a sia anferior a 50. Peui 'stop' e ch'a deuvra ël canon.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Sparé con ël canon. Spessifiché na diression \n(0-360) e na portà (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Giuté</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>S'aversari a së slontanërà cand a sarà colpì. Ch'a noa vers ëd chiel s'a l'é fòra portà (70 méter).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Lògica</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Genética</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>A rëspond con la salute atual dël giugador (0 a \nl'é mòrt, 100 a l'é an pien-a forma). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Osel</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Anformassion për j'educator...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Variàbij</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Fé andé ël programa</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Përfet! Tuti ij %1 blòch a son giust.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Dissegné tre stèile giàune, e na linia bianca.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 blòch a van nen bin.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>A dissegna ël test ant la diression dla bissa \ncopera a soa posission. </target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labirint</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Publiché ant la galarìa</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>buté ël color a</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Soa solussion a marcia, ma a peul fé mej. Ch'a deuvra 'scan' për dì al canon a che distansa tiré.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>A smon la coordinà X dël giugador (0 a l'é ël \nbòrd ësnistr, 100 a l'é ël bòrd drit). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>A rëspond con la durà atual dl'animassion (0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>piano</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>opura</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Sa distansa a l'é pròpe cola dont ël comand 'cannon' a l'ha damanca për tiré con precision.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>S'aversari a bogia anans e andré, lòn ch'a rend malfé colpilo. L'espression 'scan' a smon la distansa precisa da l'aversari ant la diression ëspessificà.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Fà andé ël giugador anans ëd në spassi.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Ës neuv blòch a gionta un temp ëd silensi.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>An dëspias, '%1 a corëspond a gnun programa salvà.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Chité ëd noé. Ël giugador a ralentrà për \nfërmesse. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>A rend la bissa copera (sercc e flecia) visìbil \no invisìbil. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Vëdde la galarìa</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>A-i é staje un problema con l'arcesta.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Fé marcé sò programa fin-a ch'as fërma. Peui a peul publiché soa mùsica ant la galarìa.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>retàngol</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>S'a-i é na stra ant la diression ëspessificà, \nantlora fa ël prim blòch d'assion. \nDësnò, fà ël second blòch d'assion. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Publiché soa mùsica ant la galarìa.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Contròla le rispòste</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Ch'a dissegna un sercc ch'a së slarga darera la përson-a.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>scrive</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>Ch'a crea un second blòch ch'a l'ha doi blòch ëd silensi, peui a son-a ëdcò 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Mùsica</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Sërché dij nemis. Spessifiché na diression \n(0-360). A rëspond con la distansa dal nemis \npi davzin an cola diression. A rëspond Infinì \ns'a treuva gnun nemis. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Minca 'n blòch ëd partensa a dev soné 'Frère Jacques' doe vire.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Ch'a crea quatr blòch ëd partensa ch'a son-o mincadun 'Frère Jacques' doe vire. Ch'a gionta ël nùmer giust ëd blòch ëd silensi.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>S'a-i é na stra ant la diression ëspessificà, \nantlora fa chèiche assion. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Ch'a crea na tersa fonsion për la part ch'a-i ven apress ëd 'Frère Jacques'. Le prime quatr nòte a son pi curte.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Ch'a completa tuta l'aria ëd 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>fluta</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>A smon la coordinà Y dël giugador (0 a l'é ël \nbass, 100 a l'é l'àut). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Arpet j'assion contnùe fin-a a argionze ël pont \nfinal. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Fërmé ël programa e inissialisé torna ël livel.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Ch'a crea na sconda fonsion për la part apress ëd 'Frère Jacques'. L'ùltima nòta a l'é pi longa.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>La condission ëd cand l'osel a l'ha nen ciapà ël \nverm. </target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Fé marcé sò programa fin-a che as fërma. Peui a peul publiché sò dissegn ant la galarìa.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>A peul buté pi d'un blòch andrinta a 'n blòch «arpete».</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Color</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Un blòch si-opura a farà na còsa u l'àutra.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Ch'a deuvra ël boton "Vëdde la galarìa" për vëdde lòn che j'àutri a l'han componù. S'a compon cheicòs d'anteressant, ch'a deuvra ël boton "Publiché ant la galarìa" për publichelo.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Ch'a deuvra lòn ch'a l'ha amprendù al livel precedent për fé dle gambe ch'a traverso.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Ch'a partagia ij sò blòch grassie a sta liura: %1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Soa solussion a marcia, ma a peul fé mej. Ch'a deuvra dle fonsion për diminuì la quatità ëd còdes arpetù.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Argistré e lijé ai blòch.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>J'ordinator a l'han na memòria limità. Riva a la fin ëd sa stra dovrand mach doi blòch. Deuvra 'arpet' për eseguì un blòch pi 'd na vira.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>stërmé la bissa copera</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>An cost livel, it deve ambaroné ij blòch un ansima a l'àutr ant la zòna ëd travaj bianca.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>andé drit</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Ës livel a l'é motobin difìcil. Veul-lo autelo e passer al gieugh apress? A peul sempe torné andré pi tard.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Bërsaj</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Dovré dle forme sempie për dissegné costa përson-a.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>A fa marcé ij blòch andrinta cand a së sgnaca ël \nboton 'Fé parte ël programa'. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Dissegné la stèila con mach quatr blòch.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Dissegné la forma con mach tre blòch.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>voltesse a drita ëd</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Bech</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Piume</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>y ëd fin</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Ch'a serna sò giugador preferì da së mnù.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Dissegné na stèila giàuna, peui na linia dëdzora 'd chila.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Ch'a spòsta ël sercc dë sfond an cò a sò programa. Antlora a comparirà darera la përson-a.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Fonsion</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>cand %1 a l'é sgnacà</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Buta torna ël giugador al prinsipi dël labirint.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>A dissegna na linia da 'n pont a n'àutr con la \nlarghëssa spessificà. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>linia</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Ch'a deuvra ël boton "Vëdde la galarìa" për vëdde j'animassion fàite da d'àutra gent. S'a l'ha creà n'animassion anteressanta, ch'a deuvra ël boton "Publiché ant la galarìa" për publichela.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>A dissegna un sercc al pòst ëspessificà e ëd raj \nspessificà. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Ch'a-j buta doe man a la përson-a.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>larghëssa</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>caràter</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>A smon l'andi atual dël giugador (0 a l'é ferm, \n100 a l'é a andi pien). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>voltesse a snistra ëd</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Fé andé ël programa ch'a l'ha scrivù.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Dëscancelé ij dàit</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>tamborn</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Duverté la galarìa dij dissegn.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>sercc</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Ch'a fasa n'animassion ëd lòn ch'a veul. A l'ha na caterva ëd neuv blòch da esploré. Ch'as amusa!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Soa animassiona bogia nen. Dovré ij blòch për fé cheicòs d'anteressant. Peui a peul publiché soa animassion ant la galarìa.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Blòch</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>A fà volté la bissa copera a snistra o a drita \ndël nùmer ëd gré spessificà. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>Va bin</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Bissa copera</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>A bogia la bissa copera anans o andré dla \nquantità spessificà. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Dovré 's blòch për andé an na diression si chiel a l'ha ël verm, e an n'àutra s'a-l l'ha pa.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>A l'ha arzolvù 's livel con 1 linia ëd JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>A l'ha arzolvù 's livel con %1 linie ëd JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>A àussa o a sbassa la piuma, për chité o \nancaminé a dissegné. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>A smon la documentassion an sla lenga.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Publiché soa animassion ant la galarìa.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Noé. Spessifiché na diression (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>É-lo pront për n'àutra dësfida?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Ës livel a l'é n'animassion. Chiel a veul fé bogé ël brass ëd la përson-a a travers dlë scren. Ch'a sgnaca an sël boton ëd gieugh për na previsualisassion.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Cost-sì a l'é un blòch neuv ch'a-j përmet d'aussé sò crajon dal feuj cand a së spòsta:</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>St'aversari a l'é tròp leugn për dovré ël canon (ch'a l'ha na limitassion dë 70 méter). Al pòst, ch'a deuvra ël comand 'swim' për ancaminé a noé vers l'aversari e colpilo.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Tìtol:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>x ëd fin</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Antant che l'animassion as dësrola, ël valor dël blòch 'temp' a va anans da 0 a 100. Dagià che chiel a veul che la posission 'y' dël brass a parta da 0 e a vada fin-a a 100, sòn a dovrìa esse belfé.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>É-lo pront për ël livel %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Ch'a deuvra ël boton "Vëdde la galarìa" për vëdde lòn che j'àutri a l'han dissegnà. S'a dissegna cheicòs d'anteressant, ch'a deuvra ël boton "Publiché ant la galarìa" për publichelo.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Anulé</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>A l'é nen podusse carié so archivi salvà. Miraco a l'é stàit creà con na version diferenta ëd Blockly?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>speté %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>diression</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>At resta %1 blòch.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>At resto %0 blòch.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>At resto %2 blòch.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Gieugh për ij programator ëd doman.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>autëssa</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>se sënté a drita</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>se sënté a snistra</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Serne na categorìa për vëdde ij blòch.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Giugador</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>A cangia ël color ëd la piuma. </target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Ch'a crea na fonsion për soné le prime quatr nòte ëd 'Frère Jacques'. Ch'a fasa parte sta fonsion doe vire. Ch'a gionta gnun àutr blòch ëd nòte.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>buté la larghëssa a</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Amel</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Soné soa aria con un violin.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Ës neuv blòch a-j përmet ëd passé a n'àutr ëstrument.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Savuj</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Peulës-to arzòlve cost labirint complicà? Sërca d'andeje dapress a la muraja a snistra. Mach për programator coj barbis!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>aussé la piuma</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Vëdde la Galarìa</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>voltesse a snistra</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>raj</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>andé drit ëd</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Modifiché l'àngol dla diression për fé an manera che l'osel a ciapa ël verm e a atera an sò ni.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Duverté la galarìa ëd mùsica.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Lumassa</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Scasi! Un blòch a va nen bin.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>plancia:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Test</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Ania</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Gat</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Avija</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normal</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>tromba</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://pms.wikipedia.org/wiki/Gat</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Sbaruvà</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Vëdde la galarìa</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>soné %1 nòta %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Ël blòch evidensià a va nen bin. Preuva torna.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>x ëd partensa</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Ambaron-a un pàira ëd blòch 'va anans' për giuteme a argionze me but.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Publiché ant la Galarìa</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Sgnaca su %1 ant ël blòch 'si' për cangé soa condission.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Snail</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Liste</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>S-ciapatesta</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>fissé lë strument a %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>La mùsica a vnirà mej s'a deuvra në strument diferent an minca 'n blòch ëd partensa.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' e a l'é soa posission orisontal atual. Dovré 's blòch për andé an na diression si 'x' a l'é pi ci che 'n nùmer, dësnò an n'àutra diression.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>gambe:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://pms.wikipedia.org/wiki/Avija</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Duverté la galarìa dj'animassion.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Compliment!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Gieugh ëd Blockly</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Galarìa</target>
+      </trans-unit>
+      <trans-unit id="3616731507597101347" datatype="html">
+        <target>A stampa un nùmer an sël cruscòt ëd sò navigador.</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>A cangia ël color dël crajon.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>grassèt</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Ch'a dissegna lòn ch'a veul. A l'ha 'n baron ëd blòch neuv da esploré. Ch'as amusa!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>arpete fin-a a</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Liasse</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Publiché an sla galarìa</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Mersì për ës programa! S'a-j pias a nòstra echip ëd sumie anlenà, a lo publichëran da si dontré di.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>La fórmola matemàtica për ël brass a l'é complica. Costa a l'é la rispòsta:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Na vira ch'a l'avrà ancaminà a modifiché ël JavaScript, a podrà pi nen torné a la modìfica dij blòch. A va bin?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Ch'a deuvra ël blòch 'si' për dissegné na cita testa për la prima mità dël filmà. Peui ch'a dissegna na gròssa testa për la sconda mità dël filmà.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>sern...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>y ëd partensa</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>ël blòch 'temp' a va da 0 a 100. Ma adess chiel a veul che la posission 'y' ëd l'àutr brass a parta da 100 e a vada fin-a a 0. Peul-lo trové na fórmola matemàtica sempia ch'a anverta la diression?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Magìster ëd Pond</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>Dissegné 360 linie bianche ch'a smijo a na lun-a pien-a.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Tò programa a l'ha nen arzolvù ël labirint. Sgnaca 'Buté torna coma al prinsipi' e preuva torna.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>prima part</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Documentassion</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>mostré la bissa copera</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Bogé ant la diression ëd n'àngol dàit: 0 a l'é a \ndrita, 90 drit an facia, e via fòrt. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>bangio</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>corsiv</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Fà marcé tò programa për vëdde lòn ch'a-i suced.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>A definiss ël caràter dovrà dal blòch dë scritura.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>buté ël color a</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Film</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x e y a marco la posission ëd l'osel. \nCand x = 0 l'osel a l'é tacà a la bordura \nsnistra, cand x = 100 a l'é tacà a la \nbordura drita. Cand y = 0 l'osel a l'é \nan bass, cand y = 100 a l'é an àut. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>A son-a mach un-a nòta musical ëd la durà e \nautëssa spessificà. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Soa solussion a marcia, ma a peul fé mej.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Creé un programa ch'a dissegna un quadrà.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Modifiché sòprograma për dissegné un pentàgon nopà che un quadrà.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Nopà che na stèila, peul-lo dissegné quatr ëstèile butà an quadrà?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>a l'ha gnun verm</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Dissegné je stèile, peui quatr linie bianche.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Duck</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Peul-lo gionté un sercc nèir për che la lun-a a dventa na lun-a chërsenta?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Modifiché la larghëssa dla piuma.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>A passa a lë strument ëspessificà an sonand le \nnòte musicaj ch'a ven-o apress. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matemàtica</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>A speta për na nòta antrega.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

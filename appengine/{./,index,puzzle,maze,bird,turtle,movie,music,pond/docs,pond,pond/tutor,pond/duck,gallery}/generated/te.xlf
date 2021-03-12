@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="te">
+    <body>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>క్షమించాలి, '% 1' ఏ భద్రపరచని కార్యానికి అనుగుణంగా లేదు.</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>జాబితా</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>అభ్యర్థనలో ఒక సమస్య ఉంది.</target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>కొలను</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>సరే</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>జాబితాలు</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>పసుపు నక్షత్రాన్ని గీయి</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>ముద్రించు</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>కాళ్ళు:</target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>మరుసటి సవాలుకు మీరు సిద్ధమా?</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>జాబితా నుండి మీ అభిమాన ఆటగాడిని ఎంచుకో</target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>కార్యక్రమాన్ని ఆపుచేయి మరియు స్థాయిని \nతిరిగిపొందుపర్చు </target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>ఖతి పరిమాణం</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>%1 స్థాయికి మీరు సిద్ధమా?</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>రంగు</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>రద్దు</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>కుడివైపు తిరుగు</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>జవాబులను సరిచూడు</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>అభినందనలు!</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>శీర్షిక</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>బొద్దు</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>పాఠ్యం</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>ముందుకు కదులు</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>ఎంచుకోండి...</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>చిత్రం</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>వాలు</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>సహాయం</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>తర్కం</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>తేనె</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>పక్షి</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>మరింత సమాచారం</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>చరరాశులు</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>ప్రమేయాలు</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>ఎడమకు తిరుగు</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>లూప్స్</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>ఖతి</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>బొమ్మ</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>పాఠ్యం</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>బాతు</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>పిల్లి</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>ఈగ</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>సాధారణం</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>గణితం</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

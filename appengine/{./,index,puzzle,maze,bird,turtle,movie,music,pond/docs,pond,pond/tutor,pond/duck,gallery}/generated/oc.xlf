@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="oc">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Bava</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>se camin davant</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>lista</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>pausar l'estilò</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Mostachas</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Forradura</target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Pond</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Clòsca</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Dessenha una estela jauna.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>An 'if' block will do something only if the condition is true. Try turning left if there is a path to the left.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>còr</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>far</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>You have used up all the blocks for this level. To create a new block, you first need to delete an existing block.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Fa virar sénher Pegman a esquèrra o a dreita de \n90 grases. </target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Pendula</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>talha de la poliça</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Reïnicializar</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Far far al jogaire çò que los blòts dison.</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>recuolar de</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>violon</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>vira a dreita</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Want to start over?</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>tèxte</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Delete all your solutions?</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>guitarra</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Per cada animal (en verd), estacar son imatge, causir son nombre de cambas, e far una pila de sos traits caracteristics.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>traits :</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Espèra la durada especificada. </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Ajuda</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Logic</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Genetica</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Bird</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Info for educators...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Variablas</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Executa lo programa</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Perfièit !  Totes los %1 blòts son corrèctes.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 blòts son incorrèctes.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Dessenha lo tèxte dins la direccion de la \ntortuga a son emplaçament. </target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Laberint</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>metre la color a</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>piano</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>siquenon</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Fa avançar sénher Pegman en avant d'un espaci.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>O planhèm, '%1' correspond pas a un fichièr Blockly salvament.</target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Rend la tortuga (cercle e flècha) visibla o pas.</target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Veire la galariá</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>I a agut un problèma amb la demanda.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>rectangle</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Se i a un camin dins la direccion especificada, \nalara fasètz lo premièr blòt d'accions. \nSiquenon fasètz lo segond blòt d'accions. </target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Verificatz las responsas</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>ecrire</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Musica</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Se i a un camin dins la direccion especificada, \nalara efectua aquelas accions. </target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>flaüta</target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Repetíse los blòts que son a l'interior fins a \naténher la tòca. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Stop the program and reset the level.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>The condition when the bird has not gotten the \nworm. </target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Podètz metre mai d’un blòt dins un blòt « repetir ».</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Color</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Un blòt 'Se-Siquenon' executa una causa o una autra.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Partejatz vòstres blòts gràcia a aqueste ligam :
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Salva e liga als blòts.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Los ordenadors an pas gaire de memòria. Utilizatz solament dos blòts per aténher la tòca. Utilizatz lo blòt 'repetís' per executar un blòt mai d'un còp.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>amagar la tortuga</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Dins aqueste nivèl, avètz besonh d'empilar los blòts los uns en dessús dels autres dins la zòna de trabalh blanca.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>avança</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>This level is extremely difficult. Would you like to skip it and go onto the next game? You can always come back later.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Cibla</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>virar a dreita de</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Bèc</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Plumas</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>y de fin</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Choose your favourite player from this menu.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Foncions</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Replaçar lo jogaire al començament del laberint.</target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>linha</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>largor</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>poliça</target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>virar a esquèrra de</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Run the program you wrote.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Escafar las donadas</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>tambor</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>cercle</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Blòts</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Far virar la tortuga a esquèrra o a dreita del \nnombre de grases indicat. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>D'acòrdi</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Tortuga</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Desplaça la tortuga en avant o en arrièr de la \nquantitat indicada. </target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>You solved this level with 1 line of JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>You solved this level with %1 lines of JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Levar o pausar l'estilò, per arrestar o començar \nde dessenhar. </target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Publicar vòstra animacion sus Reddit.</target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Are you ready for the next challenge?</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Title:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>x de fin</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Are you ready for level %1?</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Anullar</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Impossible de cargar lo fichièr de salvament.  Benlèu qu'es estat creat amb una autra version de Blockly ?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>esperar %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>heading</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Te demòra %1 blòt.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Te demòra %0 blòt.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Te demòran %2 blòts.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Games for tomorrow's programmers.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>nautor</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>se camin cap a dreita</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>se camin cap a esquèrra</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>rai</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Jogaire</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Modificar la color de l'estilò.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>metre la grossor a</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Mèl</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Fisson</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Can you solve this complicated maze? Try following the left-hand wall. Advanced programmers only!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>levar l'estilò</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Veire la galariá</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>vira a esquèrra</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>avançar de</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Change the heading angle to make the bird get the worm and land in her nest.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Cagaraula</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Gaireben !  Un blòt es incorrècte.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>imatge :</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Tèxte</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Guit</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Gat</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Abelha</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normal</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>trompeta</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://oc.wikipedia.org/wiki/Gat</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Veire la galariá</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>jogar %1 nòta %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Lo blòt en susbrilhança es incorrècte.  Tornatz ensajar.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>x de despart</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Empilar dos blòts d'instruccions 'avança' per m'ajudar a aténher ma tòca.</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Click on %1 in the 'if' block to change its condition.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://oc.wikipedia.org/wiki/Cagaraula</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Listas</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Puzzle</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>fixar l’instrument a %1</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>cambas :</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://oc.wikipedia.org/wiki/Abelha</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Felicitacions !</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blockly Games</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>gras</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>repetís fins a</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Boclas</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Publicar sus la galariá</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Thank you for this program!  If our staff of trained monkeys like it, they will publish it to the gallery within a couple of days.</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Once you start editing JavaScript, you can't go back to editing blocks. Is this OK?</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>causissètz...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>y de despart</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Tutorial de Pond</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Your program didn't solve the maze. Press 'Reset' and try again.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>primièra partida</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Documentacion</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>afichar la tortuga</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Move in the direction of the given angle: 0 is \nto the right, 90 is straight up, etc. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>banjo</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>italica</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Run your program to see what happens.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Definís la poliça utilizada pel blòt d’escritura.</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Filme</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x and y mark the bird's position. \nWhen x = 0 the bird is near the left \nedge, when x = 100 it's near the \nright edge. When y = 0 the bird is \nat the bottom, when y = 100 it's at \nthe top. </target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>does not have worm</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://oc.wikipedia.org/wiki/Guit</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Modificar la grossor de l'estilò.</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Math</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

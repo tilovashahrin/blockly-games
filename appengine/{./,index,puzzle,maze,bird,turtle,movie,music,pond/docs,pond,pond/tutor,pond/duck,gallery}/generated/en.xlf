@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="en">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Slime</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>if path ahead</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>list</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>pen down</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Whiskers</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Fur</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Draws a rectangle at the specified location and \nwith the specified width and height. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Pond</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Compose the first four notes of 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Shell</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>move backward by</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>There's a new block that allows you to change the colour:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Draw a yellow star.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>This level needs both an 'else if' and an 'else' block.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>An 'if' block will do something only if the condition is true. Try turning left if there is a path to the left.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>choir</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>do</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>You have used up all the blocks for this level. To create a new block, you first need to delete an existing block.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Turns the player left or right by 90 degrees.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Click the icon to modify the 'if' block.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Pendulum</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>font size</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Reset</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Makes the player do what the blocks say.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>The 'and' block is true only if both its inputs are true.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>One note (C4 is 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>violin</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>turn right</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Make the legs reverse direction half way through the movie.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Want to start over?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Drag an 'else' block into the 'if' block.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>text</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Delete all your solutions?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Compose anything you want. You've got a huge number of new blocks you can explore. Have fun!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>guitar</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>For each animal (green), attach its picture, choose its number of legs, and make a stack of its traits.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>traits:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Waits for the specified duration.</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Use the 'cannon' command to hit the target. The first parameter is the angle, the second parameter is the range. Find the right combination.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Submit your drawing to the gallery.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>A 'function' allows you to group blocks together, then run them more than once.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>This target needs to be hit many times. Use a 'while (true)' loop to do something indefinitely.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>This opponent is also too far away to use the cannon. But you are too weak to survive a collision. Swim towards the opponent while your horizontal location is less than than 50. Then 'stop' and use the cannon.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Fire the cannon. Specify a direction (0-360) and \na range (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Help</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>This opponent will move away when it is hit. Swim towards it if it is out of range (70 meters).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Logic</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Genetics</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Returns the player's current health (0 is dead, \n100 is healthy). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Bird</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Info for educators...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Variables</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Run Program</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Perfect!
+All %1 blocks are correct.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Draw three yellow stars, and one white line.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 blocks are incorrect.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Draws text in the turtle's direction at its \nlocation. </target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Maze</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Submit to Gallery</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>set colour to</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Your solution works, but you can do better. Use 'scan' to tell the cannon how far to shoot.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Returns the X coordinate of the player (0 is the \nleft edge, 100 is the right edge). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Returns the current time in the animation (0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>piano</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>else</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>This range is exactly what the 'cannon' command needs to fire accurately.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>This opponent moves back and forth, making it hard to hit. The 'scan' expression returns the exact range to the opponent in the specified direction.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Moves the player forward one space.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>This new block adds a silent delay.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Sorry, '%1' doesn't correspond with any saved program.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Stop swimming. Player will slow to a stop. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Makes the turtle (circle and arrow) visible or \ninvisible. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>See Gallery</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>There was a problem with the request.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Run your program until it stops. Then you may submit your music to the gallery.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>rectangle</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>If there is a path in the specified direction, \nthen do the first block of actions. \nOtherwise, do the second block of actions. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Submit your music to the gallery.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Check Answers</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Draw an expanding circle behind the person.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>print</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>Create a second start block that has two delay blocks, then also plays 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Music</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Scan for enemies. Specify a direction (0-360). \nReturns the distance to the closest enemy in that \ndirection. Returns Infinity if no enemy found. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Each start block should play 'Frère Jacques' twice.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Create four start blocks that each play 'Frère Jacques' twice. Add the correct number of delay blocks.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>If there is a path in the specified direction, \nthen do some actions. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Create a third function for the next part of 'Frère Jacques'. The first four notes are shorter.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Complete the full tune of 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>flute</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Returns the Y coordinate of the player (0 is the \nbottom edge, 100 is the top edge). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Repeat the enclosed actions until finish point \nis reached. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Stop the program and reset the level.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Create a second function for the next part of 'Frère Jacques'. The last note is longer.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>The condition when the bird has not gotten the \nworm. </target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Run your program until it stops. Then you may submit your drawing to the gallery.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>You can fit more than one block inside a 'repeat' block.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Colour</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>If-else blocks will do one thing or the other.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Use the 'See Gallery' button to see what other people have composed. If you compose something interesting, use the 'Submit to Gallery' button to publish it.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Use what you learned in the previous level to make legs that cross.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Share your blocks with this link:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Your solution works, but you can do better.  Use functions to reduce the amount of repeated code.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Save and link to blocks.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Reach the end of this path using only two blocks. Use 'repeat' to run a block more than once.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>hide turtle</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>On this level, you need to stack together all of the blocks in the white workspace.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>move forward</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>This level is extremely difficult. Would you like to skip it and go onto the next game? You can always come back later.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Target</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Use simple shapes to draw this person.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>Executes the blocks inside when the 'Run \nProgram' button is clicked. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Draw the star with just four blocks.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Draw the shape with just three blocks.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>turn right by</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Beak</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Feathers</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>end y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Choose your favourite player from this menu.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Draw a small yellow star, then draw a line above it.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Move the background circle to the top of your program.  Then it will appear behind the person.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Functions</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>when %1 clicked</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Put the player back at the start of the maze.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Draws a line from one point to another with the \nspecified width. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>line</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Use the 'See Gallery' button to see movies that other people have made. If you make an interesting movie, use the 'Submit to Gallery' button to publish it.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Draws a circle at the specified location and \nwith the specified radius. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Give the person a couple of hands.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>width</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>font</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Returns the current speed of the player (0 is \nstopped, 100 is full speed). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>turn left by</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Run the program you wrote.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Clear data</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>drum</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Open the gallery of drawings.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>circle</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Make a movie of anything you want. You've got a huge number of new blocks you can explore. Have fun!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Your movie doesn't move. Use blocks to make something interesting. Then you may submit your movie to the gallery.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Blocks</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Turns the turtle left or right by the specified \nnumber of degrees. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Turtle</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Moves the turtle forward or backward by the \nspecified amount. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Use this block to go in one heading if you have the worm, or a different heading if you don't have the worm.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>You solved this level with 1 line of JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>You solved this level with %1 lines of JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Lifts or lowers the pen, to stop or start drawing.</target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Display the language documentation.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Submit your movie to the gallery.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Swim forward. Specify a direction (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Are you ready for the next challenge?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>This level is a movie. You want the person's arm to move across the screen. Press the play button to see a preview.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>There's a new block that allows you to lift your pen off the paper when you move:</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>This opponent is too far away to use the cannon (which has a limit of 70 meters). Instead, use the 'swim' command to start swimming towards the opponent and crash into it.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Title:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>end x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>As the movie plays, the value of the 'time' block counts from 0 to 100. Since you want the 'y' position of the arm to start at 0 and go to 100 this should be easy.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Are you ready for level %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Use the 'See Gallery' button to see what other people have drawn. If you draw something interesting, use the 'Submit to Gallery' button to publish it.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Cancel</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Could not load your saved file. Perhaps it was created with a different version of Blockly?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>rest %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>heading</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>You have %1 block left.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>You have %0 blocks left.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>You have %2 blocks left.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Games for tomorrow's programmers.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>height</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>if path to the right</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>if path to the left</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Choose a category to see the blocks.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Player</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Changes the colour of the pen. </target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Create a function to play the first four notes of 'Frère Jacques'. Run that function twice.  Don't add any new note blocks.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>set width to</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Honey</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Play your tune with a violin.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>This new block lets you change to another instrument.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Stinger</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Can you solve this complicated maze? Try following the left-hand wall. Advanced programmers only!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>pen up</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>See Gallery</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>turn left</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>radius</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>move forward by</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Change the heading angle to make the bird get the worm and land in her nest.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Open the gallery of music.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Snail</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Almost! One block is incorrect.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>picture:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Text</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Duck</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Cat</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Bee</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normal</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>trumpet</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Cat</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Scared</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>See Gallery</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>play %1 note %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>The highlighted block is not correct.
+Keep trying.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>start x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Stack a couple of 'move forward' blocks together to help me reach the goal.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Submit to Gallery</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Click on %1 in the 'if' block to change its condition.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Snail</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Lists</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Puzzle</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>set instrument to %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>The music will sound better if you use a different instrument in each start block.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' is your current horizontal position. Use this block to go in one heading if 'x' is less than a number, or a different heading otherwise.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>legs:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Bee</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Open the gallery of movies.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Congratulations!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blockly Games</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Gallery</target>
+      </trans-unit>
+      <trans-unit id="3616731507597101347" datatype="html">
+        <target>Prints a number to your browser's console.</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Changes the colour of the pen. </target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>bold</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Draw anything you want. You've got a huge number of new blocks you can explore. Have fun!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>repeat until</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Loops</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Submit to Gallery</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Thank you for this program!  If our staff of trained monkeys like it, they will publish it to the gallery within a couple of days.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>The mathematical formula for the arm is complicated. Here's the answer:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Once you start editing JavaScript, you can't go back to editing blocks. Is this OK?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Use the 'if' block to draw a small head for the first half of the movie. Then draw a big head for the second half of the movie.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>choose...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>start y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>The 'time' block counts from 0 to 100. But now you want the 'y' position of the other arm to start at 100 and go to 0. Can you figure out a simple mathematical formula that flips the direction?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Pond Tutor</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>Drawing 360 white lines will look like the full moon.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Your program didn't solve the maze. Press 'Reset' and try again.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>first part</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Documentation</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>show turtle</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Move in the direction of the given angle: 0 is \nto the right, 90 is straight up, etc. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>banjo</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>italic</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Run your program to see what happens.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Sets the font used by the print block.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>set colour to</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Movie</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x and y mark the bird's position. \nWhen x = 0 the bird is near the left \nedge, when x = 100 it's near the \nright edge. When y = 0 the bird is \nat the bottom, when y = 100 it's at \nthe top. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Plays one musical note of the specified duration \nand pitch. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Your solution works, but you can do better.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Create a program that draws a square.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Change your program to draw a pentagon instead of a square.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Instead of one star, can you draw four stars arranged in a square?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>does not have worm</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Draw the stars, then draw four white lines.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Duck</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Can you add a black circle so that the moon becomes a crescent?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Changes the width of the pen.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>Switches to the specified instrument when \nplaying subsequent musical notes. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Math</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Waits for one whole note.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

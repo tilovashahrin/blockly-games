@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="gl">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Baba</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>se hai camiño diante</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>lista</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>baixar o bolígrafo</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Bigoteira</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Cabelo</target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Lagoa</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Cuncha</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Debuxa unha estrela amarela.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Un bloque "se" fará algo unicamente se a condición é certa. Intenta xirar á esquerda se hai camiño á esquerda.</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>facer</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Xa usaches todos os bloques dispoñibles para este nivel. Para crear un novo bloque, primeiro debes borrar un dos existentes.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Fai que a figura xire á esquerda ou á dereita 90 \ngraos. </target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Péndulo</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>tamaño da letra</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Restablecer</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Fai que a figura realice o que din os bloques.</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>mover atrás</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>violín</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>xirar á dereita</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Queres comezar de novo?</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>texto</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>guitarra</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>A cada animal (en verde), faille corresponder a súa foto, sinala o seu número de patas e apiña os seus trazos.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>trazos:</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Axuda</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Lóxica</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Xenética</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Paxaro</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Máis información...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Variables</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Executar o programa</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Perfecto!
+Os %1 bloques son correctos.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 bloques son incorrectos.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Escribe un texto na dirección da tartaruga e \ndesde a súa posición. </target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Coloca a figura ao inicio do labirinto.</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>establecer a cor en</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Agoiado</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>piano</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>se non</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labirinto</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Sentímolo, "%1" non se corresponde con ningún programa gardado.</target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Fai que a tartaruga (o círculo e a frecha) sexa \nvisible ou invisible. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Ollar a galería</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Houbo un problema coa solicitude.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>rectángulo</target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Enviar a súa música á galería. </target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Comprobar as respostas</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>escribir</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Música</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Se hai un camiño na dirección especificada, \nentón fanse algunhas accións. </target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>frauta</target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Repetir as accións do bloque ata chegar á meta.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Podes apilar máis dun bloque dentro dos bloques "repetir".</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Cor</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Os bloques "se/se non" fan unha cousa ou a outra.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Comparte os teus bloques con esta ligazón:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Gardar e crear unha ligazón aos bloques.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Chega ao final deste camiño usando só dous bloques. Utiliza "repetir" para executar un bloque máis dunha vez.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>agochar a tartaruga</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Neste nivel, tes que amorear xuntos tódolos bloques no espazo de traballo.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>avanzar</target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>banllo</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Obxectivo</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>xirar á dereita</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Escolle o teu xogador favorito neste menú.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Funcións</target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>liña</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Fai que a figura avance un espazo.</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>tipo de letra</target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>xirar á esquerda</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>tambor</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>círculo</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Bloques</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Xira a tartaruga á esquerda ou á dereita o \nnúmero especificado de graos. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>Aceptar</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Tartaruga</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Move a tartaruga adiante ou atrás a cantidade \nindicada. </target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Ollar a galería</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Eleva ou baixa o bolígrafo, para deixar de \ndebuxar ou empezar a debuxar. </target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Enviar o seu filme á galería.</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>rematar x</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Cancelar</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Non se puido cargar o ficheiro gardado. Se cadra, foi creado cunha versión diferente de Blockly.</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>cabeceira</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Resta %1 bloque.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Restan %0 bloques.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Restan %2 bloques.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>altura</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>se hai camiño á dereita</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>se hai camiño á esquerda</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>raio</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Xogador</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Cambia a cor do bolígrafo.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>establecer o grosor en</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://gl.wikipedia.org/wiki/Impresi%C3%B3n</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Mel</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Ferrón/Aguillón</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Podes resolver este labirinto máis complicado? Intenta seguir a parede da esquerda. Só para programadores avanzados!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>elevar o bolígrafo</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Ollar a galería</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Gato</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>xirar á esquerda</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Enviar á galería</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>mover adiante</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>coro</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Caracol</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Por pouco! Un bloque é incorrecto.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>imaxe:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Texto</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Se hai un camiño na dirección especificada, \nentón faise o primeiro bloque de accións. \nEn caso contrario, faise o segundo bloque de \naccións. </target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Abella</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normal</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>trompeta</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://gl.wikipedia.org/wiki/Gato</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>longura</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>O bloque destacado non é correcto.
+Sigue intentándoo.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>comezar x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Amorea unha parella de bloques "avanzar" para axudarme a chegar á meta.</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Preme en %1 no bloque "se" para cambiar a súa condición.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://gl.wikipedia.org/wiki/Caracol</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Listas</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Crebacabezas</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>patas:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://gl.wikipedia.org/wiki/Abella</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Parabéns!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Xogos do Blockly</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>negra</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>repetir ata</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Bucles</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Enviar á galería</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Filme</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>escolle...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>comezar y</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>rematar y</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>O teu programa non resolveu o labirinto. Preme en "Restablecer" e inténtao de novo.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>primeiro anaco</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Documentación</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>amosar a tartaruga</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>cursiva</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Executa o teu programa para comprobar o que acontece.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Define o tipo de letra empregado polo bloque de \nescritura. </target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>mudar a cor cara</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>non ten unha miñoca</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Cambia o grosor do bolígrafo.</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matemáticas</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="sw">
+    <body>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>kama kuna njia mbele</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Samahani, '%1' haiendani na faili yoyote ya Blockly.</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Kishiku kinachobainishwa ni kosefu.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>urefu</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Kuna shida na amri.</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Panganya vishiku vichache vya 'songa mbele' ili kunisaidia kufikia lengo.</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>Sawa</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Kuangalia Majibu</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Fumbo</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Vishiku vya 'iwapo' vitatenda kama masharti yake ni kweli tu. Jaribu kugeuka kushota kama kuna njia kwenda kushoto.</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>fanya</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Katika sehemu hii, itabidi upanganye vishiku vyote ndani ya eneo ya kazi nyeupe.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Iwapo mwelekeo uliobainishwa una njia, \nkisha fanya matendo fulani. </target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Kugeuza Bw. Banzi kushoto au kulia kwa digrii \n90. </target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>rediasi</target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Rudia matendo yalioambatanishwa mpaka mwisho.</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Seti upya</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Fikia lengo kwa kutumia vishiku vitano tu.</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Hifadhi na kiungo cha vishiku.</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>geuka kulia</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Sambaza vishiku vyako na kiungo hiki: 
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Hifadhi na kiungo cha vishiku. </target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Unacho bado kishiku kimoja.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Unavyo bado vishiku vi%0.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Kompyuta ina kumbukumbu ndogo. Fikia mwisho wa njia hii kwa kutumia vishiku viwili tu. Tumia 'rudia' kusudi vishiku viende zaidi ya mara moja.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Unavyo bado vishiku vi%1.</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>rudia mpaka</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>songa mbele</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Kwa kila nchi (kijani), ambatisha bendera yake, kuchagua lugha yake, na kupanganya miji yake.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>chagua...</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>kama kuna njia kulia</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Upakiaji wa faili yako iliyohifadhiwa haiwezekani.  Labda iliundwa na toleo tofauti ya Blockly?</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Huduma</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Uko karibu! Kishiku kimoja ni kosefu.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>upana</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Je, unaweza kutatua mzingile mgumu huu? Jaribu kufuatia ukuta wa kushoto. Wanaprogramu wa juu tu!</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>kama kuna njia kusoto</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Endesha Programu</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Hongera!
+Vishiku vyote %1 ni sahihi.</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>geuka kushoto</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>Vishiku vi%1 ni kosefu.</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Mzingile</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Iwapo mwelekeo uliobainishwa una njia, \nkisha fanya seti ya kwanza ya matendo. \nVingenevyo, fanya seti ya pili ya matendo. </target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>vingenevyo</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Kusogeza Bw. Banzi mbele nafasi moja. </target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

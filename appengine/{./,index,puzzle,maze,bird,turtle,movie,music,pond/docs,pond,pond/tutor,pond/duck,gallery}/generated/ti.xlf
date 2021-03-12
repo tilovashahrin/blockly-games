@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="ti">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>ሓፊስ ፈሳሲ</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>ንቅድሜኻ መገዲ እንተሃልዩ</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>ዝርዝር</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>ቢሮ ኣውርድ</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>ጭሕሚ ድሙ</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>ጨጉሪ</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>ኣብቲ ዝተገለፀ ቦታ በቲ ዝተገለፀ ወርድን ቁመትን ርቡዕ ኩርናዕ ይስእል።.</target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>ቃላይ</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>ናይ ፍሬር ጃክ ናይ መጀመርታ ኣርባዕተ ኖታታት ድረስ።</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>ክዳን ዓረነ</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>ንድሕሪት በዚ ኣንቀሳቅስ</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>ሕብሪ መቀየሪ ሓዱሽ ሳንዱቅ ኣሎ</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>ቢጫ ኮኽብ ስኣል።</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>እዚ ደረጃ እዚ ክልቲኦም 'እንተዘይኮይኑ እንድሕር' ን 'እንተዘይኮይኑ' ን ዝብሉ ሳናዱቅ ይደሊ።</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>'እንድሕር' ዝብል ብሎክ ዝሰርሕ እቲ ኩነታት ሓቂ እንተኾይኑ ጥራሕ እዩ። መገዲ እንተሃልዩ ንፀጋም ንምዕፃፍ መኩር።</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>ቿር</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>ግበር</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>ናይዚ ደረጃ ሳናዱቅ ኩሎም ተጠቂምካሎም። ሓዱሽ ሳንዱቅ ንምፍጣር፣ መጀመርታ ካብ ዘለው ሳናዱቅ ሓደ ደምስስ።</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>ነቲ ተጫዋታይ 90 ዲግሪ ንፀጋም ወይ ንየማን ይዓፅፎ።.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>'እንድሕር' ዝብል ሳንዱቅ ንምምሕያሽ ነቲ ምልክት ጠውቅ።</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>ተወዛዋዚ (ፔንዱለም)</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>መጠን ፎንት</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>ከምብሓዱሽ ጀምር</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>ተጫዋታይ እቶም ሳናዱቅ ዝብልዎ ንክሰርሕ ይገብር።.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>'ን' ዝብል ሳንዱቅ ሓቂ ዝኾን ክልቲኦም እታወታት ሓቂ እንተኾይኖም ጥራሕ እዩ።</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>ሓደ ኖታ (C4 7 እዩ)።</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>ቫዮሊን</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>ንየማን ተዓፀፍ</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>ኣብ መፋርቅ እቲ ፊልም፣ እቶም ኣእጋር ናብ ተፃራሪ ኣንፈት ክልውጡ ግበር።</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>ከምብሓድሽ ክትጅምር ትደሊ?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>ናብ 'እንድሕር' ሳንዱቅ 'እንተዘይኮይኑ' ዝብል ሳንዱቅ ጉተት።</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>ጽሑፍ</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>ኩሎም መልስታትካ ክትስርዞም?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>ዝደለኻዮ ነገር ስራሕ። ክትድህስሶም ብጣዕሚ ብዙሓት ሓደሽቲ ሳናዱቅ ተዋሂቦምካ ኣለዉ። ተዘናጋዕ!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>ጊታር</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>ንሕድሕድ እንስሳ (ሓምለዋይ)፣ ስእሎም ኣተሓሕዝ፣ ቁፅሪ ኣእጋሮም ምረፅ ከምኡ 'ውን መግለፅታቶም ደርድር።</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>መግለፅታት፡</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>ነቲ ዝተሓበረ ግዜ ይፅበ።</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>ዕላማኻ ንምውቃዕ 'መድፍዕ' ዝብል ትእዛዝ ተጠቀም። ናይ መጀመርታ መዐቀኒ ኩርናዕ እዩ፤ እቲ ካልኣይ መዐቀኒ ርሕቀት እዩ። ናይ ክልቲኦም ትኽክለኝ ጥምረት ድለ።</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>ስእልኻ ናብ መጠራቀሚ ኣረክብ።</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>'ፋንክሽን' ሳናዱቅ ብሓደ ክትእክቦምን ካብ ሓደ ግዜ ንላዕሊ ክተኺዶምን የኽእል።</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>እዚ ዕላማ እዚ ብዙሕ ግዜ ክውቃዕ ኣለዎ። ብዘይምቁራፅ ብተደጋጋሚ ንምስራሕ 'ብእዋን (ሓቂ)' ዝብል ኣዝዋሪት ተጠቀም።</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>እዚ ፀላኢ እዚ 'ውን መድፍዕ ክበፅሖ ካብ ዝኽእል ርሕቀት (70 ሜትሮ) ንላዕሊ እዩ። ናይ ኣግድም ቦታኻ ካብ 50 ክሳብ ዘይበለፀ እዋን ናብ ኣንፈት ፀላኢ ሓምስ። ብድሕሪኡ ጠጠው ብምባል መድፍዕ ተጠቀም።</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>እቲ መድፍዕ ተኩሶ። ኣንፈት (0-360) ከምኡ 'ውን ርሕቀት (0-70) \nወስን። </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>ሓገዝ</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>እዚ ፀላኢ እዚ ክውቃዕ ተሎ ይርሕቅ። ካብ ርሕቀት ወፃኢ እንተኾይኑ (70 ሜትሮ) ናብኡ ኣንፈት ሓምስ</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>ሎጂክ</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>ጀነቲክስ</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>ናይ ተጫዋቲ ጥዕና ኩነታት ይምልስ (0 ማለት ሞይቱ ማለት 'ዩ፣ 100 ሙሉእ \nጥዕና የመልክት)። </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>ዒፍ</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>ንዝበለፀ ሓበሬታ...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>ተተካእቲ</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>ፕሮግራም ይኺድ</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>ብትኽክል!
+ኩሎም %1 ሳናዱቅ ትኽክል'ዮም።</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>ሰለስተ ቢጫ ከዋኽብትን ሓደ ፃዕዳ ሕንፃፅን ስኣል።</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 ሳናዱቅ ኣይልክዕን።</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>ብኣንፈት ኣባጋውየ ኣብ ዘለዎ ፅሑፍ የውፅእ</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>ሓፁር</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>ናብ መጠራቀሚ ልኣኽ</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>ሕብሪ ናብዚ ግበር</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>መልስኻ ይሰርሕ 'ዩ ግን ክተማሓይሽ ትኽእል ኢኻ። 'ዳህስስ' ዝብል ብምጥቃም እቲ መድፍዕ ክሳብ ክንደይ ርሕቀት ክበፅሕ ከምዝኽእል ምፍላጥ ይከኣል።</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>ናይ ተጫዋታይ ናይ X ቦታ ይምልስ (0 ማለት ኣብ ፀጋማይ ኩርናዕ፣ 100 \nኣብ የማናይ ኩርናዕ ማለት 'ዩ)። </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>ካብቲ ኣኒሜሽን ናይ ሕዚ ሰዓት ይምልስ።</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>ፒያኖ</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>ተዘይኮይኑ</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>እዚ ርሕቀት እዚ 'መድፍዕ' ዝብል ትእዛዝ ተኲሱ ብትኽክል ከብፅሖ ዘለዎ እዩ።</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>እዚ ተቃዋሚ እዚ ንቅድሚትን ንድሕሪትን እናተንቀሳቀሰ ንምውቅዑ ኣፀጋሚ ይገብር። 'ዳህስስ' ዝብል መግለፂ በቲ ዝተገለፀ ኣንፈት ዘሎ ትኽክለኛ ርሕቀት ተቃዋሚ ይምልስ።</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>ነቲ ተጫዋታይ ሓደ ደረጃ ንቅድሚት የንቀሳቅስ</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>እዚ ሓዱሽ ሳንዱቅ እዚ ድምፂ ዘይብሉ ምድንጓይ ይውስኽ።</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>ይቅርታ፣ '%1' ምስ ዝኾነ ዝተመጠ ፕሮግራም ኣይመሳሰልን።</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>ምሕማስ ኣቋርፅ። ተጫዋቲ ፍጥነት ብምቅናስ ጠጠው ክብል እዩ።.</target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>እቲ ኣባጋውየ (ክብን ፀቢብን) ክረአን ዘይክረአን ይገብር።.</target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>መጠራቀሚ ረአ</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>ኣብቲ ሕቶ ፀገም ኣጋጢሙ</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>ክሳብ ባዕሉ ዘቋርፅ ፕሮግራምካ ኣኺዶ። ብድህሪኡ ሙዚቃኻ ናብ መጠራቀሚ ክትልእኽ ትኽእል።</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>ርቡዕ ኩርናዕ</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>በቲ ዝተገለፀ ኣንፈት መገዲ እንተሃልዩ፣ እቲ ናይ መጀመርታ ናይ ተግባር \nሳንዱቅ ስራሕ። እንተዘይኮይኑ፣ እቲ ካልአዋይ ናይ ተግባር ሳንዱቅ ስራሕ። </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>ሙዚቃኻ ናብ መጠራቀሚ ልኣኽ።</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>መልሲ ርአ</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>ብድሕሪ እቲ ሰብ፣ ዝስፋሕፋሕ ክቢ ሰኣል።</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>ፕሪንት</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>ክልተ መደንጎይ ሳናዱቅ ዘለዎ ካልኣይ ጀማሪ ሳንዱቅ ስራሕ። ካብኡ ብምቅፃል ፍሬር ጃክ ዝጫወት።</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>ሙዚቃ</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>ፀላእቲ ርአ። ካብ 0 ክሳብ 360 መጠን ግዜ ወስን። ብተመሳሳሊ ኣንፈት ናብ \nዝርከብ ዝቀረበ ፀላኢ ዘሎ ሓፂር ርሕቀት ይምልስ። </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>ሕድሕድ ጀማሪ ሳንዱቅ ፍሬር ጃክ ክጫወት ኣለዎ።</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>ሕድሕዶም ፍሬር ጃክ ክልተ ግዜ ዝጫወቱ ኣርባዕተ ጀማሪ ሳናዱቅ ስራሕ። ትኽክለኛ ቁፅሪ መደንጎይ ሳናዱቅ ወስኽ።</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>በቲ ዝተገለፀ ኣንፈት መገዲ እንተሃልዩ፣ ዝኾነ ነገር ግበር.</target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>ንቀፃላይ ክፋል ፍሬር ጃክ ሳልሰይቲ ፋንክሽን ስራሕ። እተን ናይ መጀመርታ ኣርባዕተ ኖታታት ዝሓፀራ እየን።</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>ናይ ፍሬር ጃክ ሙሉእ እኒት መልኣዮ።</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>ሻምበቆ</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>ናይ ተጫዋታይ ናይ Y ቦታ ይምልስ (0 ማለት ኣብ ታሕተዋይ ኩርናዕ፣ 100 \nኣብ ላዕለዋይ ኩርናዕ ማለት 'ዩ)። </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>ክሳብ ናይ መወዳእታ ነጥቢ ትበፅሕ፣ እቶም ዝተሓፀሩ ተግባራት ደጋግም።.</target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>ፕሮግራም ኣምቁራፅ ነዚ ደረጃ ከምብሓዱሽ ጀምር</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>ንቀፃላይ ክፋል ፍሬር ጃክ፣ ካልአይቲ ፋንክሽን ስራሕ። እታ ናይ መወዳእታ ኖታ ዝነውሐት እያ።</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>እታ ዒፍ ነቲ ሓሰኻ እንተዘይረኺባቶ ዘሎ ኩነታት.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>ክሳብ ዘቋርፅ ፕሮግራምካ ኣካይድ። ብድሕሪኡ ስእልኻ ናብ መጠራቀሚ ክተረክብ ትኽእል።</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>'ድገም' ኣብ ዝብል ብሎክ ውሽጢ ካብ ሓደ ንላዕሊ ክተቅምጥ ትኽእል።</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>ሕብሪ</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>እንድሕር - ተዘይኮይኑ ሳናዱቅ ሓደ ነገር ወይ ካልእ ይገብሩ።</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>ካልኦት ሰባት ዝሰርሕዎ ንምርኣይ 'መጠራቀሚ ርአ' ዝብል መልጎም ተጠቀም። ደስ ዝብል ነገር እንተሰሪሕካ፣ ንምሕታም'ናም መጠራቀሚ ልኣኽ' ዝብል መልጎም ተጠቀም።</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>ኣብ ዝሓለፈ ደረጃ ዝተምሃርካዮ ብምጥቃም መስቀለኛ ዝሰርሑ ኣእጋር ስራሕ።</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>ሳናዱቅካ በዚ ሊንክ እዚ ኣካፍል፡ %1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>መልስኻ ይሰርሕ 'ዩ፤ ግን ክተመሓይሽ ትኽእል ኢኻ። ዝደጋገሙ ኮዳት ንምቅናስ ፋንክሽናት ተጠቀም።</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>ሴቭ ብምግባር ናብ ሳንዱቃት ሊንክ ግበር</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>ክልተ ሳናዱቅ ጥራሕ ብምጥቃም ነዚ መገዲ እዚ ጨርስ። ሓደ ሳንዱቅ ካብ ሓደ ግዜ ንምክያድ 'ድገም' ዝብል ጠውቅ።</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>ኣባጋውየ ሕባእ</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>ኣብዚ ደረጃ፣ ኩሎም ሳናዱቅ ኣብቲ ፃዕዳ ቦታ ክትድርድሮም ኣለካ።</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>ንቅድሚት ኪድ</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>እዚ ደረጃ ብጣዕሚ ከቢድ እዩ። ናብ ቀፃሊ ደረጃ ዶ ክትዘልል ትደሊ? ድሓር ተመሊስካ ክትመፅእ ትክእል ኢኻ።</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>ዕላማ</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>ቀለልቲ ቅርፅታት ብምጥቃም ነዚ ሰብ ስኣል።</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>'ፕሮግራም ኣኺድ' ዝብል መልጎም እንትጥወቅ፣ እቶም ኣብ ውሽጢ ዘለው ሳናዱቅ \nይስርሑ። </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>ነቲ ኮኸብ ብ ኣርባዕተ ሳናዱቅ ጥራሕ ሰኣሎ።</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>ነቲ ቅርፂ ብ ሰለስተ ሳናዱቅ ጥራሕ ሰኣሎ።</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>ንየማን በዚ ይዓፅፎ</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>ኣፍ ዒፍ</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>ክንቲት</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>y ጨርስ</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>እትፈትዎ ተጫዋቲ ካብዚ ሜኑ እዚ ምረፅ።</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>ንእሽቶን ቢጫ ኮኸብ ስኣል፣ ብድሕሪኡ ኣብ ልዕሊኣ ሕንፃፅ ስኣል።</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>እቲ ብድሕሪት (ብክግራውንድ) ዘሎ ክቢ ናብ ልዕሊ ፕሮግራምካ ኣንቀሳቅሶ። ብድሕሪኡ ብድሕሪ እቲ ሰብ ክኾን እዩ።</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>ፋንክሽናት</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>%1 ክጥወቅ ከሎ</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>ተጫዋታይ ኣብ ናይቲ ሓፁር መጀመሪ ቦታ ኣቀምጥ።.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>ካብ ሓደ ነጥቢ ናብ ካልእ በቲ ዝተገለፀ ወርዲ ሕንፃፅ ይስእል።.</target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>ሕንፃፅ</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>ካልኦት ሰባት ዝስርሕዎም ፊልምታት ንምርኣይ 'መጠራቀሚ ርአ' ዝብል መልጎም ተጠቀም። ደስ በሃሊ ፊልም እንተሃልዩካ፣ 'ናብ መጠራቀሚ ልኣኽ' ዝብል መልጎም ብምጥቃም ኣሐትሞ።</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>ኣብቲ ዝተገለፀ ቦታ በቲ ዝተገለፀ ራዲየስ ክቢ ይስእል።.</target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>ነቲ ሰብ ፅምዲ ኣእዳው ሃቦ።</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>ወርዲ</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>ፎንት</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>ናይ ተጫዋታይ ናይ ሕዚ ፍጠነት ይምልስ። (0 ጠጠው ኣቢሉ ማለት 'ዩ፣ 100 \nሙሉእ ፍጠነት የመላኽት)። </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>ንፀጋም በዚ ይዓፅፎ</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>ዝፀሓፍካዮ ፕሮግራም ኣኺዶ</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>ዳታ ደምስስ</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>ከበሮ</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>ናይ ስእልታት መጠራቀሚ ክፈት።</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>ክቢ</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>ዝደለኻዮ ፊልም ስራሕ። ክትድህስሶም እትኽእል ብዙሓት ሓደሽቲ ሳናዱቅ ኣለውኻ።</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>ፍልምኻ ኣይንቀሳቀስን። ዝኾነ ደስ ብሃሊ ነገር ንምስራሕ ሳናዱቅ ተጠቀም። ብድሕሪኡ ፊልምኻ ናብ መጠራቀሚ ክትልእኽ ትኽእል።</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>ሳናዱቅ</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>ነቲ ኣባጋውየ በቲ ዝተጠቀሰ መጠን ዲግሪ ንፀጋም ወይ ንየማን የንቀሳቅሶ።.</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>ሕራይ</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>ኣባጋውየ</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>ነቲ ኣባጋውየ በቲ ዝተጠቀሰ መጠን ንቅድሚት ወይ ንድሕሪት የንቀሳቅሶ።.</target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>ነዚ ሳንንዱቅ ሓሰኻ እንተሒዝካ ናብ ሓደ ኣንፈት፣ ሓሰኻ እንተዘይሒዝካ ናብ ካልእ ኣንፈት ንምኻድ ተጠቀመሉ።</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>ነዚ ደረጃ ብ 1 መስመር ጃቫስክሪፕት ፈቲሕካዮ</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>ነዚ ደረጃ ብ %1 መስመር ጃቫስክሪፕት ፈቲሕካዮ</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>ቢሮ የልዕልን የውርድን፣ ምፅሓፍ ንምቁራፅን ንምጅማርን።.</target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>ናይ ሰነድ (ዶኩመንቴሽን) ቋንቋ ኣርእይ።</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>ፊልምኻ ናብ መጠራቀሚ ልኣኽ።</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>ንቅድሚት ሓምስ። ኣንፈት ወስን (0-360)።</target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>ንዝቅፅል ጨዋታ ድልው?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>እዚ ደረጃ እዚ ፊልም እዩ። ናይቲ ሰብ ኢድ ኣብቲ ስክሪን ክንቀሳቀስ ትደሊ። ቅድመምርኢት ንምርኣይ ተጫወት ዝብል መልጎም ጠውቅ።</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>ክትንቀሳቀስ ከለኻ ቢሮኻ ካብ ወረቀት ንምልዓል ዝጠቅም ሓዱሽ ሳንዱቅ ኣሎ።</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>እዚ ፀላኢ መድፍዕ ክበፅሖ ካብ ዝኽእል ርሕቀት (70 ሜትሮ) ንላዕሊ እዩ። ስለዚ 'ሓምስ' ዝብል ትእዛዝ ተጠቂምካ ናብ ኣንፈት ፀላኢ እናሓመስካ ብምኻድ ደምስሶ።</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>ርእሲ፡</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>x ጨርስ</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>እቲ ፊልም ክጫወት ተሎ፣ ናይ 'ግዜ' ሳንዱቅ ዋጋ ካብ 0 ክሳብ 100 ይቆፅር። ናይቲ ኢድ ናይ'y' ቦታ ካብ 0 ጀሚሩ ክሳብ 100 ክኸድ ስለትደሊ ቀሊል ክኾን ኣለዎ።</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>ንደረጃ %1 ድልው?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>ካልኦት ሰባት ዝሰኣልዎ ንምርኣይ 'መጠራቀሚ ርአ' ዝብል ተጠቀም። ዝኾነ ደስ በሃሊ ነገር እንተስኢልካ፣ ንምሕታም 'ናም መጠራቀሚ ልኣኽ' ዝብል ጠውቅ።</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>ኣትርፍ</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>ዘቀመጥካዮ ፋይል ክፀዓን ኣይከኣለን። ምናልባት ብካልእ ቅዲ ብሎክልይ ዶ ተሰሪሑ ይኾን?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>%1 ኣዕርፍ</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>ኣንፈት</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>%1 ሳናዱቅ ተሪፎምኻ።</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>%0 ሳናዱቅ ተሪፎምኻ።</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>%2 ሳናዱቅ ተሪፎምኻ።</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>ጨዋታ ፕሮግራመራት ፅባሕ።</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>ቁመት</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>ንየማንካ መገዲ እንተሃልዩ</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>ንፀጋምኻ መገዲ እንተሃልዩ</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>ሳናዱቅ ንምርኣይ መደብ ምረፅ።</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>ተጫዋቲ</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>ናይ ቢሮ ሕብሪ ይቅይር</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>እቶም ናይ መጀመርታ ኣርባዕተ ኖታታት ፍሬር ጃክ እትጫወት ፋንክሽን ስራሕ። እታ ፋንክሽን ክልተሻዕ ኣኺዳ። ካልኦት ሓደሽቲ ሳናዱቅ ኣይትወስኽ።</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>ወርዲ ክንድዚ ግበር</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>መዓር</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>ቅኒትካ ብቫዮሊን ተጫወቶ።</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>እዚ ሓዱሽ ሳንዱቅ እዚ ናብ ካልእ መሳርሒ ክትቅይር የኽእለካ።</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>መንደፍ</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>ነዚ ዝተሓላለኸ ሓፁር ክትፈትሖ ትኽእል? ፀጋማይ ኢድ እቲ መንደቅ እናተኸተልካ መኩር። ንሓያላት ፕሮግራመራት ጥራሕ!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>ቢሮ ኣልዕል</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>መጠራቀሚ ረአ</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>ንፀጋም ተዓፀፍ</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>ራድየስ</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>ንቅድሚት በዚ ኣንቀሳቅስ</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>እታ ዒፍ ነቲ ሓሰኻ ንክትሕዞን ናብ ሰፈራ ንክተዕርፎን፤ ኣንፈት ኩርናዕ ቀይር</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>መጠራቀሚ ሙዚቃ ክፈት።</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>ዓረነ</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>ዳርጋ ሙሉእ! ሓደ ሳንዱቅ ኣይትኽክልን።</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>ስእሊ፡</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>ጽሑፍ</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>እርግብ</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>ድሙ</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>ንህቢ</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>ኖርማል</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>ጥሩምባ</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Cat</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>ዝፈርሐ</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>መጠራቀሚ ርአ</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>%1 ኖታ %2 ተጫወት</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>እቲ ዝተሰመረሉ ሳንዱቅ ልክዕ ኣይኮነን።</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>x ጀምር</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>ኣብ ዕላማይ ንክበፅሕ፤ ፅምዲ 'ንቅድሚት ኪድ' ዝብሉ ሳናዱቅ ኣቀምጥ።</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>ናብ መጠራወቀሚ ልኣኽ።</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>እቲ ኩነታት ንምቅያር ኣብ ውሽጢ 'እንድሕር' ሳንዱቅ ዘሎ %1 ጠውቅ።</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Snail</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>ዝርዝር</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>ግድል</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>መሳርሒ ናብ %1 ግበር</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>ኣብ ሕድሕድ ጀማሪ ሳንዱቅ ካልእ መሳርሒ እንተተጠቂምካ ሙዚቃኻ ዝበለፀ ክኾን እዩ።</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>x ሕዚ ዘለኻሉ ኣግድም ቦታኻ እዩ። ነዚ ሳንዱቅ፣ x ካብ ቁፅሪ ዝንኣሰ እንተኾይኑ ናብ ሓደ ኣንፈት ንምኻድ፣ እንተዘይኮይኑ ናብ ካልእ ኣንፈት ንምኻድ ተጠቀመሉ።</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>ኣእጋር፡</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Bee</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>መጠራቀሚ ፊልምታት ኽፈት</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>እንኳዕ ደስ በለካ!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>ሳንዱቅ ጨዋታ</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>መጠራቀሚ</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>ናይ ቢሮ ሕብሪ ይቅይር</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>ድሙቅ</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>ዝደለኻዩ ነገር ስኣል። ክትድህስሶም መዓት ሓደሽቲ ሳናዱቅ ተዋሂቦምካ ኣለው። ተዘናጋዕ!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>ድገም ክሻዕ</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>ኣዝዋሪታት</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>ናብ መጠራቀሚ ልኣኽ።</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>ንፕሮግራምካ የቀንየልና! ዝሰልጠኑ ኣባላትና እንተፈትዮሞ፣ ኣብ ውሽጢ ክልተ መዓልትታት ናብ መቀመጢ ከሐትምዎ እዮም።</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>ሒሳባዊ ፎርሙላ ኢድ ዝተሓላለኸ እዩ። መልሱ ኣብዚ ኣሎ።</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>ጃቫስክሪፕት ምፅሓፍ ምስጀመርካ፣ ሳናዱቅ ክትቀያይር ክትምለስ ኣይትኽእልን። ትስማዕማዕ ዶ?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>'እንድሕር' ሳንዱቅ ብምጥቃም ነቲ ናይ መጀመርታ ፍርቂ ፊልም ንእሽቶን ርእሲ ሰኣል። ብድሕሪኡ፣ ነቲ ካልአዋይ ፍርቂ ፊልም ዓብይ ርእሲ ሰኣል።</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>ምረፅ...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>y ጀምር</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>'ግዜ' ሳንዱቅ ካብ 0 ክሳብ 100 ይቆፅር። ሕዚ ግን ናይቲ ካልእ ኢድ ናይ 'y' ቦታ ካብ 100 ጀሚሩ ናብ 0 ክኸድ ትደሊ። እዚ ኣንፈት እትቅይር ሓንቲ ናይ ሒሳብ ፎርሙላ ድለ።</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>ቃላይ መምህር</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>360 ፀዓዱ ሕንፃፃት ምስኣል ምሉእቲ ወርሒ ይመስል።</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>ፕሮግራምካ ነቲ ሓፁር ኣይፈትሖን። እንደገና ንምምኳር 'ከምብሓዱሽ ጀምር' ዝብል ጠውቅ።</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>ቀዳማይ ክፋል</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>ሰነድ (ዶኩመንቴሽን)</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>ኣባጋውየ ኣርኢ</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>በቲ ዝተውሃበ ኩርናዕ ኣንፈት ተንቀሳቀስ። 0 ን የማን እዩ፣ 90 ቀጥ ኢሉ \nንዓቀብ፣ ወዘጥ </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>ባንጆ</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>ኢታሊክ</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>እንታይ ከምዝኾን ንምርኣይ ፕሮግራምካ ኣኺዶ።</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>ፕሪንት ሳንዱቅ ዝጥቀመሉ ፎንት ይውስን።</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>ሕብሪ ናብዚ ቀይር</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>ፊልም</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>xን yን ናይታ ዒፍ ቦታ የመላኽቱ። x=0 እንተኾይኑ እታ ዒፍ ኣብ ጥቃ እቲ \nፀጋማይ ኩርናዕ እያ፣ x=100 እንተኾይኑ ኣብ ጥቃ እቲ የማናይ ኩርናዕ እያ። \ny=0 እንተኾይኑ እታ ዒፍ ኣብ ታሕቲ እያ ዘላ፣ y=100 እንተኾይኑ ኣብ ላዕሊ \nእያ ዘላ፣ </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>በቲ ዝተጠቀሰ ግዜን ድምፅን ሓደ ሙዚቃዊ ኖታ ይጫወት።.</target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>መልስኻ ይሰርሕ 'ዩ፤ ግን ክተማሓይሽ ትኽእል ኢኻ።</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>ትርብዒት እትስእል ፕሮግራም ፍጠር።</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>ፕሮግራምካ ካብ ትርብዒት ናብ ፔንታጎን (በዓል 5 ጠርዚ) ከምዝስእል ጌርካ ቀይሮ</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>ከክንዲ ሓንቲ ኮኸብ፣ ኣብ ትርብዒት ዝተሰርዓ ኣርባዕተ ኮዋኽብቲ ክትስእል ትኽእል?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>ሓሰኻ የብሉን።</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>ነተን ከዋኽብቲ ድሕሪ ምስኣል ኣርባዕተ ፀዓዱ ሕንፃፃት ስኣል።</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Duck</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>ፀሊም ክቢ ብንውሳኽ ዶ ነታ ወርሒ ክሪሰንት (ፍርቂ ወርሒ) ክትገብራ ትኽእል?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>ናይ ቢሮ ስፍሓት ይቅይር</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>ዝስዕቡ ሙዚቃዊ ኖታታት እንትጫወት ናብቲ ዝተሓበረ መሳርሒ ይቅየር።.</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>ሒሳብ</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>ንሓደ ሙሉእ ኖታ ይፅበ</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

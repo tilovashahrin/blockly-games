@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="zh-hans">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>黏液</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>如果正前方可以通行</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>列表</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>落下笔</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>胡须</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>皮毛</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>在指定位置画一个指定宽度和高度的矩形。</target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>池塘</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>组合出乐曲“两只老虎”的前四个音符。</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>壳</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>后退指定距离</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>现在有一个新的块，可以让您改变笔的颜色：</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>画一个黄色的星形。</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>这一关既需要“else if”块，又需要“else”块。</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>“if”块里的内容只会在条件为真时才会执行。试试当左侧可以通行时，向左转。</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>合唱</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>执行</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>您在这关里已经用完了全部块。若要创建新块，您必须先删除一个已存在的块。</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>让玩家向左或向右转90度</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>点击图案来修改“if”块。</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>来回摇摆</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>文字大小</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>重置</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>让角色按照块的指令来行动。</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>“and”方块只有当其输入都为真时，结果才为真。</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>一个音高（C4用7表示）。</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>小提琴</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>向右转</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>在电影中使腿朝相反方向走一半路。</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>想要重新开始吗？</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>将一个“else”块拖入“if”块里。</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>文本</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>确认要删除您所有的解决方案吗？</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>按您的兴趣来谱曲吧。现在您拥有了大量的新块可供探索。玩得愉快！</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>吉他</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>对于每个动物（绿色），为其添加照片、选择腿的数量，并且选择它们各自的身体特征。</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>特征：</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>等待一段特定的时长。</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>使用“cannon”命令来攻击目标。第一个参数是开炮角度，第二个参数是开炮距离。找到正确的组合。</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>提交您的绘画作品到画廊里。</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>一个“函数”允许您将块组合在一起，然后多次运行它们。</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>这个目标需要射击很多轮。使用“while (true)”循环以便无限次射击。</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>这个对手也离得太远了，不能使用大炮。但是您现在血量太少，直接冲上去很难存活。所以，好的办法是向对手游过去，直到您的横坐标小于50。然后使用“stop”命令停止，并开炮射击。</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>发射大炮。指定开炮的方向（范围0-360）和距离（范围0-70）。.</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>帮助</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>这个对手如果被击中的话就会逃跑。如果逃到超出射程（70米）的话，您需要继续游向它。</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>逻辑</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>遗传学</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>返回角色的当前的生命值（0是死了，100是满血）。</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>鸟</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>给教育者的信息……</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>变量</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>运行程序</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>完美！所有%1个块都准确无误。</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>画出三个黄色的星星，还有一条白色的线。</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>还有 %1 个块没有填对。</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>在龟的朝向和位置处书写文本。</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>迷宫</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>提交至画廊</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>将笔的颜色设为</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>您的解决方案能够工作，但您可以做的更好。使用“scan”来得知大炮应该射多远。</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>返回角色的X坐标（0表示左侧边缘，100表示右侧边缘）。</target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>返回动画中的当前时间(范围0-100)。</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>钢琴</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>其他</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>这个距离就是“cannon”命令需要的精确的发射距离。</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>这个对手会来回移动，使其很难被击中。“scan”表达式能返回在特定方向上目标的距离。</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>让角色向前走一步。</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://zh.wikipedia.org/wiki/字体</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>这个新块添加了一个无声的延迟。</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>抱歉，没有任何已保存的程序对应“%1” 。</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>停止游动。角色会缓慢地停下来。</target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>让乌龟（那个圆圈和箭头）可见或者隐藏。</target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>浏览画廊</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>请求发生了问题。</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>运行您的程序直到它停下来。之后您可以提交您的音乐作品到画廊里。</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>矩形</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>如果某方向可以通行，那么就执行第一个块内的动作。否则，执行第二个块内的动作。.</target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>提交您的音乐作品到画廊里。</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>检查答案</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>在人物身后画一个渐渐变大的圆形。</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>书写</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>创建第二个开始块，它带有两个延时块，然后同样演奏“两只老虎”。</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>音乐</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>\n搜寻敌人。指定一个方向（范围是0-360）。返回在该方向上离你最近敌人的距离。如果在该方向上没有发现敌人的话，就返回无限大。 </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>让每个开始块演奏“两只老虎”两遍。</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>创建四个开始块，每个都会演奏“两只老虎”两遍。添加正确的延时块数量。</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>如果在某一特定方向可以通行，那么执行特定操作。</target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>为乐曲“两只老虎”的下一部分创建第三个函数。前四个音符更短。</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>完成“两只老虎”的整个曲子。</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>长笛</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>返回玩家的Y坐标（0表示在最底端，100表示在最顶端）。</target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>重复内部包含的动作直至到达终点。</target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>停止程序运行并重置本关。</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>为乐曲“两只老虎”的下一部分创建第二个函数。最后一个音符会更长一点。</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>鸟还没有捉到虫子时，该条件成立。</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>运行您的程序直到它停下来。之后您可以提交您的绘画作品到画廊里。</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>您可以在“重复”块中放入多个块</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>颜色</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>if-else块会根据条件是否满足，来决定执行这件事还是那件事。</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>点击"浏览画廊"按钮来浏览其他人的作品。如果您创作出了一些有趣的音乐作品，可以点击"提交至画廊"按钮来发布它。</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>使用您在上一关学到的东西来让腿交叉。</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>通过这个链接分享您编写的块：
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>您的解决方案可以工作，但您可以做的更好。使用函数减少重复代码数量。</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>保存进度，并创建链接。</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>只用两个块来走到路的尽头。使用“重复”来让一个块运行不止一次。</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>隐藏乌龟</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>在这一关里，您需要将所有方块堆叠在白色工作区内。</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>向前走</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>这一关非常困难。您也许希望跳过它并开始下一个游戏？您稍后可以再回到这关。</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>目标</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>使用简单的图形来画出这个人。</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>当点击“运行程序”按钮时，执行块内的代码。</target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>仅用四个块来绘制星形。</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>仅用三个块来绘制图形。</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>右转</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>喙</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>羽毛</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>终点y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>从这个菜单中选择您最喜欢的角色吧。</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>画一个黄色的星形，然后在它的上方画一条线。</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>将作为背景的圆放在你程序的最开头绘制，它就会显示在人的身后。</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>函数</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>当点击%1时</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>把角色放回到迷宫的起始点。</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>在一个点和另一个点之间画一条指定粗细的线</target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>线</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>点击"浏览画廊"按钮来浏览其他人的作品。如果您拍出了一些有趣的电影，可以点击"提交至画廊"按钮来发布它。</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>在指定位置画一个指定半径的圆形。</target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>给人物加一双手。</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>宽度</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>字体</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>返回角色的当前的速度（0表示正停着，100表示正全速前进）。.</target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>左转</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>运行您编写的程序。</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>清除数据</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>鼓</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>打开绘画画廊。</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>圆</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>按你的想法来创作电影吧。现在您拥有了大量的新块可供探索。玩得愉快！</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>您的电影里没有东西在运动。用这些块来制作一些有趣的东西。然后您可以提交您的电影作品到画廊里。</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>块</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>让乌龟向左或向右转动指定的角度。</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>确认</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>乌龟</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>让乌龟向前或向后移动指定的距离。</target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>使用这个块，让你能够在没抓到虫子时飞向一个方向，而抓到虫子之后飞向另一个方向。</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>你通过一行JavaScript通过了这一关：</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>你通过 %1 行JavaScript通过了这一关：</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>提起或落下笔，来停下或开始绘画。</target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>显示语言文档。</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>提交您的电影作品到画廊里。</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>向前游动，指定游动方向（范围是0-360）。</target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>你准备好下一个挑战了吗？</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>这一关是一个电影。您希望移动人物的手臂横穿屏幕。请按下播放键来观看。</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>现在有一个新的块，可以让您在移动的时候把笔从纸面上提起来，不再留下痕迹。</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>这个对手离得太远了，无法使用大炮（射程只有70米）。但是，可以使用“swim”命令开始向对手游过去，然后击溃它。</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>标题：</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>终点x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>当电影正在播放时，“time”块的值会从0增加到100。要是您希望手臂的“y”坐标从0开始运动至100，这应该会很容易办到。</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>你准备好开始第%1关了吗?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>点击"浏览画廊"按钮来浏览其他人的作品。如果您画出了一些有趣的作品，可以点击"提交至画廊"按钮来发布它。</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>取消</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>无法载入您保存的文件。可能您使用了其他版本的Blockly创建该文件？</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>休止 %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>飞行方向</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>您还剩下 %1 个块。</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>您还剩下 %0 个块。</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>您还剩下 %2 个块。</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>为未来的程序员所设计的游戏。</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>高度</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>如果右侧可以通行</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>如果左侧可以通行</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>选择一个分类以查看这些块。</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>玩家</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>更改笔的颜色。</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>创造一个函数来演奏乐曲“两只老虎”的前四个音符。运行这个函数两遍。不要增加新的音符块。</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>将笔粗设置为</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://zh.wikipedia.org/wiki/印刷</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>蜂蜜</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>用小提琴来演奏您的曲子。</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>这个新块让您能够改成另一乐器。</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>螫刺</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>您能解决这个复杂的迷宫吗？试着沿着左手边的墙一直走。仅限经验丰富的程序员！</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>提起笔</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>浏览画廊</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>向左转</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>半径</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>前进指定距离</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>改变鸟的飞行方向，让鸟捉到虫子并且飞回它的巢。</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>打开音乐画廊。</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>蜗牛</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>差不多了！还有一个块没有填对。</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>照片：</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>文本</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>鸭子</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>猫</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>蜜蜂</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>正常</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>小号</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://zh.wikipedia.org/wiki/猫</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>胆小鬼</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>浏览画廊</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>演奏%1 音高为%2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>不正确的块已经高亮显示了，再试试吧。</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>起点x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>程序是由一系列的“块”组成的。将多个“向前走”的块叠加起来，帮我走到终点。</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>提交至画廊</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>在“if”块中点击 %1 来改变它的判别条件。</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://zh.wikipedia.org/wiki/蜗牛</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>列表</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>拼图</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>设置乐器为%1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>如果您在每个起始块使用不同的乐器，音乐演奏效果会更佳。</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>“x”表示你当前的横坐标位置。使用这个块，让你在“x”小于某个数值时飞向一个方向，否则飞向另一个方向。</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>腿：</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://zh.wikipedia.org/wiki/蜜蜂</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>打开电影画廊。</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>恭喜你！</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blockly 游戏</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>画廊</target>
+      </trans-unit>
+      <trans-unit id="3616731507597101347" datatype="html">
+        <target>向您浏览器的控制台输出一个数字</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>更改笔的颜色。</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>粗体</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>想画什么就画什么吧。现在您拥有了大量的新块可供探索。玩得愉快！</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>重复直到</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>循环</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>提交至画廊</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>感谢您提供的程序！如果我们训练有素的猴子工作人员们喜欢它，它们会在几天之内把您的作品挂到画廊里去。</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>手臂运动的数学公式比较复杂。这里有答案：</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>一旦您开始编辑JavaScript，您就不能再返回块编辑模式。确定要这样做吗？</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>使用“if”块以在电影前半部分画一个小头。然后在电影后半部分画一个大头。</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>请选择...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>起点y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>“time”块的值从0增长到100。但是现在您希望另一条手臂的“y”坐标从0开始运动至100。您可以用一个简单的数学公式来让运动方向相反吗？</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>池塘教学</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>画出360条白色的线，它们看起来像是一轮满月。</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>您的程序没能解决这个谜题。点击“重置”按钮，再试一次。</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>第一部分</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>文档</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>显示乌龟</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>向着指定角度的方向飞行：0表示正右，90表示正上方，以此类推。.</target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>班卓琴</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>斜体</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>运行您的程序，看看会发生什么。</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>设置书写块使用的字体。</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>设置颜色为</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>电影</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>横坐标x和纵坐标y记录鸟的当前位置。当 x = 0 时鸟贴着左侧边缘，当 x = 100 \n时贴着右侧边缘。当 y = 0 时在最底端，当 y = 100 时在最上端。 </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>演奏一个特定持续时间和特定音高的音符。</target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>您的解决方案是可行的，但您应该可以做得更好。</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>创建一个绘制正方形的程序。</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>修改您的程序，让它绘制一个五边形而不是正方形。</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>不仅仅画一颗星，你能画出排成方形的四颗星星吗？</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>还没捉到虫子</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>画出这些星星，然后画四条白色的线。</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://zh.wikipedia.org/wiki/鸭</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>您能再加上一个黑色的圆，使月亮变成新月吗？</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>更改笔的粗细。</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>当演奏后续音符时，切换到特定乐器。</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>数学</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>等待一个全音符。</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

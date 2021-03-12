@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="eu">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Lirdinga</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>bidea badago aurrera</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>zerrenda</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>Boligrafoa behera</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Biboteak</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Ilajea</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Laukizuzen bat marraztu du zehaztutako \nkokapenean eta zehaztutako zabalera eta \naltuerarekin. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Urmaela</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Konposa itzatzu 'Frère Jacques' abestirako lehenengo lau notak.</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Oskola</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Bloke berri bat dago kolorea aldatzen ahalbidetzen dizuna:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Marrazt ezazu izar hori bat.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>'if' bloke batek zeozer egingo du bakarrik baldintza betetzen bada. Saiatu ezkerrera biratzen ezkerrera bidea baldin badago.</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>egin</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Maila honetarako existitzen diren bloke guztiak erabili dituzu. Bloke berria eratzeko, lehenengo existitzen den blokea ezabatu beharko duzu.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Pegman ezkerrerantz edo eskuinerantz 90 gradu \nbiratzen du. </target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Klikatu ikonoan 'ba' blokean aldaketak egiteko.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Pendulua</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>letraren tamaina</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Berriz hasi</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Jokalariari eginaraziko dio blokeek diotena.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Ohar bat (C4 7 da).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>bibolina</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>biratu eskuin</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Egin hankak alderantzikatzeko norabidea har dezaten filmaren erditik zehar.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Berriz hasi nahi duzu?</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>testua</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Emaitza guztiak ezabatu?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Konposa ezazu nahi duzuna. Milaka bloke berri dauzkazu exploratzeko. Ondo pasa!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>gitarra</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Animalia bakoitzari (berdea), argazkia jarri, bere hanka kopurua aukeratu, eta bere berezitasunak ere.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>ezaugarriak:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Zehaztutako iraupenaren zain dago.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Bidali zure marrazkia galeriara.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>'funtzio' batek blokeak batera pilatzea eta gero behin baino gehiagotan exekutatzea ahalbidetzen dizu.</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Laguntza</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Logika</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Genetika</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Jokalariari uneko osasuna bueltatzen zaio (0 \nhilda da, 100 osasuntsu da). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Txoria</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Informazio gehiago...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Aldagaiak</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Programa exekutatu</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Bikain!
+%1 blokeak zuzen daude.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 bloke ez dira zuzenak.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Testua irudikatzen du dordokaren norabidean eta \nharen kokapena. </target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labirintoa</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Bidali Galeriara</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>hurrengo kolorera aldatu</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Zure soluzioak funtzionatzen du, baina hobeto egin dezakezu. Erabili 'scan' cannonari zein urrun joan behar den adierazteko.</target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Animazioko oraingo denborara bueltatzen da(0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>pianoa</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>bestela</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Pegman aurreruntz tarte bat mugitzen du.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Iturri</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Bloke berri honek isiltasun atzerapena gehitzen du.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Barkatu, «%1» ez dator bat gordetako ezein programarekin.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Gelditu igeriketa. Jokalaria gelditu egingo da \nstopean. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Dordoka (borobila eta gezia) ikusgarri ala \nikustezin egin du. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Ikusi galeria</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Eskaerarekin arazo bat egon da.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Exekutatu programa gelditu arte. Ondoren, zure musika galeriara bidal dezakezu.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>laukizuzena</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Esandako norantzan bidea badago, \nekintzen lehenengo blokea burutu. \nBestela, ekintzen bigarren blokea \nburutu. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Bidali zure musika galeriara.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Erantzunak egiaztatu</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Marraztu zabaltzen den borobila pertsonaren atzean.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>inprimatu</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>Bigarren hasiera blokea sortu bi atzerapen bloke dituena, gero ere 'Frère Jacques' jotzen duena.</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Musika</target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Hasiera bloke bakoitzak 'Frère Jacques' jo beharko luke birritan.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Sortu lau hasiera blokeak bakoitzak 'Frère Jacques' birritan jotzen duena. Gehitu atzerapen bloke kantitate zuzena.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Esandako norantzan bidea badago, \nekintza batzu burutu. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Sortu hirugarren funtzio bat 'Frère Jacques' abestiaren hurrengo atalerako. Lehenengo lau notak laburragoak dira.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Osatu 'Frère Jacques' melodia osoa.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>txirula</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Jokalariaren Y koordenada bueltatzen da (0 \nbeheko muturra da, 100 goiko muturra da). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Errepikatu barruko ekintzak bukaera punturaino \niritsi arte. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Gelditu programa eta berrezarri maila.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Sortu bigarren funtzio bat 'Frère Jacques' abestiaren hurrengo atalerako. Azken nota luzeagoa da.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Txoriak zizarea lortu ez dueneko baldintza.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Exekutatu zure programa gelditu arte. Ondoren, zure marrazkia galeriara bidal dezakezu.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>'errepikatu' bloke baten barruan bloke bat baino gehiago erabili dezakezu.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Kolorea</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>If-else blokeek gauza bat edo bestea egingo dute.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Erabili aurreko mailan ikasi zenuena hankak gurutzarazteko.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Elkarbanatu blokeak lotura honekin:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Zure soluzioak funtzionatzen du, baina hobe egin dezakezu. Erabili kudeaketa funtzioak errepikatutako kode kopurua txikitzeko.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Gorde eta lotura sortu.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Ordenagailuek memoria-kantitate mugatua dute. Saia zaitez bide honen bukaerara iristen soilik bi bloke erabiliz. Bloke bat behin baino gehiagotan erabiltzeko, erabili 'errepikatu'.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>ezkutatu dortoka</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Maila honetan, bloke guztiak lan-eremu txurian pilatu behar dituzu.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>mugi aurrera</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Maila hau izugarri zaila da. Nahiko zenuke salto egin hurrengo jokora? Nahi izanez gero, itzul zaitezke geroago.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Jomuga</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Erabil itzazu forma sinpleak pertsona hau marrazteko.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>Barruko blokeak exekutatzen ditu 'Programa \nexekutatu' botoia sakatzen duenean </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Marraz ezazu izarra lau blokerekin besterik ez.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Marraz ezazu forma hiru blokerekin besterik ez.</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Mokoa</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Lumak</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>amaiera y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Hauta ezazu zure jokalaririk gogokoena menu honetatik.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Marraz ezazu izar hori bat, gero marraztu marra bat haren gain.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Mugitu atzealdeko borobila zure programako goialdera. Orduan pertsonaren atzean agertuko da.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Prozedurak</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>%1 sakatzen duenean</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Jarri berriz jokalaria labirintoaren hasieran.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Puntu batetik bestera marra bat marraztu du \nzehaztutako zabalerarekin. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>lerroa</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Borobil bat marraztu du zehaztutako kokapenean \neta zehaztutako erradioarekin. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Pertsonari esku pare bat ematen dio.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>zabalera</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>letra mota</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Jokalaria uneko abiadurara bueltatzen da (0 \ngeldi da, 100 guztizko abiadura da). </target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Marraz ezazu nahi duzunari buruzko filma. Milaka bloke berri dauzkazu exploratzeko. Ondo pasa!</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Zuk idatzitako programa exekutatu.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Datuak ezabatu</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>danborra</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Marrazkien galeria ireki.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>zirkulua</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Zure pelikula ez da mugitzen. Erabil itzazu blokeak zerbait interesgarria sortzeko. Orduan pelikula bidali ahalko duzu galeriara.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Blokeak</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>Ados</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Dortoka</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>tronpeta</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Maila hau gainditu duzu JavaScript lerro bat erabiliz:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Maila hau gainditu duzu %1 JavaScript lerro erabiliz:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Boligrafoa igotzen ala jaisten du, \nmarrazten hasteko ala marrazteari \nuzteko. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Hizkuntza dokumentazioa erakutsi.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Bidali zure filma galeriara.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Igeri egin aurrera. Zehaztu norabidea (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Prest zaude hurrengo erronkarako?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Maila hau film bat da. Pertsonaren besoa pantailatik zehar mugi dadin nahi duzu. Sakatu play botoia aurreikuspena ikusteko.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Bloke berri bat dago mugitzean boligrafoa paperetik altxatzea ahalbidetzen dizuna:</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Izenburua:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>amaiera x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Filma martxan dagoen bitartean, 'denbora' balioak zenbatzen du 0tik 100era. Besoaren 'y' posizioa 0tik hastea eta 100era joatea nahi zenuenez gero hau erraza izan beharko litzateke.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Prest zaude %1. mailarako?</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Utzi</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Ezin izan da zure fitxategia kargatu. Agian Blockly-ren beste bertsio batekin sortua izan zen?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>%1 falta da</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>goiburua</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Bloke %1 geratzen da.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>%0 bloke geratzen dira.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>%2 bloke geratzen dira.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Biharko programatzaileentzako jokoak.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>garaiera</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>bidea badago eskuinera</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>bidea badago ezkerrera</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Hautatu kategoria blokeak ikusteko.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Jokalaria</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Boligrafoaren kolorea aldatzen du.</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Sortu funtzio bat 'Frère Jacques' abestiaren lehenengo lau notak jotzeko. Exekutatu funtzio hori birritan. Ez gehitu ohar bloke berririk.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>Aldatu pisua hurrengora</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://eu.wikipedia.org/wiki/Inprimatze</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Eztia</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Jo ezazu zure melodia bibolinarekin.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Bloke berri honek beste instrumentu batera aldatzea ahalbidetzen dizu.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Eztena</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Labirinto zail honi irtenbidea aurkitu diezaiokezu? Saia zaitez ezker-pareta jarraitzen.</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>Boligrafoa gora</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Ikusi galeria</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>biratu ezker</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>erradioa</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>abesbatza</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Ireki musika galeria.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Barraskiloa</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Ia-ia! Bloke bat ez dago ondo.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>irudia:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Testua</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Ahatea</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Katua</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Erlea</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normala</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://eu.wikipedia.org/wiki/Katu</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Beldurtuta</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Ikusi Galeria</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>jo %1 %2 ohar</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Markatuta agertzen den blokea ez da zuzena.
+Saiatu berriro.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>hasiera x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Elkartu 'mugi aurrera' bloke pare bat helmugara iritsi ahal izateko.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Bidali galeriara</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Jokalariaren X koordenada bueltatzen da (0 \nezkerreko muturra da, 100 eskumako muturra \nda). </target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://eu.wikipedia.org/wiki/Barraskilo</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Zerrendak</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Puzzle</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>Aldatu tresna %1(e)ra</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>Musika hobeto entzungo da hasiera bloke bakoitzean instrumentu ezberdina erabiltzen baduzu.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>hankak:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://eu.wikipedia.org/wiki/Erle</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Ireki filmen galeria.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Zorionak!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blocky Jokoak</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Galeria</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Boligrafoaren kolorea aldatzen du.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>Lodia</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Marraz ezazu nahi duzuna. Milaka bloke dauzkazu exploratzeko. Ondo pasa!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>arte errepikatu</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Begiztak</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Bidali galeriara</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Eskerrik asko programa honengatik! Gure tximino langile talde prestatuak gustoko badu, argitaratuko dute galerian egun batzuren buruan.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>Besorako formula matematikoa zaila da. Hona hemen erantzuna:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Behin Java Script aldatzen hasi, ezingo duzu atzera egin aldatze blokeetara. Ados zaude honekin?</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>aukeratu...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>hasiera y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>'denbora' blokeak 0tik 100era zenbatzen du. Baina orain besoaren 'y' posizioa 100ean hasi eta 0ra joan dadin nahiko zenuke. Norabide honetara iraul dadin formula matematiko sinplea irudika dezakezu?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Putzu Tutorea</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>360 marra zuri marrazterakoan ilbetearen antza izango du.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Zure programak ez du labirintoa ebatzi. Sakatu 'Reset' eta saiatu berriz.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>lehenengo atala</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Dokumentazioa</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>erakutsi dortoka</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>italikoa</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Zure programa exekutatu ikusteko zer gertatzen den.</target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>banjoa</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>hurrengo kolorera aldatu</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Filma</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Marraz itzazu hiru izar hori eta marra zuri bat.</target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Zehaztutako iraupena eta tonua duen nota \nmusikala jotzen du. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Zure soluzioak funtzionatzen du, baina hobeto egin dezakezu.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Sortu karratua marrazten duen programa.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Alda ezazu zure programa pentagonoa marrazteko karratuaren ordez.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Izar baten ordez, lau izar karratu batean kokatuta marraz ditzakezu?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>Ez dauka zizarerik</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Marraz itzazu izarrak, gero marraztu lau marra zuri.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://eu.wikipedia.org/wiki/Ahate</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Gehi dezakezu borobil beltza ilargia ilgora bilaka dadin?</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>Zehaztutako instrumentura aldatzen da ondorengo \nmusika notak jotzen direnean. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matematika</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Ohar oso baten zain dago.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

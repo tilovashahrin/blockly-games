@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="hi">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>कीचड़</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>यदि पथ आगे है तो</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>सूची</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>पेन नीचे करें</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>मूंछ</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>फर</target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>तालाब</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>खोल</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>पीला सितारा बनाएँ</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>एक 'अगर' ब्लॉक केवल तभी कुछ करेगा जब स्थिति सही हो। यदि बाईं तरफ एक पथ है तो बाएं मुड़ने का प्रयास करें।</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>करें</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>आपने इस स्तर के सभी ब्लॉकों का इस्तेमाल किया है। एक नया ब्लॉक बनाने के लिए, आपको पहले एक मौजूदा ब्लॉक को हटाना होगा।</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>खिलाड़ी को 90 डिग्री बाईं या दाईं तरफ घुमाता है।.</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>फ़ॉन्ट का माप</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>रीसेट करें</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>ब्लॉक जो बतातें हैं उसे खिलाड़ी से करवाता है।.</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>इतने तक पीछे हटें</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>दाएँ मुड़ें</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>फिर से शुरू करना चाहते हैं?</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>लक्ष्य</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>टेक्स्ट</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>आपके सारे हल मिटा दें?</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>प्रत्येक जानवर (हरा) के लिए, इसकी तस्वीर संलग्न करें, इसकी पैरों की संख्या चुनें, और अपने गुणों का एक ढेर बनाएं।</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>लक्षण:</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>अपना चित्र रेडिट में भेजें</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>सहायता</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>तर्क</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>आनुवंशिकी</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>पक्षी</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>अधिक जानकारी...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>चर</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>प्रोग्राम चलाएँ</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>बहुत बढ़िया!
+सभी %1 ब्लॉक सही हैं।</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>तीन पीले सितारे और एक सफ़ेद रेखा बनाएँ</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 ब्लॉक गलत हैं।</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>भूलभुलैया</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>रंग को इतना निर्धारित करें</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>अन्य</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>खिलाड़ी को एक स्थान आगे ले जाता है।.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>खेद है, '%1' किसी सेव किए गए प्रोग्राम से संबंधित नहीं है।</target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>कछुए को (सर्कल और तीर) दृश्य या अदृश्य बनाता है।.</target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>गैलरी देखें</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>अनुरोध के साथ समस्या हुई।</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>अगर निर्दिष्ट दिशा में एक पथ है, \nतो कार्य का पहला ब्लॉक करें। अन्यथा, \nकार्रवाई के दूसरे ब्लॉक करें। </target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>उत्तर जांच करें</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>प्रिंट करें</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>संगीत</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>यदि निर्दिष्ट दिशा में एक पथ है, \nतो कुछ क्रियाएं करें। </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>समापन बिंदु को दोहराएं जब तक पूरा बिंदु तक पहुंच \nनहीं हो। </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>कार्यक्रम को बंद करें और स्तर रीसेट करें।.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>स्थिति जब पक्षी को कीड़ा नहीं मिला है।.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>आप 'दोहराने' ब्लॉक के अंदर एक से अधिक ब्लॉक फिट कर सकते हैं।</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>रंग</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>यदि अन्य ब्लाक एक काम या अन्य काम करेंगे।</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>इस लिंक के साथ का अपने ब्लॉक का साझा करें:
+
+ %1</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>सेव करें और ब्लॉक से लिंक करें।.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>केवल दो ब्लॉकों का उपयोग करके इस रास्ते के अंत तक पहुंचें। एक बार से अधिक एक बार चलाने के लिए 'दोहराने' का प्रयोग करें</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>कछुआ छुपाएँ</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>इस स्तर पर, आपको सफेद कार्यक्षेत्र में सभी ब्लॉकों को एक साथ ढेर करने की आवश्यकता है।</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>आगे बढ़ें</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>यह स्तर बेहद मुश्किल है। क्या आप इसे छोड़ना चाहते हैं और अगले खेल पर जाना चाहेंगे? आप हमेशा बाद में वापस आ सकते हैं।</target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>केवल चार खानों से एक सितारा बनाएँ।</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>इतने तक दाएँ मुड़ें</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>चोंच</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>पंख</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>इस मेन्यू से अपना पसंदीदा खिलाड़ी चुनें।</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>प्रोसीजर</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>खिलाड़ी को भूलभुलैया के शुरू में वापस रखें।.</target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>रेखा</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>चौड़ाई</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>फ़ॉन्ट</target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>इतने तक बाएँ मुड़ें</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>आपने जो लिखा है, उसे रन करें।</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>डाटा साफ करें</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>घेरा</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>अवरोध</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>ओके</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>कछुआ</target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>यदि आपके पास कीट है, या एक अलग शीर्षक अगर आपके पास कीट नहीं है, तो एक ब्लॉक में जाने के लिए इस ब्लॉक का उपयोग करें।</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>आपने 1 पंक्ति जावास्क्रिप्ट के साथ इस स्तर को हल किया:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>आपने %1 स्तर जावास्क्रिप्ट पंक्ति के साथ इस स्तर को हल किया:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>ड्रॉइंग को बंद या चालू करने के लिए पेन को उपर या \nनीचे करता है। </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>क्या आप अगली चुनौती के लिए तैयार हैं?</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>क्या आप स्तर %1 के लिए तैयार हैं?</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>रद्द करें</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>आपकी सेव की गई फ़ाइल लोड नहीं हो सकी।  शायद यह ब्लॉकली के किसी भिन्न संस्करण के साथ बनाई गयी थी?</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>शीर्षक</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>आपके पास %1 ब्लॉक बचें हैं।</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>आपके पास %0 ब्लॉक बचें हैं।</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>आपके पास %2 ब्लॉक बचें हैं।</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>भविष्य के प्रोग्रामरों के लिए बना खेल</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>ऊँचाई</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>यदि पथ दाएँ है तो</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>यदि पथ बाएं है तो</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>खिलाड़ी</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>पेन का रंग बदलता है।</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>चौड़ाई को इतना निर्धारित करें</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>शहद</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>डंक</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>क्या आप इस जटिल भूलभुलैया को हल कर सकते हैं? बाईं ओर की दीवार का पालन करने का प्रयास करें। उन्नत प्रोग्रामर केवल!</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>पेन उठाएँ</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>गैलरी देखें</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>बाएँ मुड़ें</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>इतने तक आगे बढ़ें</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>पक्षी को अपने घोंसले में भूमिगत कीड़े प्राप्त करने के लिए शीर्षक कोण को बदले।</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>घोंघा</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>लगभग हो गया! एक ब्लॉक गलत है।</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>तस्वीर:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>टेक्स्ट</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>पंख</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>बिल्ली</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>मधुमक्खी</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>सामान्य</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://hi.wikipedia.org/wiki/बिल्ली</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>हाइलाइट किए गया ब्लॉक सही नहीं है।
+कोशिश करते रहें।</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>लक्ष्य पर पहुंचने में मेरी मदद करने के लिए एक साथ 'आगे बढ़ने' के एक-एक ब्लॉक को ढेर कर दें।</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>गैलरी में भेजें</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>इसकी स्थिति बदलने के लिए 'if' ब्लॉक में %1 पर क्लिक करें।</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://hi.wikipedia.org/wiki/स्थलीय_घोंघा</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>सूचियाँ</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>पहेली</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>पैर:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://hi.wikipedia.org/wiki/मधुमक्खी</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>बधाई हो!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>ब्लोक्ली गेम</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>गहरा</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>जब तक दोहराएँ</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>लूप</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>गैलरी में भेजें</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>एक बार जब आप जावास्क्रिप्ट को शुरू करते हैं, तो आप संपादन ब्लॉकों पर वापस नहीं जा सकते। क्या यह ठीक है?</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>चुनें...</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>इस व्यक्ति का चित्र बनाने के लिए सामान्य आकार का उपयोग करें।</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>तालाब अनुशिक्षक</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>सफ़ेद रेखा से 360 में चित्र बनाने से वो एक पूरे चाँद के जैसा दिखेगा।</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>आपके प्रोग्राम ने भूलभुलैया का समाधान नहीं किया। 'रीसेट' दबाएं और फिर से प्रयास करें।</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>कछुआ दिखाएँ</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>दिए गए कोण की दिशा में आगे बढ़ें: 0 सीधे रास्ते \nपर है, 90 सीधे ऊपर है, आदि। </target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>तिरछा</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>क्या होगा देखने के लिए अपने प्रोग्राम को चलाएँ।</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>प्रिंट ब्लॉक के द्वारा इस्तेमाल होने वाला फ़ॉन्ट \nसेट करता है। </target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>चाल</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>एक्स और वाई, पक्षी की स्थिति को चिह्नित करें। जब \nएक्स = 0 पक्षी बायीं किनार के पास होता है, जब एक्स \n= 100 यह दाहिने किनारे के पास है जब y = 0 पक्षी \nनीचे होता है, जब y = 100 शीर्ष पर होता है </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>आपका हल काम कर रहा है, लेकिन आप उससे अच्छा भी कर सकते हैं।</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>चतुर्भुज बनाने के लिए प्रोग्राम बनायें।</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>चतुर्भुज के जगह पंचभुज बनाने के लिए अपने प्रोग्राम में बदलाव करें।</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>कीड़ा नहीं है</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>सितारा बना कर चार सफेद रेखा भी बना दें।</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://hi.wikipedia.org/wiki/बत्तख</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>क्या आप काला घेरा जोड़ सकते हैं, जिससे चाँद आधा कटा हुआ दिखे?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>पेन की चौड़ाई बदलता है।</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>गणित</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

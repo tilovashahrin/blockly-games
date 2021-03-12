@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="my">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>အကျိအချွဲ</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>အကယ်၍ လမ်းကြောင်းသည် ရှေ့တွင်ရှိပါက</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>စာရင်း</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>ညွှန်ပြသည့်အတံ</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>နှုတ်ခမ်းမွေး</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>သားမွေး</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>အထူးတည်နေရာတစ်ခုမှ အထူးအလျားနှင့်အမြင့်ဖြင့် \nစတုရန်းတစ်ခုဆွဲပါ။ </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>ရေကန်</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>အခွံ</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>ဖြင့် အနောက်ကိုရွှေ့ပါ။</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>အရောင်ပြောင်းလဲခွင့်ပြုသည့် block အသစ်တစ်ခုရှိသည်။</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>အဝါရောင်ကြယ်တစ်ခုဆွဲပါ။</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>ဤအဆင့်တွင် အကယ်၍နောက်ထပ် နှင့် နောက်ထပ် block ၂ ခုလုံးလိုအပ်သည်။</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>အကယ်၍ block သည် အခြေအနေတစ်ခု မှန်ကန်သည့်အချိန်တွင်မှ အလုပ်လုပ်နိုင်သည်။ အကယ်၍ ဘယ်ဘက်တွင် လမ်းကြောင်းရှိပါက ဘယ်ဘက်သို့လှည့်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>လုပ်ဆောင်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>ဤအဆင့်အတွက် block များအားလုံးကို သင်အသုံးပြုလိုက်ပြီးပါပြီ၊ Block အသစ်တစ်ခုဖန်တီးရန်</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>ကစားသမားကို ၉၀ ဒီဂရီ ဘယ် သို့မဟုတ် ညာဘက် \nသို့လှည့်ခိုင်းပါ။ </target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>အကယ်၍ block ကို အထူးပြုလုပ်ရန်အတွက် icon ကိုနှိပ်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>နာရီချိန်သီး</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>font အရွယ်အစား</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>ပြန်စမည်။</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Block များပြောသည့်အတိုင်း ကစားသမားကို \nလိုက်လုပ်စေပါ။ </target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>နှင့် block များသည် ၎င်း၏ သွင်းအားစုများ မှန်ကန်မှသာလျှင် မှန်ကန်နိုင်သည်။</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>တယော</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>ညာဘက်လှည့်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>ရုပ်ရှင်ထက်ဝက်ခန့်တွင် ခြေထောက်များကို ဦးတည်ရာပြောင်းပြန် လုပ်လိုက်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>အစကနေပြန်စလိုပါသလား။</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>နောက်ထပ် block ကို အကယ်၍ block အတွင်းသို့ဆွဲယူထည့်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>စာသား</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>သင်ဖြေရှင်းထားမှုများအားလုံး ဖျက်လိုပါသလား။</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>ဂစ်တာ</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>တိရိစ္ဆာန်တစ်ကောင်ချင်းစီအတွက် (အစိမ်းရောင်)၊ ၎င်း၏ပုံတွင်တွဲပါ၊ ၎င်း၏ခြေထောက်အရည်အတွက်ကိုရွေးချယ်ပါ၊ ထို့နောက် ၎င်းဉာဉ် အမြောက်အများပြုလုပ်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>ဉာဉ်/ အကျင့်</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>အမြောက် ကိုအမိန့်ပေးပြီး ပစ်မှတ်ကိုပစ်ပါ။ ပထမဦးဆုံးအကန့်အသတ်မှာ ထောင့်ဖြစ်သည်။ ဒုတိယ အကန့်အသတ်မှာ အကွာအဝေးဖြစ်သည်။ မှန်ကန်သော ပေါင်းစပ်မှုကိုရှာဖွေပါ။</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>သင်ဆွဲထားသောပုံကို Reddit ပေါ်တင်ပါ။.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>ပစ်မှတ်သည်အကြိမ်များစွာထိမှန်ရန်လိုအပ်ပါသည်။ while (true) ကိုအသုံးပြုပြီး မတိကျမသေချာသည့် အရာတစ်ခုပြုလုပ်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>အမြောက်ကိုအသုံးပြုရန်အတွက် ပြိုင်ဘက်သည်ဝေးလွန်းနေသည်။ သို့သော်လည်း တိုက်ခိုက်မှုတွင် သင်အသက်ရှင်ကျန်ရစ်ရန်အတွက် အားနည်းလွန်းနေသည်။ သင်၏ ရေပြင်ညီတည်နေရာ ၅ဝထက်လျော့ပါက ပြိုင်ဘက်ထံသို့ကူးခတ်သွားပါ။ ထို့နောက်ရပ်ပြီး အမြောက်ကိုအသုံးပြုပါ။</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>အမြောက်ပစ်ပါ။ (၀ - ၃၆၀) နှင့် (၀ - ၇၀) ကြား \nဦးတည်ရာကိုသတ်မှတ်ပါ။ </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>အကူအညီ</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>တိုက်မိသည့်အချိန်တွင် ပြိုင်ဘက်ကစားသမားသည် ထွက်ပြေးသွားမည်ဖြစ်သည်။ အပိုင်းအခြားထက်ကျော်လွန်ပါက ၎င်းထံသို့ကူးခတ်သွားပါ။ (မီတာ ၇၀)</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>ယုတ္တိ</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>မျိုးဗီဇ</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>ကစားသမား၏ လက်ရှိကျန်းမာရေးအခြေအနေထံပြန်သွားပါ။ \n(၀ သည် သေဆုံးခြင်းဖြစ်သည်၊ ၁၀၀ သည် \nကျန်းမာရေးကောင်းမွန်နေသည်။) </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>ငှက်</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>နောက်ထပ်သတင်းအချက်အလက်များ။</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>အမျိုးမျိုးပြောင်းလဲနိုင်သော</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Program run ပါ။</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>ပြီးပြည်စုံပါတယ်၊ 
+All %1 block များအားလုံးမှန်ကန်ပါသည်။</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>အဝါရောင်ကြယ်သုံးခုဆွဲပါ၊ ထို့နောက်အဝါရောင်မျဥ်းတစ်ကြောင်းဆွဲပါ။</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 block များမမှန်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>ပင်လယ်လိပ်၏ လားရာကို ၎င်း၏ တည်နေရာမှ \nစာသားရေးဆွဲပါ။ </target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>ဝင်္ကဘာ</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>ပြခန်းပေါ်တင်မည်</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>အရောင်ကိုထားမည်။</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>သင်၏ ဖြေရှင်းမှုအလုပ်ဖြစ်ပါသည်၊ သို့သော သင့်အနေဖြင့် ဤထက်ကောင်းမွန်အောင်ပြုလုပ်နိုင်ပါသေးသည်။ Scan ကိုအသုံးပြုပြီး အမြှောက်ကို မည်မျှဝေးဝေးသွားမည်ကို သတ်မှတ်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>လှုပ်ရှားမှုရုပ်ပုံများထဲမှ \nလက်ရှိအချိန်ကိုပြန်သွားပါ။ (၀ \n- ၁၀၀) </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>လှုပ်ရှားမှုရုပ်ပုံများထဲမှ \nလက်ရှိအချိန်ကိုပြန်သွားပါ။ (၀ \n- ၁၀၀) </target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>ပီယာနို</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>နောက်ထပ်</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>ဤကြားအကွားအဝေးသည် သေချာတိကျစွာ အမြောက်ပစ်လွှတ်နိုင်ရန်ဖြစ်သည်။</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>ပြိုင်ဘက်သည် ရှေ့နောက်ရွေ့လျားပြီး ထိမှန်ရန်ခက်ခဲအောင်ပြုလုပ်နေသည်။ Scan ကိုအသုံးပြုခြင်းသည် ပြိုင်ဘက်၏ အကွာအဝေးအတိအကျကို သတ်မှတ်ပေးသည်။</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>ကစားသမားကို တစ်နေရာစာ ရှေ့သို့သွားခိုင်းပါ။.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>စိတ်မကောင်းပါဘူး '%1' နှင့် ဆင်တူသည့် သိမ်းဆည်းပြီးသား program မရှိပါ။</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>ကူးခတ်တာရပ်ပါ။ ကစားသမားသည် \nရပ်ရန်အတွက်အရှိန်လျှော့မည်။ </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>ပင်လယ်လိပ်ကို (စက်ဝိုင်းနှင့် မြှား) မြင်ရအောင် \nသို့မဟုတ် မမြင်ရအောင် ပြုလုပ်မည်။ </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>ပြခန်းတွင်ကြည့်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>တောင်းဆိုမှုတွင် ပြဿနာရှိနေပါသည်။</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>သင်၏ ပရိုဂရမ်ကို ရပ်သွားသည်အထိ လည်ပတ်ပါစေ။ ထို့နောက် သင်၏သီချင်းကို ပြခန်းတွင် တင်နိုင်ပါပြီ။</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>စတုရန်း</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>အကယ်၍ အထူးပြုဦးတည်လားရာတွင် \nလမ်းကြောင်းတစ်ခုရှိပြီးပါက၊ \nလုပ်ဆောင်ချက်များ၏ ပထမ Block \nကိုပြုလုပ်ပါ။ ထိုသို့မဟုတ်ပါက \nလုပ်ဆောင်ချက်များ၏ ဒုတိယ Block \nကိုပြုလုပ်ပါ။ </target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>အဖြေများကို စစ်ဆေးပါ။</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>လူပုဂ္ဂိုလ်နောက်ကျောတွင် ကျယ်ကားလာသည့်စက်ဝိုင်းတစ်ခုကို ဆွဲလိုက်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>ပရင့်ထုတ်</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>ဂီတ</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>ရန်သူကိုရှာဖွေပါ၊ တိကျသော ဦးတည်ရာကိုသတ်မှတ်ပါ (၀ \n- ၃၆၀) ဦးတည်ရာကိုသတ်မှတ်ပါ။ ထိုဦးတည်ရာအတွင်းမှ \nအနီးဆုံးရန်သူထံချဉ်းကပ်ပါ။ အကယ်၍ရန်သူမတွေ့ပါက \nအဆုံးအစမရှိသည့်အခြေအနေသို့ပြန်သွားပါ။ </target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>အကယ်၍ အထူးပြုဦးတည်လားရာတွင် \nလမ်းကြောင်းတစ်ခုရှိပြီးပါက </target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>ပလွေ</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>ကစားသမား၏ Y ညွှန်းကိန်းထံသို့ပြန်ပါ။ (၀ သည် \nအောက်ခြေအစွန်တွင်ရှိသည်၊ ၁၀၀ သည် \nထိပ်အစွန်တွင်ရှိသည်။) </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>ဆုံးမှတ်ရောက်သည်အထိ \nလုပ်ဆောင်ချက်များကိုထည့်သွင်းပြီး \nထပ်ခါထပ်ခါပြုလုပ်ပါ။ </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>ပရိုဂရမ်ကိုရပ်ပြီး ဤအဆင့်ကိုပြန်စမည်။.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>ငှက်အနေဖြင့် တီကောင်မရရှိထားသည့် အခြေအနေတွင်။.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>သင်၏ ပရိုဂမ် ရပ်သွားသည်အထိ လည်ပါတ်နေပါစေ။ ထို့နောက် သင်ဆွဲထားသောပုံကို ပြခန်းတင်နိုင်ပါပြီ။</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>ထပ်ခါထပ်ခါပြုလုပ်သည့် block တစ်ခုထဲတွင် တစ်ခုထက်ပိုသော block များသင့်အနေဖြင့်ထည့်သွင်းနိုင်သည်။</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>အရောင်</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>အကယ်၍ block များ တစ်ခု သို့မဟုတ် အခြားအရာများ လုပ်ဆောင်မည်ဆိုပါက</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>ပြီးခဲ့သည့် အဆင့်တွင် သင်သင်ယူခဲ့သည့်အရာကို အသုံးပြုပြီး ခြေထောက်များ ကြက်ခြေခတ်ဖြစ်အောင် ပြုလုပ်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>ဤလင့်ခ်ဖြင့် သင့် block များကိုဝေမျှပါ။
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>သိမ်းဆည်းပြီး ဘလောက်များဖြင့်ချိတ်ဆက်ပါ။.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Block ၂ ခုသာအသုံးပြုပြီး ဤလမ်းကြောင်း၏ အဆုံးကိုသွားပါ၊ ထပ်ခါထပ်ခါပြုလုပ်ပြီး block တစ်ခုကို တစ်ကြိမ်ထက်ပို၍ လည်ပါတ်ခိုင်းပါ။</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>ပင်လယ်လိပ်ကို ဖွက်ထားမည်။</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>ဤအဆင့်တွင် block များအားလုံးကို တစ်စုတစ်စည်းထဲ အလုပ်လုပ်မည့် အဖြူရောင်အကွက်ထဲတွင် ထားရှိရမည်။</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>အရှေ့သို့ရွှေ့ပါ။</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>ဤအဆင့်သည် အလွန်အမင်းခက်ခဲပါသည်။ ဤအဆင့်ကိုကျော်သွားပြီးအခြားဂိမ်းတစ်ခုသွားလိုပါသလား။ နောင်တွင်လည်း ဤအဆင့်သို့ပြန်လာနိုင်ပါသည်။</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>ဦးတည်ချက်</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>ဤလူ၏ပုံကိုဆွဲရန် ရိုးရှင်းသောရုပ်ပုံများကို အသုံးပြုပါ။</target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Block လေးခုသာအသုံးပြုပြီး ကြယ်ပုံဆွဲပါ။</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Block သုံးခုကိုသာအသုံးပြုပြီး ပုံစံတစ်ခုဆွဲပါ။</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>ဖြင့် ညာဘက်လှည့်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>နှုတ်သီး</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>အမွေးအတောင်များ</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>y ဖြင့်ဆုံးပါ။</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>ဤစာရင်းတွင်းမှ သင့်အကြိုက်ဆုံးကစားသမားကို ရွေးချယ်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>အဝါရောင်ကြယ်အသေးလေးတစ်ခုဆွဲပါ။  ထို့နောက် ၎င်းအပေါ်တွင် မျဉ်းတစ်ကြောင်းဆွဲပါ။</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>လုပ်ဆောင်ချက်များ</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>ဝင်္ကဘာ၏ အစသို့ကစားသမားကိုပြန်ပို့ပါ။.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>အမှတ်တစ်ခုမှတစ်ခုသို့အထူးအလျားဖြင့် \nမျဉ်းတစ်ကြောင်းဆွဲပါ။ </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>မျဉ်းကြောင်း</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>အောက်ခြေတွင် အခြားသူများ ပြုလုပ်ထားသည့် ရုပ်ရှင်များကိုကြည့်ရန် "ပြခန်းထဲတွင်ကြည့်ပါ" ကိုအသုံးပြုပါ။ အကယ်၍ သင်သည် စိတ်ဝင်စားစရာ ရုပ်ရှင်တစ်ခုပြုလုပ်ထားပါက "ပြခန်းသို့ ထည့်သွင်းပါ" ကိုအသုံးပြု၍ လွှင့်တင်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>အထူးတည်နေရာတစ်ခုမှ အထူးအချင်းဝက်ဖြင့် \nစက်ဝိုင်းပုံတစ်ပုံဆွဲပါ။ </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>လူပုဂ္ဂိုလ်အား လက်နှစ်ချောင်း ပေးလိုက်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>အလျား</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>ဖောင့်</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>ကစားသမား၏ လက်ရှိအရှိန်ထံပြန်သွားပါ။ (၀ \nသည်ရပ်နေခြင်းဖြစ်သည်၊ ၁၀၀ သည် \nအရှိန်အပြည့်ဖြစ်သည်။) </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>အားဖြင့် ဘယ်ဘက်လှည့်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>သင်ရေးထားသော program ကို run ပါ။.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Data များရှင်းလင်းမည်။</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>ဒရမ်</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Reddit ပေါ်တွင် ဆွဲထားသောပုံများကို \nပြခန်းပေါ်တွင်ဖွင့်ပါ။ </target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>စက်ဝိုင်း</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>သင့်စိတ်ကြိုက်ရုပ်ရှင်တစ်ခုဖန်တီးပါ။ သင့်ထံတွင် စိတ်ကြိုက်လေ့လာစူးစမ်းနိုင်သော block အသစ်ပေါင်းများစွာရရှိထားပါပြီ။ ပျော်ရွှင်ပါစေ။</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>သင်၏ရုပ်ရှင်လှုပ်ရှားမှုမရှိပါ၊ Block များကိုအသုံးပြုပြီး စိတ်ဝင်စားစရာတစ်ခုခုပြုလုပ်ပါ၊ ထို့နောက် သင်၏ ရုပ်ရှင်ကို ပြခန်းပေါ်တွင်တင်နိုင်ပါပြီ။</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Blocks</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>တိကျသော ဒီဂရီကဏန်းတစ်ခုဖြင့် ပင်လယ်လိပ်ကို \nဘယ်ဘက် သို့မဟုတ် ညာဘက်သို့လှည့်ပါ။ </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>အိုကေ</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>ပင်လယ်လိပ်</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>တိကျသော ပမာဏတစ်ခုဖြင့် ပင်လယ်လိပ်ကို \nအရှေ့သို့မဟုတ် အနောက် ကိုရွှေ့ပါ။ </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>အကယ်၍ တီကောင်ရရှိပြီးပါက ဤ block ကိုအသုံးပြုပြီး ဦးတည်ရာတစ်ခုတွင်းသို့ဝင်သွားပါ။ သို့မဟုတ် တီကောင်မရရှိသေးပါက မတူညီသည့် ဦးတည်ရာဘက်သို့သွားလိုက်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>သင် ဤအဆင့်ကို JavaScript 1 line ဖြင့်ဖြေရှင်းလိုက်ပါပြီ။</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>သင် ဤအဆင့်ကို JavaScript %1 lines ဖြင့်ဖြေရှင်းလိုက်ပါပြီ။</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>ပုံဆွဲခြင်းရပ်ရန် သို့မဟုတ် စရန်အတွက် Pen ကို \nမြှင့်မည် သို့မဟုတ် နိမ့်မည်။ </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>ဘာသာစကား သိမ်းဆည်းမှုများကိုပြပါ။.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>ပြခန်းသို့ သင်၏ရုပ်ရှင်ကိုတင်ပါ။.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>ရှေ့သို့ကူးခတ်ပါ။ ဦးတည်ရာသတ်မှတ်ပါ (၀ - ၃၆၀).</target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>စိန်ခေါ်မှုနောက်တစ်ခုအတွက် သင်အဆင်သင့်ဖြစ်ပြီလား။</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>ဤအဆင့်သည် ရုပ်ရှင်တစ်ခုဖြစ်သည်။ သင်သည် လူပုဂ္ဂိုလ်၏လက်မောင်းကို မျက်နှာပြင်ပေါ်တွင် လှိမ့်နေစေချင်သည်။ Play ခလုတ်ကိုနှိပ်၍ အစမ်းကြည့်ရှုပါ။</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>သင်ရွေ့လျားသည့်အခါတွင် သင်၏ pen ကိုမယူခွင့်ပေးသော block အသစ်တစ်ခုရှိသည်။</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>ခေါင်းစဉ်:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>x ဖြင့်ဆုံးပါ။</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>ရုပ်ရှင်ပြသည့်အချိန်တွင် အချိန်၏ တန်ဖိုးသည် ၀ မှ ၁၀၀ ထိရေတွက်သည်။ သင့်အနေဖြင့်လက်မောင်းကို 'y' အနေအထားတွင်ထားရှိပြီး ၀ မှ ၁၀၀ ထိသွားစေချင်သည့်အတွက် လွယ်ကူစွာလုပ်ဆောင်နိုင်ပါလိမ့်မည်။</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>အဆင့် %1 အတွက်အဆင်သင့်ဖြစ်ပြီလား။</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>" ကိုအသုံးပြုပါ၊ " ကိုပြခန်းထဲတွင်ကြည့်ပါ၊ အောက်ခြေတွင်အခြားသူများ ဆွဲထားသည်များကိုကြည့်နိုင်သည်။ အကယ်၍ စိတ်ဝင်စားစရာတစ်ခုခုသင်ဆွဲခဲ့ပါက " ကိုအသုံးပြုပါ၊ " ပြခန်းပေါ်တင်ပါ၊ ထုတ်ဝေသည့်ခလုတ်နှိပ်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>ဖျက်မည်။</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>သင်သိမ်းဆည်းထားသော ဖိုင်ကိုမရယူနိုင်ပါ။ မတူညီသည့် Blockly ဗားရှင်းဖြင့်ဖန်တီးထားဖန်တီးခဲ့ပါသလား။</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>ဦးတည်</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>သင့်တွင် %1 block များကျန်နေပါသေးသည်။</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>သင့်တွင် %0 block များကျန်နေပါသေးသည်။</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>သင့်တွင် %2 block များကျန်နေပါသေးသည်။</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>အနာဂတ်၏ ပရိုဂမ်မာများအတွက် ကစားနည်းများ။</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>အမြင့်</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>အကယ်၍ လမ်းကြောင်းသည် ညာဘက်တွက်ရှိပါက</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>အကယ်၍ လမ်းကြောင်းသည် ဘယ်ဘက်တွင်ရှိပါက</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Block များကိုကြည့်ရှုရန်အတွက် အမျိုးအစားရွေးချယ်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>သင့်ဖြေရှင်းချက်အလုပ်ဖြစ်ပါသည်။</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Pen ၏ အရောင်ကို ပြောင်းလဲမှုများ.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>အနံကို ကိုထားမည်</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>ပျားရည်</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>စူးချွန်</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>ဤရှုပ်ထွေးသော ဝင်္ကဘာကို သင်ဖြေရှင်းနိုင်ပါသလား၊ ဘယ်ဘက်အခြမ်းတွင်ရှိသည့် နံရံဘက်မှ ဖြေရှင်းကြည့်ပါ၊ အဆင့်မြင့် ပရိုဂမ်မာများအတွက် ဖြစ်သည်။</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>ညွှန်ပြသည့်အတံ</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>ပြခန်းကိုကြည့်မည်</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>ဘယ်ဘက်လှည့်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>အချင်းဝက်</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>ဖြင့် အရှေ့ကိုရွှေ့ပါ။</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>ငှက်ကို တီကောင်ရယူပေးရန်အတွက်နှင့် ၎င်းအသိုက်ထဲသို့ဝင်သွားစေရန် ဦးတည်ထောင့်ကို ပြောင်းလဲပါ။</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>ဂီတပြန်ခန်းကို ဖွင့်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>ခရု</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>ပြီးခါနီးပါပြီ။ Block တစ်ခုမမှန်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>ရုပ်ပုံ</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>စာသား</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>ဘဲ</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>ကြောင်</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>ပျား</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>ပုံမှန်</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://my.wikipedia.org/wiki/ကြောင်_(တိရစ္ဆာန်)</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>ကြောက်ရွံ့သော</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>ပြခန်းတွင်ကြည့်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Highlight လုပ်ပြထားသော block မမှန်ပါ။ ဆက်လက်ကြိုးစားပါ။</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>x ဖြင့်စပါ။</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>ရှေ့သို့ရွှေ့ပါ block ၂ တုံးကိုအတူရွှေ့ခြင်းဖြင့် ပန်းတိုင်ရောက်ရန် ကျွန်ုပ်ကိုကူညီပေးပါ။</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>ပြခန်းပေါ်တင်မည်။</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>အကယ်၍ block ၏ အခြေအနေကို ပြောင်းလဲရန်အတွက် %1 ကိုနှိပ်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Snail</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>စာရင်းများ</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>ပဟေဠိ</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>x သည်သင်၏ လက်ရှိရေပြင်ညီအနေအထားဖြစ်သည်၊ အကယ်၍ x သည်ကိန်းကဏန်းတစ်ခုထက်ငယ်ပါက ဤ block ကိုအသုံးပြုပြီး ဦးတည်ရာတစ်ခုအတွင်းသို့ဝင်သွားပါ။ သို့မဟုတ် မတူညီသည့် ဦးတည်ရာသို့ဝင်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>ခြေထောက်များ</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Bee</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>ရုပ်ရှင်ပြခန်းကို ဖွင့်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>ဂုဏ်ပြုပါတယ်။</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blockly Games</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>ပြခန်း</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Pen ၏ အရောင်ကို ပြောင်းလဲမှုများ.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>အထူ</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>သင်ကြိုက်သည့်အရာကိုဆွဲပါ။ သင်စမ်းသပ်ရှာဖွေနိုင်ရန်အတွက် block အသစ်ပေါင်းများစွာရရှိထားပါပြီ။ ပျော်ရွှင်ပါစေ။</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>တိုင်အောင် ဆက်လက်လုပ်ဆောင်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>ကွင်း</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>ပြခန်းပေါ်တင်မည်။</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>လက်မောင်းအတွက် သင်္ချာပုံသေနည်းမှာ ရှုပ်ထွေးပါသည်။ အဖြေက
+ဒီမှာပါ:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>JavaScript ကိုစတင် edit လုပ်ပြီဆိုပါက block များကို ပြန်ပြီး edit လုပ်၍မရပါ။ အဆင်ပြေပါသလား။</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>ရုပ်ရှင်၏ ပထမထက်ဝက်အတွက် ခေါင်းသေးတစ်ခုဆွဲရန် 'အကယ်၍' block ကိုသုံးပါ။ ပြီးပါက ရုပ်ရှင်၏ ဒုတိယထက်ဝက်အတွက် ခေါင်းကြီးတစ်ခုကို ဆွဲလိုက်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>ရွေးချယ်သည်</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>y ဖြင့်စပါ။</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>အချိန် block သည် ၀ မှ ၁၀၀ ထိရေတွက်သည်။ သို့သော် ဤအချိန်တွင် သင်သည် 'y' အနေအထားတွင်ရှိနေသော လက်မောင်းကို ၁၀၀ မှ ၀ သို့သွားစေချင်သည်။ ဦးတည်ရာကို ပြောင်းလဲပေးနိုင်သော ရိုးရှင်းသည့် သင်္ချာဖြေရှင်းနည်း သင်စဉ်းစားနိုင်ပါသလား။</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>ရေကန်</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>လပြည့်တစ်ခုပုံသဏ္ဍန်ရှိသော အဖြူရောင်လိုင်းပေါင်း ၃၆၀ ခုဆွဲပါ။</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>သင့် ပရိုဂမ် ဤဝင်္ကဘာကို မဖြေရှင်းနိုင်ပါ၊ ပြန်စမည် ကိုရွေးချယ်၍ နောက်တစ်ကြိမ်ထပ်ကြိုးစားပါ။</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>မှတ်တမ်းမှတ်ရာများ</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>ပင်လယ်လိပ်ကို ပြမည်။</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>ပေးထားသောထောင့်၏ လားရာမှရွေ့လျားပါ။ ၀ သည် ညာဘက်၊ \n၉၀ သည် တည့်တည့်မတ်မတ်၊ စသည်ဖြင့် </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>ဘင်ဂျို</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>အစောင်း</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>မည်ကဲ့သို့ဖြစ်သွားမည်ကို သိရှိရန် သင့် ပရိုဂမ်ကို စတင်လည်ပါတ်ကြည့်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>ပုံနှိပ် block ကိုအသုံးပြုပြီး font ထည့်သွင်းပါ။.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>အရောင်ကိုထားမည်။</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>ရုပ်ရှင်</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x နှင့် y အမှတ်သည် ငှက်၏ တည်နေရာကိုပြသည်။ x = ၀ \nဖြစ်သည့်အချိန်တွင် ငှက်သည် \nဘယ်ဘက်အစွန်းသို့နီးကပ်နေသည်၊ y = ၁၀၀ \nဖြစ်သည့်အချိန်တွင် ငှက်သည် \nညာဘက်အစွန်းသို့နီးကပ်နေသည်။ y = ၀ \nဖြစ်သည့်အချိန်တွင် ငှက်သည်အောက်ခြေတွင်ရှိနေပြီး \ny = ၁၀၀ ဖြစ်သည့်အချိန်တွင် ၎င်းသည် \nထိပ်သို့ရောက်နေသည်။ </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>သင့်ဖြေရှင်းနည်းအလုပ်ဖြစ်ပါသည်၊ သို့သော်ယခုထက်ပိုကောင်းအောင်ပြုလုပ်နိုင်ပါသေးသည်။</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>စတုရန်းတစ်ခုဆွဲရန်အတွက် ပရိုဂမ်တစ်ခု ဖန်တီးပါ။</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>စတုရန်းတစ်ခုဆွဲမည့်အစား ပဥ္စဂံတစ်ခုဆွဲရန်အတွက် သင့်၏ပရိုဂမ်ကိုပြောင်းလဲလိုက်ပါ။</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>ကြယ်တစ်ခုအစား စတုရန်းတစ်ခုထဲတွင်စီထားသော ကြယ်လေးခုဆွဲနိုင်ပါသလား။</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>တီကောင်မရှိပါ</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>ကြယ်များဆွဲပါ၊ ထို့နောက် အဖြူရောင်မျဉ်းကြာင်းလေးခုဆွဲပါ။</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://my.wikipedia.org/wiki/ဘဲ</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>အနက်ရောင်စက်ဝိုင်းတစ်ခုထည့်ခြင်းဖြင့် လတဖြည်းဖြည်းကွယ်လာအောင်ပြုလုပ်နိုင်ပါသလား။</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Pen ၏ အနံကို ပြောင်းလဲမှုများ။.</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>သင်္ချာ</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>ပြိုင်ဘက်ကစားသမားသည် အမြောက်မှအလွန်ကွာဝေးစွာတည်ရှိနေသည် (မီတာ ၇၀ မှာအကန့်အသတ်ဖြစ်သည်) ထိုအစား ရေကူးခြင်း ကိုအသုံးပြီးပြိုင်ဘက်နှင့်နီးကပ်အောင်သွားပြီး တိုက်ခိုက်ပါ။</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

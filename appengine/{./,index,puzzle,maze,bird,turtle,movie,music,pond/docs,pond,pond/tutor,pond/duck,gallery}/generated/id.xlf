@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="id">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Lendir</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>if path ahead</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>list</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>turunkan pena</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Janggut</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Bulu</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Gambar empat persegi panjang pada lokasi \ntertentu dan dengan lebar dan tinggi \ntertentu. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Kolam</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Tempurung</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>bergerak mundur dengan</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Ada sebuah blok baru yang memungkinkan Anda untuk mengubah warna:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Gambar bintang berwarna kuning.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Tingkat ini membutuhkan baik sebuah 'else if' dan blok 'else'.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Sebuah blok 'if' akan melakukan sesuatu hanya jika kondisi benar. Coba belok kiri jika ada jalan ke kiri.</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>do</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Anda telah menggunakan semua blok untuk tingkat ini. Untuk membuat blok baru, Anda harus terlebih dahulu menghapus blok yang ada.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Putar pemain ke kiri atau kanan 90 derajat.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Klik ikon untuk memodifikasi blok 'if'.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Bandul</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>ukuran font</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Reset</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Buat pemain melakukan apa yang blok katakan.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>The 'and' block benar hanya jika kedua masukan-nya benar.</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>belok kanan</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Gunakan blok 'if' untuk menggambar bola merah dan biru untuk pertengahan pertama film. Kemudian gambarkan bola hijau untuk pertengahan kedua film.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Ulangi dari awal?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Tarik blok 'else' ke dalam blok 'if'.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>teks</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Hapus semua solusi Anda?</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Untuk masing-masing hewan (hijau), lampirkan gambarnya , pilih jumlah kakinya, dan buat tumpukan ciri-ciri nya.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>ciri-ciri:</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Gunakan perintah 'cannon' untuk tembak target. Parameter pertama adalah sudut, parameter kedua adalah jarak. Temukan kombinasi yang tepat.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Kirim gambar Anda ke galeri.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Target ini harus ditembak berkali-kali. Gunakan perulangan 'while (true)' untuk melakukan sesuatu tanpa batas.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Musuh ini terlalu jauh dari jangkauan meriam. Tetapi Anda terlalu lemah untuk menabraknya. Berenanglah mendekatinya ketika lokasi horizontal Anda dibawah 50. Kemudian 'stop' dan gunakan meriam.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Lepas tembakan meriam. Tentukan arah (0-360) dan \njarak (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Bantuan</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Musuh ini akan bergerak menjauh jika ditembak. Berenanglah mendekatinya jika diluar jangkauan meriam (70 meter).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Logika</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Genetik</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Kembalikan tingkat kesehatan pemain (0 mati, \n100 sehat). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Burung</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Info untuk pengajar...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Variabel</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Jalankan Program</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Sempurna!
+Semua %1 blok sudah benar.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Gambar tiga bintang kuning, dan satu garis putih.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 blok tidak benar.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Tampilkan teks ke arah kura-kura pada lokasinya.</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labirin</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>set warna ke</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Solusi Anda benar, tetapi masih ada solusi yang lebih baik. Gunakan 'scan' untuk arahkan tembakan meriam.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Kembalikan koordinat X dari pemain (0 sisi kiri, \n100 sisi kanan). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Kembalikan waktu saat ini dalam animasi (0-100).</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>else</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Jarak ini adalah nilai yang dibutuhkan perintah 'cannon' untuk menembak secara tepat.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Musuh ini bergerak mondar-mandir, sehingga susah ditembak. Ekspresi 'scan' mengembalikan jarak musuh pada arah tertentu.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Pindah pemain ke depan satu ruang.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Maaf, '%1' tidak sesuai dengan program yang tersimpan.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Berhenti berenang. Pemain akan bergerak perlahan \nhingga berhenti. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Membuat kura-kura (lingkaran dan panah) terlihat \natau tidak terlihat. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Lihat Galeri</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Ada masalah dengan permintaan.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>persegi panjang</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Jika ada jalan ke arah tertentu, \nkemudian lakukan blok pertama dari \ntindakan. Jika tidak, lakukan blok \nkedua dari tindakan. </target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Periksa Jawaban</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Dapatkah Anda membuat sebuah bola dengan menelusuri kabel? Kabelnya telah digambarkan untuk Anda. Jika Anda bisa membuat ini, Anda bisa membuat apa saja.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>cetak</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Musik</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Amati musuh. Tentukan arah (0-360). \nKembalikan jarak ke musuh terdekat \ndari arah tersebut. Kembalikan Infinity \n(tak terhingga) jika musuh tidak \nditemukan. </target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Jika ada jalan ke arah tertentu, \nkemudian lakukan beberapa tindakan. </target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Kembalikan koordinat Y dari pemain (0 sis bawah, \n100 sisi atas). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Ulangi tindakan tertutup sampai titik finish \ntercapai. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Hentikan program dan me-reset level.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Kondisi ketika burung itu belum mendapatkan cacing.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Jalankan program anda sampai berhenti. Kemudian Anda dapat mengirimkan gambar Anda ke galeri.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Anda dapat memuat lebih dari satu blok di dalam blok 'repeat'.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Warna</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>If-else blok akan melakukan satu hal atau yang lain.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Gunakan cara yang telah Anda pelajari di level sebelumnya untuk membuat empat bola hijau bergerak ke empat arah berbeda.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Bagikan blok Anda dengan link ini:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Simpan dan link ke blok.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Capai ujung jalan ini hanya menggunakan dua blok. Gunakan 'repeat' untuk menjalankan blok lebih dari sekali.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>sembunyikan kura-kura</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Pada tingkat ini, Anda perlu menumpuk bersama-sama semua blok di ruang kerja putih.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>bergerak maju</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Tingkat ini sangat sulit. Apakah Anda ingin melewatkannya dan melanjutkan ke permainan berikutnya? Anda selalu bisa kembali lagi nanti.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Target</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Gunakan bentuk sederhana untuk menggambar orang ini.</target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Gambar bintang dengan hanya empat blok.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Gambar bentuk dengan hanya tiga blok.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>putar ke kanan dengan</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Cucuk</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Bulu</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>end y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Pilih pemain favorit Anda dari menu ini.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Gambar bintang kecil berwarna kuning, kemudian gambar sebuah garis di atasnya.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Fungsi</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Tempatkan pemain kembali pada awal labirin.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Gambar garis dari satu titik ke lainnya dengan \nlebar tertentu. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>garis</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Gunakan tombol "Lihat Galeri" untuk melihat film-film yang telah dibuat orang lain. Jika Anda telah membuat sebuah film menarik, gunakan tombol "Kirim ke Galeri" untuk mempublikasikannya.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Gambar lingkaran pada lokasi tertentu dan dengan \nradius tertentu. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Dua baris sederhana. Coba pikirkan apa hasil terakhirnya.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>lebar</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>font</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Kembalikan tingkat kecepatan pemain (0 berhenti, \n100 kecepatan penuh). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>putar ke kiri dengan</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Jalankan program yang Anda tulis.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Hapus data</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Tampilkan galeri gambar.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>lingkaran</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Buat film apapun yang Anda inginkan. Anda punya sejumlah besar blok baru yang dapat dijelajahi. Selamat bermain!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Film Anda tidak bergerak. Gunakan blok untuk membuat sesuatu yang menarik. Kemudian Anda dapat mengirimkan film Anda ke galeri.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Blok</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Putar kura-kura ke kiri atau kanan dengan jumlah \nderajat tertentu. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Kura-kura</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Gerakkan kura-kura maju atau mundur dengan \njumlah yang ditentukan. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Gunakan blok ini untuk pergi dalam satu arah jika Anda memiliki cacing, atau arah yang berbeda jika Anda tidak memiliki cacing.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Anda menyelesaikan level ini dengan 1 baris JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Anda menyelesaikan level ini dengan %1 baris JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Angkat atau turunkan pena, menghentikan atau \nmemulai menggambar. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Tampilkan dokumentasi bahasa.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Kirim film anda.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Berenang kedepan. Tentukan arah (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Apakah Anda siap untuk tantangan berikutnya?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Level ini adalah sebuah film. Anda perlu bola merah untuk menggelinding sepanjang layar. Tekan tombol play untuk lihat tampilan.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Ada sebuah blok baru yang memungkinkan Anda untuk mengangkat pena dari kertas saat Anda bergerak:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>end x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Selagi filmnya diputar, nilai blok 'time' berubah dari 0 hingga 100. Ini memudahkan Anda untuk menempatkan posisi horizontal bola merah mulai dari 0 hingga 100.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Apakah Anda siap untuk level %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Gunakan tombol "Lihat Galeri" untuk melihat apa yang orang lain telah gambar. Jika Anda menggambar sesuatu yang menarik, gunakan tombol  "Kirim ke Galeri" untuk mempublikasikannya.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Batal</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Tidak dapat memuat file Anda yang tersimpan. Mungkin itu dibuat dengan versi yang berbeda dari Blockly?</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>arah</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Anda memiliki %1 blok tersisa.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Anda memiliki %0 blok tersisa.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Anda memiliki %2 blok tersisa.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Permainan untuk programer masa depan</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>tinggi</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>if path to the right</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>if path to the left</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Pilih kategori untuk melihat blok.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Pemutar media</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Ubah warna pena.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>set lebar ke</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Madu</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Penyengat</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Dapatkah Anda memecahkan labirin yang rumit ini? Cobalah mengikuti dinding tangan-kiri. Para pemrogram tingkat lanjut saja!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>angkat pena</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Lihat Galeri</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>belok kiri</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>radius</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>bergerak maju dengan</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Mengubah sudut tujuan untuk membuat burung mendapatkan cacing dan tanah di sarangnya.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Siput</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Hampir! Satu blok tidak benar.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>gambar:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Teks</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Bebek</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Kucing</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Lebah</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normal</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Cat</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Penakut</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Blok disorot tidak benar.
+Terus berusaha.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>start x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Tumpuk beberapa 'move forward' blok bersama-sama untuk membantu saya mencapai tujuan.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Kirim ke Galeri</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Klik pada %1 di blok 'if' untuk mengubah kondisinya.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Snail</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Daftar</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Puzzle</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' posisi horizontal Anda saat ini. Gunakan blok ini untuk pergi dalam satu arah jika 'x' kurang dari satu nomor, atau arah yang berbeda sebaliknya.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>kaki:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Bee</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Tampilkan galeri film.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Selamat!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Permainan Blockly</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Ubah warna pena.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>bold</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Gambar apapun yang Anda inginkan. Anda punya sejumlah besar blok baru yang dapat dijelajahi. Selamat bermain!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>repeat until</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Perulangan</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Kirim ke Galeri</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>Tidaklah sulit untuk membuat kepala tikus bergerak. Dapatkah Anda mencari solusi matematika untuk membuat telinganya bergerak?</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Sekali Anda mengedit JavaScript, Anda tidak dapat kembali mengedit blok. OK?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Rumus matematika untuk bola jatuh agak rumit. Inilah jawabannya:</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>pilih...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>start y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Blok 'time' berubah dari 0 hingga 100. Tetapi kali ini Anda ingin menempatkan posisi horizontal bola merah mulai dari 100 hingga 0. Dapatkah Anda pikirkan rumus matematika sederhana untuk memutarbalikkan arah bola?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Kolam Pembimbing</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>Gambar 360 garis putih yang akan terlihat seperti bulan purnama.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Program Anda tidak memecahkan labirin. Tekan 'Reset' dan coba lagi.</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Dokumentasi</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>tampilkan kura-kura</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Bergerak ke arah sudut yang diberikan: 0 adalah \nke kanan, 90 adalah lurus ke atas, dll </target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>italic</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Jalankan program Anda untuk melihat apa yang terjadi.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Set font yang digunakan oleh blok cetak.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>set warna ke</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Film</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x dan y menandai posisi burung. \nKetika x = 0 burung dekat tepi \nkiri, ketika x = 100 burung dekat \ntepi kanan. Ketika y = 0 burung \ndi bagian bawah, ketika y = 100 \nburung di atas. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Solusi Anda benar, tetapi masih ada solusi yang lebih baik.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Buat program yang menggambar persegi.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Ubah program Anda untuk menggambar pentagon bukannya persegi.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Sebagai pengganti satu bintang, bisakah Anda menggambar empat bintang diatur dalam persegi?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>tidak memiliki cacing</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Gambar beberapa bintang, kemudian gambar empat garis putih.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Duck</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Anda dapat menambahkan lingkaran hitam sehingga bulan menjadi bulan sabit?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Ubah lebar pena.</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matematika</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Musuh ini terlalu jauh dari jangkauan meriam (batas 70 meter). Sebagai pengganti, gunakan perintah 'swim' untuk berenang ke arah musuh dan kemudian menabrak musuh.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="eo">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Ŝlimo</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>se estas vojo antaŭen</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>listo</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>plumo malsupren</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Vangoharoj</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Pelto</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Desegni ortangulon ĉe la specifita loko kun \nspecifita larĝo kaj alto. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Lageto</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Komponu la unuajn kvar notojn de 'Frato Jakobo'.</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Konko</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>moviĝi malantaŭen de distanco</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Jen nova bloko kiu ŝanĝas la koloron:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Desegni flavan stelon.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Tiu ĉi nivelo bezonas kaj blokon 'alie se' kaj blokon 'alie'.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>La 'se'-bloko faras ion nur se la kondiĉo estas vera. Provu maldekstran turnon se ekzistas vojo al la maldekstro.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>ĥoro</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>fari</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Vi jam uzis ĉiujn da blokoj por ĉi tiu nivelo. Por krei novan blokon, vi devas unue forigi ekzistantan blokon.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Turni la ludanton dekstren aŭ maldekstren, \n90 gradoj. </target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Alklaku la ikonon por modifi la 'se'-blokon.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Pendolo</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>tipara grando</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Remeti</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Movi la ludanton laŭ la blokaj instrukcioj.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>La 'kaj'-bloko estas vera nur se ambaŭ eniroj estas veraj.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Unu noto (C4 estas 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>violono</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>turniĝi dekstren</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Inversigu la direkton de la kruroj je la mezo de la filmo.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Ĉu vi volas rekomenci?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Trenu blokon 'alie' al la bloko 'se'.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>teksto</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Ĉu forigi ĉiujn viajn solvojn?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Komponu ajnon deziratan. Jen variegon da novaj blokoj esploreblaj. Amuzu vin!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>gitaro</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Por ĉiu besto (verda) aneksu ĝian bildon, elektu la nombron de kruroj kaj staku ĝiajn trajtojn.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>trajtoj:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Atendi dum specifita daŭro.</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Uzu la komandon 'cannon' por pafi celen. La unua parametro estas la angulo; la dua, la distancon. Trovu la ĝustan kombinaĵon.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Sendi vian desegnaĵon al la galerio.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>'Funkcio' grupigas blokojn kune, kaj vi povas ruli ĝin plurfoje.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>La celo frapendas multfoje. Uzi la iteracion 'while (true)' por fari ion senfine.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Ĉi tiu oponanto estas ankaŭ tro malproksima por la kanono. Sed vi estas tro malfortika por supervivi kolizion. Naĝu al oponanto dum via horizonta pozicio estas malpli ol 50. Kaj uzu la komandon 'stop' kaj uzu la kanonon.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Pafi la kanonon al specifitaj direkto (0-360) \nkaj distanco (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Helpo</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Ĉi tiu oponanto foriras se ĝi estas trafita. Naĝu al ĝi se ĝi estas ne trafebla (pli malproksima ol 70 metroj).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Logika</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Genetiko</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Liveri la aktualan sanon de la ludanto (0 estas \nmortinteco, 100 estas plena sano) </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Birdo</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Pliaj informoj...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Variabloj</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Ruli programon</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Perfekta! 
+Ĉiuj %1 blokoj estas ĝustaj.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Desegnu tri flavajn stelojn kaj unu blankan linion.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 blokoj estas malĝustaj.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Ekde la pozicio de la testudo, \nkaj en ĝia direkto, teksto estos \ndesegnita. </target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labirinto</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Sendi al Galerio</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>kolorigi kiel</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Via solvo funkcias, sed estas pliboniegbla. Uzu 'scan' por agordi la pafan distancon de la kanono.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Liveri la X-koordinaton de la ludanto (0 estas \nla maldekstra rando, 100 estas la dekstra rando) </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Liveras la aktualan tempon en la movbildo (0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>piano</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>alie</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Ĉi tiu distanco estas ekzakte tio kion la komando 'cannon' necesas por pafi precize.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Ĉi tiu oponanto movas tien kaj reen, kaj tial trafi ĝin estas malfacile. La esprimo 'scan' liveras la ekzaktan distancon al la oponanto en la specifita direkto.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Movi la ludanton antaŭen, unu spaco.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://eo.wikipedia.org/wiki/Tiparo</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Ĉi tiu nova bloko aldonas iom da silento.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Domaĝe, '%1' ne respondas al ajna konservita programo.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Ĉesi naĝadon. La ludanto haltos. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Tio Igas la testudon (cirklon kaj sageton) ĉu \nvidebla ĉu nevidebla. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Vidi Galerion</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Problemo okazis pri la peto.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Rulu vian programon ĝis kiam ĝi haltas. Poste vi povas sendi vian muzikon al la galerio.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>ortangulo</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Se vojo ekzistas en la specifita direkto, \ndo rulu la unuan blokon de agojn. \nAlie, rulu la duan blokon de agoj. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Sendi vian muzikon al la galerio.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Kontroli respondojn</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Desegnu pligrandiĝantan cirklon antaŭ la homo.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>presi</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>Kreu duan komencan blokon, kiu enhavantas du silento-blokojn kaj poste ludas 'Fraton Jakobon'.</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Muziko</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Skani por malamikoj. Specifu direkton (0-360). \nLiveri la distancon al la plej proksima malamiko \nen tiu direkto, aŭ Nefinion se neniu malamiko \ntroviĝas. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Ĉiu komenca bloko ludu 'Fraton Jakobon' dufoje.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Kreu kvar blokojn kiuj ludas 'Fraton Jakobon' po du fojoj. Aldonu la ĝustan nombron de silento-blokojn.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Se vojo ekzistas en la specifita direkto, \ndo fari iujn agojn. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Kreu trian funkcion por la sekva parto de 'Frato Jakobo'. La unuaj kvar notoj estas pli mallongaj.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Kompletigi la melodion de 'Frato Jakobo'.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>fluto</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Liveri la Y-koordinaton de la ludanto (0 estas \nla malsupra rando, 100 estas la supra rando) </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Ripeti la enhavatajn agojn ĝis la fino atingiĝas.</target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Haltigi la programon kaj rekomenci la nivelon.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Kreu duan funkcion por la sekva parto de 'Frato Jakobo'. La lasta noto estas pli longa.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>La kondiĉo, kiam la birdo ne jam havas la vermon.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Rulu vian programon ĝis kiam ĝi haltas. Poste vi povas sendi vian desegnon al la galerio.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Pluraj blokoj povas ĉeesti en 'ripeti'-bloko.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Koloro</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Blokoj 'se / alie' faros ĉu unu aferon ĉu la alian.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Uzu la butonon 'Vidi Galerion' por aŭdi muzikojn far aliuloj. Se vi komponas ion interesan, uzu la butonon 'Sendi al Galerio' por publikigi ĝin.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Uzu tion kion vi lernis en la antaŭa nivelo por fari kruciĝantajn krurojn.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Disponigu viajn blokojn per la jena ligilo:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Via solvo funkcias, sed vi povas plibonigi ĝin. Uzu funkciojn por redukti la kvanton de ripetita kodo.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Konservi kaj ligi al blokoj.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Atingu la finon de la vojo per nur du blokoj. Uzu 'ripeti'-blokon por ruli blokon plurfoje.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>kaŝi testudon</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Dum ĉi tiu nivelo, vi devas stakigi ĉiujn blokojn en la blanka laborspaco.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>moviĝi antaŭen</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Tiu nivelo estas malfacilega. Ĉu vi volas preterpasi ĝin al la sekva nivelo? Vi povas reveni poste.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Celo</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Uzu simplajn formojn por desegni ĉi tiun homon.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>Ruli la enajn blokojn kiam oni alklakas la \nbutonon 'Ruli Programon' </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Desegni la stelon per nur kvar blokoj.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Desegni la formon per nur tri blokoj.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>turniĝi dekstren je angulo</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Beko</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Plumoj</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>fina y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Elekti vian preferatan ludanton el jena menuo.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Desegnu malgrandan flavan stelon, kaj desegnu linion super ĝi.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Movu la fonan cirklon al la supro de via programo. Tiam ĝi aperos antaŭ la homo.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Funkcioj</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>kiam %1 alklakiĝas</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Remeti la ludanto ĉe la komenco de la labirinto.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Desegni linion de unu punkto al alia kun \nspecifitan larĝon. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>linio</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Uzu la butonon 'Vidi Galerion' por vidi filmojn far aliuloj. Se vi faras interesan filmon, uzu la butonon 'Sendi al Galerio' por publikigi ĝin.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Desegni cirklon ĉe specifita lokon kun la \nspecifita radiuso. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Donu paron da manoj al la homo.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>larĝo</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>tiparo</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Liveri la aktualan rapidon de la ludanto (0 \nestas haltinteco, 100 estas maksimuma rapido) </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>turniĝi maldekstren je angulo</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Ruli la programon, kiun vi skribis.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Viŝi datumojn</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>tamburo</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Malfermi la galerion de desegnaĵoj.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>cirklo</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Faru ajnan filmon deziratan. Jen variegon da novaj blokoj esploreblaj. Amuzu vin!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Via filmo ne moviĝas. Uzu blokojn por fari ion interesan. Tiam vi povas sendi vian filmon al la galerio.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Blokoj</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Turni la testudon dekstren aŭ maldekstren je la \nspecifita kiomo da gradoj. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>Bone</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Testudo</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Movi la testudon antaŭen aŭ malantaŭen je la \nspecifita kiomo. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Uzu ĉi tiun blokon por iri unu direkon se vi havas la vermon, aŭ alian direkton se vi ne havas la vermon.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Vi solvis tiun ĉi nivelon per 1 linio de JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Vi solvis tiun ĉi nivelon per %1 linioj de JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>La plumo estos mallevita por komenci desegni aŭ \nmallevita por ne plu desegni. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Montri la dokumentaron pri la lingvo.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Sendi vian filmon al la galerio.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Naĝi antaŭen. Specifu direkton (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Ĉu vi pretas por la venonta defio?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Jen filma nivelo. Vi volas movi la brakon de la homo tra la ekrano. Alklaku la 'ludi'-butonon por antaŭrigardi.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Jen nova bloko kiu forlevas la plumon for de la papero kiam vi moviĝas:</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Ĉi tiu oponanto estas tro malproksima por la kanono (kiu nur povas pafi 70 metrojn). Anstataŭe. uzu la komandon 'swim' por naĝi al la oponanto kaj frakasi ĝin.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Titolo:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>fina x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Dum la filmo ludiĝas, la valoro de la bloko 'time' kalkulas ekde 0 ĝis 100. Ĉar la 'y'-koordinato de la brako estu 0 komence kaj 100 fine, tio estas facila.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Ĉu vi pretas por nivelo %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Uzu la butonon 'Vidi Galerion' por vidi desegnaĵojn far aliuloj. Se vi desegnas ion interesan, uzu la butonon 'Sendi al Galerio' por publikigi ĝin.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Nuligi</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Ne povis ŝarĝi vian konservitan dosieron. Eble ĝi estis kreita per alia versio de Blockly?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>silenti dum %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>direktata al</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>%1 bloko restas al vi.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Neniu bloko restas al vi.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Restas al vi %2 blokoj.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Ludoj por la programistoj de la morgaŭo.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>alto</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>se estas vojo dekstren</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>se estas vojo maldekstren</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Elektu kategorion por vidi la blokojn.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Ludanto</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Ŝanĝi la koloron de la plumo.</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Kreu funkcion por ludi la unuajn kvar notojn de 'Frato Jakobo'. Rulu tiun funkcioj dufoje. Ne aldonu novajn notoblokojn.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>difini larĝon kiel</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://eo.wikipedia.org/wiki/Presarto</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Mielo</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Ludi vian melodion per violono.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Ĉi tiu nova bloko ŝanĝas la instrumenton.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Pikilo</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Jen komplikan labirinton. Ĉu vi povas solvi ĝin? Provu sekvi la maldekstran muron. Nur por altnivelaj programistoj!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>plumo supren</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Vidi galerion</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>turniĝi maldekstren</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>radiuso</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>moviĝi antaŭen de distanco</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Ŝanĝu la direktan angulon por helpi la birdon kapti la vermon kaj iri nesten.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Malfermi la galerion de muziko.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Heliko</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Preskaŭ! Unu bloko estas malĝusta.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>bildo:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Teksto</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Anaso</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Kato</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Abelo</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normala</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>trumpeto</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://eo.wikipedia.org/wiki/Hejma_kato</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Timigita</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Vidi Galerion</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>ludi noton de daŭro %1 kaj tono %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>La elstarigita bloko estas malĝusta.
+Plu klopodu.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>komenca x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Kunstaku du 'movi antaŭen'-blokojn por helpi min celen.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Sendi al la galerio</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Alklaku la menuon %1 en la 'se'-bloko por ŝanĝi ĝian kondiĉon.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://eo.wikipedia.org/wiki/Heliko</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Listoj</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Puzlo</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>ŝanĝi instrumenton al %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>La muziko estus pli bona se vi uzus malsamajn instrumentojn en ĉiuj komencaj blokoj.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' estas via aktuala horizonta pozicio. Uzu ĉi tiun blokon por iri unu direkon se 'x' estas malpli granda ol iu nombro, aŭ alian direkton se 'x' estas ne malpli granda.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>kruroj:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://eo.wikipedia.org/wiki/Abelo</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Malfermi la galerion de filmoj.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Gratulon!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Ludoj de Blockly</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Galerio</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Ŝanĝi la koloron de la plumo.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>grasa</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Desegnu ajnon deziratan. Jen variegon da novaj blokoj esploreblaj. Amuzu vin!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>ripeti ĝis</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Cikloj</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Sendi al la galerio</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Dankon pro jena programo! Se ĝi plaĉas al nia stabo de trejnitaj simioj, ili publikigos ĝin ĉe la galerio en kelkaj tagoj.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>La matematika formulo pri la brako estas komplika. Jen la solvo:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Se vi ekredaktas la JavaScript-kodon, vi ne povas rekomenci redaktadon de blokoj. Ĉu ekredakti?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Uzu la 'se'-blokon por desegni malgranda kapon dum la unua duono de la filmo. Poste desegnu grandan kapon dum la dua duono de la filmo.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>elektu...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>komenca y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>La 'time'-bloko kalkulas ekde 0 ĝis 100. Sed nun vi volas ke la 'y'-koordinato de la alia brako komencu ĉe 100 kaj iru ĝis 10. Ĉu vi povas trovi simplan matematikan formulon por inversigi la direkton?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Gvidanto de lageto</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>Desegnaĵo de 360 blankaj linioj ŝajnos plenluno.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Via programo ne solvis la labirinton. Premu 'Rekomenci' kaj klopodu denove.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>unua parto</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Dokumentado</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>montri testudon</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Moviĝi al la direkto de la specifita angulo: 0 \nestas dekstren, 90 supren, ktp. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>banĝo</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>kursiva</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Rulu vian programon por vidi kio okazas.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Elekti la tiparon uzatan de la 'presi'-blokon.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>kolorigi kiel</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Filmo</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x kaj y markas la pozicion de la birdo. \nKiam x = 0, la birdo estas apud la maldekstra \nrando; kiam x = 100, la birdo estas apud \nla dekstr rando. Kiam y = 0, la birdo \nestas apud la malsupra rando; kiam y = \n100, la birdo estas apud la supra rando. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Ludi unu noton de specifitaj daŭro kaj tono.</target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Via solvo funkcias, sed vi povas plibonigi ĝin.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Krei programon, kiu desegnas kvadraton.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Ŝanĝi vian programon por desegni kvinangulon kaj ne kvadraton.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Anstataŭ unu stelo, ĉu vi povas desegni kvar stelojn aranĝitajn kiel kvadrato?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>ne havas vermon</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Desegnu la stelojn, kaj desegnu kvar blankajn liniojn.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://eo.wikipedia.org/wiki/Anaso</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Ĉu vi povas aldoni nigran cirklon, por ke la luno estiĝas lunarko?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Ŝanĝi la larĝon de la plumo.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>Ŝanĝi la instrumenton por sekvaj muzikaj notoj.</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Matematika</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Silentas unu noton.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

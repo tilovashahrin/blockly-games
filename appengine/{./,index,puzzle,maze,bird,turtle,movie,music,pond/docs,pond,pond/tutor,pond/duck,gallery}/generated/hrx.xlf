@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="hrx">
+    <body>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>wenn Pad davoar ist</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>List</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>Stift noh unne</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>En „Wenn“-Bausten macht etwas, falls die Bedingung woahr ist. Versuch links abzubieche, falls es enen Pad noh links gebt.</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>ausfüre</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Du host für die Schicht all Bausten uffgebraucht. Um en neie Bausten zu erstelle, musst du zuearscht en vorhandne Bausten lösche.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Dreht den Spieler um 90 Grad noh links orrer \nrechts. </target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>Schriftgröss</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Zurücksetze</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Der Spieler macht das, was die Bausten soogn.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Du kannst mehrer Blöcke innerlich ene Block 'repeat' passe.</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>rechts abbieche</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>Text</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Häng für jeden Stoot (grün) sein Flagg an, wähl sein Sproch aus und mach einen Stapel mit seine Städte.</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Hellef</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Logik</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Variable</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Programm ausführe</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Perfekt! All %1 Bausten sind richtich.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 Bausten sind falsch.</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Setzt den Spieler zurück an den Labyrinth sein \nOonfang. </target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>ännert die Farreb in</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>sonst</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labyrinth</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://hrx.wikipedia.org/wiki/Schriftschnitt</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>„%1“ stimmt leider mit kenem üweren gespeicherte Programm.</target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Macht die Schildkrott (Kreis und Peil) sichtbar \norrer unsichtbar. </target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Mit der Oonfroch hots en Problem geb.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Antworte üwerprüfe</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>Druck</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>vorwäärts loofe</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Falls es ene Pad in der oongeb Richtung gebt, \ndann eniche Aktione ausführe. </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Die beigefüchte Aktione wiederhole, \nbis das Ziel erreicht woard. </target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>rückwäarts beweche um</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Farreb</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Wenn-Sonst-Bausten führe das ene orrer das annre aus.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Tel von dein Bausten mit dem Link:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Speichre und auf Bausten verlinke.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Computador hoon begrenzte Speicher. Erreich das End von dem Pad mit nuar zwooi Bausten. Benutz "Wiederhole", um en Bausten meahr als emol auszuführe.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>Schildkrott ausblenne</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>In dem Schicht musst du die ganze Bausten in dem weisse Oorweitsbereich zusammerstaple.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Zeichnet Text in der Richtung von der \nSchildkrott bei ehrem Standplatz. </target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>noh rechts drehe um</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Wähl dein Lieblingsspieler vom Menü aus.</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>wenn Pad noh links ist</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Bewecht den Spieler en Feld vor.</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>Schriftoort</target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>noh links drehe um</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Bausten</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Dreht die Schildkrott noh links orrer rechts um \ndie oongeb Gradoonzoohl. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>Okay</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Schildkrott</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Bewecht die Schildkrott um den oongeb Weart \nvoarwäarts orrer rückwäarts. </target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Hebt orrer senkt den Stift zum Stopp orrer Start \nvon der Zeichnung. </target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Abbreche</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Dein gespeicherte Datei könnt net gelood sin. Vielleicht woard se mit ener annre Version von Blockly erstellt.</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Du host noch %1 Bausten.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Du host noch %0 Bausten.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Du host noch %2 Bausten.</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>wenn Pad noh rechts ist</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Funktione</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Ännert der Stift sein Fareeb.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>Breit setze uff</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://herx.wikipedia.org/wiki/Buchdruck</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Kannst du das komplizierte Labyrinth löse? Follich der linke Wand. Nuar für fortgeschrittne Programmierer!</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>Stift noh uwe</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>links abbieche</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>vorwäarts beweche um</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Nächst! En Baustein ist falsch.</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Text</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Falls es ene Pad in der oongeb Richtung gebt, \ndann den earschte Aktionebausten ausführe, \nannerefalls den zwooite. </target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normal</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Der hervoargehobne Bausten ist falsch. Versuch das noch enmol.</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Verbinn eniche 'loofe vorwäärts' Blöcke, um mir zu helfe um das Ziel zu erreiche.</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Klick uff %1 im 'Wenn'-Bausten um die Bedingung zu ännere.</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Liste</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Puzzle</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Leht die Schriftoort fest, die vom Druck-Bausten \nverwennet weard. </target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>fett</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>repetiere bis</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Schleife</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>wähl …</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Führ dein Programm aus, um zu siehn, was passiert.</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>Schildkrott oonzeiche</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>kursiv</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Führ dein Programm aus, um zu siehn, was passiert.</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Ännert der Stift sein Breit.</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Mathematik</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

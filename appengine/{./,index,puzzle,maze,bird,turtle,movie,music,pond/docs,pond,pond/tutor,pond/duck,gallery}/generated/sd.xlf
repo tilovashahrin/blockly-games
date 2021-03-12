@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="sd">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>گپ</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>جيڪڏھن اڳيان رستو ھجي</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>فهرست</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>شھپر</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>پشم</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>ھڪ مخصوص جڳھہ تي چوڪنڊو ٺاھيندو، مخصوص ويڪر ۽ \nاوچائي سان. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>تلاءُ</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>کوپو</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>پيلو تارو چِٽيو</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>'جيڪڏھن' وارو بلاڪ صرف ان وقت ڪجھہ ڪندو تڏھن شرط درست ھجي، کاٻي پاسي موڙڻ جي ڪوشش ڪيو جيڪڏھن ان طرف رستو آھي.</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>ڪريو</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>اوھان ھن مرحلي لاءِ سب بلاڪ استعمال ڪري ڇڏيا آھن. نئين بلاڪ جوڙڻ لاءِ، اوھان کي اڳ کان موجود بلاڪ کي مٽائڻو پوندو.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>کلاڙي کي 90 ڊگري کاٻي يا ساڄي پاسي موڙيو.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>لڏڪڻو</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>اِنڊي ماپ</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>ٻيهر ترتيب ڏيو</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>کلاڙي اھو ڪري جيڪو بلاڪ چئي رھيا آھن.</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>ساڄي مُڙو</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>ٻيھر شروع ڪندا؟</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>ب</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>اکر</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>پنهنجا سڀ حل ختم ڪريو؟</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>ھر ھڪ جانور (سائو)، لاءِ تصوير لڳايو، انھن جي ٽنگن جو تعداد ٻڌايو، ۽ ان جي خصوصيتن جو زخيرو جوڙيو.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>لڪيرون</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>مدد</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>منطق</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>علم جينيات</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>پکي</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>وڌيڪ معلومات...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>ڦرڻا</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>پروگرام هلايو</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>زبردست!
+سب %1 بلاڪون درست آھن.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 بلاڪ درست ناھي.</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>ور وڪڙ</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>ڊنل</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>نہ تہ</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>کلاڙي کي ھڪ خانو اڳتي وڌايو</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/انڊو</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>معذرت %1 ڪنھن بہ محفوظ ڪيل راند سان لاڳاپو نٿي رکي.</target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>گيلري ڏسو</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>ھن درخواست سان مئسلو درپيش آھي.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>چوڪنڊو</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>جيڪڏھن اتي ڪنھن مخصوص طرف رستو ھجي، تہ عملن جو \nپھريون بلاڪ شروع ڪيو، ٻي صورت ۾، عملن جو ٻيو بلاڪ \nھلايو. </target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>جواب چڪاسيو</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>ڇاپيو</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>موسيقي</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>جيڪڏھن اتي ڪنھن مخصوص طرف ڏانھن رستو ھجي، تہ ڪجھ \nعمل ڪيو. </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>شامل ڪيل عمل ورجائيندا رھو، جيسيتائين مڪمل نقطي \nتي پھچي وڃي. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>پروگرام کي بيھاري مرحلي کي ٻيهر ترتيب ڏيو.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>شرط جڏھن پکي ڪيئني کي نہ پڪڙي. </target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>'ورجايو' بلاڪ جي اندر اوھان ھڪ کان وڌيڪ بلاڪ لڳائي سگهو ٿا.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>رنگ</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>جيڪڏھن-نہ تہ بلاڪون ھڪ ڪم ڪنديون يا وري ٻيو ڪم.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>%1</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>محفوظ ڪيو ۽ بلاڪن سان ڳنڍيو</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>ھن رستي جي آخر تائين صرف ٻن بلاڪن جي مدد سان پھچو. 'ورجايو' جي مدد سان ھڪ بلاڪ کي ھڪ کان وڌيڪ ڀيرا ھلايو.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>ڪمي لڪايو</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>ھن مرحلي ۾، اوھان کي اڇي ورڪشاپ وارن بلاڪن جو زخيرو ڪرڻو آھي.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>اڳتي هلو</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>ھي مرحلو انتھائي مشڪل آھي. اوھان ان کي اڳتي ڪرڻ چاھيو ٿا ۽ ٻي مرحلي ۾ داخل ٿيڻ چاھيو ٿا؟ اوھان ھميشہ واپس اچي سگهو ٿا.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>هدف</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>هيءُ فرد چِٽڻ لاءِ سادا ڊول استعمال ڪريو.</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>چنهب</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>کنڀ</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>ب ختم ڪيو</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>پنھنجو پسنديدھہ رانديگر ھن مينيو مان چونڊي سگهو ٿا.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>عمل</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>کلاڙي کي وڙ وڪڙ جي شروعات ۾ واپس ڪيو.</target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>ليڪَ</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>ھڪ مخصوص جڳھہ تي دائرو ٺاھيندو مخصوص نيم قطر سان.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>ويڪر</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>اِنڊو</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>پنھنجو لکيل پروگرام ھلايو.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>مواد صاف ڪريو</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>دائرو</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>بلاڪون</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>ٺيڪ</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>ڪمي</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>اوھان ھي مرحلو جاوا اسڪرپٽ جي 1 سٽ سان مڪمل ڪئي:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>اوھان ھي مرحلو جاوا اسڪرپٽ جي %1 سٽ سان مڪمل ڪئي:</target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>اوھان ٻي مقابلي لاءِ تيار آھيو؟</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>عنوان:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>ا ختم ڪيو</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>اوھان %1 مرحلي لاءِ تيار آھيو؟</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>رد</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>اوھان جو محفوظ ڪيل فائل کُلي نہ پيو، اوھان ھن فائل کي ڪنھن ٻي بلاڪي ورزن ۾ محفوظ ڪيو ھو؟</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>سرخي</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>اوھان وٽ %1 چوڪنڊو بچيل آھن.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>اوھان وٽ %0 چوڪنڊون بچيون آھن.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>اوھان وٽ %2 چوڪنڊون بچيل آھن.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>سڀاڻي جي پروگرامرز لاءِ رانديون.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>اوچائي</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>جيڪڏھن ساڄي پاسي رستو ھجي</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>جيڪڏھن کاٻي پاسي رستو ھجي</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>نيم قطر</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>رانديگر</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/ڇپائي</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>ماکي</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>ڏنگيندڙ</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>اوھان ھن مشڪل ور وڪڙ کي حل ڪري سگهو ٿا؟ کاٻي ديوار تي ڪوشش ڪيو. ھي صرف ماھر پرگرامرس لاءِ آھي.</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>ا</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>گيلري ڏسو</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>کاٻي مُڙو</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>سست</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>لڳ ڀڳ! ھڪ بلاڪ درست ناھي.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>تصوير:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>اکر</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>بدڪ</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>ٻلي</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>مک</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>نارمل</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://en.wikipedia.org/wiki/ٻلي</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>نمايان ڪيل بلاڪ درست ناھي.
+ڪوشش ڪندا رھو.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>ا شروع ڪيو</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>'اڳتي ھلو' وارن بلاڪن جو زخيرو ڪيو، جيسيتائين مونکي منزل نٿي ملي وڃي.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>گيلري ۾ جمع ڪرايو</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>'جيڪڏھن' جي %1 بلاڪ تي ڪلڪ ڪيو تہ جيئن شرط تبديل ڪري سگهجي.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Snail</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>فھرست</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>ڳجهارت</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>ٽنگون:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://en.wikipedia.org/wiki/مک</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>مبارڪون!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>بلاڪي رانديون</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>گيلري</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>قلم جو رنگ بدلائي ٿو.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>گهرو</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>ورجايو جيستائين</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>چڪر</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>گيلري ۾ جمع ڪرايو</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>ھن پروگرام لاءِ مھرباني! جيڪڏھن اسان جي ڀولڙيَ نما عملي کي پسند آيو، تہ ھن کي گيلري ۾ ڪجھہ ڏينھن اندر شايع ڪيو ويندو.</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>جيڪڏھن ھڪ دفعي اوھان جاوا اسڪپرٽ جي سنوار شروع ڪئي، اوھان بلاڪن ڏانھن واپس نہ وڃي سگهندو. اھو ٺيڪ آھي؟</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>چونڊيو...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>ب شروع ڪيو</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>تلاءُ سير</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>هڪ نقطي کان ٻي نقطي تائين ڄاڻايل ويڪر جي ليڪ \nچِٽي ٿو. </target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>اوھان جي پروگرام وڙ وڪڙ کي حل ناھي ڪيو، 'ٻيھر ترتيب ڏيو' کي دٻايو ۽ ٻيھر ڪوشش ڪيو.</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>دستاويزسازي</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>ڪمي نمايو</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>ڏنل رخ جي طرف ھلو، 0 مطلب ساڄو، 90 مطلب سڌو مٿي، \nوغيرھہ. </target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>ترڇو</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>پروگرام ھلايو ڏسو تہ ڇا پيو ٿي.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>رنگ طَي ڪريو</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>فلم</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>ا ۽ ب جون نشايون پکي جي جاءِ ٻڌائين ٿيون. \nجڏھن ا = 0 ھجي تہ پکي کاٻي پاسي ھوندي، جڏھن \nا = 100 جي ھجي تہ اھا ساڄي پاسي ھوندي، جيڪڏھن \nٻ = 0 ھجي تہ پکي ھيٺين طرف ھوندي ۽ جڏھن ٻ \n= 100 ھجي تہ پکي مٿين طرف ھوندي. </target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>ڪو بہ ڪيئون ناھي</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://en.wikipedia.org/wiki/بدڪ</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>رياضي</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="is">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Slím</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>ef slóð framundan</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>listi</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>penni niður</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Veiðihár</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Feldur</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Teiknar rétthyrning á tilteknum stað og með \ntiltekna breidd og hæð. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Pollur</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Settu saman fyrstu fjórar nóturnar í 'Meistari Jakob'.</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Skel</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>færa aftur um</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Hér er nýr kubbur sem þú getur notað til að breyta litnum:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Teiknaðu gula stjörnu.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Í þessum áfanga þarf bæði "annars ef" og "annars" kubba.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>'Ef' kubbur gerir eitthvað aðeins ef skilyrðið er satt. T.d. beygja til vinstri ef það er slóð til vinstri.</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>gera</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Þú hefur notað alla kubbana í þessum áfanga. Til að losa kubb verður þú að eyða honum úr forritinu.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Snýr leikmanninum til vinstri eða hægri um 90 \ngráður. </target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Smelltu á táknið til að breyta 'if' kubbnum.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Dingull</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>leturstærð</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Byrja aftur</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Lætur leikmanninn gera það sem kubbarnir segja.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>Til að 'og' kubburinn sé sannur þurfa bæði inntökin að vera sönn.</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>snúa til hægri</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Notaðu 'if' kubbinn til að teikna rauða og bláa bolta fyrir fyrri helming hreyfimyndarinnar. Teiknaðu svo grænan bolta fyrir seinni helming myndarinnar.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Viltu byrja upp á nýtt?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Dragðu 'annars' kubb inn í 'ef' kubbinn.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>texti</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Eyða öllum lausnum þínum?</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Fyrir hvert dýr (grænt) á tengja mynd, velja fjölda fóta og búa til stæðu úr einkennum þess.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>einkenni:</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Notaðu 'cannon' skipunina til að hitta markið. Fyrri stikinn er hornið, sá seinni er vegalengdin. Finndu réttu samsetninguna.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Senda teikninguna þína í safnið.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Þetta mark verður að hitta mörgum sinnum. Notaðu 'while (true)' lykkju til að gera eitthvað endalaust.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Þessi andstæðingur er líka og langt frá til að nota fallbyssuna. En þú ert of veikburða til að þola árekstur. Syntu í átt að andstæðingnum á meðan staður þinn lárétt er minna en 50. Notaðu svo 'stöðva' og fallbyssuna.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Skjóta með fallbyssunni. Tilgreindu stefnu \n(0-360) og vegalengd (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Hjálp</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Þessi andstæðingur mun færa sig fjær þegar skot hæfir hann. Syntu í átt til hans ef hann er utan skotfæris (70 metrar).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Rökvísi</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Erfðafræði</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Gefur heilsu leikveru nú (0 er dauð, \n100 er full heilsa). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Fugl</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Nánar...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Breytur</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Keyra forritið</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Fullkomið!
+Allir %1 kubbarnir eru réttir.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Teiknaðu þrjár gular stjörnur og eina hvíta línu.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 kubbar eru rangir.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Teiknar texta þar sem skjaldbakan er og í stefnu \nhennar. </target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Völundarhús</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Senda í safn</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>stilla lit á</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Lausnin þín virkar, en þú getur gert betur. Notaðu 'scan' til að segja fallbyssunni hve langt á að skjóta.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Gefur X hnit leikverunnar (0 er vinstri brún, \n100 er hægri brún). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Skilar gildandi tíma í hreyfimyndinni (0-100).</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>annars</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Þessi vegalengd er nákvæmlega það sem skipunin 'cannon' þarf til að skjóta nákvæmt.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Þessi andstæðingur færist fram og aftur svo erfitt er að hitta. Aðgerðin 'scan' gefur hve langt frá andstæðingurinn er í tiltekna stefnu.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Færir leikmann fram um eitt bil.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Því miður, '%1' passar ekki við neitt vistað forrit.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Hætta að synda. Leikvera mun hægja á sér og \nstöðvast. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Gerir skjaldbökuna (hringinn og píluna) sýnilega \neða ósýnilega. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Skoða safn</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Það kom upp vandamál með beiðnina.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Keyrðu forritið þar til það stöðvast. Síðan mátt þú setja tónlistina þína í safnið.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>rétthyrningur</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Ef það er slóð í valda stefnu þá á að gera fyrri \nkubbinn. Annars á að gera seinni kubbinn. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Senda tónlistina þína í safnið.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Athuga svör</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Getur þú búið til bolta sem fylgir vírnum eftir? Það er búið að teikna vírinn fyrir þig. Eftir að þú getur gert þetta, geturðu gert hvað sem er.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>prenta</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Tónlist</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Leita að óvinum. Tilgreindu stefnu (0-360). \nGefur fjarlægðina að nálægasta óvini í þá \nstefnu. Gefur óendanleika (Infinity) ef enginn \nóvinur finnst. </target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Ef það er slóð í valda stefnu, \nþá á að gera eitthvað. </target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Gefur Y hnit leikverunnar (0 er neðri brún, \n100 er efri brún). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Endurtaka innifaldar aðgerðir þar til endapunkti \ner náð. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Stöðva forritið og núllstilla áfangann.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Skilyrðið þegar fuglinn hefur ekki náð orminum.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Keyrðu forritið þar til það stöðvast. Síðan mátt þú setja teikninguna þína í safnið.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Þú getur sett fleiri en einn kubb inn í 'endurtaka' kubb.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Litir</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Ef-annars kubbar gera eitt eða annað.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Notaðu "Skoða safn" hnappinn til að sjá hvað aðrir hafa samið. Ef þú semur eitthvað áhugavert getur þú notað "Senda í safn" hnappinn til að birta það.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Notaðu það sem þú lærðir í síðasta áfanga til að búa til krosslagða fætur.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Deildu kubbunum þínum með þessari krækju:</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Vista og tengja við kubba.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Náðu út á enda slóðarinnar með því að nota bara tvo kubba. Notaðu 'endurtaka' til að keyra kubb oftar en einu sinni.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>fela skjaldböku</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Í þessum áfanga þarftu að raða öllum kubbunum saman á hvíta svæðinu.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>færa áfram</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Þessi áfangi er mjög erfiður. Viltu sleppa honum og fara í næsta leik? Þú getur alltaf reynt aftur seinna.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Mark</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Notaðu einföld form til að teikna þessa veru.</target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Teiknaðu formið með aðeins fjórum kubbum.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Teiknaðu formið með aðeins þremur kubbum.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>snúa til hægri um</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Goggur</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Fjaðrir</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>til y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Veldu þér leikveru úr þessum lista.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Teiknaðu litla, gula stjörnu, og síðan línu fyrir ofan.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Föll</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Setja leikmanninn aftur á upphafsreit.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Teiknar línu frá einum punkti til annars með \ntiltekna breidd. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>lína</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Notaðu "Skoða safn" hnappinn til að skoða hreyfimyndir sem aðrir hafa búið til. Ef þú býrð til áhugaverða hreyfimynd, getur þú notað "Senda í safn" hnappinn til að birta hana.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Teiknar hring á tilteknum stað með tilteknum \nradíus. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Gefðu manneskjunni tvær hendur.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>breidd</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>leturgerð</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Gefur hraða leikveru nú (0 er kyrr, \n100 er hámarkshraði). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>snúa til vinstri um</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Keyra forritið sem þú skrifaðir.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Eyða gögnum</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Opna safn teikninga.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>hringur</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Búðu til eigin hreyfimynd. Þú hefur fjöldan allan af kubbum til að prófa. Skemmtu þér!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Hreyfimyndin þín hreyfist ekki. Notaðu kubba til að búa til eitthvað áhugavert. Síðan mátt þú setja hreyfimyndina þína í safnið.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Kubbar</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Snýr skjaldbökunni til vinstri eða hægri um \ntiltekinn gráðufjölda. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>Í lagi</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Skjaldbaka</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Færir skjaldbökuna fram eða aftur um tiltekna \nvegalengd. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Notaðu þennan kubb til að fara í eina átt ef þú ert með orminn en í aðra átt ef þú ert ekki með hann.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Þú leystir þennan áfanga með 1 línu af JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Þú leystir þennan áfanga með %1 línum af JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Lyftir pennanum til að hætta að teikna eða setur \nhann niður til að byrja. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Sýna skjölun fyrir tungumálið. </target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Senda hreyfimyndina í safnið.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Synda áfram. Tilgreindu stefnu (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Ertu til að fást við næstu áskorun?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Þessi áfangi er hreyfimynd. Þú vilt láta handlegg á manneskju færast yfir skjáinn. Ýttu á spilunarhnappinn til að forskoða.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Hér er nýr kubbur sem þú getur notað til að lyfta pennanum þegar þú færir hann:</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Titill:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>til x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Þegar myndin er spiluð, sýnir kubburinn 'tími' talningu frá 0 til 100. Þar sem þú vilt að 'y'-staða handleggsins byrji við 0 lárétt og fari til 100, ætti þetta að vera auðvelt.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Viltu fara í áfanga %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Notaðu "Skoða safn" hnappinn til að sjá hvað aðrir hafa teiknað. Ef þú teiknar eitthvað áhugavert getur þú notað "Senda í safn" hnappinn til að birta það.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Hætta við</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Gat ekki hlaðið vistuðu skrána þína. Var hún kannske búin til í annarri útgáfu af Blockly?</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>stefna</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Þú átt %1 kubb eftir.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Þú átt %0 kubba eftir.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Þú átt %2 kubba eftir.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Leikir fyrir forritara framtíðarinnar.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>hæð</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>ef slóð til hægri</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>ef slóð til vinstri</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Veldu flokk til að sjá kubbana.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Leikvera</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Breytir lit pennans.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>stilla breidd á</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Hunang</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Broddur</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Getur þú leyst þetta flókna völundarhús? Reyndu að fylgja veggnum á vinstri hönd. Aðeins fyrir reyndari forritara!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>penni upp</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Skoða safn</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>snúa til vinstri</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>radíus</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>færa fram um</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Breyttu gráðu stefnunnar til að láta fuglinn ná orminum og lenda í hreiðrinu.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Snigill</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Næstum! Einn kubbur er rangur.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>mynd:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Texti</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Önd</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Köttur</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Býfluga</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>venjulegt</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>http://is.wikipedia.org/wiki/K%C3%B6ttur</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Hræddur</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Skoða safn</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Upplýsti kubburinn er ekki réttur.
+Haltu áfram að reyna.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>frá x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Raðaðu tveimur 'færa áfram' kubbum saman til að hjálpa mér að ná takmarkinu.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Setja á safn</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Smelltu á %1 í 'ef' kubbnum til að breyta skilyrði hans.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>http://is.wikipedia.org/wiki/Sniglar</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Listar</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Púsl</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' er staður þinn nú lárétt. Notaðu þennan kubb til að fara í eina átt ef 'x' er minna en talan, annars í aðra átt.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>fætur:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>http://is.wikipedia.org/wiki/B%C3%BDflugur</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Opna safn hreyfimynda.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Til hamingju!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blockly leikir</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Safn</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Breytir lit pennans.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>feitletrað</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Teiknaðu hvað sem þú vilt! Þú hefur fjöldan allan af kubbum til að prófa. Skemmtu þér!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>endurtaka þar til</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Lykkjur</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Setja á safn</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Ég þakka ykkur kærlega fyrir þetta forrit! Ef kengruglaða starfsfólkinu okkar líkar við það, þá munu þau birta það í safninu innan skamms.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>Reikniformúlan fyrir handlegginn er flókin. Hér er svarið:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Þegar þú byrjar að breyta JavaScript, geturðu ekki farið til baka í að breyta blokkum. Er það í lagi?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Stærðfræðiformúlan fyrir þennan fallandi bolta er flókin. Hér er svarið:</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>veldu...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>frá y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Kubburinn 'tími' telur frá 0 til 100. En í þetta sinn vilt þú að 'y'-staða hins handleggsins byrji við 100 og endi á 0. Getur þú fundið út einfalda reikningsformúlu sem snýr stefnunni við?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Pond kennsludæmi</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>360 teiknaðar hvítar línur munu líkjast fullu tungli.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Forritið þitt rataði ekki. Smelltu á 'Byrja aftur' og reyndu betur.</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Skjölun</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>sýna skjaldböku</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Fara í þá átt sem uppgefið horn sýnir: 0 er til \nhægri, 90 er beint upp, o.s.frv. </target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>skáletrað</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Keyrðu forritið til að sjá hvað gerist.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Stillir leturgerðina sem prentað er með.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>stilla lit á</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Hreyfimynd</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x og y tákna stað fuglsins. Þegar x = 0 er \nfuglinn við vinstri brúnina, þegar x = 100 \ner hann við hægri brúnina. Þegar y = 0 er \nfuglinn neðst niðri, þegar y = 100 er hann \nefst uppi. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Lausnin þín virkar, en þú getur gert betur.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Búðu til forrit sem teiknar ferning.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Breyttu forritinu svo það teikni samsíðung í stað fernings.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Í stað einnar stjörnu, getur þú teiknað fjórar stjörnur sem saman mynda ferning?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>hefur ekki orm</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Teiknaðu stjörnurnar og teiknaðu svo fjórar hvítar línur.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>http://is.wikipedia.org/wiki/%C3%96nd</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Getur þú bætt við svörtum hring svo að tunglið breytist í hálfmána?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Breytir breidd pennans.</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Reikningur</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Þessi andstæðingur er of langt frá til að fallbyssan nýtist (hennar hámark er 70 metrar). Notaðu þess í stað 'swim' skipunina til að synda í átt að andstæðingnum og rekast á hann.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

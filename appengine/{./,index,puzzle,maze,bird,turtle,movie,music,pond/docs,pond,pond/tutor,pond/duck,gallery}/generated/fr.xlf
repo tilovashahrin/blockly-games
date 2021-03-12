@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="fr">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Bave</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>si chemin devant</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>liste</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>poser le crayon</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Moustaches</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Fourrure</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Dessine un rectangle de largeur et de hauteur \ndonnées à l’endroit spécifié. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Pond</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Composez les quatre premières notes de « Frère Jacques ».</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Coquille</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>reculer de</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Voici un nouveau bloc qui vous permet de modifier la couleur :</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Dessinez une étoile jaune.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Ce niveau nécessite à la fois un bloc « sinon si » et un bloc « sinon ».</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Un bloc « if » va exécuter ce qu’il contient seulement si la condition est vraie. Essayez de tourner à gauche s’il y a un chemin vers la gauche.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>chœur</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>faire</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Vous avez utilisé tous les blocs pour ce niveau. Pour créer un nouveau bloc, vous devez d’abord supprimer un bloc existant.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Tourne le joueur à gauche ou à droite de 90 degrés.</target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Cliquer sur l’icône pour modifier le bloc « si ».</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Pendule</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>taille de la police</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Réinitialiser</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Fait faire au joueur ce que disent les blocs.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>Le bloc « et » est vrai seulement si ses deux entrées sont vraies.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Une note (do4 vaut 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>violon</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>tourner à droite</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Faites aller les jambes dans l’autre direction à la moitié du film.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Voulez-vous recommencer ?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Glissez un bloc « sinon » dans le bloc « si ».</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>texte</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Supprimer toutes vos solutions ?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Composez ce que vous voulez. Vous avez un grand nombre de nouveaux blocs à explorer. Amusez-vous !</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>guitare</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Pour chaque animal (en vert), attacher son image, choisissez son nombre de pattes et faites une pile de ses traits caractéristiques.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>traits :</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Attend la durée spécifiée.</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Utilisez la commande « canon » pour toucher la cible. Le premier paramètre est l’angle, le second la distance. Trouvez la bonne combinaison.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Publier votre dessin sur la galerie.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>Une « fonction » vous permet de regrouper ensemble des blocs, puis de les exécuter plus d’une fois.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Cette cible doit être touchée plusieurs fois. Utilisez une boucle « tant que (vrai) » pour faire quelque chose indéfiniment.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Cet adversaire est également trop loin pour utiliser le canon. Mais vous êtes trop faible pour survivre à une collision. Nagez vers l’adversaire tant que votre position horizontale est inférieure à 50. Puis « arrêter » avant d’utiliser le canon.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Tirer au canon. Spécifier une direction (0–360) \net une portée (0–70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Aide</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Cet adversaire s’éloignera quand il sera touché. Nagez vers lui s’il est hors de portée (70 mètres).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Logique</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Génétique</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Renvoie la santé actuelle du joueur (0 est mort, \n100 est en pleine forme). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Oiseau</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Informations pédagogiques...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Variables</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Exécuter le programme</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Parfait !
+Les %1 blocs sont tous corrects.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Dessinez trois étoiles jaunes et une ligne blanche.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 blocs sont incorrects.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Dessine le texte dans la direction de la tortue \nà son emplacement. </target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Labyrinthe</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Publier sur la galerie</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>mettre la couleur à</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Votre solution fonctionne, mais vous pouvez faire mieux. Utilisez «analyser » pour indiquer au canon à quelle distance tirer.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Renvoie la coordonnée X du joueur (0 est le bord \ngauche, 100 le bord droit). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Renvoie la durée actuelle de l’animation (0–100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>piano</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>sinon</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Cette portée est exactement ce dont la commande « canon » a besoin pour tirer avec précision.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Cet adversaire avance et recule, le rendant difficile à toucher. L’expression « analyser » retourne la distance exacte à l’opposant dans la direction spécifiée.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Avance le joueur d’une case.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://fr.wikipedia.org/wiki/Police_d'%C3%A9criture</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Ce nouveau bloc ajoute un temps de silence.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Désolé, « %1 » ne correspond à aucun programme sauvegardé.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Arrêter de nager. Le joueur ralentira pour \narrêter. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Rend visible ou invisible la tortue (cercle et \nflèche). </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Voir la galerie</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Un problème est survenu avec la requête.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Lancer votre programme jusqu’à ce qu’il s’arrête. Vous pourrez alors publier votre musique dans la galerie.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>rectangle</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>S’il y a un chemin dans la direction spécifiée, \nalors fais le premier bloc d’actions. \nSinon fais le second bloc d’actions. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Publier votre musique sur la galerie.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Vérifier les réponses</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Dessinez un cercle qui s’agrandit derrière la personne.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>écrire</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>Créez un second bloc qui a deux blocs de silence, puis joue aussi « Frère Jacques ».</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Musique</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Rechercher des ennemis. Spécifier une direction \n(0–360). Renvoie la distance à l’ennemi le plus \nproche dans cette direction. Renvoie Infini si \naucun ennemi n’a été trouvé. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Chaque bloc de départ doit jouer « Frère Jacques » deux fois.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Créez quatre blocs de démarrage qui jouent chacun « Frère Jacques » deux fois. Ajoutez le bon nombre de blocs de silence.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>S’il y a un chemin dans la direction spécifiée, \nalors effectue ces actions. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Créez une troisième fonction pour la partie qui suit de « Frère Jacques ». Les quatre premières notes sont plus courtes.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Terminez l’air complet de « Frère Jacques ».</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>flûte</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Renvoie la coordonnée Y du joueur (0 est le bord \ndu bas, 100 est le bord du haut). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Répète les actions à l’intérieur du bloc jusqu’à \natteindre le but final. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Arrêter le programme et réinitialiser le niveau.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Créez une deuxième fonction pour la partie suivante de « Frère Jacques ». La dernière note est plus longue.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>L’état quand l’oiseau n’a pas atteint le ver.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Lancez votre programme jusqu’à ce qu’il s’arrête. Vous pourrez ensuite publier votre dessin dans la galerie.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Vous pouvez mettre plus d’un bloc dans un bloc « répéter ».</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Couleur</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Un bloc « if-else » permet d’exécuter une chose ou une autre.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Utilisez le bouton « Voir la galerie » pour voir ce que les autres ont composé. Si vous composez quelque chose d’intéressant, utilisez le bouton « Publier sur la galerie » pour le publier.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Utilisez ce que vous avez appris au niveau précédent pour faire se croiser les jambes.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Partagez vos blocs grâce à ce lien :
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Votre solution fonctionne, mais vous pouvez faire mieux. Utilisez des fonctions pour réduire la quantité de code répétée.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Sauvegarder et lier aux blocs. </target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Utilise seulement deux blocs pour atteindre le but. Utilisez le bloc « répèter » pour exécuter un bloc plus d’une fois.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>cacher la tortue</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Dans ce niveau, vous aurez besoin d’empiler les blocs les uns au dessus des autres dans la zone blanche de travail.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>avancer</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Ce niveau est très difficile. Voulez-vous le sauter et passer au jeu suivant ? Vous pourrez toujours y revenir plus tard.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Cible</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Utilisez des formes simples pour dessiner cette personne.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>Exécute les blocs à l’intérieur quand le bouton \n« Lancer le programme » est cliqué. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Dessinez l’étoile avec seulement quatre blocs.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Dessinez la forme avec seulement trois blocs.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>tourner à droite de</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Bec</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Plumes</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>y de fin</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Choisissez votre joueur favori dans ce menu.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Dessinez une petite étoile jaune, puis une ligne par dessus.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Déplacez le cercle de fond tout en haut de votre programme. Il apparaîtra alors derrière la personne.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Fonctions</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>quand %1 est cliqué</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Replace le joueur au début du labyrinthe.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Dessine une ligne d’épaisseur donnée d’un point \nà un autre. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>ligne</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Utilisez le bouton « Voir la galerie » pour voir les animations faites par les autres personnes. Si vous avez créé une animation intéressante, utilisez le bouton « Publier sur la galerie » pour la publier.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Dessine un cercle de rayon donné à l’endroit \nspécifié. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Donner deux mains à la personne.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>largeur</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>police</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Renvoie la vitesse actuelle du joueur (0 est à \nl’arrêt, 100 est à pleine vitesse). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>tourner à gauche de</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Lancer le programme que vous avez écrit.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Effacer les données</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>tambour</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Ouvrir la galerie des dessins. </target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>cercle</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Faites une animation de ce que vous voulez. Vous avez un grand nombre de blocs à explorer. Amusez-vous !</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Votre animation ne bouge pas. Utilisez les blocs pour faire quelque chose d’intéressant. Vous pourrez ensuite publier votre animation dans la galerie.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Blocs</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Faire tourner la tortue à gauche ou à droite du \nnombre de degrés indiqué. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Tortue</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Déplace la tortue en avant ou en arrière de la \nquantité indiquée. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Utiliser ce bloc pour aller dans une direction si vous avez le ver, ou bien dans une autre si vous ne l’avez pas.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Vous avez résolu ce niveau avec 1 ligne de JavaScript :</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Vous avez résolu ce niveau avec %1 lignes de JavaScript :</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Lève ou pose le crayon, pour arrêter ou \ncommencer à dessiner. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Affiche la documentation sur la langue.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Publier votre animation sur la galerie.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Nager. Spécifier une direction (0–360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Êtes-vous prêt pour le prochain défi ?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Ce niveau est une animation. Vous voulez déplacer le bras de la personne à travers l’écran. Appuyez sur le bouton de lecture pour voir un aperçu.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Voici un nouveau bloc qui vous permet de lever votre crayon de la feuille quand vous vous déplacez :</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Cet adversaire est trop loin pour utiliser le canon (qui a une portée limite de 70 mètres). À la place, utilisez la commande « nager » pour commencer à nager vers l’adversaire et le percuter.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Titre :</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>x de fin</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Pendant que l’animation se déroule, la valeur du bloc « temps » avance de 0 à 100. Comme vous voulez que la position « y » du bras commence à 0 et aille jusqu’à 100, cela devrait être facile.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Êtes-vous prêt pour le niveau %1 ?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Utilisez le bouton « Voir la galerie » pour voir ce que les autres personnes ont dessiné. Si vous dessinez quelque chose d’intéressant, utilisez le bouton « Publier dans la galerie » pour le publier.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Annuler</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Impossible de charger votre fichier enregistré.  Peut être a-t-il été créé avec une autre version de Blockly ?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>attendre %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>cap</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Il vous reste %1 bloc.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Il vous reste %0 bloc.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Il vous reste %2 blocs.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Jeux pour les programmeurs de demain.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>hauteur</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>si chemin vers la droite</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>si chemin vers la gauche</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Choisir une catégorie pour voir les blocs.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Joueur</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Modifie la couleur du crayon.</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Créez une fonction pour jouer les quatre premières notes de « Frère Jacques ». Lancez cette fonction deux fois. N’ajoutez pas d’autres blocs de notes.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>mettre l’épaisseur à</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://fr.wikipedia.org/wiki/Imprimerie</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Miel</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Jouer votre air sur un violon.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Ce nouveau bloc vous permet de passer à un autre instrument.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Dard</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Pouvez-vous résoudre ce labyrinthe plus difficile ? Essayez de suivre le mur du côté de votre main gauche. Pour les programmeurs avancés seulement !</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>lever le crayon</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Voir la galerie</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>tourner à gauche</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>rayon</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>avancer de</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Modifier l’angle du cap pour que l’oiseau attrape le ver et atterrisse dans son nid.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Ouvrir la galerie de musique.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Escargot</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Presque ! Un bloc est incorrect.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>image :</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Texte</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Canard</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Chat</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Abeille</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normal</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>trompette</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://fr.wikipedia.org/wiki/Chat</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Effrayé</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Voir la galerie</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>jouer une %1 note %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Le bloc en surbrillance est incorrect.
+Essayez à nouveau.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>x de départ</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Empiler ensemble deux blocs d’instructions « avancer » pour m’aider à atteindre le but.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Publier dans la galerie</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Cliquez sur %1 dans le bloc « si » pour modifier sa condition.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://fr.wikipedia.org/wiki/Escargot</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Listes</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Puzzle</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>règle l’instrument à : %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>La musique rendra mieux si vous utilisez un instrument différent dans chaque bloc de démarrage.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>« x » est votre position horizontale. Utiliser ce bloc pour aller dans une direction si « x » est inférieur à un nombre, dans une autre direction sinon.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>pattes :</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://fr.wikipedia.org/wiki/Abeille</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Ouvrir la galerie des animations.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Félicitations !</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Jeux Blockly</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Galerie</target>
+      </trans-unit>
+      <trans-unit id="3616731507597101347" datatype="html">
+        <target>Imprime un nombre sur la console de votre \nnavigateur. </target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Change la couleur du crayon.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>gras</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Dessinez ce que vous voulez. Vous avez un grand nombre de blocs à explorer. Amusez-vous !</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>répéter jusqu’à</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Boucles</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Publier sur la galerie</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Merci pour ce programme ! Si notre équipe de singes dressés l’aime, elle le publiera sur la galerie dans les deux jours.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>La formule mathématique pour le bras est compliquée. Voici la réponse :</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Une fois que vous aurez commencé à modifier le JavaScript, vous ne pourrez pas revenir à la modification des blocs. Est-ce bon pour vous ?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Utilisez le bloc « si » pour dessiner une petite tête durant la première moitié du film. Puis dessinez une grosse tête pour la seconde moitié du film.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>choisir...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>y de départ</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Le bloc « temps » va de 0 à 100. Mais maintenant vous voulez que la position « y » de l'autre bras démarre à 100 et aille jusqu’à 0. Pouvez-vous trouver une formule mathématique qui inverse la direction ?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Tutoriel de Pond</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>Dessinez 360 lignes blanches qui ressemblent à une pleine lune.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Votre programme n’a pas résolu le labyrinthe. Appuyez sur « Réinitialiser » et essayez à nouveau.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>première partie</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Documentation</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>afficher la tortue</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Se déplacer dans la direction d’un angle donné : \n0 est vers la droite, 90 est en face, 180 est vers \nla gauche, etc. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>banjo</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>italique</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Exécute votre programme pour voir ce qui arrive.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Définit la police utilisée par le bloc d’écriture.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>fixe la couleur à</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Film</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x et y marquent la position de l’oiseau. \nQuand x = 0 l’oiseau est près du bord \ngauche, quand x = 100 il est près du bord \ndroit. Quand y = 0 l’oiseau est en bas, \nquand y = 100 il est en haut. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Joue une note de musique de la durée et de la \nhauteur données. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Votre solution fonctionne, mais vous pouvez faire mieux.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Créez un programme qui dessine un carré.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Modifiez votre programme pour dessiner un pentagone plutôt qu’un carré.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Au lieu d’une seule étoile, pouvez-vous dessiner quatre étoiles arrangées en carré ?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>n’a pas de ver</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Dessinez les étoiles puis quatre lignes blanches.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://fr.wikipedia.org/wiki/Canard</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Pouvez-vous ajouter un cercle noir afin que la lune devienne un croissant ?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Modifie l’épaisseur de tracé du crayon.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>Bascule sur l’instrument spécifié en jouant les \nnotes musicales qui suivent. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Mathématiques</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Attend la durée d’une note entière.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="kab">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Alda</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>ma d abrid n zdat</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>tabdart</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>sers imru</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Icelɣumen</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Tahidurt</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Ad isuneɣ asrem deg umḍiq d-ittunefken s tehri \nakked teɣzi yettunefken. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Pond</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Suddes kraḍ n tizmilin timezwura n 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Ajeɣlal</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>ar deffir s</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Wagi d iḥder amaynut ara k-yeǧǧen ad tbeddleḍ ini.</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Suneɣ itri awraɣ.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Aswir-agi yesra lwaḥid iḥder 'ma' akked iḥder 'ma ulac'.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Iḥder 'ma' ad iselkem ayen yellan daxel-is ma yella tawtilit d tidettit. Ad yeɛreḍ ad yezzi s azelmaḍ ma yella ubrid azelmaḍ.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>tarbaɛt</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>eg</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Tesqedceḍ akk iḥedran deg uswir-a. Akken ad ternuḍ iḥder amaynut, yessef ad tekkseḍ iḥder yellan.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Zzi amyurar s azelmaḍ neɣ s ayeffus s 90 n n \ntfesniwin. </target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Senned ɣef tignit akken ad tesnifled iḥder 'ma'.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Tamrilt</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>Teɣzi n tsefsit</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Ɛiwed-d s wadda</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Err amyurar ad yeg ayen i d-qqaren yiḥedran.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>Iḥder 'akked' d idetti ma yella sin n inekcam d idettiyen.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Tazmilt(C4 d 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>Imẓad</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>Zzi s ayeffus</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Zzi iḍaṛṛen ɣr tnila-nniden deg uzgen n usaru.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Tebɣiḍ ad as-tɛiwdeḍ s wadda?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Zuɣeṛ iḥder 'ma ulac' ar yiḥder 'ma'.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>aḍris</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Ad tsefḍeḍ akk ayen yellan?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Suddes ayen tebɣiḍ. Ɣur-k ddeqs n iḥedran imaynuten ara twaliḍ. Zhu!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>Snitra</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>I yal aɣersiw (azegzaw), senteḍ tugna-s s ufran n wuṭṭun n yiḍarren-is, sakin sers ayen ixeddem awal ɣef wawal.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>ijeṛṛiden:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Ad yerǧu tanzagt i d-ittufken. </target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Seqdec taladna 'cannon' akken ad tḥazeḍ asaḍas. Aɣewwaṛ amezwaru n tiɣmert, wis sin d ameccaq. Af-d tuddsa iwatan.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Suffeɣ-f unuɣ-ik.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>'tawuri' ad k-teǧǧ ad tesdukleḍ iḥedran, sakin ad ten-tsellekmeḍ deg yiwet n tikelt.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Asaḍas-agi yessefk ad yettuḥaz ddeqs n tikal. Seqdec tineddict 'while (true)' akken ad tegeḍ taɣawsa s wudem ifed.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Afna-agi yebɛed aṭas akken ad tesqedceḍ amrud. Maca, ur tezmireḍ ara i umyewwat. Rdeb ar ufna skud adig-ik aglawan yekka-d ddaw n 50. Ihi 'stop' sakin seqdec amrud.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Wwet s umrud. Mudd tanila (0-360) akked talast \ntafellayt n umeccaq (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Tallelt</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Afna-agi ad ireggel ticki tḥuzaḍ-t. Rdeb ɣur-s ma yella yebɛed ugar n talast (70 n ikilumitren).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Tameẓla</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Acta</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Ad d-yerr tazmert tamirant n umyurar (0 yemmut, \n100 yeǧǧhedd aṭas). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Agḍiḍ</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Isallen isensegmayen...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Imuttiyen</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Selkem ahil</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Igerrez!
+Akk iḥedran %1 d imeɣta.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Ad isuneɣ kraḍ n yitran iwraɣen, akked izirig amellal.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 n yiḥedran mačči d imeɣta.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Ad isuneɣ aḍris s tnilla n ufekrun deg wadig-is.</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Aslellay</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Suffeɣ-d di tmidelt</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>sbadu ini ar</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Tifrat-ik tetteddu, acu kan tzemreḍ ad tegeḍ ugar. Seqdec 'scan' akken ad temmleḍ i umrud ameccaq ansa ara yewwet.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Ad d-yerr amsideg X n umyurar (0 d rrif azelmaḍ, \n100 d rrif ayeffus). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Ad d-yerr tanzagt tamirant n umray (0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>Apyanu</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>neɣ</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Talast-agi tafellayt n umeccaq d ayen tesra tladna 'cannon' akken ad tewwet s tseddi.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Afna-agi yettaẓ yettuɣal, ayen ara t-yerren yewɛeṛ iakken ad tḥazeḍ-t. Tanfalit 'scan' ad terr ameccaq yellan deg tnila yettunefken.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Saẓ amyurar s yiwen n umkan.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Font</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Iḥder-agi amaynut a dyernu akud n tsusmi.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>Suref-aɣ, « %1 » ur yettak ara anzi ula ɣer yiwen n wahil yettwaskelsen.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Seḥes ardab. Amyurar ad isenɣeṣ arured akken ad \nyeḥbes. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Ad yerr afekrun (tawinest neɣ aneccab) ad \nyettban neɣ ala. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Wali timidelt</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Yella-d wugur deg tuttra.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Ad iselkem ahil arama yeḥbes. Sakin ad tizmired ad tessuffɣeḍ azaɛan-ik di tmidelt.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>asrem</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Ma yella yiwen n ubrid deg tnila d-ittunefken, \neg tigawin n yiḥder amezwaru. Ma ulac eg tigawin \nn yiḥder wis sin. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Azen aẓawan-ik ar tmidelt.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Senqed tiririyin</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Suneɣ tawinest ara yimɣuren deffir n umdan.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>aru</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>Rnu g̱hder wis sin yesɛan iḥder n tsusmi, sakin urar daɣen 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Aẓawan</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Nadi icenga. Mudd tanila (0-360). \nAd d-yerr ameccaq n ucengu iqerben \ndi tnila. Ad d-yerr ifeḍ ma ulac \nula d yiwen n ucengu. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Yal iḥder n beddu yessefk ad yurar 'Frère Jacques' snat n tikal.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Rnu kuẓ n yiḥedran n beddu anida yal yiwen ad yurar 'Frère Jacques' snat n tikal. rnu amḍan iwatan n yiḥedran n tsusmi.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Mayella yiwen n ubrid deg tnila d-ittunefken, \neg tigawin-a. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Rnu tawuri tis kraḍ i yiḥder yeṭṭafaṛen 'Frère Jacques'. Kuẓ timezwura n tizmilin weizzilit ugar.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Fak aẓawan n 'Frère Jacques'.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>Ajewwaq</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Ad d-yerr amsideg y n umyurar (0 d rrif n \nukesser, 100 d rrif n usawen). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Ales iḥedran n ugensu almi yewweḍ iswi.</target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Seḥbes ahil tɛiwdeḍ-d s wadda i uswir.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Rnu tawuri tis snat i yiḥder n 'Frère Jacques'. Tazmilt taneggarut meqqert ugar.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Addad ticki agḍiḍ ur d-yeṭṭif ara ijirmeḍ.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Ad iselkem ahil arama yeḥbes. Sakin ad tizmired ad tessuffɣeḍ unuɣ-ik di tmidelt.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Tzermeḍ ad terreḍ ugar n yiwen n yiḥder ar yiḥder "ales".</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Ini</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Iḥder 'ma-neɣ' yesselkam taɣawsa neɣ tayeḍ.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Seqdec taqeffalt  "Wali timdelt" akken ad twaliḍ ayen i suddsen wiyaḍ. Ma yella terniḍ ayen yelhan, seqdec taqeffalt "Suffeɣ-d deg tmidelt" akken ad t-id-suffɣeḍ.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Seqdec ayen i tlemdeḍ deg uswir uezrin akken ad tkerrfeḍ iḍaṛṛen.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Bḍu iḥedran-ik/im s useɣwen-a:
+
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Tifrat-ik tetteddu, maca tzemreḍ ad txedmeḍ ugar. Seqdec tiwuriwin akken ad tesneɣseḍ tasmekta n tengalt yettwalsen.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Sekles teqqneḍ akk iḥedran i yellan.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Seqdec kan sin n yiḥedran akken ad tawḍeḍ iswi.
+Seqdec iḥder 'ales' akken ad teslekmeḍ iḥder ugar n tikkelt.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>ffer afekrun</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Deg uswir-a, tesriḍ ad tsembibbeḍ iḥedran wa ɣef wa nnig n wiyaḍ deg temnaḍt tamellalt n umahil.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>Ar zdat</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Aswir-a yuɛeṛ aṭas aṭas. Tebɣiḍ ad tǧellbeḍ ad tɛeddiḍ ɣer wurar i d-itteddun? Ad tizmireḍ ad tuɣaleḍ alma d da umbeɛd.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Asaḍas</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Seqdec tilɣiwin tiḥerfiyin akken ad tseunɣeḍ amdan-agi.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>Ad yesselkem iḥedran degugensu ticki taqeffalt \n"Senker ahil" tettusenned. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Ad isuneɣ itri s kuẓ kan n iḥedran.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Ad isuneɣ talɣa s kraḍ kan n iḥedran.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>zzi s ayeffus s</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Aqamum</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Rric</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>y n tagara</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Fren amyurar-ik anurif seg wumuɣ-a.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Suneɣ itri awraɣ, sakin suneɣ ajerriḍ nnig-s.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Awi tawinest n ugilal d asawn n wahil-ik. Sakin ad d-iban dffir n umdan.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Tiwuriwin</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>ticki %1 yettusenned</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Sers amyurar deg tazwara n tziba.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Ad isuneɣ izirig seg yiwet n tneqqiḍt ar tayeḍ s \ntuzert d-ittenefken. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>izirig</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Seqdec taqeffalt  "Wali timdelt" akken ad twaliḍ imrayen i gan wiyaḍ. Ma yella terniḍ imrayen yelhan, seqdec taqeffalt "Suffeɣ-d di tmidelt" akken ad -t-id-suffɣeḍ.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Ad isuneɣ tawinest deg umḍiq akked waqqar \nd-ittunefken. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Mudd sin n yiɣalen i umdan.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>tehri</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>tasefsit</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Ad d-yerr arured amiran n umyurar (0 yeḥbes, \n100 yettazzal aṭas). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>zzi s azelmaḍ s</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Selkem ahil i turiḍ.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Sfeḍ isefka</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>abendayer</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Ldi timidelt n wunuɣen.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>tawinest</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Suneɣ amray tebɣiḍ. Ɣur-k ddeqs n iḥedran ara twaliḍ. Zhu!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Amray-ik ur yettḥerrik ara. Seqdec iḥedran akken ad tegeḍ kra n wayen yelhan. Sakin ad tizmireḍ ad tessuffɣeḍ amray-ik di tmidelt.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Iḥedran</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Zzi afekrun s azelmaḍ neɣ s ayeffus s umḍan n \ntfesniwin d-ittunefken. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>IH</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Tifkert</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Awi afekrun ar zdatneq ar deffir n tesmekta \nyettwammlen. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Seqdec iḥder-agi akken ad tedduḍ ar tnila ma ɣur-k ijermeḍ, sakin dar tnila-nniḍen mayella ulac.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Tufiḍ-d aswir-a s 1 n yizerrig n JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Tufiḍ-d aswir-a s %1 n yizerrigen n JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Rfed neɣ sers imru, akken ad tesḥebseḍ neɣ ad \ntkemmleḍ asuneɣ. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Ad d-yesken tasemlit ɣef tutlayt.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Azen amray-ik.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Rdeb. Mudd tanila (0-360).</target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Theyyaḍ i wayen i d-itteddun ?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Aswir-agi d asaru. Tebɣiḍ ad tawiḍ iɣil n umdan deg ugdil. Senned ɣef tqeffalt n tɣuri akken ad twaliḍ taskant.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Wagi d iḥder amaynut ara k-yeǧǧen ad trefdeḍ akeryun-ik n tferkit ticki tleḥḥuḍ.</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Afna-agi yebɛed aṭas akken ad tesqedceḍ amrud (ibeɛden arama d 70 n ikilumitren). Deg umḍiq-is, seqdec taladna 'swim' akken ad tebduḍ ardab ar ufna akkenad tḥazeḍ-t.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Azwel:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>x n tagara</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Ticki iteddu usaru, azal n yiḥder 'akud' ad yettaẓ si 0 ar 100. Imi tebɣiḍ d akken adig 'y' n yiɣil ad yebdu si 0 sakin ad yeddu arama 100, ayagi d ayen fessusen.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Theyyaḍ i uswir %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Seqdec taqeffalt  "Wali timdelt" akken ad twaliḍ unuɣen i gan wiyaḍ. Ma yella terniḍ unuɣen yelhan, seqdec taqeffalt "Suffeɣ-d di tmidelt" akken ad t-id-suffɣeḍ.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Sefsex</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Azdam n ufaylu-yik/yim i teskelseḍ yugi. Ahat yettwasnulfa-d s lqem yemgaraden n Blockly ?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>rǧu %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>iɣef</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>Iqqim-ak-d %1 n yiḥder.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>Qqimen-ak-d %0 n yiḥedran.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>Qqimen-ak-d %2 n yiḥedran.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Uraren i yimessihlen n uzekka.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>teɣzi</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>ma d abrid n uyeffus</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>ma d abrid n uzelmaḍ</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Fren taggayt akked ad twaliḍ iḥedran.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Ameɣri</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Ad ibeddel ini n yimru.</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Rnu tawuri akken ad turareḍ kraḍ n tizmilin timezwura n 'Frère Jacques'. Senker tawuri-agi snat n tikalt. Ur rennu ara iḥedran-nniḍen n tizmilin.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>sbadu tuzert ar</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://en.wikipedia.org/wiki/Printing</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Tamment</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Urar aẓwan-ik s yimẓad</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Iḥder-agi amaynut ad k-yeǧǧ ad tedduḍ ar wallal-nniḍen.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Tisiqqest</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Tzemreḍ ad tefruḍ taziba-a iweɛren?
+Ɛreḍ ad tḍefreḍ aɣrab seg yidis n ufus-ik azelmaḍ. I yimsihal kan imussnawen.</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>rfed imru</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Wali timidelt</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>Zzi s azelmaḍ</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>aqqar</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>ar zdat s</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Beddel tiɣmert n uqerru akken agḍiḍ ad d-yeṭṭef ijermeḍ sakin ad yerṣ ɣef lɛec-is.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Ldi timidelt n uẓawan.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Abelɛaṛus</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Qrib! Yiwen n yiḥder mačči d ameɣtu.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>tugna:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Aḍris</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Abṛik</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Amcic</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Tizizwit</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>amagnu</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>Lɣiḍa</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://kab.wikipedia.org/wiki/Amcic</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Ugadeɣ</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Wali timidelt</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>Urar %1 tazmilt %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Iḥder s ubruṛeq mačči d ameɣtu. Ɛreḍ tikkelt-nniḍen.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>x n tazwara</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Asembibb lwaḥid n sin n yiḥedran n tinadin ad 'isaẓ' ar zdat akken ad d-imudd tallelt ad awḍeɣ iswi.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Suffeɣ-d di tmidelt</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Sit ɣef %1 deg yiḥder 'ma' akken ad tbeddleḍ tawtilt-is.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://kab.wikipedia.org/wiki/Abelɛaṛus</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Tibdarin</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Apuzzel</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>Sbadu allal ar %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>Aẓawan ad yffeɣ akken iwata ma yella tsxedmeḍ allal-nniden deg yal iḥder n tnekra.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' d adig-ik aglawan. Seqdec iḥder-agi akken ad tedduḍ di tnila ma yella 'x' yezga-d ddwa n n umiḍan, di tnila-nniḍen ma yugar-it.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>iḍarren:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://kab.wikipedia.org/wiki/Tizizwit</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Ldi timidelt n yemrayen.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Ayyuz!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Uraren n Blocky</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Timidelt</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Beddel ini n ukeryun.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>zur</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Suneɣ ayen tebɣiḍ. Ɣur-k ddeqs n iḥedran ara twaliḍ. Zhu!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>ales almi</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Tiyerrisin</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Suffeɣ-d di tmidelt</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Tanemmirt ɣef wahil-a! Ma yeɛǧeb-as i terbaɛt-nneɣ n yibkan, ad t-id-ssufɣen seg sya ɣer sin n wussan.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>Tanfalit n tusnakt i yiɣil tewɛṛ. A-tt-a tririt.</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Segmi ara tebduḍ asnifel n JavaScript, ur tettizmireḍ ara akk ad tuɣaleḍ ɣer usnifel n yiḥedran. Yelha?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Sqdec iḥder 'if' akken ad tsunɣeḍ aqeṛṛu mẓẓiyen i uzgn anemzu n usaru. Sakin suneɣ aqeṛṛu mqqren i uzgen wis sin n usaru.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>fren...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>y n tazwara</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Iḥder 'akud' ad yeddu seg 0 arama d 100. Maca tura tebɣiḍ d akken adig 'y' nyiɣil-nniḍen ad yebdu seg 100 aram d 0. Tzemreḍ ad tafeḍ tanfalit n tusnakt ara yettin tanila?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Tamsirt n Pond</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>Suneɣ 360 n izirigen imellalen yettemcabin ar waggur yeččuren.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Ahil-ik ur yefri ara taziba.
+Senned ɣef 'Ales awennez' sakin ɛreḍ tikkelt-nniḍen.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>aḥric amenzu</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Tasemlit</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>sken afekrun</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Ddu di tnila n teɣmert yettunefken.\n0 deg uzelmaḍ, 90 deg wudem, atg.</target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>Abanju</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>uknan</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Selkem ahil-ik akken ad twalid ayen  iḍerrun.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Ad isbadu tasefsit iseqdac iḥder n tira.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>sbadu ini ar</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Asaru</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x akked y mmalen-d adig n ugḍiḍ. \nTicki x = 0 agḍiḍ ad yili di rrif \nazelmaḍ, ticki x = 100 ad yili di \nrrif ayeffus. Ticki y = 0 agḍiḍ ad \nyili ukesser, ticki y = 100 ad yili \nukessawen. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Urar tazmili n uẓawan n tenzagt akked uwrir n \nyisefka. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Tifrat-ik tetteddu, acu kan tzemreḍ ad teggeḍ ugar.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Ad yernu ahil isunuɣen amkuẓ.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Ad ibeddel ahil-ik akken ad isuneɣ asemmusdis deg umḍiq n umkuẓ.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Deg umḍiq n yiwen n yitri, tzemreḍ ad sunɣeḍ kraḍ n yitran yettwasersen am umkuẓ?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>ur ɣur-s ara ijermeḍ</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Suneɣ itran iwraɣen, sakin kuẓ n ijerriḍen imellalen?</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://kab.wikipedia.org/wiki/Abṛik</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Tzemreḍ ad ternuḍ tawinest taberkant akken aggur ad yuɣal razzirt?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Ad ibeddel tehri n yimru.</target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>Ddu ar wallal i d-ituunefken s wurar n tezmilin \ntiẓawanin yeṭṭafaren. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Tusnakt</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Ad yerǧu tazmilt meṛṛa.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

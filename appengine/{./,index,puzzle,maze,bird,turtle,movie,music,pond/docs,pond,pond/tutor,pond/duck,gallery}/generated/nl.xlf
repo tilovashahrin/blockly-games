@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="nl">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Slijm</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>als er een pad rechtdoor is</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>lijst</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>pen omlaag</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Snorharen</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Vacht</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Maakt een rechthoek op de opgegeven plaats en \nmet de opgegeven breedte en hoogte. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Vijver</target>
+      </trans-unit>
+      <trans-unit id="2743360900788758506" datatype="html">
+        <target>Componeer de eerste vier tonen van 'Vader Jacob'.</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Huisje</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>aantal achteruit</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Er is een nieuw blok waarmee je de kleur kunt wijzigen:</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Teken een gele ster.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>Voor dit niveau is een "anders-als"-blok en een "anders"-blok nodig.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Het blok "als" doet alleen iets als de voorwaarde waar is. Probeer naar links te draaien als er een pad naar links is.</target>
+      </trans-unit>
+      <trans-unit id="113694686851263020" datatype="html">
+        <target>koor</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>uitvoeren</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>U hebt alle blokken voor dit niveau gebruikt. Om een nieuw blok te maken, moet u eerst een bestaand blok.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Hiermee draait Pegman 90 graden naar links of \nnaar rechts. </target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Klik op het pictogram om het "als"-blok aan te passen.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Slinger</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>lettergrootte</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Opnieuw instellen</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Zorgt ervoor dat de speler doet wat de blokken \nvoorschrijven. </target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>Het "en"-blok is alleen waar als beide invoeren waar zijn.</target>
+      </trans-unit>
+      <trans-unit id="5174223315558016597" datatype="html">
+        <target>Een toon (C4 is 7).</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>viool</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>rechtsaf</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Stuur de benen de andere kant op halverwege de film.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Wil je opnieuw beginnen?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Sleep een "anders"-blok in het "als"-blok.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>tekst</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Al je oplossingen wissen?</target>
+      </trans-unit>
+      <trans-unit id="8126100101233789051" datatype="html">
+        <target>Componeer wat u wil. U hebt een enorm aantal nieuwe blokken om te onderzoeken. Veel plezier!</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>gitaar</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Kies voor ieder dier (groen) een afbeelding, het aantal poten en maak een stapel van de eigenschappen van het dier.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>eigenschappen:</target>
+      </trans-unit>
+      <trans-unit id="2352028843622499350" datatype="html">
+        <target>Wacht op de vastgestelde duur. </target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Gebruik het commando "cannon" om op het doel te schieten. De eerste parameter is de hoek, de tweede parameter is het bereik. Zoek de juiste combinatie.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Sla je tekening op in de galerij.</target>
+      </trans-unit>
+      <trans-unit id="393337436178288384" datatype="html">
+        <target>Een 'functie' geeft u kans blokken te groeperen en dan meermaals uit te voeren.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Dit doel moet meerdere keren geraakt worden. Gebruik de lus "while (true)" om iets voor onbepaalde tijd uit te voeren.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Deze tegenstander is ook te ver weg om het kanon te gebruiken. Maar je bent te zwak om een botsing te overleven. Zwem in de richting van de tegenstander tot de horizontale afstand kleiner is dan 50. "stop" dan en gebruik het kanon.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Vuur het kanon af. Geef een richting (0-360) en \neen bereik op (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Hulp</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Deze tegenstander zwemt weg als die geraakt wordt. Zwemmen in de richting van de tegenstander als deze zich buiten het bereik bevindt (70 meter).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Logica</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Genetica</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Geeft de huidige levenspunten van de speler \nterug (0 is dood, 100 is gezond). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Vogel</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Informatie voor docenten...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Variabelen</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Programma uitvoeren</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Perfect
+Alle %1 blokken zijn correct.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Teken drie gele sterren en één witte lijn.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 blokken zijn onjuist.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Tekent tekst in de richting van de schildpad \nvanaf de huidige positie. </target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Doolhof</target>
+      </trans-unit>
+      <trans-unit id="7631062511117780922" datatype="html">
+        <target>Zet in de galerij</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>kleur instellen op</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Je oplossing werkt, maar je kunt het beter doen. Gebruik "scan" om het kanon te vertellen hoe ver het moet schieten.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Geeft het X-coördinaat van de speler terug (0 is \nde linkerkant, 100 is de rechterkant). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Geeft de huidige tijd terug in de animatie (0-100).</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>piano</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>anders</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Dit bereik is precies wat het commando "cannon" nodig heeft om nauwkeurig te vuren.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Deze tegenstander beweegt heen en weer, waardoor die moeilijk te raken is. Het commando "scan" geeft de exacte afstand en de richting naar de tegenstander aan.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Hiermee wordt Pegman één vakje vooruit verplaatst.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://nl.wikipedia.org/wiki/Lettertype</target>
+      </trans-unit>
+      <trans-unit id="7356438874462563937" datatype="html">
+        <target>Dit nieuwe blok voegt een stille pauze toe.</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>"%1" komt helaas niet overeen met een opgeslagen bestand.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Stop met zwemmen. De speler komt langzaam tot \nstilstand. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Maakt de schildpad zichtbaar of onzichtbaar \n(cirkel en pijl). </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Galerij bekijken</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Er is een probleem opgetreden tijdens het verwerken van het verzoek.</target>
+      </trans-unit>
+      <trans-unit id="5539181822180691031" datatype="html">
+        <target>Voer uw programma uit tot het stopt. Dan mag u uw muziek in de galerij zetten.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>rechthoek</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Als er een pad is in de aangegeven richting, \nvoer dan het eerste blok van handelingen uit, \nanders het tweede blok. </target>
+      </trans-unit>
+      <trans-unit id="7801404419489956886" datatype="html">
+        <target>Zet uw muziek in de galerij.</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Antwoorden controleren</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Teken een groter wordende cirkel achter de persoon.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>afdrukken</target>
+      </trans-unit>
+      <trans-unit id="7989045751017922850" datatype="html">
+        <target>Creëer een tweede beginblok met twee pauzeblokken, speelt daarna ook 'Vader Jacob'.</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Muziek</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Zoek naar vijanden. Geef een richting op \n(0-360). Geeft de afstand tot de dichtstbijzijnde \nvijand in die richting. Geeft oneindig op \nals er geen vijand te vinden is. </target>
+      </trans-unit>
+      <trans-unit id="3294282184296643568" datatype="html">
+        <target>Elk beginblok moet 'Vader Jacob' tweemaal laten klinken.</target>
+      </trans-unit>
+      <trans-unit id="3390292667307015294" datatype="html">
+        <target>Creëer vier beginblokken die elk 'Vader Jacob' tweemaal laten horen. Voeg het juiste aantal pauzeblokken toe.</target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Als er een pad in de aangegeven richting is, \nvoer dan wat handelingen uit. </target>
+      </trans-unit>
+      <trans-unit id="7603819200212787150" datatype="html">
+        <target>Creëer een derde functie voor het volgende deel van 'Vader Jacob'. De eerste vier tonen duren korter.</target>
+      </trans-unit>
+      <trans-unit id="3603639777806135642" datatype="html">
+        <target>Maak het hele liedje 'Vader Jacob' af.</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>fluit</target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Geeft het Y-coördinaat van de speler terug (0 is \nde onderkant, 100 is de bovenkant). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Herhaal de ingesloten handelingen totdat het \neindpunt is bereikt. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Stop het programma en begin het niveau opnieuw.</target>
+      </trans-unit>
+      <trans-unit id="1164155135523387658" datatype="html">
+        <target>Creëer een tweede functie voor het volgende deel van 'Vader Jacob'. De laatste toon duurt langer.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>De toestand als de vogel de worm niet heeft \ngekregen. </target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Voor je programma uit tot het stopt. Daarna kan je je tekening opslaan in de galerij.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>U kunt meer dan één blok toevoegen binnen een "herhalen"-blok</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Kleur</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>"als-dan"-blokken doen het ene of het andere.</target>
+      </trans-unit>
+      <trans-unit id="4552185797583323905" datatype="html">
+        <target>Gebruik de 'Zie galerij'-knop om te zien wat ondere mensen hebben gecomponeerd. Als u iets interessants hebt gecomponeerd, gebruik de 'Zet in galerij'-knop om het te publiceren.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Gebruik wat je hebt geleerd in het vorige niveau om kruisende benen te vormen.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Deel uw blokken via deze koppeling:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="1530115130327733098" datatype="html">
+        <target>Uw oplossing werkt, maar u kunt beter. Gebruik functies om het aantal herhaalde coderegels te beperken.</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Opslaan en koppelen naar blokken.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Computers hebben een beperkt geheugen. Ga naar het einde van dit pad door maximaal twee blokken te gebruiken. Gebruik "herhalen" om een blok meerdere keren uit te voeren.</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>schildpad verbergen</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>Op dit niveau moet u alle blokken uit de witte werkruimte opstapelen.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>vooruit</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Dit niveau is erg moeilijk. Wil je het overslaan en naar het volgende spel gaan? Je kunt altijd later terugkomen.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Doel</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Gebruik eenvoudige vormen om deze persoon te tekenen.</target>
+      </trans-unit>
+      <trans-unit id="8857967060654747458" datatype="html">
+        <target>Voer de binenblokken uit wanneer de 'Voer \nprogramma uit'-knop is ingedrukt. </target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Teken de ster met maximaal vier blokken.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Teken de vorm met maximaal drie blokken.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>rechts draaien,</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Snavel</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Veren</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>eindpunt y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Kies uw favoriete speler uit dit menu.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Teken een kleine gele ster en teken daar dan een lijn boven.</target>
+      </trans-unit>
+      <trans-unit id="2926653827494661093" datatype="html">
+        <target>Verplaats de achtergrondcirkel naar de bovenkant van uw programma. Dan zal het achter de persoon te zien zijn.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Functies</target>
+      </trans-unit>
+      <trans-unit id="6143510286024124175" datatype="html">
+        <target>wanneer %1 is ingedrukt</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Zet de speler terug naar het begin van het doolhof.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Maakt een lijn van het ene punt naar het andere \nmet de opgegeven breedte. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>lijn</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Gebruik de knop "Galerij bekijken" om de filmpjes te bekijken die andere mensen hebben gemaakt. Als je zelf een interessant filmpje hebt egmaakt, klik dan op de knop "In galerij opslaan" om het te delen.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Maakt een cirkel op de opgegeven plaats en met \nde opgegeven radius. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Geef de persoon een paar handen.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>breedte</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>lettertype</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Geeft de huidige snelheid van de speler terug (0 \nis staat stil, 100 is volle snelheid). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>links draaien</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Het door u geschreven programma uitvoeren.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Gegevens wissen</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>drum</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Open de galerij met tekeningen.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>cirkel</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Maak een filmpje over wat je maar wilt. Je hebt een groot aantal nieuwe blokken tot je beschikking. Veel plezier!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Je filmpje beweegt niet. Gebruik blokken om iets interessants te maken. Daarna kan je je filmpje opslaan in de galerij.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Blokken</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Draait de schildpad naar links of naar rechts \nmet het opgegeven aantal graden. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Schildpad</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Verplaatst de schildpad vooruit of achteruit met \nhet ingestelde aantal stappen. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Gebruik dit blok om in één richting te gaan als de worm is gepakt, of een andere richting als de worm nog niet is gepakt.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Je hebt dit niveau opgelost met 1 regel JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Je hebt dit niveau opgelost met %1 regels JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Tilt de pen op of zet die neer, \nom te stoppen of te beginnen met \ntekenen. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Documentatie van de programmeertaal weergeven.</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Sla je film op in de galerij.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Zwem vooruit. Geef een richting (0-360) op. </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Ben je klaar voor de volgende uitdaging?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Dit niveau is een film. Je wilt de arm van de persoon over het scherm laten bewegen. Klik op de afspeelknop om een voorvertoning te bekijken.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Er is een nieuw blok waarmee je de pen van het papier kunt tillen als je beweegt:</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Deze tegenstander is te ver weg om het kanon gebruiken (dat heeft een limiet van 70 meter). Gebruik in plaats daarvan het commando "swim" opdracht om te beginnen met zwemmen in de richting van de tegenstander en er tegenaan te botsen.</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>Titel:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>eindpunt x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Terwijl de film draait, telt de waarde van het "tijd"-blok van 0 tot 100. Omdat je wilt dat de y-positie van de arm begint op 0 en eindigt bij 100 zou dit makkelijk moeten zijn.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Ben je klaar voor niveau %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Gebruik de knop "Galerij bekijken" om te bekijken wat anderen mensen hebben getekend. Als je iets interessants tekent, gebruik dan de knop "Opslaan in galerij" om je tekening te publiceren.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Annuleren</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Uw opgeslagen bestand kan niet geladen worden. Is het misschien gemaakt met een andere versie van Blockly?</target>
+      </trans-unit>
+      <trans-unit id="6150116638989639252" datatype="html">
+        <target>rust %1</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>richting</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>U hebt %1 blok over.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>U hebt %0 blokken over.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>U hebt %2 blokken over.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Spelletjes voor de programmeurs van morgen.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>hoogte</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>als er een pad naar rechts is</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>als er een pad naar links is</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Kies een categorie om te blokken te bekijken.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Speler</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Wijzigt de kleur van de pen.</target>
+      </trans-unit>
+      <trans-unit id="4286873352447791201" datatype="html">
+        <target>Creëer een functie om de eerste vier tonen van 'Vader Jacob' te spelen. Voer deze functie twee keer uit. Voeg geen nieuwe toonblokken toe.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>breedte instellen op</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://nl.wikipedia.org/wiki/Boekdrukkunst</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Honing</target>
+      </trans-unit>
+      <trans-unit id="2885216356485784737" datatype="html">
+        <target>Speel uw liedje met een viool.</target>
+      </trans-unit>
+      <trans-unit id="8702063433119367086" datatype="html">
+        <target>Dit nieuwe blok laat u een ander instrument kiezen.</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Angel</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Kunt u dit ingewikkelde doolhof oplossen? Probeer de linkermuur te volgen. Dit is een opdracht voor gevorderde programmeurs!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>pen omhoog</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Galerij bekijken</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>linksaf</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>straal</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>aantal vooruit</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Wijzig de hoek van de richtingaanwijzer zo dat de vogel de worm pakt en in haar nest landt.</target>
+      </trans-unit>
+      <trans-unit id="942598524992550069" datatype="html">
+        <target>Open de muziekgalerij.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Slak</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Bijna! Eén blok is onjuist.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>afbeelding:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Tekst</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Eend</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Kat</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Bij</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>normaal</target>
+      </trans-unit>
+      <trans-unit id="4570971685466979630" datatype="html">
+        <target>trompet</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://nl.wikipedia.org/wiki/Kat_(dier)</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Bang</target>
+      </trans-unit>
+      <trans-unit id="2690010781849380215" datatype="html">
+        <target>Zie galerij.</target>
+      </trans-unit>
+      <trans-unit id="1673297256341690673" datatype="html">
+        <target>speel %1 toon %2</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Het gemarkeerde blok is niet correct.
+Blijf het proberen.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>beginpunt x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Stapel een paar instructies van het type "ga vooruit" op elkaar en help me mijn doel te bereiken.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Opslaan in galerij</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Klik op %1 in het blok "als" om de voorwaarde te wijzigen.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://nl.wikipedia.org/wiki/Slakken</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Lijsten</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Puzzel</target>
+      </trans-unit>
+      <trans-unit id="8146210747284231786" datatype="html">
+        <target>zet instrument op %1</target>
+      </trans-unit>
+      <trans-unit id="7977008118225488696" datatype="html">
+        <target>De muziek zal beter klinken als u een ander instrment in elk beginblok gebruikt.</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>"x" is je huidige horizontale positie. Met dit blok ga je in één richting als "x" kleiner is dan een getal, of anders in een andere richting.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>benen:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://nl.wikipedia.org/wiki/Bijen</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Open de filmgalerij.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Van harte gefeliciteerd!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Blockly Spelletjes</target>
+      </trans-unit>
+      <trans-unit id="6543464286497146566" datatype="html">
+        <target>Galerij</target>
+      </trans-unit>
+      <trans-unit id="3616731507597101347" datatype="html">
+        <target>Drukt een nummer af op de console van je browser.</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Wijzigt de kleur van de pen.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>vet</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Teken wat je wilt. Je hebt een groot aantal nieuwe blokken die je kunt ontdekken. Veel plezier!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>herhalen totdat</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Lussen</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Opslaan in galerij</target>
+      </trans-unit>
+      <trans-unit id="3714515657442045855" datatype="html">
+        <target>Dank u voor dit programma! Als onze staf van opgeleide apen het leuk vinden, zullen ze het binnen enkele dagen in de galerij opnemen.</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>De wiskundige formule voor de arm is complex. Hier het antwoord:</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Zodra u begint met het bewerken van JavaScript, kunt u niet terug gaan naar het bewerken van blokken. Akkoord?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Gebruik het 'if'-blok om een hoofdje voor de eerste helft van de film te tekenen. Teken daarna een groot hoofd voor de tweede helft.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>kiezen...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>beginpunt y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Het "tijd"-blok telt van 0 tot 100. Maar nu wil je dat de y-positie van de andere arm begint bij 100 en naar 0 gaat. Kan je een eenvoudige wiskundige formule vinden die de richting omkeert?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Leer Vijver</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>360 witte lijnen zien eruit als een volle maan.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Uw programma heeft het doolhof niet opgelost. Klik op "Opnieuw instellen" en probeert het opnieuw.</target>
+      </trans-unit>
+      <trans-unit id="921047160155494346" datatype="html">
+        <target>eerste deel</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Documentatie</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>Schildpad weergeven</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Beweeg in de richting van de gegeven hoek: 0 is \nnaar rechts, 90 is recht omhoog, enzovoort. </target>
+      </trans-unit>
+      <trans-unit id="1766725995274107609" datatype="html">
+        <target>banjo</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>cursief</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Voer uw programma uit en kijk wat er gebeurt.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Stelt het lettertype in voor tekst.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>stel kleur in op</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Film</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x en y geven de positie van de vogel aan. \nAls x = 0, dan bevindt de vogel zich aan de \nlinker rand, als x = 100, dan is deze aan \nde rechter rand. Als y = 0 is de vogel op \nde bodem, als y = 100 is deze bovenaan. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Speel een muzieknoot af met vastgestelde duur en \nfrequentie. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Je oplossing werkt, maar je kunt nog tot een beter oplossing komen.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Maak een programma dat een vierkant tekent.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Wijzig je programma zodat het een vijfhoek tekent in plaats van een vierkant.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Kan je vier sterren in de vorm van een vierkant tekenen in plaats van één ster?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>heeft geen worm</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Teken de sterren en teken daarna vier witte lijnen.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://nl.wikipedia.org/wiki/Eenden</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Kan je een zwarte cirkel toevoegen zodat de maan een halve maan wordt?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Wijzigt de breedte van de pen. </target>
+      </trans-unit>
+      <trans-unit id="1068587970027116228" datatype="html">
+        <target>Schakelt naar het vastgestelde instrument \nwanneer volgende muzieknoten klinken. </target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Formules</target>
+      </trans-unit>
+      <trans-unit id="6743524605815726714" datatype="html">
+        <target>Wacht op een hele toon.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="be">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>Слізь</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>калі шлях наперадзе</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>спіс</target>
+      </trans-unit>
+      <trans-unit id="295126337553066153" datatype="html">
+        <target>апусціць пяро</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>Вусы</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>Футра</target>
+      </trans-unit>
+      <trans-unit id="2235058884220483095" datatype="html">
+        <target>Малюе прамавугольнік ў зададзеным месцы з \nзададзенай даўжынёй і шырынёй. </target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>Сажалка</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>Ракавінка</target>
+      </trans-unit>
+      <trans-unit id="4294783477990312138" datatype="html">
+        <target>перамясціць назад на</target>
+      </trans-unit>
+      <trans-unit id="4833039242068195299" datatype="html">
+        <target>Гэта новы блок, які дазваляе змяніць колер.</target>
+      </trans-unit>
+      <trans-unit id="5561607146816569193" datatype="html">
+        <target>Намалюй жоўтую зорку.</target>
+      </trans-unit>
+      <trans-unit id="8285442700503222776" datatype="html">
+        <target>На гэтым узроўні патрабуюцца блокі 'інакш калі' і 'інакш'.</target>
+      </trans-unit>
+      <trans-unit id="6668207685173746387" datatype="html">
+        <target>Блок "калі" выканае нешта толькі ў выпадку вернай ўмовы. Паспрабуйце звярнуць налева, калі шлях налева даступны.</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>выконваць</target>
+      </trans-unit>
+      <trans-unit id="4016533017150562878" datatype="html">
+        <target>Вы выкарыстоўвалі ўсе блокі для гэтага ўзроўню. Каб дадаць новы блок, спачатку неабходна выдаліць існуючы.</target>
+      </trans-unit>
+      <trans-unit id="4502373380845009974" datatype="html">
+        <target>Павярнуць вандроўніка на 90 градусаў налева або \nнаправа. </target>
+      </trans-unit>
+      <trans-unit id="6637086536416292952" datatype="html">
+        <target>Пстрыкніце на абразку, каб змяніць блок 'калі'.</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>Ківач</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>памер шрыфта</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>Скінуць</target>
+      </trans-unit>
+      <trans-unit id="2075728723517768097" datatype="html">
+        <target>Вандроўнік зробіць усё, што скажуць яму блокі.</target>
+      </trans-unit>
+      <trans-unit id="3298954388095553165" datatype="html">
+        <target>Блок 'і' мае значэння ісціна, калі абодва параметра ісцінныя.</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>павярнуць направа</target>
+      </trans-unit>
+      <trans-unit id="142206489755656102" datatype="html">
+        <target>Выкарыстоўвай блок "калі", каб намаляваць чырвоны і белы шары для першай частцы фільма. Потым намалюй зялёны шар для другой частцы фільма.</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>Хочаце пачаць нанова?</target>
+      </trans-unit>
+      <trans-unit id="6896230882346401824" datatype="html">
+        <target>Перацягні блок 'інакш' у блок 'калі'.</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>тэкст</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>Выдаліць усе вырашэння?</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>Для кожнай жывёлы (зялёны блок), прымацуй яе выяву, абяры лік ног і збяры яе адметныя рысы.</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>асаблівасці:</target>
+      </trans-unit>
+      <trans-unit id="3197033602024452368" datatype="html">
+        <target>Выкарыстоўвайце каманду 'cannon', каб ўразіць мэту. Першы параметр — кут, другі — адлегласць. Знайдзіце правільнае спалучэнне.</target>
+      </trans-unit>
+      <trans-unit id="1189440630481795561" datatype="html">
+        <target>Спампаваць малюнак на Reddit.</target>
+      </trans-unit>
+      <trans-unit id="2802666658606485719" datatype="html">
+        <target>Гэтая мэта павінна быць уражаная шмат разоў. Выкарыстоўвай цыкл 'while (true)', каб рабіць нешта бясконца.</target>
+      </trans-unit>
+      <trans-unit id="4457752034960227220" datatype="html">
+        <target>Гэты супернік таксама занадта далёка, каб выкарыстоўваць гарматы. Але ты занадта слабы, каб выжыць у сутыкненні. Плыві ў бок суперніка, пакуль тваё гарызантальнае становішча менш 50. Затым "stop" і выкарыстоўвай гарматы.</target>
+      </trans-unit>
+      <trans-unit id="8148375971169689544" datatype="html">
+        <target>Страляць з гарматы. Пазнач кірунак (0-360) і \nадлегласць (0-70). </target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>Даведка</target>
+      </trans-unit>
+      <trans-unit id="6758619824185404746" datatype="html">
+        <target>Гэты супернік будзе адыходзіць, калі ў яго патрапілі. Плыві ўперад, калі ён знаходзіцца па-за дыяпазону (70 метраў).</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>Логіка</target>
+      </trans-unit>
+      <trans-unit id="200165623200379383" datatype="html">
+        <target>Генетыка</target>
+      </trans-unit>
+      <trans-unit id="6303588441484075499" datatype="html">
+        <target>Вяртае бягучае здароўе гульца (0 – труп, \n100 – здаровы). </target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>Птушка</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>Больш падрабязна...</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>Пераменныя</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>Запусціць праграму</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>Ідэальна!
+Ўсе блокі (%1) размешчаны правільна.</target>
+      </trans-unit>
+      <trans-unit id="4168357856145700694" datatype="html">
+        <target>Намалюй тры жоўтыя зоркі і адну белую лінію.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>Некалькі блокаў (%1) размешчаныя няправільна.</target>
+      </trans-unit>
+      <trans-unit id="6192195229721218364" datatype="html">
+        <target>Намаляваць тэкст у становішчы і кірунку чарапашкі.</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>Лабірынт</target>
+      </trans-unit>
+      <trans-unit id="8983835283796130303" datatype="html">
+        <target>вызначыць колер</target>
+      </trans-unit>
+      <trans-unit id="4872332072586817805" datatype="html">
+        <target>Тваё рашэнне працуе, але можна зрабіць лепш. Выкарыстоўвай 'scan', каб паказаць адлегласць для стральбы гарматы.</target>
+      </trans-unit>
+      <trans-unit id="7188061504659183367" datatype="html">
+        <target>Вяртае каардынату X гульца (0 – левы край, \n100 – правы край). </target>
+      </trans-unit>
+      <trans-unit id="3779565506856485604" datatype="html">
+        <target>Вяртае бягучы час у фільме (0-100).</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>інакш</target>
+      </trans-unit>
+      <trans-unit id="7626795853222454941" datatype="html">
+        <target>Адлегласць — менавіта тое, што трэба камандзе 'cannon' для дакладнай стральбы.</target>
+      </trans-unit>
+      <trans-unit id="8978780845435771093" datatype="html">
+        <target>Гэты супернік рухаецца ўзад-уперад, з-за чаго ў яго цяжка патрапіць. Выраз 'scan' вяртае дакладнае адлегласць да суперніка ў паказаным кірунку.</target>
+      </trans-unit>
+      <trans-unit id="4634715858389563104" datatype="html">
+        <target>Прасоўвае вандроўніка наперад на адзін крок.</target>
+      </trans-unit>
+      <trans-unit id="5718696793880573329" datatype="html">
+        <target>https://be.wikipedia.org/wiki/Шрыфт</target>
+      </trans-unit>
+      <trans-unit id="5755229178435676524" datatype="html">
+        <target>На жаль, '%1' не адпавядае ніводнаму захаванаму файлу Блоклі.</target>
+      </trans-unit>
+      <trans-unit id="6914672331358629968" datatype="html">
+        <target>Спыніць плыць. Гулец будзе запавольвацца да \nпрыпынку. </target>
+      </trans-unit>
+      <trans-unit id="7922752443358054817" datatype="html">
+        <target>Зрабіць чарапашку (акружнасць і стрэлку) бачнай \nабо нябачнай. </target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>Гл. Галерэю</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>Адбылася праблема пры запыце.</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>прамавугольнік</target>
+      </trans-unit>
+      <trans-unit id="6175401358049603739" datatype="html">
+        <target>Калі шлях у згаданым кірунку адкрыты, \nто выканаць першы блок дзеянняў. \nІнакш, выканаць другі блок дзеянняў. </target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>Праверыць вынік</target>
+      </trans-unit>
+      <trans-unit id="5866872255332532054" datatype="html">
+        <target>Можаш перасунуць шар па дроце? Дрот ужо намаляваны. Калі ты зможаш гэта зрабіць — ты зможаш усё.</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>надрукаваць</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>Музыка</target>
+      </trans-unit>
+      <trans-unit id="5220656584398214966" datatype="html">
+        <target>Шукае ворагаў. Пазнач кірунак (0-360). \nВяртае адлегласць да бліжэйшага суперніка \nў гэтым кірунку. Вяртае бясконцасць, калі \nсупернік не знойдзены. </target>
+      </trans-unit>
+      <trans-unit id="4874525273235336318" datatype="html">
+        <target>Калі шлях у згаданым кірунку адкрыты, \nто выканаць некаторыя дзеянні. </target>
+      </trans-unit>
+      <trans-unit id="5222537568894189007" datatype="html">
+        <target>Вяртае каардынату Y гульца (0 – ніжні край, \n100 – верхні край). </target>
+      </trans-unit>
+      <trans-unit id="1190064103412776740" datatype="html">
+        <target>Паўтараць дзеянні, складзеныя ў блоку, \nда дасягнення канчатковай кропкі. </target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>Перапыняе праграму і скідае ў зыходны стан.</target>
+      </trans-unit>
+      <trans-unit id="8900931063490704792" datatype="html">
+        <target>Стан, калі птушка яшчэ не злавіла чарвяка.</target>
+      </trans-unit>
+      <trans-unit id="6246818619115581781" datatype="html">
+        <target>Запусці праграму і чакай яе завяршэнне. Затым можна змясціць атрыманы малюнак у галерэю.</target>
+      </trans-unit>
+      <trans-unit id="3478101938294488773" datatype="html">
+        <target>Вы можаце размясціць больш аднаго блока ўнутры блока «паўтараць».</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>Колер</target>
+      </trans-unit>
+      <trans-unit id="8678021904034212986" datatype="html">
+        <target>Каманда "калі-інакш" выканае адно ці другое дзеянне.</target>
+      </trans-unit>
+      <trans-unit id="5768435196798212629" datatype="html">
+        <target>Выкарыстоўвай тое, што ты даведаўся на папярэднім узроўні, каб запусціць чатыры зялёных шара ва ўсіх чатырох кірунках.</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>Падзяліцеся сваімі блоками па гэтай ссылке:
+
+%1</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>Захаваць і паказаць спасылку на блокі.</target>
+      </trans-unit>
+      <trans-unit id="8370361588013530358" datatype="html">
+        <target>Прайдзіце да канца гэтага шляху, выкарыстоўваючы толькі два блокі. Для выканання блока больш за адзін раз выкарыстоўвайце «паўтараць».</target>
+      </trans-unit>
+      <trans-unit id="1146327621590900127" datatype="html">
+        <target>схаваць чарапашку</target>
+      </trans-unit>
+      <trans-unit id="5355893896926183437" datatype="html">
+        <target>На дадзеным узроўні вам неабходна скласці разам усе блокі на белым працоўным полі.</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>ступіць наперад</target>
+      </trans-unit>
+      <trans-unit id="5509057833434715874" datatype="html">
+        <target>Гэты ўзровень вельмі складаны. Можа, Вы хочаце прапусціць яго і перайсці да наступнай гульні? Ві заўсёды можаце вярнуцца сюды пазней.</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>Мэта</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>Выкарыстоўвай простыя фігуры, каб намаляваць гэтага чалавечка.</target>
+      </trans-unit>
+      <trans-unit id="4211607341272449380" datatype="html">
+        <target>Намалюй зорачку, выкарыстоўваючы ўсяго чатыры блока.</target>
+      </trans-unit>
+      <trans-unit id="7027756430810063268" datatype="html">
+        <target>Намалюй фігуру, выкарыстоўваючы ўсяго тры блока.</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>павярнуць направа на</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>Дзюба</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>Пёры</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>канечны y</target>
+      </trans-unit>
+      <trans-unit id="5683520235628284499" datatype="html">
+        <target>Выберыце ў гэтым меню свайго любімага вандроўніка.</target>
+      </trans-unit>
+      <trans-unit id="5999435247596889390" datatype="html">
+        <target>Намалюй невялікую жоўтую зорачку, потым лінію над ёй.</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>Функцыі</target>
+      </trans-unit>
+      <trans-unit id="3190825933229819894" datatype="html">
+        <target>Вярнуць вандроўніка ў пачатак лабірынта.</target>
+      </trans-unit>
+      <trans-unit id="2308673857579238421" datatype="html">
+        <target>Малюе адрэзак зададзенай шырыні паміж \nадзначанымі кропкамі. </target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>адрэзак</target>
+      </trans-unit>
+      <trans-unit id="8892669298049897836" datatype="html">
+        <target>Выкарыстай кнопку "Глядзець Галерэю", каб паглядзець фільмы іншых. Калі ты стварыў нешта цікавае — выкарыстай кнопку "Захаваць у Галерэі", каб падзяліцца фільмам з іншымі.</target>
+      </trans-unit>
+      <trans-unit id="2262369954338079412" datatype="html">
+        <target>Малюе круг у зададзеным месцы з зададзеным \nрадыусам. </target>
+      </trans-unit>
+      <trans-unit id="638263655992198695" datatype="html">
+        <target>Два простых адрэзка. Паспрабуй зразумець, што адбываецца з канцамі адрэзкаў.</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>даўжыня</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>шрыфт</target>
+      </trans-unit>
+      <trans-unit id="2998105539596494275" datatype="html">
+        <target>Вяртае бягучую хуткасць гульца (0 – нерухомасць, \n100 – максімальная хуткасць). </target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>павярнуць налева на</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>Запусці напісаную табой праграму.</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>Ачысціць дадзеныя</target>
+      </trans-unit>
+      <trans-unit id="2160384363932764252" datatype="html">
+        <target>Адкрывае галерэю малюнкаў на Reddit.</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>круг</target>
+      </trans-unit>
+      <trans-unit id="6958318060789777550" datatype="html">
+        <target>Зрабі фільм, які пажадаеш. У цябе з'явілася шмат новых блокаў, якія варта вывучыць. Прыемна правесці час!</target>
+      </trans-unit>
+      <trans-unit id="2178896211989818875" datatype="html">
+        <target>Твой фільм нерухомы. Выкарыстоўвай блокі, каб стварыць нешта цікавае. Пасля гэтага ты можаш змясціць свой фільм у галерэю.</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>Блокі</target>
+      </trans-unit>
+      <trans-unit id="7089740218907481322" datatype="html">
+        <target>Павярнуць чарапашку налева або направа на \nзададзены кут у градусах. </target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>Добра</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>Чарапашка</target>
+      </trans-unit>
+      <trans-unit id="552526916301133670" datatype="html">
+        <target>Перамясціць чарапашку наперад або назад на \nзададзеную адлегласць. </target>
+      </trans-unit>
+      <trans-unit id="3543744213961724053" datatype="html">
+        <target>Выкарыстоўвай гэты блок для руху ў адным кірунку, калі чарвяк злоўлены, і ў іншым — калі не злоўлены.</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>Ты вырашыў задачу на гэтым узроўні адным радком на JavaScript:</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>Ты вырашыў гэты ўзровень. Лік радкоў кода на JavaScript — %1:</target>
+      </trans-unit>
+      <trans-unit id="945126989426193972" datatype="html">
+        <target>Падымае або апускае пяро, каб ставіць або пачаць \nмаляванне. </target>
+      </trans-unit>
+      <trans-unit id="349162749155044421" datatype="html">
+        <target>Адкрывае дакументацыю па мове. </target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>Прадставіць свой фільм на Reddit.</target>
+      </trans-unit>
+      <trans-unit id="3595544601637178110" datatype="html">
+        <target>Плыць наперад. Пакажы кірунак (0-360). </target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>Ты гатовы да наступнага выпрабавання?</target>
+      </trans-unit>
+      <trans-unit id="8902797929631099229" datatype="html">
+        <target>Гэты ўзровень уяўляе сабою кіно. Націсні кнопку Старт, каб паглядзець.</target>
+      </trans-unit>
+      <trans-unit id="8834261967730878795" datatype="html">
+        <target>Ёсць новы блок, які дазваляе ўзняць пяро ад паперы пры руху:</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>канечны x</target>
+      </trans-unit>
+      <trans-unit id="1637937744230846397" datatype="html">
+        <target>Падчас паказу фільма значэнне блока "час" змяняецца ад нуля да 100. Паколькі гарызантальная каардыната чырвонага шара таксама павінна пачынацца с 0 і дайсці да 100, гэта павінна быць проста.</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>Ты гатовы да ўзроўня %1?</target>
+      </trans-unit>
+      <trans-unit id="3200986365618126821" datatype="html">
+        <target>Выкарыстай кнопку "Глядзець Галерэю", каб паглядзець малюнкі іншых. Калі ты намаляваў нешта цікавае — выкарыстай кнопку "Захаваць ў Галерэі", каб падзяліцца малюнкам з іншымі.</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>Адмяніць</target>
+      </trans-unit>
+      <trans-unit id="5287877014526685907" datatype="html">
+        <target>Не атрымалася загрузіць Ваш зберажоны файл. Магчыма, ён быў створаны ў іншай версіі Блоклі?</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>кірунак</target>
+      </trans-unit>
+      <trans-unit id="5307089055470217701" datatype="html">
+        <target>У Вас застаўся %1 блок.</target>
+      </trans-unit>
+      <trans-unit id="1794249676769577229" datatype="html">
+        <target>У Вас засталося %0 блокаў.</target>
+      </trans-unit>
+      <trans-unit id="561418461570337551" datatype="html">
+        <target>У Вас засталося %2 блока.</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>Гульні для будучых праграмістаў.</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>шырыня</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>калі шлях cправа</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>калі шлях злева</target>
+      </trans-unit>
+      <trans-unit id="1848865137386959725" datatype="html">
+        <target>Абяры групу, каб убачыць блокі.</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>Гулец</target>
+      </trans-unit>
+      <trans-unit id="2201212763190410627" datatype="html">
+        <target>Мяняе колер пяра.</target>
+      </trans-unit>
+      <trans-unit id="8470792861618868667" datatype="html">
+        <target>вызначыць шырыню</target>
+      </trans-unit>
+      <trans-unit id="456260871761620526" datatype="html">
+        <target>https://be.wikipedia.org/wiki/Кнігадрукаванне</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>Мёд</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>Джала</target>
+      </trans-unit>
+      <trans-unit id="3679919084850649919" datatype="html">
+        <target>Ці можаш ты вырашыць гэты складаны лабірынт? Паспрабуй прытрымлівацца левай сцяны. Толькі для дасведчаных праграмістаў!</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="196845303311122428" datatype="html">
+        <target>падняць пяро</target>
+      </trans-unit>
+      <trans-unit id="5191783594929469171" datatype="html">
+        <target>Гл. Галерэю</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>павярнуць налева</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>радыус</target>
+      </trans-unit>
+      <trans-unit id="1013045213595604872" datatype="html">
+        <target>перамясціць наперад на</target>
+      </trans-unit>
+      <trans-unit id="1259247335901030726" datatype="html">
+        <target>Змяні курс, каб птушка злавіла чарвяка і села ў сваё гняздо.</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>Слімак</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>Амаль! Адзін блок размешчаны няправільна.</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>карцінка:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>Тэкст</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>Качка</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>Котка</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>Пчала</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>звычайны</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://be.wikipedia.org/wiki/Котка</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>Пужаны</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>Выдзелены блок размешчаны няправільна.
+Паспрабуй яшчэ.</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>пачатковы x</target>
+      </trans-unit>
+      <trans-unit id="4362899193616566882" datatype="html">
+        <target>Згрупуйце некалькі блокаў «ступіць наперад», каб дапамагчы мне дасягнуць мэты.</target>
+      </trans-unit>
+      <trans-unit id="996888288099530156" datatype="html">
+        <target>Спампаваць у Галерэю</target>
+      </trans-unit>
+      <trans-unit id="1456515588173174520" datatype="html">
+        <target>Націсніце на %1 у блоку 'калі' для змены яго ўмовы.</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://be.wikipedia.org/wiki/Слімак</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>Спісы</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>Галаваломка</target>
+      </trans-unit>
+      <trans-unit id="4040754079951245169" datatype="html">
+        <target>'x' — гэта бягучае гарызантальнае становішча. Выкарыстоўвай гэты блок, каб рухацца ў адным кірунку, калі 'x' меншая за колькасць, або ў іншым кірунку, у адваротным выпадку.</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>нагі:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://be.wikipedia.org/wiki/Пчала</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>Адкрыць галерэю фільмаў на Reddit.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>Віншуем!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>Гульні Blockly</target>
+      </trans-unit>
+      <trans-unit id="7448819884522815447" datatype="html">
+        <target>Мяняе колер пяра.</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>тлусты</target>
+      </trans-unit>
+      <trans-unit id="6793476563803963571" datatype="html">
+        <target>Намалюй, што пажадаеш. У цябе з'явілася шмат новых блокаў, якія варта вывучыць. Прыемна правесці час!</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>паўтараць, пакуль не</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>Цыклы</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>Прадставіць у Галерэю</target>
+      </trans-unit>
+      <trans-unit id="4936760056391284186" datatype="html">
+        <target>Перасоўваць галаву мышы няцяжка. Можаш зрабіць разлікі, каб вушы таксама рухаліся?</target>
+      </trans-unit>
+      <trans-unit id="1287666504184153147" datatype="html">
+        <target>Як толькі Вы пачнеце рэдагаваць JavaScript, Вы не зможаце вярнуцца да рэдагавання блокаў. Працягнуць?</target>
+      </trans-unit>
+      <trans-unit id="8185961826099739990" datatype="html">
+        <target>Матэматычная формула для гэтага падальнага шара няпростая. Вось рашэнне:</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>абяры...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>пачатковы y</target>
+      </trans-unit>
+      <trans-unit id="3295870457274347011" datatype="html">
+        <target>Блок "час" адлічвае ад 0 да 100. Але на гэты раз патрабуецца змяняць гарызантальнае становішча чырвонага шара са 100 да 0. Можаш знайсці простую матэматычную формулу, каб змяніць кірунак руху?</target>
+      </trans-unit>
+      <trans-unit id="3833581138339630463" datatype="html">
+        <target>Сажалка Tutor</target>
+      </trans-unit>
+      <trans-unit id="8275067544147149670" datatype="html">
+        <target>Прамалёўка 360-і белых ліній будзе выглядаць як поўны месяц.</target>
+      </trans-unit>
+      <trans-unit id="4573328115248294852" datatype="html">
+        <target>Ваша праграма не вырашыла задачу. Націсніце кнопку «Скінуць» і паспрабуйце зноў.</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>Дакументацыя</target>
+      </trans-unit>
+      <trans-unit id="8598935855828958714" datatype="html">
+        <target>паказаць чарапашку</target>
+      </trans-unit>
+      <trans-unit id="1791699700782054375" datatype="html">
+        <target>Рухацца ў кірунку, зададзеным кутом: 0 — \nнаправа, 90 — уверх і г.д. </target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>курсіў</target>
+      </trans-unit>
+      <trans-unit id="4751586063015654997" datatype="html">
+        <target>Запусціце праграму, каб паглядзець што адбываецца.</target>
+      </trans-unit>
+      <trans-unit id="4392335668231319812" datatype="html">
+        <target>Усталяваць шрыфт для блока друку.</target>
+      </trans-unit>
+      <trans-unit id="2458068685618493528" datatype="html">
+        <target>вызначыць колер</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>Фільм</target>
+      </trans-unit>
+      <trans-unit id="7068270386450979574" datatype="html">
+        <target>x і y адзначаюць становішча птушкі. \nПры x = 0 птушка знаходзіцца ў левага \nкраю, пры x = 100 яна ў правага краю. \nПры y = 0 птушка знаходзіцца ў ніжняй \nчастцы, пры y = 100 — на самым версе. </target>
+      </trans-unit>
+      <trans-unit id="2267198105126910529" datatype="html">
+        <target>Грае адну музычную ноту вызначанай працягласці і \nвышыні. </target>
+      </trans-unit>
+      <trans-unit id="1135115693149481071" datatype="html">
+        <target>Тваё рашэнне працуе, але можна зрабіць лепш.</target>
+      </trans-unit>
+      <trans-unit id="4916053588249741834" datatype="html">
+        <target>Ствары праграму, якая намалюе квадрат.</target>
+      </trans-unit>
+      <trans-unit id="2422825993066691483" datatype="html">
+        <target>Змяні праграму, каб замест квадрата намаляваць пяцiвугольнiк.</target>
+      </trans-unit>
+      <trans-unit id="1786380721957392184" datatype="html">
+        <target>Замест адной зоркі, можаш намаляваць чатыры зоркі ў кутах квадрата?</target>
+      </trans-unit>
+      <trans-unit id="5794689592834555935" datatype="html">
+        <target>чарвяк не злоўлены</target>
+      </trans-unit>
+      <trans-unit id="6825293024892668360" datatype="html">
+        <target>Намалюй зоркі, потым чатыры белыя лініі.</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://be.wikipedia.org/wiki/Качка</target>
+      </trans-unit>
+      <trans-unit id="2289273381578581418" datatype="html">
+        <target>Можаш дадаць чорны круг, каб месяц ператварыўся ў паўмесяц?</target>
+      </trans-unit>
+      <trans-unit id="1359456544648181295" datatype="html">
+        <target>Змяніць шырыню пяра.</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>Матэматыка</target>
+      </trans-unit>
+      <trans-unit id="6395102814842545595" datatype="html">
+        <target>Гэты супернік занадта далёка, каб выкарыстоўваць гармату (якая мае абмежаванне 70 метраў). Замест гэтага, выкарыстоўвай каманду 'swim', каб плыць у бок суперніка і ўрэзацца ў яго.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

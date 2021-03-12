@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="ta">
+    <body>
+      <trans-unit id="1826461500437475319" datatype="html">
+        <target>கோழை</target>
+      </trans-unit>
+      <trans-unit id="3293197141663117591" datatype="html">
+        <target>பாதை முனன்னே இருந்தால்</target>
+      </trans-unit>
+      <trans-unit id="1972926420229186759" datatype="html">
+        <target>பட்டியல்</target>
+      </trans-unit>
+      <trans-unit id="7512355766258181728" datatype="html">
+        <target>மீசை</target>
+      </trans-unit>
+      <trans-unit id="1659902989275631885" datatype="html">
+        <target>மென்மயிர்</target>
+      </trans-unit>
+      <trans-unit id="8501578350336555138" datatype="html">
+        <target>குளம்</target>
+      </trans-unit>
+      <trans-unit id="3406853780244170069" datatype="html">
+        <target>நத்தை</target>
+      </trans-unit>
+      <trans-unit id="5922351303839855212" datatype="html">
+        <target>செய்க</target>
+      </trans-unit>
+      <trans-unit id="6078028329780496695" datatype="html">
+        <target>இடப்பக்கம் திரும்புக</target>
+      </trans-unit>
+      <trans-unit id="3730130313821215212" datatype="html">
+        <target>ஊசலி</target>
+      </trans-unit>
+      <trans-unit id="2409415650297366191" datatype="html">
+        <target>எழுத்துரு அளவு</target>
+      </trans-unit>
+      <trans-unit id="1124966775678993568" datatype="html">
+        <target>மீட்டமை</target>
+      </trans-unit>
+      <trans-unit id="6841274917154697792" datatype="html">
+        <target>வயலின்</target>
+      </trans-unit>
+      <trans-unit id="2801052495540198573" datatype="html">
+        <target>வலப்பக்கம் திரும்புக</target>
+      </trans-unit>
+      <trans-unit id="8787968467443938994" datatype="html">
+        <target>மீண்டும் தொடங்கவா?</target>
+      </trans-unit>
+      <trans-unit id="1364178431368067261" datatype="html">
+        <target>இலக்கு</target>
+      </trans-unit>
+      <trans-unit id="4340252833994146197" datatype="html">
+        <target>உரை</target>
+      </trans-unit>
+      <trans-unit id="7726741685578327869" datatype="html">
+        <target>விடைகளை அழி</target>
+      </trans-unit>
+      <trans-unit id="4632196287172897579" datatype="html">
+        <target>கிட்டார்</target>
+      </trans-unit>
+      <trans-unit id="1474725060640077068" datatype="html">
+        <target>பண்புக்கூறுகள்:</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>உதவி</target>
+      </trans-unit>
+      <trans-unit id="1038502666716911829" datatype="html">
+        <target>தர்க்கம்</target>
+      </trans-unit>
+      <trans-unit id="843223484015115436" datatype="html">
+        <target>பறவை</target>
+      </trans-unit>
+      <trans-unit id="6595415916414788836" datatype="html">
+        <target>மேலதிக தகவல்</target>
+      </trans-unit>
+      <trans-unit id="5367389302003162125" datatype="html">
+        <target>மாறி</target>
+      </trans-unit>
+      <trans-unit id="5464369235708625567" datatype="html">
+        <target>நிரல் இயக்கவும்</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>அற்புதம். அனைத்து %1 கட்டங்களும் சரியாக இருக்கு.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 உறுப்புக்கள் பிழை</target>
+      </trans-unit>
+      <trans-unit id="1670227216063075975" datatype="html">
+        <target>புதிர்பாதை</target>
+      </trans-unit>
+      <trans-unit id="4151476981960996687" datatype="html">
+        <target>பயந்திருத்தல்</target>
+      </trans-unit>
+      <trans-unit id="6464574658303727797" datatype="html">
+        <target>பியானோ</target>
+      </trans-unit>
+      <trans-unit id="9137982570247930589" datatype="html">
+        <target>இல்லையெனில்</target>
+      </trans-unit>
+      <trans-unit id="74073398998712653" datatype="html">
+        <target>மடக்குக்கட்டளை</target>
+      </trans-unit>
+      <trans-unit id="4881180422989969508" datatype="html">
+        <target>காட்சியகம் காண்க</target>
+      </trans-unit>
+      <trans-unit id="7834355790379776267" datatype="html">
+        <target>கோரிக்கையில் ஏதோ சிக்கல்</target>
+      </trans-unit>
+      <trans-unit id="3714008464107588345" datatype="html">
+        <target>நீள் சதுரம்</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>விடைகளைச் சோதிக்கவும்</target>
+      </trans-unit>
+      <trans-unit id="8755460901437343901" datatype="html">
+        <target>அச்சிடுக</target>
+      </trans-unit>
+      <trans-unit id="9149339265247850099" datatype="html">
+        <target>இசை</target>
+      </trans-unit>
+      <trans-unit id="5464017007607359776" datatype="html">
+        <target>புல்லாங்குழல்</target>
+      </trans-unit>
+      <trans-unit id="153560734647047937" datatype="html">
+        <target>நிரலை நிறுத்து. மீளமை.</target>
+      </trans-unit>
+      <trans-unit id="7327913532655152334" datatype="html">
+        <target>நிறம்</target>
+      </trans-unit>
+      <trans-unit id="6456907015338240672" datatype="html">
+        <target>சுட்டி பகிர் : %1</target>
+      </trans-unit>
+      <trans-unit id="4272389616881657314" datatype="html">
+        <target>சேமி. மற்றும் சுட்டி இணைக்க</target>
+      </trans-unit>
+      <trans-unit id="4138774728570944645" datatype="html">
+        <target>முன்னால் நகரவும்</target>
+      </trans-unit>
+      <trans-unit id="4084870379162400287" datatype="html">
+        <target>எளிய வரைபடங்களை வரை</target>
+      </trans-unit>
+      <trans-unit id="6889946611851664425" datatype="html">
+        <target>வலப்பக்கம் திரும்புக</target>
+      </trans-unit>
+      <trans-unit id="7070128001410938826" datatype="html">
+        <target>அலகு</target>
+      </trans-unit>
+      <trans-unit id="3794977698717555238" datatype="html">
+        <target>இரக்கை</target>
+      </trans-unit>
+      <trans-unit id="515568367940150060" datatype="html">
+        <target>செயலாற்றிகள்</target>
+      </trans-unit>
+      <trans-unit id="2302415315348704045" datatype="html">
+        <target>கோடு</target>
+      </trans-unit>
+      <trans-unit id="4245983571766649655" datatype="html">
+        <target>அகலம்</target>
+      </trans-unit>
+      <trans-unit id="4130136547051161134" datatype="html">
+        <target>எழுத்துரு</target>
+      </trans-unit>
+      <trans-unit id="7404435315115664673" datatype="html">
+        <target>நிரலை இயக்கு</target>
+      </trans-unit>
+      <trans-unit id="1240208832476690288" datatype="html">
+        <target>மாறிகளை அழி</target>
+      </trans-unit>
+      <trans-unit id="3856699002657821427" datatype="html">
+        <target>முரசு</target>
+      </trans-unit>
+      <trans-unit id="468604284020186650" datatype="html">
+        <target>வட்டம்</target>
+      </trans-unit>
+      <trans-unit id="742817462675794226" datatype="html">
+        <target>நிரல் துண்டு</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>சரி</target>
+      </trans-unit>
+      <trans-unit id="1289975531431370979" datatype="html">
+        <target>ஆமை</target>
+      </trans-unit>
+      <trans-unit id="5307840277183467457" datatype="html">
+        <target>முதல் நிலையை ஒரு வரி ஜாவாஸ்க்ரிப்ட்-இல் முடித்தீர்கள்</target>
+      </trans-unit>
+      <trans-unit id="1737656799955544465" datatype="html">
+        <target>இந்த நிலையை %1 வரி ஜாவாஸ்க்ரிப்ட்-இல் முடித்தீர்கள்</target>
+      </trans-unit>
+      <trans-unit id="373223763275851594" datatype="html">
+        <target>காட்சியகத்தில் தங்களின் படத்தைச் சமர்ப்பிக்கவும்.</target>
+      </trans-unit>
+      <trans-unit id="1554687224871598336" datatype="html">
+        <target>நீங்கள் அடுத்த நிலைக்கு தயாரா?</target>
+      </trans-unit>
+      <trans-unit id="4197068989498547704" datatype="html">
+        <target>நீங்கள் இந்த %1 நிலைக்கு தயாரா?</target>
+      </trans-unit>
+      <trans-unit id="1875380317327296159" datatype="html">
+        <target>இரத்து செய்</target>
+      </trans-unit>
+      <trans-unit id="699246884300242965" datatype="html">
+        <target>தலைப்பு</target>
+      </trans-unit>
+      <trans-unit id="337140251378156137" datatype="html">
+        <target>நாளைய நிரலாளரின் விளையாட்டுக்கள்</target>
+      </trans-unit>
+      <trans-unit id="1141690494791308245" datatype="html">
+        <target>உயரம்</target>
+      </trans-unit>
+      <trans-unit id="8496210457380227143" datatype="html">
+        <target>பாதை வலது பக்கம் இருந்தால்</target>
+      </trans-unit>
+      <trans-unit id="2149839397262503913" datatype="html">
+        <target>பாதை இடது பக்கம் இருந்தால்</target>
+      </trans-unit>
+      <trans-unit id="1206893752796437601" datatype="html">
+        <target>ஆரம்</target>
+      </trans-unit>
+      <trans-unit id="1710248589233118468" datatype="html">
+        <target>வீரர்</target>
+      </trans-unit>
+      <trans-unit id="5869746678245994303" datatype="html">
+        <target>தேன்</target>
+      </trans-unit>
+      <trans-unit id="8039840332068856511" datatype="html">
+        <target>கொட்டி</target>
+      </trans-unit>
+      <trans-unit id="5894142643947508380" datatype="html">
+        <target>y</target>
+      </trans-unit>
+      <trans-unit id="6072728260550347194" datatype="html">
+        <target>x</target>
+      </trans-unit>
+      <trans-unit id="6082253890512898845" datatype="html">
+        <target>இடப்பக்கம் திரும்புக</target>
+      </trans-unit>
+      <trans-unit id="5608606240995218215" datatype="html">
+        <target>நத்தை</target>
+      </trans-unit>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>நேருங்கியாச்சு, ஒன்று மட்டும் பிழை!</target>
+      </trans-unit>
+      <trans-unit id="7710842474668852368" datatype="html">
+        <target>படம்:</target>
+      </trans-unit>
+      <trans-unit id="8660854177819810615" datatype="html">
+        <target>உரை</target>
+      </trans-unit>
+      <trans-unit id="1750183075968997387" datatype="html">
+        <target>வாத்து</target>
+      </trans-unit>
+      <trans-unit id="3470071553035745545" datatype="html">
+        <target>பூனை</target>
+      </trans-unit>
+      <trans-unit id="501075344940371814" datatype="html">
+        <target>தேனீ</target>
+      </trans-unit>
+      <trans-unit id="3160118472257830313" datatype="html">
+        <target>வழக்கமான</target>
+      </trans-unit>
+      <trans-unit id="6230928628295719065" datatype="html">
+        <target>https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%82%E0%AE%A9%E0%AF%88</target>
+      </trans-unit>
+      <trans-unit id="5771994620025805933" datatype="html">
+        <target>x-இல் முடி</target>
+      </trans-unit>
+      <trans-unit id="6642460592854928417" datatype="html">
+        <target>x-இல் தொடங்கு</target>
+      </trans-unit>
+      <trans-unit id="3259640535054867497" datatype="html">
+        <target>https://ta.wikipedia.org/wiki/நத்தை</target>
+      </trans-unit>
+      <trans-unit id="4707202199565787405" datatype="html">
+        <target>பட்டியல்</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>புதிர்</target>
+      </trans-unit>
+      <trans-unit id="5407183519779774573" datatype="html">
+        <target>கால்கள்:</target>
+      </trans-unit>
+      <trans-unit id="129044474462510468" datatype="html">
+        <target>https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AF%87%E0%AE%A9%E0%AF%80</target>
+      </trans-unit>
+      <trans-unit id="3675417534208834552" datatype="html">
+        <target>காட்சியகப் படங்களைக் காண்க.</target>
+      </trans-unit>
+      <trans-unit id="2030330442273381724" datatype="html">
+        <target>வாழ்த்துக்கள்!</target>
+      </trans-unit>
+      <trans-unit id="7037786213766848558" datatype="html">
+        <target>விளைபாடுகள்</target>
+      </trans-unit>
+      <trans-unit id="2555132265974908158" datatype="html">
+        <target>தடித்த</target>
+      </trans-unit>
+      <trans-unit id="5000330788075193694" datatype="html">
+        <target>பலமுரை திரும்ப செய் (முடயேனில்)</target>
+      </trans-unit>
+      <trans-unit id="8593267208200988531" datatype="html">
+        <target>காட்சியகத்தில் சமர்ப்பிக்க</target>
+      </trans-unit>
+      <trans-unit id="4212209041492309817" datatype="html">
+        <target>தலைப்பு:</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>தேர்க...</target>
+      </trans-unit>
+      <trans-unit id="2342117203836410245" datatype="html">
+        <target>y-இல் தொடங்கு</target>
+      </trans-unit>
+      <trans-unit id="4999551220355901470" datatype="html">
+        <target>y-இல் முடி</target>
+      </trans-unit>
+      <trans-unit id="4123080508175603514" datatype="html">
+        <target>உதவி ஆவணம்</target>
+      </trans-unit>
+      <trans-unit id="3792533731296600003" datatype="html">
+        <target>சாய்ந்த</target>
+      </trans-unit>
+      <trans-unit id="268041291823489535" datatype="html">
+        <target>திரைப்படம்</target>
+      </trans-unit>
+      <trans-unit id="156975200040154659" datatype="html">
+        <target>https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BE%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81</target>
+      </trans-unit>
+      <trans-unit id="2038735006600750451" datatype="html">
+        <target>கணிதம்</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

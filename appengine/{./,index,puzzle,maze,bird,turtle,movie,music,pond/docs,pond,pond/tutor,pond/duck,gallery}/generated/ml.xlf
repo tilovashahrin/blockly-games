@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle"
+        datatype="x-soy-msg-bundle"
+        xml:space="preserve"
+        source-language="en"
+        target-language="ml">
+    <body>
+      <trans-unit id="8453803544352763294" datatype="html">
+        <target>കുഴപ്പമില്ല! ഒരു തടയൽ ശരിയല്ല.</target>
+      </trans-unit>
+      <trans-unit id="2353453760676853811" datatype="html">
+        <target>കൊള്ളാം!
+എല്ലാ %1 തടയലുകളും ശരിയാണ്.</target>
+      </trans-unit>
+      <trans-unit id="7264063713014053084" datatype="html">
+        <target>%1 തടയലുകൾ ശരിയല്ല.</target>
+      </trans-unit>
+      <trans-unit id="183634583247013051" datatype="html">
+        <target>പ്രമുഖമാക്കി കാണിക്കുന്ന തടയൽ ശരിയല്ല.
+വീണ്ടും ശ്രമിക്കുക.</target>
+      </trans-unit>
+      <trans-unit id="6014527610997525213" datatype="html">
+        <target>ഓരോ രാജ്യത്തിനും (പച്ച), അതിന്റെ പതാക ചേർക്കുക, ഭാഷ തിരഞ്ഞെടുക്കുക ഒപ്പം നഗരങ്ങളുടെ പട്ടിക തയ്യാറാക്കുക.</target>
+      </trans-unit>
+      <trans-unit id="2691309882763584514" datatype="html">
+        <target>തിരഞ്ഞെടുക്കുക:</target>
+      </trans-unit>
+      <trans-unit id="7416117358889101130" datatype="html">
+        <target>ശരി</target>
+      </trans-unit>
+      <trans-unit id="338593141197401350" datatype="html">
+        <target>സഹായം</target>
+      </trans-unit>
+      <trans-unit id="2827102143774531943" datatype="html">
+        <target>ഉത്തരങ്ങൾ പരിശോധിക്കുക</target>
+      </trans-unit>
+      <trans-unit id="7484626604785566128" datatype="html">
+        <target>പ്രഹേളിക</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

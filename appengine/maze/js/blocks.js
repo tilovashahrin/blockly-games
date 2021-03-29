@@ -201,7 +201,8 @@ Blockly.Blocks['maze_left_parallel'] = {
     this.setColour(Maze.Blocks.LOOPS_HUE);
     this.appendValueInput("pegman_person")
         .setCheck(null)
-        .appendField(new Blockly.FieldDropdown([["Person 1","person_1"], ["Person 2","person_2"], ["Person 3","person_3"]]), "parallel_person");
+        .appendField("Parallel:")
+        .appendField(new Blockly.FieldDropdown([["Pegman Yellow","pegman_1"], ["Pegman Red","pegman_2"]]), "parallel_person");
     this.appendStatementInput("parallel_actions")
         .setCheck(null);
     this.setOutput(true, null);
@@ -227,7 +228,8 @@ Blockly.Blocks['maze_top_bot_parallel'] = {
   init: function() {
     this.appendValueInput("parallel_person")
         .setCheck(null)
-        .appendField(new Blockly.FieldDropdown([["Person 1", "person_1"], ["Person 2", "person_2"], ["Person 3", "person_3"]]), "pegman");
+        .appendField("Parallel:")
+        .appendField(new Blockly.FieldDropdown([["Pegman Yellow", "pegman_1"], ["Pegman Red", "pegman_2"]]), "pegman");
     this.appendStatementInput("parallel_action")
         .setCheck(null);
     this.setPreviousStatement(true, null);

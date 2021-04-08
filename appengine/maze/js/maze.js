@@ -934,24 +934,28 @@ Maze.reset = function(first) {
   Maze.pegman2X = Maze.start2_.x;
   Maze.pegman2Y = Maze.start2_.y;
   //TO DO: Temporary disabled animation
-  // if (first) {
-  //   // Opening animation.
-  //   Maze.pegmanD = Maze.startDirection + 1;
-  //   Maze.scheduleFinish(false);
-  //   Maze.pidList.push(setTimeout(function() {
-  //     Maze.stepSpeed = 100;
-  //     Maze.schedule([Maze.pegmanX, Maze.pegmanY, Maze.pegmanD * 4],
-  //                   [Maze.pegmanX, Maze.pegmanY, Maze.pegmanD * 4 - 4]);
-  //     Maze.pegmanD++;
-  //   }, Maze.stepSpeed * 5));
-  // } else {
+  if (first) {
+    // Opening animation.
+    Maze.pegmanD = Maze.startDirection + 1;
+    Maze.pegman2D = Maze.startDirection2 + 1;
+    Maze.scheduleFinish(false);
+    Maze.pidList.push(setTimeout(function() {
+      Maze.stepSpeed = 100;
+      Maze.schedule([Maze.pegmanX, Maze.pegmanY, Maze.pegmanD * 4],
+                    [Maze.pegmanX, Maze.pegmanY, Maze.pegmanD * 4 - 4]);
+      Maze.pegman2D++;
+      Maze.schedule2([Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4],
+        [Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4 - 4]);
+      Maze.pegman2D++;
+    }, Maze.stepSpeed * 5));
+  } else {
     Maze.pegmanD = Maze.startDirection;
     Maze.displayPegman(Maze.pegmanX, Maze.pegmanY, Maze.pegmanD * 4);
 
     //TO DO: Direction
     Maze.pegman2D = Maze.startDirection2;
     Maze.displayPegman2(Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4);
-  // }
+  }
 
   // Move the finish icon into position.
   var finishIcon = document.getElementById('finish');
@@ -1065,6 +1069,7 @@ Maze.resetButtonClick = function(e) {
  * @param {!Interpreter} interpreter The JS-Interpreter.
  * @param {!Interpreter.Object} globalObject Global object.
  */
+//TO DO: set init interpreter for parallel blocks
 Maze.initInterpreter = function(interpreter, globalObject) {
   // API
   var wrapper;
@@ -1180,6 +1185,7 @@ Maze.execute = function() {
 /**
  * Iterate through the recorded path and animate pegman's actions.
  */
+//TO DO: add pegman 2 animation
 Maze.animate = function() {
   var action = Maze.log.shift();
   if (!action) {
@@ -1194,21 +1200,41 @@ Maze.animate = function() {
       Maze.schedule([Maze.pegmanX, Maze.pegmanY, Maze.pegmanD * 4],
                     [Maze.pegmanX, Maze.pegmanY - 1, Maze.pegmanD * 4]);
       Maze.pegmanY--;
+
+      Maze.schedule2([Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4],
+        [Maze.pegman2X, Maze.pegman2Y - 1, Maze.pegman2D * 4]);
+      Maze.pegman2Y--;
+
       break;
     case 'east':
       Maze.schedule([Maze.pegmanX, Maze.pegmanY, Maze.pegmanD * 4],
                     [Maze.pegmanX + 1, Maze.pegmanY, Maze.pegmanD * 4]);
       Maze.pegmanX++;
+      
+      Maze.schedule2([Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4],
+        [Maze.pegman2X + 1, Maze.pegman2Y, Maze.pegman2D * 4]);
+      Maze.pegman2X++;
+      
       break;
     case 'south':
       Maze.schedule([Maze.pegmanX, Maze.pegmanY, Maze.pegmanD * 4],
                     [Maze.pegmanX, Maze.pegmanY + 1, Maze.pegmanD * 4]);
       Maze.pegmanY++;
+
+      Maze.schedule2([Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4],
+        [Maze.pegman2X, Maze.pegman2Y + 1, Maze.pegman2D * 4]);
+      Maze.pegman2Y++;
+
       break;
     case 'west':
       Maze.schedule([Maze.pegmanX, Maze.pegmanY, Maze.pegmanD * 4],
                     [Maze.pegmanX - 1, Maze.pegmanY, Maze.pegmanD * 4]);
       Maze.pegmanX--;
+      
+      Maze.schedule2([Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4],
+        [Maze.pegman2X - 1, Maze.pegman2Y, Maze.pegman2D * 4]);
+      Maze.pegman2X--;
+      
       break;
     case 'look_north':
       Maze.scheduleLook(Maze.DirectionType.NORTH);
@@ -1232,11 +1258,21 @@ Maze.animate = function() {
       Maze.schedule([Maze.pegmanX, Maze.pegmanY, Maze.pegmanD * 4],
                     [Maze.pegmanX, Maze.pegmanY, Maze.pegmanD * 4 - 4]);
       Maze.pegmanD = Maze.constrainDirection4(Maze.pegmanD - 1);
+      
+      Maze.schedule2([Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4],
+        [Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4 - 4]);
+      Maze.pegman2D = Maze.constrainDirection4(Maze.pegman2D - 1);
+      
       break;
     case 'right':
       Maze.schedule([Maze.pegmanX, Maze.pegmanY, Maze.pegmanD * 4],
                     [Maze.pegmanX, Maze.pegmanY, Maze.pegmanD * 4 + 4]);
       Maze.pegmanD = Maze.constrainDirection4(Maze.pegmanD + 1);
+
+      Maze.schedule2([Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4],
+        [Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4 + 4]);
+      Maze.pegman2D = Maze.constrainDirection4(Maze.pegman2D + 1);
+      
       break;
     case 'finish':
       Maze.scheduleFinish(true);
@@ -1417,13 +1453,15 @@ Maze.scheduleFail = function(forward) {
       return function() {
         var direction16 = Maze.constrainDirection16(Maze.pegmanD * 4 +
                                                     deltaD * n);
+        var direction16_2 = Maze.constrainDirection16(Maze.pegman2D * 4 +
+                                                    deltaD * n);                                            
         Maze.displayPegman(Maze.pegmanX + deltaX * n,
                            Maze.pegmanY + deltaY * n,
                            direction16,
                            deltaZ * n);
         Maze.displayPegman2(Maze.pegman2X + deltaX * n,
                            Maze.pegman2Y + deltaY * n,
-                           direction16,
+                           direction16_2,
                            deltaZ * n);        
         deltaY += acceleration;
       };

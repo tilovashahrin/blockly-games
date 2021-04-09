@@ -943,7 +943,7 @@ Maze.reset = function(first) {
       Maze.stepSpeed = 100;
       Maze.schedule([Maze.pegmanX, Maze.pegmanY, Maze.pegmanD * 4],
                     [Maze.pegmanX, Maze.pegmanY, Maze.pegmanD * 4 - 4]);
-      Maze.pegman2D++;
+      Maze.pegmanD++;
       Maze.schedule2([Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4],
         [Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4 - 4]);
       Maze.pegman2D++;
@@ -1113,11 +1113,22 @@ Maze.initInterpreter = function(interpreter, globalObject) {
   };
   interpreter.setProperty(globalObject, 'isPathLeft',
       interpreter.createNativeFunction(wrapper));
-  wrapper = function() {
-    return Maze.notDone();
+      wrapper = function() {
+      return Maze.notDone();
   };
   interpreter.setProperty(globalObject, 'notDone',
       interpreter.createNativeFunction(wrapper));
+  
+  interpreter.setProperty(globalObject, 'PegmanYellow',
+      interpreter.createNativeFunction(wrapper));
+      wrapper = function(id) {
+      //Maze.move(2, id);
+  };
+  interpreter.setProperty(globalObject, 'PegmanRed',
+    interpreter.createNativeFunction(wrapper));
+    wrapper = function(id) {
+    //Maze.move(2, id);
+};
 };
 
 /**
@@ -1563,24 +1574,34 @@ Maze.displayPegman2 = function(x, y, d, opt_angle) {
 Maze.scheduleLook = function(d) {
   var x = Maze.pegmanX;
   var y = Maze.pegmanY;
+  var x2 = Maze.pegman2X;
+  var y2 = Maze.pegman2Y;
   switch (d) {
     case Maze.DirectionType.NORTH:
       x += 0.5;
+      x2 += 0.5;
       break;
     case Maze.DirectionType.EAST:
       x += 1;
       y += 0.5;
+      x2 += 1;
+      y2 += 0.5;
       break;
     case Maze.DirectionType.SOUTH:
       x += 0.5;
       y += 1;
+      x2 += 0.5;
+      y2 += 1;
       break;
     case Maze.DirectionType.WEST:
       y += 0.5;
+      y2 += 0.5;
       break;
   }
   x *= Maze.SQUARE_SIZE;
   y *= Maze.SQUARE_SIZE;
+  x2 *= Maze.SQUARE_SIZE;
+  y2 *= Maze.SQUARE_SIZE;
   var deg = d * 90 - 45;
 
   var lookIcon = document.getElementById('look');
@@ -1681,13 +1702,16 @@ Maze.turn = function(direction, id) {
   if (direction) {
     // Right turn (clockwise).
     Maze.pegmanD++;
+    Maze.pegman2D++;
     Maze.log.push(['right', id]);
   } else {
     // Left turn (counterclockwise).
     Maze.pegmanD--;
+    Maze.pegman2D--;
     Maze.log.push(['left', id]);
   }
   Maze.pegmanD = Maze.constrainDirection4(Maze.pegmanD);
+  Maze.pegman2D = Maze.constrainDirection4(Maze.pegman2D);
 };
 
 /**
@@ -1700,32 +1724,40 @@ Maze.turn = function(direction, id) {
  */
 Maze.isPath = function(direction, id) {
   var effectiveDirection = Maze.pegmanD + direction;
+  var effectiveDirection2 = Maze.pegman2D + direction;
   var square;
+  var square2;
   var command;
-  switch (Maze.constrainDirection4(effectiveDirection)) {
+  switch (Maze.constrainDirection4(effectiveDirection) || Maze.constrainDirection4(effectiveDirection2)) {
     case Maze.DirectionType.NORTH:
       square = Maze.map[Maze.pegmanY - 1] &&
           Maze.map[Maze.pegmanY - 1][Maze.pegmanX];
+      square2 = Maze.map[Maze.pegman2Y - 1] &&
+          Maze.map[Maze.pegman2Y - 1][Maze.pegman2X];
       command = 'look_north';
       break;
     case Maze.DirectionType.EAST:
       square = Maze.map[Maze.pegmanY][Maze.pegmanX + 1];
+      square2 = Maze.map[Maze.pegman2Y][Maze.pegman2X + 1];
       command = 'look_east';
       break;
     case Maze.DirectionType.SOUTH:
       square = Maze.map[Maze.pegmanY + 1] &&
           Maze.map[Maze.pegmanY + 1][Maze.pegmanX];
+      square2 = Maze.map[Maze.pegman2Y + 1] &&
+          Maze.map[Maze.pegman2Y + 1][Maze.pegman2X];
       command = 'look_south';
       break;
     case Maze.DirectionType.WEST:
       square = Maze.map[Maze.pegmanY][Maze.pegmanX - 1];
+      square2 = Maze.map[Maze.pegman2Y][Maze.pegman2X - 1];
       command = 'look_west';
       break;
   }
   if (id) {
     Maze.log.push([command, id]);
   }
-  return square !== Maze.SquareType.WALL && square !== undefined;
+  return square !== Maze.SquareType.WALL && square !== undefined || square2 !== Maze.SquareType.WALL && square2 !== undefined;
 };
 
 /**
@@ -1734,7 +1766,8 @@ Maze.isPath = function(direction, id) {
  */
 Maze.notDone = function() {
   //TO DO: Need to check if both pegman are at finish points
-  return Maze.pegmanX != Maze.finish_.x || Maze.pegmanY != Maze.finish_.y;
+  return Maze.pegmanX != Maze.finish_.x || Maze.pegmanY != Maze.finish_.y ;
+  //|| Maze.pegman2X != Maze.finish2_.x || Maze.pegman2Y != Maze.finish2_.y;
 };
 
 

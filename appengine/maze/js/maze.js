@@ -469,14 +469,14 @@ Maze.drawMap = function() {
     }, pegmanClip);
 
   //TO DO: add clipPath element for pegman 2
-  // var pegmanClip2 = Blockly.utils.dom.createSvgElement('clipPath2', {
-  //   'id': 'pegmanClipPath2'
-  // }, svg);
-  // Blockly.utils.dom.createSvgElement('rect', {
-  //   'id': 'clipRect',
-  //   'height': Maze.PEGMAN_HEIGHT,
-  //   'width': Maze.PEGMAN_WIDTH
-  // }, pegmanClip2);
+  var pegmanClip2 = Blockly.utils.dom.createSvgElement('clipPath', {
+    'id': 'pegmanClipPath2'
+  }, svg);
+  Blockly.utils.dom.createSvgElement('rect', {
+    'id': 'clipRect2',
+    'height': Maze.PEGMAN_HEIGHT,
+    'width': Maze.PEGMAN_WIDTH
+  }, pegmanClip2);
 
   // Add Pegman.
   //TO DO: call normalize function to deicide which pegman icon to use
@@ -500,7 +500,7 @@ Maze.drawMap = function() {
     'id': 'pegman2',
     'height': Maze.PEGMAN_HEIGHT,
     'width': Maze.PEGMAN_WIDTH * 21, // 49 * 21 = 1029
-    'clip-path': 'url(#pegmanClipPath)'
+    'clip-path': 'url(#pegmanClipPath2)'
   }, svg);
   pegmanIcon2.setAttributeNS(Blockly.utils.dom.XLINK_NS, 'xlink:href', Maze.SKIN.sprite2);
 };
@@ -1069,7 +1069,7 @@ Maze.resetButtonClick = function(e) {
  * @param {!Interpreter} interpreter The JS-Interpreter.
  * @param {!Interpreter.Object} globalObject Global object.
  */
-//TO DO: set init interpreter for parallel blocks
+//TO DO: set init interpreter for pegman red and yellow
 Maze.initInterpreter = function(interpreter, globalObject) {
   // API
   var wrapper;
@@ -1212,9 +1212,9 @@ Maze.animate = function() {
                     [Maze.pegmanX, Maze.pegmanY - 1, Maze.pegmanD * 4]);
       Maze.pegmanY--;
 
-      Maze.schedule2([Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4],
-        [Maze.pegman2X, Maze.pegman2Y - 1, Maze.pegman2D * 4]);
-      Maze.pegman2Y--;
+      // Maze.schedule2([Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4],
+      //   [Maze.pegman2X, Maze.pegman2Y - 1, Maze.pegman2D * 4]);
+      // Maze.pegman2Y--;
 
       break;
     case 'east':
@@ -1222,9 +1222,9 @@ Maze.animate = function() {
                     [Maze.pegmanX + 1, Maze.pegmanY, Maze.pegmanD * 4]);
       Maze.pegmanX++;
       
-      Maze.schedule2([Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4],
-        [Maze.pegman2X + 1, Maze.pegman2Y, Maze.pegman2D * 4]);
-      Maze.pegman2X++;
+      // Maze.schedule2([Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4],
+      //   [Maze.pegman2X + 1, Maze.pegman2Y, Maze.pegman2D * 4]);
+      // Maze.pegman2X++;
       
       break;
     case 'south':
@@ -1232,9 +1232,9 @@ Maze.animate = function() {
                     [Maze.pegmanX, Maze.pegmanY + 1, Maze.pegmanD * 4]);
       Maze.pegmanY++;
 
-      Maze.schedule2([Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4],
-        [Maze.pegman2X, Maze.pegman2Y + 1, Maze.pegman2D * 4]);
-      Maze.pegman2Y++;
+      // Maze.schedule2([Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4],
+      //   [Maze.pegman2X, Maze.pegman2Y + 1, Maze.pegman2D * 4]);
+      // Maze.pegman2Y++;
 
       break;
     case 'west':
@@ -1242,9 +1242,9 @@ Maze.animate = function() {
                     [Maze.pegmanX - 1, Maze.pegmanY, Maze.pegmanD * 4]);
       Maze.pegmanX--;
       
-      Maze.schedule2([Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4],
-        [Maze.pegman2X - 1, Maze.pegman2Y, Maze.pegman2D * 4]);
-      Maze.pegman2X--;
+      // Maze.schedule2([Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4],
+      //   [Maze.pegman2X - 1, Maze.pegman2Y, Maze.pegman2D * 4]);
+      // Maze.pegman2X--;
       
       break;
     case 'look_north':
@@ -1270,9 +1270,9 @@ Maze.animate = function() {
                     [Maze.pegmanX, Maze.pegmanY, Maze.pegmanD * 4 - 4]);
       Maze.pegmanD = Maze.constrainDirection4(Maze.pegmanD - 1);
       
-      Maze.schedule2([Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4],
-        [Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4 - 4]);
-      Maze.pegman2D = Maze.constrainDirection4(Maze.pegman2D - 1);
+      // Maze.schedule2([Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4],
+      //   [Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4 - 4]);
+      // Maze.pegman2D = Maze.constrainDirection4(Maze.pegman2D - 1);
       
       break;
     case 'right':
@@ -1280,9 +1280,9 @@ Maze.animate = function() {
                     [Maze.pegmanX, Maze.pegmanY, Maze.pegmanD * 4 + 4]);
       Maze.pegmanD = Maze.constrainDirection4(Maze.pegmanD + 1);
 
-      Maze.schedule2([Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4],
-        [Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4 + 4]);
-      Maze.pegman2D = Maze.constrainDirection4(Maze.pegman2D + 1);
+      // Maze.schedule2([Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4],
+      //   [Maze.pegman2X, Maze.pegman2Y, Maze.pegman2D * 4 + 4]);
+      // Maze.pegman2D = Maze.constrainDirection4(Maze.pegman2D + 1);
       
       break;
     case 'finish':
@@ -1561,9 +1561,9 @@ Maze.displayPegman2 = function(x, y, d, opt_angle) {
     pegmanIcon2.setAttribute('transform', 'rotate(0, 0, 0)');
   }
 
-  var clipRect = document.getElementById('clipRect');
-  clipRect.setAttribute('x', x * Maze.SQUARE_SIZE + 1);
-  clipRect.setAttribute('y', pegmanIcon2.getAttribute('y'));
+  var clipRect2 = document.getElementById('clipRect2');
+  clipRect2.setAttribute('x', x * Maze.SQUARE_SIZE + 1);
+  clipRect2.setAttribute('y', pegmanIcon2.getAttribute('y'));
 };
 
 /**

@@ -52,13 +52,38 @@ Blockly.Blocks['maze_moveForward'] = {
    * @this {Blockly.Block}
    */
   init: function() {
-    this.jsonInit({
-      "message0": BlocklyGames.getMsg('Maze_moveForward'),
-      "previousStatement": null,
-      "nextStatement": null,
-      "colour": Maze.Blocks.MOVEMENT_HUE,
-      "tooltip": BlocklyGames.getMsg('Maze_moveForwardTooltip')
-    });
+      this.getMsg(BlocklyGames.getMsg('Maze_moveForward'))
+      this.appendDummyInput()
+          .appendField(new Blockly.FieldDropdown([["Yellow","pegman_yellow"], ["Red","pegman_red"]]), "pegman")
+          .appendField("moveForward");
+      this.setPreviousStatement(true, null);
+      this.setNextStatement(true, null);
+      this.setColour(Maze.Blocks.MOVEMENT_HUE);
+      this.setTooltip(BlocklyGames.getMsg('Maze_moveForwardTooltip'));
+      this.setHelpUrl("");
+    
+    // this.jsonInit({
+    //   "message0": BlocklyGames.getMsg('Maze_moveForward'),
+    //   "args0": [        {
+    //     "type": "field_dropdown",
+    //     "name": "pegman",
+    //     "options": [
+    //       [
+    //         "Yellow",
+    //         "pegman_yellow"
+    //       ],
+    //       [
+    //         "Red",
+    //         "pegman_red"
+    //       ]
+    //     ]
+    //   }
+    // ],
+    //   "previousStatement": null,
+    //   "nextStatement": null,
+    //   "colour": Maze.Blocks.MOVEMENT_HUE,
+    //   "tooltip": BlocklyGames.getMsg('Maze_moveForwardTooltip')
+    // });
   }
 };
 

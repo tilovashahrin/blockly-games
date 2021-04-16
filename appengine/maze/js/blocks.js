@@ -52,18 +52,18 @@ Blockly.Blocks['maze_moveForward'] = {
    * @this {Blockly.Block}
    */
   init: function() {
-      this.getMsg(BlocklyGames.getMsg('Maze_moveForward'))
-      this.appendDummyInput()
-          .appendField(new Blockly.FieldDropdown([["Yellow","pegman_yellow"], ["Red","pegman_red"]]), "pegman")
-          .appendField("moveForward");
-      this.setPreviousStatement(true, null);
-      this.setNextStatement(true, null);
-      this.setColour(Maze.Blocks.MOVEMENT_HUE);
-      this.setTooltip(BlocklyGames.getMsg('Maze_moveForwardTooltip'));
-      this.setHelpUrl("");
+      // this.getMsg(BlocklyGames.getMsg('Maze_moveForward'))
+      // this.appendDummyInput()
+      //     .appendField(new Blockly.FieldDropdown([["Yellow","pegman_yellow"], ["Red","pegman_red"]]), "pegman")
+      //     .appendField("moveForward");
+      // this.setPreviousStatement(true, null);
+      // this.setNextStatement(true, null);
+      // this.setColour(Maze.Blocks.MOVEMENT_HUE);
+      // this.setTooltip(BlocklyGames.getMsg('Maze_moveForwardTooltip'));
+      // this.setHelpUrl("");
     
-    // this.jsonInit({
-    //   "message0": BlocklyGames.getMsg('Maze_moveForward'),
+    this.jsonInit({
+      "message0": BlocklyGames.getMsg('Maze_moveForward'),
     //   "args0": [        {
     //     "type": "field_dropdown",
     //     "name": "pegman",
@@ -79,17 +79,37 @@ Blockly.Blocks['maze_moveForward'] = {
     //     ]
     //   }
     // ],
-    //   "previousStatement": null,
-    //   "nextStatement": null,
-    //   "colour": Maze.Blocks.MOVEMENT_HUE,
-    //   "tooltip": BlocklyGames.getMsg('Maze_moveForwardTooltip')
-    // });
+      "previousStatement": null,
+      "nextStatement": null,
+      "colour": Maze.Blocks.MOVEMENT_HUE,
+      "tooltip": BlocklyGames.getMsg('Maze_moveForwardTooltip')
+    });
   }
 };
 
 Blockly.JavaScript['maze_moveForward'] = function(block) {
   // Generate JavaScript for moving forward.
   return 'moveForward(\'block_id_' + block.id + '\');\n';
+};
+
+Blockly.Blocks['maze_moveForward2'] = {
+  init: function() {
+    this.appendDummyInput()
+        .appendField(new Blockly.FieldDropdown([["Yellow","pegman_yellow"], ["Red","pegman_red"]]), "pegman")
+        .appendField("moveForward");
+    this.setPreviousStatement(true, null);
+    this.setNextStatement(true, null);
+    this.setColour(290);
+    this.setTooltip("");
+    this.setHelpUrl("");
+  }
+};
+
+Blockly.JavaScript['maze_moveForward2'] = function(block) {
+  var dropdown_pegman = block.getFieldValue('pegman');
+  // TODO: Assemble JavaScript into code variable.
+  var code = '...;\n';
+  return code;
 };
 
 Blockly.Blocks['maze_turn'] = {
@@ -114,6 +134,34 @@ Blockly.Blocks['maze_turn'] = {
 };
 
 Blockly.JavaScript['maze_turn'] = function(block) {
+  // Generate JavaScript for turning left or right.
+  var dir = block.getFieldValue('DIR');
+  return dir + '(\'block_id_' + block.id + '\');\n';
+};
+
+Blockly.Blocks['maze_turn2'] = {
+  /**
+   * Block for turning left or right.
+   * @this {Blockly.Block}
+   */
+  init: function() {
+    var DIRECTIONS =
+        [[BlocklyGames.getMsg('Maze_turnLeft'), 'turnLeft'],
+         [BlocklyGames.getMsg('Maze_turnRight'), 'turnRight']];
+    // Append arrows to direction messages.
+    DIRECTIONS[0][0] += Maze.Blocks.LEFT_TURN;
+    DIRECTIONS[1][0] += Maze.Blocks.RIGHT_TURN;
+    this.setColour(Maze.Blocks.MOVEMENT_HUE);
+    this.appendDummyInput()
+        .appendField(new Blockly.FieldDropdown([["Yellow","pegman_yellow"], ["Red","pegman_red"]]), "pegman")
+        .appendField(new Blockly.FieldDropdown(DIRECTIONS), 'DIR');
+    this.setPreviousStatement(true);
+    this.setNextStatement(true);
+    this.setTooltip(BlocklyGames.getMsg('Maze_turnTooltip'));
+  }
+};
+
+Blockly.JavaScript['maze_turn2'] = function(block) {
   // Generate JavaScript for turning left or right.
   var dir = block.getFieldValue('DIR');
   return dir + '(\'block_id_' + block.id + '\');\n';

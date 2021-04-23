@@ -573,7 +573,7 @@ Maze.init = function() {
   BlocklyInterface.workspace.getAudioManager().load(Maze.SKIN.winSound, 'win');
   BlocklyInterface.workspace.getAudioManager().load(Maze.SKIN.crashSound, 'fail');
   // Not really needed, there are no user-defined functions or variables.
-  Blockly.JavaScript.addReservedWords('moveForward,moveBackward,maze_left_parallel' +
+  Blockly.JavaScript.addReservedWords('moveForward, moveForward2, moveBackward,maze_left_parallel' +
       'turnRight,turnLeft,isPathForward,isPathRight,isPathBackward,isPathLeft');
 
   Maze.drawMap();
@@ -1079,6 +1079,11 @@ Maze.initInterpreter = function(interpreter, globalObject) {
   interpreter.setProperty(globalObject, 'moveForward',
       interpreter.createNativeFunction(wrapper));
   wrapper = function(id) {
+    Maze.move(2, id);
+  };
+  interpreter.setProperty(globalObject, 'moveForward2',
+    interpreter.createNativeFunction(wrapper));
+    wrapper = function(id) {
     Maze.move(2, id);
   };
   interpreter.setProperty(globalObject, 'moveBackward',

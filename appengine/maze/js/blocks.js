@@ -126,6 +126,7 @@ Blockly.Blocks['maze_turn'] = {
     DIRECTIONS[1][0] += Maze.Blocks.RIGHT_TURN;
     this.setColour(Maze.Blocks.MOVEMENT_HUE);
     this.appendDummyInput()
+        .appendField(new Blockly.FieldDropdown([["Yellow","pegman_yellow"], ["Red","pegman_red"]]), "pegman")
         .appendField(new Blockly.FieldDropdown(DIRECTIONS), 'DIR');
     this.setPreviousStatement(true);
     this.setNextStatement(true);
@@ -274,10 +275,12 @@ Blockly.Blocks['maze_left_parallel'] = {
     this.setColour(Maze.Blocks.LOOPS_HUE);
     this.appendValueInput("pegman_person")
         .setCheck(null)
-        .appendField("Parallel:")
-        .appendField(new Blockly.FieldDropdown([["Pegman Yellow","pegman_1"], ["Pegman Red","pegman_2"]]), "parallel_person");
-    this.appendStatementInput("parallel_actions")
-        .setCheck(null);
+        .appendField("In Parallel")
+        // .appendField(new Blockly.FieldDropdown([["Pegman Yellow","pegman_1"], ["Pegman Red","pegman_2"]]), "parallel_person");
+    this.appendStatementInput('DO')
+        .appendField(BlocklyGames.getMsg('Maze_doCode'));
+    // this.appendStatementInput("parallel_actions")
+    //     .setCheck(null);
     this.setOutput(true, null);
   }
 };
@@ -301,10 +304,12 @@ Blockly.Blocks['maze_top_bot_parallel'] = {
   init: function() {
     this.appendValueInput("parallel_person")
         .setCheck(null)
-        .appendField("Parallel:")
-        .appendField(new Blockly.FieldDropdown([["Pegman Yellow", "pegman_1"], ["Pegman Red", "pegman_2"]]), "pegman");
-    this.appendStatementInput("parallel_action")
-        .setCheck(null);
+        .appendField("In Parallel")
+       // .appendField(new Blockly.FieldDropdown([["Pegman Yellow", "pegman_1"], ["Pegman Red", "pegman_2"]]), "pegman");
+    this.appendStatementInput('DO')
+       .appendField(BlocklyGames.getMsg('Maze_doCode'));
+    // this.appendStatementInput("parallel_action")
+    //     .setCheck(null);
     this.setPreviousStatement(true, null);
     this.setNextStatement(true, null);
     this.setColour(Maze.Blocks.LOOPS_HUE);
